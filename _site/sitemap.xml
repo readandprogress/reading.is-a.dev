@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/blog/the-blog-is-finally-here!/</loc>
+<lastmod>2023-03-30T20:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/my-first-impressions-of-pok%C3%A9mon-horizons/</loc>
+<lastmod>2023-04-29T20:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/being-sick-among-other-things/</loc>
+<lastmod>2023-05-30T20:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/goodbye-my-first-homelab/</loc>
+<lastmod>2023-06-09T20:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/a-fun-and-easy-guide-to-using-markdown-on-discord/</loc>
+<lastmod>2023-08-14T20:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog</loc>
+</url>
+<url>
+<loc>http://localhost:4000/categories/</loc>
+</url>
+</urlset>

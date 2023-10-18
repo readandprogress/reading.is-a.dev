@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-10-18T18:30:44-04:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">The Reading Dimension</title><subtitle>My online portal of sorts, I maintain a blog here, as well as some other projects of mine.</subtitle><author><name>Reading</name></author><entry><title type="html">A Fun and Easy Guide to Using Markdown on Discord!</title><link href="http://localhost:4000/blog/a-fun-and-easy-guide-to-using-markdown-on-discord/" rel="alternate" type="text/html" title="A Fun and Easy Guide to Using Markdown on Discord!" /><published>2023-08-14T20:00:00-04:00</published><updated>2023-08-14T20:00:00-04:00</updated><id>http://localhost:4000/blog/a-fun-and-easy-guide-to-using-markdown-on-discord</id><content type="html" xml:base="http://localhost:4000/blog/a-fun-and-easy-guide-to-using-markdown-on-discord/"><![CDATA[<h2 id="introduction">Introduction</h2>
+
+<p>I frequent Discord quite often and I don’t see many members using Markdown syntax to flair out their messages, which is a shame. So after some deliberation on my part and some fellow server members showing interest,I decided to write one! This guide ‘s goal is to hopefully be easier to understand and follow than the already existing Discord Markdown 101 support page. This is, however, my first time writing a guide, so please bear with me! But with that said, let’s get to it!</p>
+
+<h2 id="the-basics">The Basics</h2>
+
+<p>While you can use Discord’s built-in formatting tools for some of these, using Markdown is often a better option. Markdown is a simple plain text formatting syntax that can be used to create a variety of effects, such as italics, bold, and spoilers. It’s also more portable, so you can use it on other platforms, such as GitHub, for example!</p>
+
+<h3 id="spoiler-tags">Spoiler Tags</h3>
+
+<p>Don’t want to spoil that awesome game ending or want to troll your friends? Just use two pipe characters on the front and back of your text!</p>
+
+<p>Note that this is a special Markdown syntax that may only work on Discord and is not part of the standard Markdown spec.</p>
+
+<details>
+  <summary>I'm invisible!</summary>
+  I'm not invisible anymore; hide me, please. : _ ;
+</details>
+<p><br /></p>
+
+<p><strong>ex:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>||I'm not invisible anymore; hide me, please. : _ ;|| 
+</code></pre></div></div>
+<h3 id="italics">Italics</h3>
+
+<p>To italicize text, all you need to do is add an asterisk to a sentence or word, both before and after. This will be the same for the following, so keep that in mind.</p>
+
+<p><em>Look at me, I’m pointy!</em></p>
+
+<p><strong>ex:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>*Look at me, I'm pointy!*
+</code></pre></div></div>
+<h3 id="underline-italics">Underline Italics</h3>
+
+<p>Underlined italicization uses the same asterisk character but with the addition of two undescores at the end and beginning. This is a special Discord syntax and is not possible in regular Markdown, so keep that in mind.</p>
+
+<p><u><i>I'm still pointy but with a underline!<i></i><u></u></i></u></p>
+
+<p><strong>ex:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>__*I'm still pointy but with a underline!*__
+</code></pre></div></div>
+
+<h3 id="underlining">Underlining</h3>
+
+<p>Now for just underlining, you just need to add two underscores front and back to your text. This also only works on Discord!</p>
+
+<p><u>Sometimes you just need some underlining, ya know?</u></p>
+
+<p><strong>ex:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>__Sometimes you just need some underlining, ya know?__
+</code></pre></div></div>
+
+<h3 id="bolding">Bolding</h3>
+
+<p>But what if you want to give your text more importance? That’s where bolding comes in handy!</p>
+
+<p>Just add two asterisks! Remember, always front and back!</p>
+
+<p><strong>I’m a ghost, boo!</strong></p>
+
+<p><strong>ex:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>**I'm a ghost, boo!**
+</code></pre></div></div>
+
+<h3 id="underline-bolding">Underline Bolding</h3>
+
+<p>But what if you like some undeline with that? Just add the same characters we use for underlining; that’s two underscores if you lost track. It happens to the best of us!</p>
+
+<p><b><u>I'm still a ghost, by the way!</u></b></p>
+
+<p><strong>ex:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>__**I'm still a ghost, by the way!**__
+</code></pre></div></div>
+
+<h3 id="bolding-and-italics">Bolding and Italics</h3>
+
+<p>And if you want to be extra spicy, you can always italicize and bold at the same time with two underscores and three asterisk characters. This is different from regular Markdown, which uses just one underscore and two asterisk characters for the same effect.</p>
+
+<p><em><strong>Just the thing you need when making a big point!</strong></em></p>
+
+<p><strong>ex:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>__***Just the thing you need when making a big point!__***
+</code></pre></div></div>
+
+<h3 id="strikethrough">Strikethrough</h3>
+
+<p>Sometimes you want to say something but want to keep it low-key; this is where strikethrough text comes to the rescue.</p>
+
+<p>Just add two tildes, front and back, to your text.</p>
+
+<p><del>Sshh, don’t tell anyone. :P</del></p>
+
+<p><strong>ex:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>~~Sshh, don't tell anyone. :P~~
+</code></pre></div></div>
+<p><br /></p>
+
+<h2 id="the-fun-stuff">The Fun Stuff!</h2>
+
+<p>Now for the really cool stuff you probably don’t know about! Like making bulleted lists, headers, masking links, sharing your code snippets with code blocks, and more, You can do quite a lot to make yours and others Discord experiences better thanks to Markdowm!</p>
+
+<h3 id="headers">Headers</h3>
+
+<p>With Discord adding forum-like features, it’s really handy to use a header for detailed articles or posts you want to share on Discord!</p>
+
+<p>Just add the hash character to make a header; be sure to leave a space before typing the header’s content. There are three header types!</p>
+
+<ul>
+  <li>( # ) For a large header, just what you need for a tittle!</li>
+  <li>( ## ) For a medium header, useful for sections on an article.</li>
+  <li>( ### ) For a small header.</li>
+</ul>
+
+<p><strong>ex:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># Bigger is always better, right?
+## Not so big, but not too small either.
+### I'm just right! unlike the other two... 
+</code></pre></div></div>
+
+<h3 id="masked-links">Masked Links</h3>
+
+<p>You can paste a link into the chat, but that is not the prettiest thing, right? Especially if Discord doesn’t have a preview, why not embed it in the text? Luckily, we can do that!</p>
+
+<p>Just use brackets for the text and parenthesis for the link, and you have a masked link!</p>
+
+<p><a href="https://reading.is-a.dev">Check out my blog!</a></p>
+
+<p><strong>ex:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[Check out my blog!](https://reading.is-a.dev)
+</code></pre></div></div>
+
+<h3 id="lists">Lists</h3>
+
+<p>It’s pretty self-explanatory: while you could list stuff with regular, good old plain text, you can make it even prettier with Markdown!</p>
+
+<p>Just use a hyphen before each item, and you can indent the list by adding two more extra spaces after the first bullet point.</p>
+
+<ul>
+  <li>Listing is fun!
+    <ul>
+      <li>right?</li>
+    </ul>
+
+    <p><br /></p>
+  </li>
+</ul>
+
+<p><strong>ex:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- Listing is fun!
+  - right?
+</code></pre></div></div>
+
+<h3 id="code-blocks">Code Blocks</h3>
+
+<p>One of my favorites! It makes it a breeze to copy code; just add a backtick for one line of code or three if the code is multi-lined like a script.</p>
+
+<p><code class="language-plaintext highlighter-rouge">Just imagine this is a piece of code, Okay?</code></p>
+
+<p>See, isn’t that just better? Now all we need to do is double-click it to select it. Timesaver!</p>
+
+<p><strong>ex:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>`Just imagine this is a piece of code, Okay?`
+</code></pre></div></div>
+<h3 id="block-quotes">Block Quotes</h3>
+
+<p>Finally, sometimes you need to quote a piece of text; maybe you’re doing a book club. Regardless, this is where block quotes come in handy!</p>
+
+<p>Just add the greater-than character for a one-line block quote or three for a multiline one.</p>
+
+<blockquote>
+  <p>I can’t believe this guide is almost done!</p>
+</blockquote>
+
+<blockquote>
+  <p>It took me some days to finish this, but I’m quite relieved that it’s done. It was a fun side project, and I hope you can get some use out of it!</p>
+</blockquote>
+
+<p><strong>ex:</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; I can't believe this guide is almost done!
+
+&gt;&gt;&gt; It took me some days to finish this, but I'm quite relieved that it's done. It was a fun side project, and I hope you can get some use out of it! 
+</code></pre></div></div>
+
+<h2 id="wrapping-up">Wrapping up!</h2>
+
+<p>That’s it. You now have a pretty good grasp on Markdown on Discord. So what’s next? I recommend looking into other Markdown guides if you want to get into the nitty-gritty of it and use it on other platforms! For now, I would love for you to use Markdown syntax on your favorite Discord servers and make the Discord experience better for everyone! I believe everyone should give Markdown a whirl; you may be surprised at how fun it is!</p>]]></content><author><name>Reading</name></author><category term="Guides" /><category term="Tech" /><summary type="html"><![CDATA[I frequent Discord quite often and I don't see many members using Markdown syntax to flair out their messages, which is a shame. So after some deliberation on my part and some fellow server members showing interest,I decided to write one! This guide 's goal is to hopefully be easier to understand and follow than the already existing Discord Markdown 101 support page. This is, however, my first time writing a guide, so please bear with me! But with that said, let's get to it!]]></summary></entry><entry><title type="html">Goodbye my First Homelab ; _ ;</title><link href="http://localhost:4000/blog/goodbye-my-first-homelab/" rel="alternate" type="text/html" title="Goodbye my First Homelab ; _ ;" /><published>2023-06-09T20:00:00-04:00</published><updated>2023-06-09T20:00:00-04:00</updated><id>http://localhost:4000/blog/goodbye-my-first-homelab</id><content type="html" xml:base="http://localhost:4000/blog/goodbye-my-first-homelab/"><![CDATA[<p>I was going to post about my neat home lab, but unfortunately, it didn’t work out. I was hosting a SMB file share and Jellyfin media server on a ten-year-old Samsung laptop. I had it lying around, and I thought it would be a good way to give new life to old hardware.</p>
+
+<p>And for a time, everything was well. It was so nice and handy to have a centralized place to store files without having to worry about syncing and such. It made things so much easier! But I digress.</p>
+
+<p>So, what was the culprit? Luckily, nothing serious happened. I was given this laptop, and the power adapter was defective. So I replaced it with a cheap one I found online. For the price, it lasted longer than expected. I replaced it around 2019, so not bad overall!</p>
+
+<p>Now I could buy another replacement adapter and have everything running again in no time. But personally, if I’m going to invest in this old hardware again, I might as well get something smaller and more energy-efficient.</p>
+
+<p>I could buy another replacement adapter and have everything up and running again in no time. However, I don’t think it’s worth investing in this old hardware again. I’d rather get something smaller and more energy-efficient.</p>
+
+<p>For now, I guess I’m back to good old syncing. Which is not bad at all, by any means!</p>
+
+<p>But if you know of any good Raspberry Pi alternatives that are also in the same price range, please let me know!</p>]]></content><author><name>Reading</name></author><category term="Tech" /><summary type="html"><![CDATA[I was going to post about my neat home lab, but unfortunately, it didn’t work out. I was hosting a SMB file share and Jellyfin media server on a ten-year-old Samsung laptop. I had it lying around, and I thought it would be a good way to give new life to old hardware.]]></summary></entry><entry><title type="html">Being Sick Among Other Things.</title><link href="http://localhost:4000/blog/being-sick-among-other-things/" rel="alternate" type="text/html" title="Being Sick Among Other Things." /><published>2023-05-30T20:00:00-04:00</published><updated>2023-05-30T20:00:00-04:00</updated><id>http://localhost:4000/blog/being-sick-among-other-things</id><content type="html" xml:base="http://localhost:4000/blog/being-sick-among-other-things/"><![CDATA[<p>I planned for this blog to be for long-form posts, but I guess I can make an exception for today, and microblogs and microblogging are pretty cool! But I digress.</p>
+
+<p>So, hey, how are you? Hopefully you’re feeling better than me because I’ve been sick for the second time this month, and well, it definitely made blogging hard this month. Among other things, I was planning to write and publish a new post about me decommissioning my home server due to a power supply failure (yep, that is also a bummer but more of a blessing in disguise in my view). and I’ve started writing a Fire Emblem Engage review, which I would be able to finish once I’ve finished my second run of the game with all of the DLC. That way, I can cover everything and give my full opinion of the game now that it has been out for four months.</p>
+
+<p>Regardless, I’m writing this short post now because I wanted to publish one post each month at least, but to make up for it, I’m going to do my best to publish two posts next month, one of which is the mentioned home server post, and the other is likely to be the Fire Emblem Engage review. With that said, I’m going to get some rest, and hopefully I don’t get <em>sick</em> again this year.</p>]]></content><author><name>Reading</name></author><category term="General" /><summary type="html"><![CDATA[I planned for this blog to be for long-form posts, but I guess I can make an exception for today, and microblogs and microblogging are pretty cool! But I digress.]]></summary></entry><entry><title type="html">My First Impressions of Pokémon Horizons!</title><link href="http://localhost:4000/blog/my-first-impressions-of-pok%C3%A9mon-horizons/" rel="alternate" type="text/html" title="My First Impressions of Pokémon Horizons!" /><published>2023-04-29T20:00:00-04:00</published><updated>2023-04-29T20:00:00-04:00</updated><id>http://localhost:4000/blog/my-first-impressions-of-pok%C3%A9mon-horizons</id><content type="html" xml:base="http://localhost:4000/blog/my-first-impressions-of-pok%C3%A9mon-horizons/"><![CDATA[<p>The new Pokémon anime series has dropped in Japan! and I have some mostly positive thoughts about it. Bear in mind that this post contains spoilers for the first three episodes. give our take.</p>
+
+<p>First of all, I can’t believe that The Pokémon Company decided to end the last protagonist’s journey. I had long resigned myself to the fact that it would never happen, so I was happily surprised! A worthwhile change in my opinion, although I don’t feel it’s the only change to be made to make a suberb Pokemon anime; length and structure are also important, but I digress.</p>
+
+<p>From what I’ve watched so far, the show has shattered my low expectations! I’ll start with the new cast, starting with Liko, our new protagonist. She is an introverted girl, which seems to cause her social anxiety. (I can relate.) and is enrolled in a new school in Kanto (yes, again), and she is originally from Paldea.</p>
+
+<p>As for Roy, he seems to be in search of treasure and legendary Pokémon; if the opening is anything to go by, he had a chance encounter with a shiny Rayquaza and may be looking for it. I don’t have much opinion about him as of now because I’ve seen characters like him before, and he has a lot of similarities with the last deuterogonist.</p>
+
+<p>Nevertheless, he has another likely plot device, and I wonder what they are planning with it other than a Pokémon residing within it because Liko’s pendant has that covered.</p>
+
+<p>But with that out of the way, the other cast is just as interesting and, in my opinion, more interesting than the protagonists: we have the Rising Volt Tacklers, a group of five individuals led by Friede, who is a Pokémon Professor but keeps it under tight wraps.</p>
+
+<p>So far, the show has given him a bit of the spotlight, and he feels like a more prominent character in the first two episodes. I’m not sure if it will continue like this, but I hope it does! He’s an intriguing character who seems to treat his team well, but he’s also flawed, which has all the makings of a good character, in my opinion. Let’s just hope they keep it this way; the other members are interesting as well and have a starting slate of personalities. I do hope they evolve from their basic traits (pun not intended), but so far, each is pretty interesting, in my opinion.</p>
+
+<p>The evildoers this time around seem to be more multifaceted, which is nothing groundbreaking but makes it more enjoyable. Amethio is surprising young to be in this role, and Team Explorers have worked well to move the plot forward so far. Talking about the plot, there’s actually an overarching plot here so far, an improvement from the last series, which was very episodic.</p>
+
+<p>This one can also become episodic later on, but so far, it looks like the writers are trying to keep it fresh. Other than the Brave Asagi being their home base, the story hasn’t had a static element that I have noticed.</p>
+
+<p>But to wrap up, since this is already longer than planned, I’m quite happy with the new series so far! To be fair, a lot could still go wrong, but I’m enjoying the ride so far! If you like Pokémon, I recommend giving it a shot. It’s not my ideal dream Pokémon anime series by a long shot, but it’s enjoyable enough to watch, and that may be enough for you!</p>]]></content><author><name>Reading</name></author><category term="Anime" /><summary type="html"><![CDATA[The new Pokémon anime series has dropped in Japan! and I have some mostly positive thoughts about it. Bear in mind that this post contains spoilers for the first three episodes. give our take.]]></summary></entry><entry><title type="html">The Blog is Finally Here!</title><link href="http://localhost:4000/blog/the-blog-is-finally-here!/" rel="alternate" type="text/html" title="The Blog is Finally Here!" /><published>2023-03-30T20:00:00-04:00</published><updated>2023-03-30T20:00:00-04:00</updated><id>http://localhost:4000/blog/the-blog-is-finally-here!</id><content type="html" xml:base="http://localhost:4000/blog/the-blog-is-finally-here!/"><![CDATA[<p>Hey! Welcome to my blog! I’ll go by Reading, and I have a huge passion for technology and writing! I’ve been meaning to create this blog for a while now but never got around to it. (Procrastination is my worst enemy.) But it is finally here! and I will be covering a variety of topics, such as:</p>
+
+<h2 id="tech">Tech</h2>
+
+<p>I’m a huge proponent of open-source software and hardware; I use ChromeOS and Debian as my regular day-to-day drivers! I also have a small home server, so I look forward to reading more about it soon!</p>
+
+<h2 id="gaming">Gaming</h2>
+
+<p>I love RPGs! (Specifically JRPGs.) My favorites include the Fire Emblem, Pokemon, and Valkyria Chronicles series! I also love some indies like Superhot and Downwell.</p>
+
+<h2 id="anime">Anime</h2>
+
+<p>I’m an avid watcher of anime and usually gravitate to the fantasy, adventure, and mecha genres, with some Isekai sprinkled in there! My favorites include Mobile Suit Gundam, Code Geass, Full Metal Alchemist Brotherhood, and Gundam Build Fighters!</p>
+
+<h2 id="manga">Manga</h2>
+
+<p>I don’t read as much as I should, but I love reading manga when I do! Favorites include Moriarty the Patriot, Pokemon Special/Adventures, and currently really enjoying the Fire Emblem Engage manga.</p>
+
+<h2 id="writing">Writing</h2>
+
+<p>Like I said, I’m a writer, and I’m planning a few short stories and novels. I’m currently working on an original piece that I would love to tell you all more about soon! All I can say for now is that if you like tech-related stories, this will be right up your alley!</p>
+
+<h2 id="gunpla">Gunpla</h2>
+
+<p>I have just started getting into building gunpla kits, and I’m equally excited to share my builds with you all, straight assembles, because I’m not <em>that</em> good yet!</p>
+
+<h2 id="general">General</h2>
+
+<p>For everything that doesn’t fit anywhere else, like this very post! Sometimes I want to post something away from the usual when the mood strikes; this category gives me the space to do just that!</p>
+
+<hr />
+<p>This won’t be everything I want to cover, but I’ll mostly focus on these five categories. Nothing is ever final, so I may change things around, but if you like what you read, be sure to subscribe to my RSS feed so you don’t miss a post!</p>
+
+<p>Thanks for reading!</p>]]></content><author><name>Reading</name></author><category term="General" /><summary type="html"><![CDATA[Hey! Welcome to my blog! I’ll go by Reading, and I have a huge passion for technology and writing! I’ve been meaning to create this blog for a while now but never got around to it. (Procrastination is my worst enemy.) But it is finally here! and I will be covering a variety of topics, such as:]]></summary></entry></feed>
