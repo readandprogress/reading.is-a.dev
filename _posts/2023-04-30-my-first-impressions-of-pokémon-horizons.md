@@ -4,8 +4,11 @@ title:  "My First Impressions of Pokémon Horizons!"
 date:   2023-04-30 00:00:00 -0000
 author: Reading
 categories: Anime
+excerpt:The new Pokémon anime series has dropped in Japan! and I have some mostly positive thoughts about it. Bear in mind that this post contains spoilers for the first three episodes. give our take.
 ---
 ![Liko and Roy with their Partners!](https://i.ibb.co/J2YMCd8/Pokemon-Horizons.webp)
+
+
 The new Pokémon anime series has dropped in Japan! and I have some mostly positive thoughts about it. Bear in mind that this post contains spoilers for the first three episodes. give our take.
 
 First of all, I can't believe that The Pokémon Company decided to end the last protagonist's journey. I had long resigned myself to the fact that it would never happen, so I was happily surprised! A worthwhile change in my opinion, although I don't feel it's the only change to be made to make a suberb Pokemon anime; length and structure are also important, but I digress.
