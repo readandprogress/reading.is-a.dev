@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Transitioning to Cloudflare Pages!"
-date:   2023-10-31 19:00:00 -0000
+date:   2023-10-31 00:00:00 -0000
 categories: Tech  
 author: Reading
 ---
