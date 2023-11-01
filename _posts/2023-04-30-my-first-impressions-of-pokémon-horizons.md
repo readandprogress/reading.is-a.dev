@@ -6,8 +6,7 @@ author: Reading
 categories: Anime
 excerpt: The new Pokémon anime series has dropped in Japan! and I have some mostly positive thoughts about it. Bear in mind that this post contains spoilers for the first three episodes. give our take.
 ---
-![Liko and Roy with their Partners!](https://i.ibb.co/J2YMCd8/Pokemon-Horizons.webp)
-
+![Liko and Roy with their Partners!](https://i.ibb.co/J2YMCd8/Pokemon-Horizons.webp{:style="text-align: center"}) 
 
 The new Pokémon anime series has dropped in Japan! and I have some mostly positive thoughts about it. Bear in mind that this post contains spoilers for the first three episodes. give our take.
 
