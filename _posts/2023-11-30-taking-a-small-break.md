@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Taking a Small Break"
-date:   2023-10-30 00:00:00 -0000
+date:   2023-11-30 00:00:00 -0000
 categories: General 
 author: Reading
 ---
