@@ -4,9 +4,23 @@ title:  "Why Fire Emblem Engage Is My Game of the Year!."
 date:   2023-12-25 00:00:00 -0000
 categories: Gaming 
 ---
-### Before We Begin! 
+### Before We Begin!
 
 ![Header](/assets/images/Header.jpg)
+
+This has been quite a year in the gaming sphere! is hard not to be overwhelm by the sheer volume of quality titles out this year and with every year us gamers decided on just one game to be our game of the year! 
+
+This year has been awfully packed making the choice even harder but one game reigned supreme regardless of that: Fire Emblem Engage! 
+
+Ever since the game released last Janaury and I got my hands on it that fateful midnight, I knew deep down in my heart that this game will be my game of the year and I wasn't wrong! 
+
+Now that I have sinked in more three-hundred or so hours into it and completed most of the supports, I wanted to complete them before writing this but supports in Engage are notorisly hard to unlock! 
+
+So now feeling well-versed on it,I feel is the perfect time to talk about my favorite game of the year!
+
+### The (Not) Anticipated Release! 
+
+![Header](/assets/images/The%20Dark%20Side.jpg)
 
 Back last year, in June, we got the first mention of a new Fire Emblem game, which happened to be Engage! According to a leak from a Reddit user, screenshots from an earlier build of the game surfaced, and the overall community reaction was mixed.
 
@@ -183,7 +197,7 @@ Instead of comparing it to similar titles like Awakening or Fates, it gets the h
 
 But yeah, it is fair to say that I feel slightly jaded by this; it feels unfair to lay the blame on Engages feet just for releasing after a game like Three Houses. But nevertheless, let's move on to one of my favorite parts of any Fire Emblem game.
 
-### The Link Between Story and Gameplay: Your Units
+### The Link Between Story and Gameplay: Your Units!
 
 ![Alear](/assets/images/Alear%20M.webp)
 
@@ -241,8 +255,9 @@ Overall, while the supports can be a bit short, there are some good ones in ther
 
 I went around and gathered some thoughts about the game besides my own; some are positive and some are not. I wanted to gauge what the opinion of Engage is now that the game is close to being a year old. I got some interesting responses!
 
-> The writing is my biggest issue with the game. I disagree with the common sentiment that they wanted to make a simple plot that isn't too serious, I think they tried and failed. 
+---
 
+> The writing is my biggest issue with the game. I disagree with the common sentiment that they wanted to make a simple plot that isn't too serious, I think they tried and failed. 
 If I'm being more specific my biggest gripe is probably with the over reliance on emotional, dialogue-heavy death scenes in the game. I think there's roughly 7 or 8 which is far too many. They are used to try and force emotional moments and redeem characters, both of which were done very poorly imo.
 I like how they wrote the sibling relationships in engage
 
