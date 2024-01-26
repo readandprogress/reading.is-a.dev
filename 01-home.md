@@ -13,4 +13,4 @@ permalink: /
     <p>I write as well, <em>though not as much as I like</em>, but hopefully that will change soon as I continue to work on some writing projects of mine. I'm currently getting into original fiction with a short novel I'm conceptualizing; there's nothing to show just yet, but I'm quite excited about it! </p>
 </div>
 
-The codebase for this website is proudly hosted on [GitHub](https://github.com/readandprogress)! If you want to get in contact with me, I'm most active on [Discord](https://discord.com/users/id/394951184236019723), I also have a [cohost!](https://cohost.org/readandprogress) for shorter posts and ramdom thoughts; failing those, you can always send me an [email](mailto:reading.waking054@aleeas.com)!
+The codebase for this website is proudly hosted on [GitHub](https://github.com/readandprogress)! If you want to get in contact with me, I'm most active on [Discord](https://discord.com/users/id/394951184236019723), failing that, you can always send me an [email](mailto:reading.waking054@aleeas.com)!
