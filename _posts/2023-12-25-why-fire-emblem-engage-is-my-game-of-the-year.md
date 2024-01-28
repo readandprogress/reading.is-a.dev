@@ -3,6 +3,7 @@ layout: post
 title:  "Why Fire Emblem Engage Is My Game of the Year!"
 date:   2023-12-25 00:00:00 -0000
 categories: Gaming 
+excerpt: This has been quite a year in the gaming sphere! is hard not to be overwhelm by the sheer volume of quality titles out this year and with every year us gamers decided on just one game to be our game of the year! 
 ---
 ### Before We Begin!
 
@@ -12,7 +13,7 @@ This has been quite a year in the gaming sphere! is hard not to be overwhelm by 
 
 This year has been awfully packed making the choice even harder but one game reigned supreme regardless of that: Fire Emblem Engage! 
 
-Ever since the game released last Janaury and I got my hands on it that fateful midnight, I knew deep down in my heart that this game will be my game of the year and I wasn't wrong! 
+Ever since the game released last January and I got my hands on it that fateful midnight, I knew deep down in my heart that this game will be my game of the year and I wasn't wrong! 
 
 Now that I have sinked in more three-hundred or so hours into it and completed most of the supports, I wanted to complete them before writing this but supports in Engage are notorisly hard to unlock! 
 
