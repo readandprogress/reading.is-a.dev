@@ -248,11 +248,12 @@ Alright, so to wrap up, here's a list of my favorite support chains!
 
 Overall, while the supports can be a bit short, there are some good ones in there! The cast of Engage is full of fun and zany characters; there's something for everyone!
 
-
-
 ### Some Other Thoughts
 
-![Alear Thinking](/assets/images/Alear%20Thinking.webp)
+<div style="text-align: center;">
+  <img src="/assets/images/Alear%20Thinking.webp" alt="Other's Thoughts">
+</div>
+<br>
 
 I went around and gathered some thoughts about the game besides my own; some are positive and some are not. I wanted to gauge what the opinion of Engage is now that the game is close to being a year old. I got some interesting responses!
 
@@ -290,9 +291,12 @@ I thought the Gameplay was good, but I just didn't find it as gripping as Conque
 
 - Rodrieleven421 [Tumblr](https://rodri11421.tumblr.com/)
 
-### Why is it My Game Of The Year? 
+### Why is it My Game Of The Year?
 
-![Ending Credit](/assets/images/Ending%20Credits.webp)
+<div style="text-align: center;">
+  <img src="/assets/images/Ending%20Credits.webp" alt="The End">
+</div>
+<br>
 
 Phew! That was a long one, but yeah, I just had to gush about this game sometime! It is my game of the year for a reason!
 
