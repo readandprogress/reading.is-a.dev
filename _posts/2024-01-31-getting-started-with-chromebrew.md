@@ -42,7 +42,7 @@ Once it's installed, you'll need to get used to its commands. Here are a few way
 
 - `search` Finally, there's a search command to find packages with, which is quite handy!
 
-Remember to use the commands in conjunction with each other, not alone, so if you want to install Chrome, for example, you use `crew install google-chrome`.
+Remember to use the commands in conjunction with each other, not alone, so if you want to install Chrome, for example, you use `crew install chrome`.
 
 In conclusion, Chromebrew is a great tool! Regardless of using it to give new life to older hardware, I feel like every Chromebook or Chrome device owner should have this in their toolkit to make ChromeOS even more enjoyable to use!
 
