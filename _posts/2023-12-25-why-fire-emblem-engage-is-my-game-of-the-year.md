@@ -7,7 +7,7 @@ excerpt: This has been quite a year in the gaming sphere! is hard not to be over
 ---
 ### Before We Begin!
 
-![Header](/assets/images/Header.jpg)
+![Emblem Marth](/assets/images/Header.jpg)
 
 This has been quite a year in the gaming sphere! is hard not to be overwhelm by the sheer volume of quality titles out this year and with every year us gamers decided on just one game to be our game of the year! 
 
@@ -21,7 +21,7 @@ So now feeling well-versed on it,I feel is the perfect time to talk about my fav
 
 ### The (Not) Anticipated Release! 
 
-![Header](/assets/images/The%20Dark%20Side.jpg)
+![A Bad End](/assets/images/The%20Dark%20Side.jpg)
 
 Back last year, in June, we got the first mention of a new Fire Emblem game, which happened to be Engage! According to a leak from a Reddit user, screenshots from an earlier build of the game surfaced, and the overall community reaction was mixed.
 
@@ -74,7 +74,7 @@ Now that we have the Engage basics patted down, there are more intricacies as we
 
 Now, that doesn't sound too different to any experienced Fire Emblem player, but I'm not talking about unit classes, but their typing! In Engage, units are categorized into different typings as well as their class. For example, Alear starts off with the Dragon Child class, but they are also classified as a dragon!
 
-![Battle Overview](/assets/images/In%20Battle!.jpg)
+![in Battle!](/assets/images/In%20Battle!.jpg)
 
 Now there are six types all together: Dragon, Calvery, Backup, Mystical, Qi Adept, and Covert! These have all their unique abilities offered by their typing; for example, Dragon-type units have additional effects while engaged with Emblems, Calvary has more movement, and Backup can do chain attacks if they are aligned with the adjacent unit initiating an attack.
 
@@ -103,7 +103,7 @@ But before we wrap up, let's talk about maps. Just like any Fire Emblem game, th
 
 Maps here seem a bit smaller; for example, movement across the board has been cut down! Starting with four for infantry and five or six for cavalry. It takes a while to get used to it, but after awhile, I actually prefer it overall to the other games; battles feel much more dynamic and faster. Maybe smoother is the word? I'm not sure, but it feels different, but in a good way!
 
-![Great Foe!](/assets/images/Great%20Foe.jpg)
+![Against a Fell Dragon!](/assets/images/Great%20Foe.jpg)
 
 Now the actual maps vary quite a bit; some are better than others, but overall they are good enough. Some of my favorites are:
 
@@ -125,7 +125,7 @@ So yeah, of all the games in the series I've played, I have to say that Engage i
 
 ### A Feast for The Eyes and Ears! 
 
-![Divine Dragons](/assets/images/Divine%20Dragons.jpg)
+![The Divine Dragon](/assets/images/Divine%20Dragons.jpg)
 
 Of course, gameplay isn't the only thing Engage has going for it! The same could be said about its visuals and
 sound!
@@ -176,7 +176,7 @@ That's just a few of my favorites, or, well, be her all day! But yeah, the sound
 
 ### A Conflicting Story! 
 
-![Journey End](/assets/images/Journey%20End.jpg)
+![One Last Reunion](/assets/images/Journey%20End.jpg)
 
 With Engage going back to basics, we get a more traditional and simple story, unlike that of Three Houses. Some may see this as a downgrade, but overall, I feel that it does the job quite well, and while it fondles here and there, it is still enjoyable enough.
 
@@ -200,7 +200,7 @@ But yeah, it is fair to say that I feel slightly jaded by this; it feels unfair 
 
 ### The Link Between Story and Gameplay: Your Units!
 
-![Alear](/assets/images/Alear%20M.webp)
+![The Divine One, Alear](/assets/images/Alear%20M.webp)
 
 The cast of Engage is one of my favorites to date! The characters feel more like the Awakening cast, showing a few traits at first but growing from those when seeing their supports. As of now, I have read every C support, so I have a good gist about each unit, but it is far from complete, so bear that in mind.
 
@@ -222,9 +222,9 @@ I could talk about the other lords, but I don't want to drag this out, so I will
 
 Yunaka gets her own chapter to shine right after acquiring the fourth ring. Micaiah, after the battle, we get the best quote in Fire Emblem series history! "Hiya Papaya!" Such a weird but oddly fitting greeting for someone who presumely lives in Firene with their bontiful harvests!
 
-She's an interesting character with a tragic backstory that I won't spoil, but she's a huge amount of fun! She does impressions—good ones, I say! and her critical quotes bringing out her darker side are just a chef's kiss! She has many great supporters as well!
+She's an interesting character with a tragic backstory that I won't spoil, but she's a huge amount of fun! She does impressions—good ones, I say! and her critical quotes bringing out her darker side are just a chef's kiss! She has many great supports as well!
 
-![S-Rank with Alfred](/assets/images/S-Rank%20with%20Alfred.jpg)
+![Alfred's Confession](/assets/images/S-Rank%20with%20Alfred.jpg)
 
 Alright, so to wrap up, here's a list of my favorite support chains!
 
@@ -251,7 +251,7 @@ Overall, while the supports can be a bit short, there are some good ones in ther
 ### Some Other Thoughts
 
 <div style="text-align: center;">
-  <img src="/assets/images/Alear%20Thinking.webp" alt="Other's Thoughts">
+  <img src="/assets/images/Alear%20Thinking.webp" alt="Lost in Thoughts">
 </div>
 <br>
 
@@ -294,7 +294,7 @@ I thought the Gameplay was good, but I just didn't find it as gripping as Conque
 ### Why is it My Game Of The Year?
 
 <div style="text-align: center;">
-  <img src="/assets/images/Ending%20Credits.webp" alt="The End">
+  <img src="/assets/images/Ending%20Credits.webp" alt="Journeys End">
 </div>
 <br>
 
