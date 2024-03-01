@@ -3,9 +3,7 @@ layout: post
 title:  "Why I’m Turning My Website Into a Digital Garden!"
 date:   2024-02-29 00:00:00 -0000
 categories: Tech
-excerpt: I haven't updated you all about my website in a while, last time was when I had transition into Cloudflare Pages and moved into a newer version of Jekyll and the `minima` theme gem.
-
-This time I want to share some plans I have for the future of my website and what that means for you!
+excerpt: This time I want to share some plans I have for the future of my website and what that means for you!
 ---
 
 Before we get started, I just realized that this year is a *leap* year! Making this a *leap* post! Just found that tidbit cool and fitting for our topic today!
