@@ -3,6 +3,7 @@ layout: post
 title:  "Getting Started with Chromebrew!"
 date:   2024-01-31 00:00:00 -0000
 categories: Tech
+author: Reading
 excerpt: I am bringing you a short post for this month since I have been enjoying my holidays, and my last post was my longest and most worked on yet! So I'm taking a small break for now, but I don't want to leave you with nothing for this month, so here we are. I hope you enjoy it!
 ---
 
