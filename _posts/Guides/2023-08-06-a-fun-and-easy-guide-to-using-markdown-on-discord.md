@@ -3,7 +3,7 @@ layout: post
 title:  "A Fun and Easy Guide to Using Markdown on Discord!"
 date:   2023-08-15 00:00:00 -0000
 author: Reading
-categories: [Guides, Tech]
+categories: Guides
 excerpt: I frequent Discord quite often and I don't see many members using Markdown syntax to flair out their messages, which is a shame. So after some deliberation on my part and some fellow server members showing interest,I decided to write one! This guide 's goal is to hopefully be easier to understand and follow than the already existing Discord Markdown 101 support page. This is, however, my first time writing a guide, so please bear with me! But with that said, let's get to it!
 ---
 
