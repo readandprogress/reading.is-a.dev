@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Keeping My Notes Synced With Git and GitHub!"
-date:   2024-03-25 00::00 -0000
+date:   2024-03-25 00:00:00 -0000
 categories: Guides
 author: Reading
 excerpt:  Why don't I use Git and GitHub to sync my notes?
