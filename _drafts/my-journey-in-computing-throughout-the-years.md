@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Journey in Computing"
+title: "My Journey in Computing Throughout the Years"
 date: 20024-05-25 00:00:00 -0000
 categories: Tech 
 author: Reading
