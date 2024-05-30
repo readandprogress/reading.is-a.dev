@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Journey in Computing Throughout the Years"
-date: 2024-05-25 00:00:00 -0000
+date: 2024-05-31 00:00:00 -0000
 categories: Tech 
 author: Reading
 excerpt: I recently read a post by Kev Quirk about his computing history, and it seemed like a fun topic, so I'm going to put my own twist on it!
