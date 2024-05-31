@@ -7,7 +7,7 @@ author: Reading
 excerpt: While todo.txt is great at its base, I've been thinking of ways to expand upon it for more than just tasks. I recently started tracking my habits. I tried multiple methods: pen and paper, a habit tracker app, a table in a markdown file. But none of them felt right. That is until I experimented with tracking them on my todo.txt file, and it worked surprisingly well! 
 ---
 
-I've been using todo.txt, a special syntax for structuring tasks in a plain text file. So far, I've really been digging its simplicity! I follow the file-over-app philosophy as best I can, and having my to-dos in a simple .txt file is another way I don't depend on an unnecessary app, in my opinion.
+I've been using todo.txt [^1], a special syntax for structuring tasks in a plain text file. So far, I've really been digging its simplicity! I follow the file-over-app philosophy as best I can, and having my to-dos in a simple .txt file is another way I don't depend on an unnecessary app, in my opinion.
 
 While todo.txt is great at its base, I've been thinking of ways to expand upon it for more than just tasks. I recently started tracking my habits. I tried multiple methods: pen and paper, a habit tracker app, a table in a markdown file. But none of them felt right. That is until I experimented with tracking them on my todo.txt file, and it worked surprisingly well! 
 
@@ -79,11 +79,11 @@ Then I set a cron job to run this script in the early mornings and voila! Now al
 
 Use any syncing platform or cough cloud provider cough to sync between your devices, I use Git and GitHub to keep it sync like I do with my notes. This is just scratching the surface on what you can do with it, as is plain text is extremely extensible! 
 
-So why not give it a shot and if you do please let me know how it went! ; )
+So why not give it a shot and if you do please let me know how it went! ^_^
 
 
+## Footnotes
 
-
-
+[^1]: [Todo.txt](http://todotxt.org/) The most simple and extensible way to track tasks! 
 
 
