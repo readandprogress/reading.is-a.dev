@@ -9,11 +9,11 @@ favicon: /favicon.png
 show_excerpts: true
 
 feed:
-  path: blog/feed.xml
+  path: /feed.xml
   title: The Reading Dimension 
 
 # Permalink configuration
-permalink: /blog/:title/
+permalink: /:title/
 
 # Build settings
 theme: minima
