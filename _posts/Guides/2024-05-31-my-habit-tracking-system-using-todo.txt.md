@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "My Habit Tracking System Using todo.txt!"
-date: 2024-06-15 00:00:00 -0000
-categories: Guides, Tech
+date: 2024-05-31 00:00:00 -0000
+categories: Guides
 author: Reading
 excerpt: While todo.txt is great at its base, I've been thinking of ways to expand upon it for more than just tasks. I recently started tracking my habits. I tried multiple methods: pen and paper, a habit tracker app, a table in a markdown file. But none of them felt right. That is until I experimented with tracking them on my todo.txt file, and it worked surprisingly well! 
 ---
