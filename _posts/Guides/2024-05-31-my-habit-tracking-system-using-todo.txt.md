@@ -81,6 +81,7 @@ Use any syncing platform or cough cloud provider cough to sync between your devi
 
 So why not give it a shot and if you do please let me know how it went! ^_^
 
+<br>
 
 ## Footnotes
 

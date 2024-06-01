@@ -6,20 +6,24 @@ title: About
 <div style="text-align: center;">
     <img src="/assets/images/avatar.png" alt="Avatar">
 </div>
-
+<br>
 <div style="text-align: center;">
     <span style="font-size: 24px; font-weight: bold;">
         @readandprogress
     </span>
 </div>
-
+<br>
 <div style="text-align: center;">
     <blockquote style="font-size: 24px; font-style: italic;">
         "Progresing through life by reading."
     </blockquote>
 </div>
 
+<br>
+
 ## About Me
+
+<br>
 
 I suppose you would like to know more about me, right? Well, allow me to introduce myself! As you may have guessed, I go by Reading, and it has been my handle for a while now. You may ask why I don't share my real name. Well, I believe in anonymity and privacy online first and foremost. Since this is a personal blog, I don't think there's a need. Although, if you would like to know my real name, get in contact, and I will happily let you know!
 
@@ -31,7 +35,11 @@ I do hope to change that soon! I have a concept that I'm working on, and I'm hop
 
 What else? Ah, hobbies! Most of my hobbies are pretty common if it wasn't already obvious. Gaming is one of them, usually RPGs, but I do play other genres as well when the mood strikes. If I'm not gaming, I'm reading. Get it? Bad joke aside, I usually gravitate toward nonfiction when it comes to books, even though I write fiction. Weird, right? I do, however, avidly read manga. I watch TV like most people, usually YouTube or anime. When I'm not doing either of those, I'm either writing a post or, more reasonably, tinkering or building a Gunpla kit!
 
+<br>
+
 ## About the Blog
+
+<br>
 
 The website you're currently on! Joking aside, I created this blog to have a place on the interwebs of my very own.
 
@@ -47,7 +55,11 @@ So what can you expect on your feed? I mostly write about tech and post hopefull
 
 So if you like what you see, head over to my RSS feed! I try to post monthly but may sometimes post more if the mood strikes.
 
+<br>
+
 ## Tech Stack
+
+<br>
 
 The tech stack I use for this blog is quite minimal; I'm big into the KISS philosophy.
 
@@ -63,10 +75,11 @@ The tech stack I use for this blog is quite minimal; I'm big into the KISS philo
 
 - [VS Code](https://code.visualstudio.com/) (Editor & Git Client)
 
+<br>
 
 ## Where to next? 
 
-Thanks for checking out my about page! If you like what you read so far why not jump into the [home](/01-home.md) page or if you like to get in contact with me, I have a [page](/05-contact.md) for that too! 
+Thanks for checking out my about page! If you like what you read so far why not jump into the [home]({% link /01-home.md %}) page or if you like to get in contact with me, I have a [page]({% link /04-contact.md %})) for that too! 
 
 
 
