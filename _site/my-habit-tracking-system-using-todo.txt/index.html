@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>My Habit Tracking System Using todo.txt! | The Reading Dimension</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="My Habit Tracking System Using todo.txt!" />
+<meta name="author" content="Reading" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Todo.txt has everything you need for tracking tasks. But its syntax is quite expansive and easy to grasp. So, I made my own habit tracking system using its specifications and I call it Habits.txt" />
+<meta property="og:description" content="Todo.txt has everything you need for tracking tasks. But its syntax is quite expansive and easy to grasp. So, I made my own habit tracking system using its specifications and I call it Habits.txt" />
+<link rel="canonical" href="http://localhost:4000/my-habit-tracking-system-using-todo.txt/" />
+<meta property="og:url" content="http://localhost:4000/my-habit-tracking-system-using-todo.txt/" />
+<meta property="og:site_name" content="The Reading Dimension" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-05-30T20:00:00-04:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="My Habit Tracking System Using todo.txt!" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Reading"},"dateModified":"2024-05-30T20:00:00-04:00","datePublished":"2024-05-30T20:00:00-04:00","description":"Todo.txt has everything you need for tracking tasks. But its syntax is quite expansive and easy to grasp. So, I made my own habit tracking system using its specifications and I call it Habits.txt","headline":"My Habit Tracking System Using todo.txt!","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/my-habit-tracking-system-using-todo.txt/"},"url":"http://localhost:4000/my-habit-tracking-system-using-todo.txt/"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="shortcut icon" type="image/png" href="/favicon.png"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="The Reading Dimension" />
+</head>
+<body><header class="site-header">
+  <meta http-equiv="Content-Security-Policy" content="script-src 'self' https://static.cloudflareinsights.com; object-src 'none'; base-uri 'self';">
+  <div class="wrapper"><a class="site-title" rel="author" href="/">The Reading Dimension</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/">Home</a><a class="page-link" href="/02-about/">About</a><a class="page-link" href="/categories/">Categories</a><a class="page-link" href="/04-contact/">Contact</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">My Habit Tracking System Using todo.txt!</h1>
+    <p class="post-meta"><time class="dt-published" datetime="2024-05-30T20:00:00-04:00" itemprop="datePublished">
+        May 30, 2024
+      </time>• 
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">Reading</span></span></p>
+    
+      <div class="post-content e-content" itemprop="articleBody">
+        <p>I’ve been using todo.txt <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>, a special syntax for structuring tasks in a plain text file. So far, I’ve really been digging its simplicity! I follow the file-over-app philosophy as best I can, and having my to-dos in a simple .txt file is another way I don’t depend on an unnecessary app, in my opinion.</p>
+
+<p>While todo.txt is great at its base, I’ve been thinking of ways to expand upon it for more than just tasks. I recently started tracking my habits. I tried multiple methods: pen and paper, a habit tracker app, a table in a markdown file. But none of them felt right. That is until I experimented with tracking them on my todo.txt file, and it worked surprisingly well!</p>
+
+<p>Todo.txt has everything you need for tracking tasks. But its syntax is quite expansive and easy to grasp. So, I made my own habit tracking system using its specifications and I call it Habits.txt</p>
+
+<p>Just like todo.txt, you can and is recommended to have a done.txt or todo.archive.txt file where your completed tasks get archived, if anything this is must have for habits.txt as this is the way you can keep track of your progress. So let’s get started by creating both files in your preferred directory like this:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">touch </span>habits.txt habits.archive.txt
+</code></pre></div></div>
+<p>You can use done.txt instead of habits.archive.txt if you prefer but personally since I have my todo.txt and habits.txt files in the same directory I like having the distinction.</p>
+
+<p>Now let’s add our first habit! Using your favorite editor write your habit on the first line like this:</p>
+
+<div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Read for 30 minutes
+
+</code></pre></div></div>
+
+<p>We follow-up by adding a project tag just like in todo.txt!</p>
+
+<div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Read for 30 minutes +leisure
+
+</code></pre></div></div>
+
+<p>As you can see now our habit is under the +leisure project tag, this way we can keep our habits organized, but we won’t stop there! We’ll add a tag for the day or days we will do our habit.</p>
+
+<div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(D) Read for 30 minutes +leisure 
+
+</code></pre></div></div>
+
+<p>Just like todo.txt priority tags except instead of priority we are using It to keep track of the days, (D) here stands for daily but you can (W)  and (M) for weekly and monthly respectfully.</p>
+
+<p>Optionally you can add a context tag to specify where and in what matter you do a habit like; @home @gym @work etc</p>
+
+<div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(D) Read for 30 minutes +leisure @home
+</code></pre></div></div>
+
+<p>Now that we have our habit nicely logged how do we mark it? The same way as todo.txt we place a (x) at the beginning of each habit and add the date when we had completed it.</p>
+
+<div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>x 2024-05-25 (D) Read for 30 minutes +leisure
+
+</code></pre></div></div>
+
+<p>Beautiful! We now have a completed habit entry, now we can move it over to our previously created habits.archive.txt. All done!</p>
+
+<p>You now know how to log habits with habits.txt! Pretty simple right?But thats just the basics, Here’s how I automated it to make it easier.</p>
+
+<p>I created a simple bash script that routinely wipes my habits.txt file in the early morning and adds my currently working on habits to the file, here’s a template so you can make your own!</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
+
+<span class="c"># Clear the contents of the file</span>
+<span class="o">&gt;</span> / <span class="c"># Location of your habits.txt file</span>
+
+<span class="c"># Add text to the file</span>
+<span class="nb">echo</span> <span class="s2">"Your habits here!
+"</span> <span class="o">&gt;&gt;</span> / <span class="c"># Location of your habits.txt file</span>
+
+</code></pre></div></div>
+
+<p>Then I set a cron job to run this script in the early mornings and voila! Now all I have to do is mark my habits as I complete them and then archive them. You can use any editor that supports the todo.txt syntax like VS Code with is fantastic todo.txt extension or Markor on mobile!</p>
+
+<p>Use any syncing platform or cough cloud provider cough to sync between your devices, I use Git and GitHub to keep it sync like I do with my notes. This is just scratching the surface on what you can do with it, as is plain text is extremely extensible!</p>
+
+<p>So why not give it a shot and if you do please let me know how it went! ^_^</p>
+
+<h2 id="footnotes">Footnotes</h2>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p><a href="http://todotxt.org/">Todo.txt</a> The most simple and extensible way to track tasks! <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+      </div>
+    
+  </header><a class="u-url" href="/my-habit-tracking-system-using-todo.txt/" hidden></a>
+</article>
+
+      </div>
+    </main></body>
+
+</html>

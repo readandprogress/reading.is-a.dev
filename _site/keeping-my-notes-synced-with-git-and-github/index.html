@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Keeping My Notes Synced With Git and GitHub! | The Reading Dimension</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="Keeping My Notes Synced With Git and GitHub!" />
+<meta name="author" content="Reading" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Why don’t I use Git and GitHub to sync my notes? After all, my blog repo houses .md files, the same files I use for my notes. Why don’t I do the same? Now before we delve upon that let me tell you how I synced my notes and all my files before." />
+<meta property="og:description" content="Why don’t I use Git and GitHub to sync my notes? After all, my blog repo houses .md files, the same files I use for my notes. Why don’t I do the same? Now before we delve upon that let me tell you how I synced my notes and all my files before." />
+<link rel="canonical" href="http://localhost:4000/keeping-my-notes-synced-with-git-and-github/" />
+<meta property="og:url" content="http://localhost:4000/keeping-my-notes-synced-with-git-and-github/" />
+<meta property="og:site_name" content="The Reading Dimension" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-03-24T20:00:00-04:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Keeping My Notes Synced With Git and GitHub!" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Reading"},"dateModified":"2024-03-24T20:00:00-04:00","datePublished":"2024-03-24T20:00:00-04:00","description":"Why don’t I use Git and GitHub to sync my notes? After all, my blog repo houses .md files, the same files I use for my notes. Why don’t I do the same? Now before we delve upon that let me tell you how I synced my notes and all my files before.","headline":"Keeping My Notes Synced With Git and GitHub!","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/keeping-my-notes-synced-with-git-and-github/"},"url":"http://localhost:4000/keeping-my-notes-synced-with-git-and-github/"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="shortcut icon" type="image/png" href="/favicon.png"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="The Reading Dimension" />
+</head>
+<body><header class="site-header">
+  <meta http-equiv="Content-Security-Policy" content="script-src 'self' https://static.cloudflareinsights.com; object-src 'none'; base-uri 'self';">
+  <div class="wrapper"><a class="site-title" rel="author" href="/">The Reading Dimension</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/">Home</a><a class="page-link" href="/02-about/">About</a><a class="page-link" href="/categories/">Categories</a><a class="page-link" href="/04-contact/">Contact</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Keeping My Notes Synced With Git and GitHub!</h1>
+    <p class="post-meta"><time class="dt-published" datetime="2024-03-24T20:00:00-04:00" itemprop="datePublished">
+        Mar 24, 2024
+      </time>• 
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">Reading</span></span></p>
+    
+      <div class="post-content e-content" itemprop="articleBody">
+        <p>Since I now take notes and write posts on my tablet and Chromebook. Actually, the last few posts I have written are from my tablet using <a href="https://github.com/gsantner/markor">Markor</a>!</p>
+
+<p>What can I say? I like laying on my bed and getting some posts out, a lifesaver when I was sick last month and didn’t want to leave my bed for extended periods.</p>
+
+<p>Now, working from my tablet for posts is easy enough. I just <code class="language-plaintext highlighter-rouge">gh repo clone</code> my blog repo to it using <a href="https://termux.dev/en/">Termux</a>, I could use some IDEs with Git support, but I found all of them lacking. I want something as close to <a href="https://code.visualstudio.com/">VSCode</a> as possible. The closest was <a href="https://acode.app/">Acode</a> but it lacks features that I’m used to, if only VSCode was available for android and no the VSCode PWA is nice and all, but I’d prefer a native app for speed and for better file access.</p>
+
+<p>So I’m sticking with Git on Termux, although that means I have to add files to my local repo and then push them to my remote repo, instead of working with the remote repo directly like VSCode.</p>
+
+<p>This gave me an idea though! An idea that somehow I never thought about before. Why don’t I use Git and GitHub to sync my notes?</p>
+
+<p>After all, my blog repo houses <code class="language-plaintext highlighter-rouge">.md</code> files, the same files I use for my notes. Why don’t I do the same?</p>
+
+<p>Now before we delve on that, let me tell you how I synced my notes and all my files before.</p>
+
+<p>Like I said before, I used to have a small homelab setup in which I had a Samba server, so in this case I didn’t sync my files at all and just had a centralized place for them. This was the best thing I had ever done in terms of file management. No need to worry about syncing conflicts and losing data over it, which happened more than once for me, RIP.</p>
+
+<p>After my home lab suffered an early death due to a bad power supply which, by the way, you can read about <a href="/blog/goodbye-my-first-homelab/">here</a>!</p>
+
+<p>It was back to good old syncing for me. This time I just manually synced some files. I keep everything on a flash drive connected to my Chromebook and some files like my movies, shows and books on my tablet, since that’s where I consume most of those media.</p>
+
+<p>That was a <em>pain</em>, as you can imagine to managed! So I decide to try out <a href="https://syncthing.net/">Syncthing</a>! I used similar software before with mixed results, but I never tried out anything and, for the most part, it worked well. This time I synched my notes as well, since I have started experimenting with taking notes on my tablet like I have aforementioned.</p>
+
+<p>And well, it didn’t last long, at <em>all</em>! After a few days, my Chromebook crashed from running the Synthing server, which is odd since it shouldn’t be that intensive but <code class="language-plaintext highlighter-rouge">crostini</code>, where I was running it, can be quite resource intensive. So that was a wash and a huge bummer since I love having my notes automatically synched specifically.</p>
+
+<p>This brings us to now, and I know I have digressed a fair bit! But I wanted to let you know about my situation before showing you this solution.</p>
+
+<p>Like anything, this is just one solution to a problem, and it may not be the best solution for you! But in sharing it, you may make your own or modify it to work for you.</p>
+
+<p>Regardless, setting it up is quite straightforward, but you will need to familiarize yourself with Git beforehand if you aren’t already, so please check <a href="https://docs.github.com/en/get-started/using-git/about-git">About Git</a> page, it will tell you all you need to know to get started, although you can also follow this guide, but I highly recommend reading the About Git page first.</p>
+
+<p>First make sure you have a GitHub account or make one. Once you have one in a terminal, install both <code class="language-plaintext highlighter-rouge">git</code> and <code class="language-plaintext highlighter-rouge">gh</code>. You don’t need <code class="language-plaintext highlighter-rouge">gh</code> necessarily, but it makes the process easier if you’re using GitHub.</p>
+
+<p>Now use <code class="language-plaintext highlighter-rouge">gh auth login</code>, follow the instructions to authenticate, make sure that you select to authenticate Git as well. This is the main reason we are using <code class="language-plaintext highlighter-rouge">gh</code>.</p>
+
+<p>Once that’s done, running <code class="language-plaintext highlighter-rouge">gh repo create</code>, you can either create a new remote repo or use a local repo you have initialized. For me, the last option didn’t work, so I just made a new remote repo.</p>
+
+<p>Okay, now I will go through the repo creation process. I have selected to make it a private repo. You can, however, do anything you want. Do note that making it private doesn’t necessarily mean it is, so please don’t add any sensitive files as a precaution. I marked it as private, so it doesn’t show up on my profile.</p>
+
+<p>For reference, I named my repo <code class="language-plaintext highlighter-rouge">Notes</code>. I selected to not have a license or <code class="language-plaintext highlighter-rouge">.gitignore</code> and I decided not to have a readme either.</p>
+
+<p>Then make sure to <code class="language-plaintext highlighter-rouge">clone</code> that repo locally. You can do this when creating a repo. It will prompt you.</p>
+
+<p>Now just add your files to the repo folder on your device or if you use your local repo with your notes inside, then you’re done! Your notes are synched on GitHub now, and you can access them with any Git client or an IDE with Git support like VSCode, or you can just clone the repo on the other device you want to keep it synced with.</p>
+
+<p>For us, though, we must continue! Once you add your files, it is time to use <code class="language-plaintext highlighter-rouge">git add.</code> which will add all the file changes to that repo. Then we use <code class="language-plaintext highlighter-rouge">git commit -m "Your commit message here!</code> to commit our changes. Then it is just a <code class="language-plaintext highlighter-rouge">git push</code> and you’re done!</p>
+
+<p>Our notes are synced! Now we can work on our notes on one device and then follow the above instructions if you’re not using a Git client or IDE/Editor that has Git integration to keep it synced.</p>
+
+<p>While this isn’t automatic, you can use an IDE like VSCode to seamlessly work with your notes or make a script that does it for you! It beats manually using SFTP to sync my notes, that’s for sure!</p>
+
+
+      </div>
+    
+  </header><a class="u-url" href="/keeping-my-notes-synced-with-git-and-github/" hidden></a>
+</article>
+
+      </div>
+    </main></body>
+
+</html>
