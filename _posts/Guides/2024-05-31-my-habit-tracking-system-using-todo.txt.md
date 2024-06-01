@@ -4,14 +4,14 @@ title: "My Habit Tracking System Using todo.txt!"
 date: 2024-05-31 00:00:00 -0000
 categories: Guides
 author: Reading
-excerpt: While todo.txt is great at its base, I've been thinking of ways to expand upon it for more than just tasks. I recently started tracking my habits. I tried multiple methods: pen and paper, a habit tracker app, a table in a markdown file. But none of them felt right. That is until I experimented with tracking them on my todo.txt file, and it worked surprisingly well! 
+excerpt: Todo.txt has everything you need for tracking tasks. But its syntax is quite expansive and easy to grasp. So, I made my own habit tracking system using its specifications and I call it Habits.txt
 ---
 
 I've been using todo.txt [^1], a special syntax for structuring tasks in a plain text file. So far, I've really been digging its simplicity! I follow the file-over-app philosophy as best I can, and having my to-dos in a simple .txt file is another way I don't depend on an unnecessary app, in my opinion.
 
 While todo.txt is great at its base, I've been thinking of ways to expand upon it for more than just tasks. I recently started tracking my habits. I tried multiple methods: pen and paper, a habit tracker app, a table in a markdown file. But none of them felt right. That is until I experimented with tracking them on my todo.txt file, and it worked surprisingly well! 
 
-Todo.txt has everything you need for tracking habits. Its syntax is quite expansive and easy to grasp. So, I made my own habit tracking system using is syntax and I call it Habits.txt!
+Todo.txt has everything you need for tracking tasks. But its syntax is quite expansive and easy to grasp. So, I made my own habit tracking system using its specifications and I call it Habits.txt
 
 Just like todo.txt, you can and is recommended to have a done.txt or todo.archive.txt file where your completed tasks get archived, if anything this is must have for habits.txt as this is the way you can keep track of your progress. So let's get started by creating both files in your preferred directory like this:
 
