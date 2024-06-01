@@ -67,6 +67,11 @@ The tech stack I use for this blog is quite minimal; I'm big into the KISS philo
 - [VS Code](https://code.visualstudio.com/) (Editor & Git Client)
 
 
+## License and Attribution
+
+This blog is licensed under CC BY-NC-SA 4.0. For more information or to view a copy of this license please visit [Creative Commons](https:/creativecommons.org/licenses/by-nc-sa/4.0/). 
+
+
 ## Where to next? 
 
 Thanks for checking out my about page! If you like what you read so far why not jump into the <a href="/">home</a> page or if you like to get in contact with me, I have a [page](/04-contact)
