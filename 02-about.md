@@ -79,7 +79,8 @@ The tech stack I use for this blog is quite minimal; I'm big into the KISS philo
 
 ## Where to next? 
 
-Thanks for checking out my about page! If you like what you read so far why not jump into the [home]({% link /01-home.md %}) page or if you like to get in contact with me, I have a [page]({% link /04-contact.md %})) for that too! 
+Thanks for checking out my about page! If you like what you read so far why not jump into the <a href="/">home</a> page or if you like to get in contact with me, I have a [page](/04-contact)
+for that too! 
 
 
 
