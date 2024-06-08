@@ -1,2 +1,3 @@
-# thereadingdimension
-My personal website codebase. ^ _ ^
+# The Reading Dimension
+
+*"A dimension like no other."*
