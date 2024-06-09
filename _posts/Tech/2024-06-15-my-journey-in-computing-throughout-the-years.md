@@ -1,23 +1,30 @@
 ---
 layout: post
-title: "My Journey in Computing Throughout the Years"
-date: 2024-05-31 00:00:00 -0000
+title: "My Journey in Computing Throughout the Years!"
+date: 2024-06-15 19:00:00 -0000
 categories: Tech 
 author: Reading
 excerpt: I recently read a post by Kev Quirk about his computing history, and it seemed like a fun topic, so I'm going to put my own twist on it!
 
-I've been into computing for two decades now—yes, I'm old. : )
+I've been into computing for two decades now—yes, I'm old. (◔‿◔)
 
 In that time, I have gone through four computers: one laptop and three desktops, experimenting with several operating systems and applications!"
 ---
 
-I recently read a post by Kev Quirk about his computing history, and it seemed like a fun topic, so I'm going to put my own twist on it!
+I recently read a post[^1] by Kev Quirk[^2], about his computing history, and it seemed like a fun topic, so I'm going to put my own twist on it!
 
-I've been into computing for two decades now—yes, I'm old. : )
+I've been into computing for two decades now—yes, I'm old. (◔‿◔)
 
-In that time, I have gone through four computers: one laptop and three desktops, experimenting with several operating systems and applications!"
+In that time, I have gone through four computers: one laptop and three desktops, experimenting with several operating systems and applications!
 
 ## 1999 - 2004 Compaq Presario 7400 Series 
+
+<div style="text-align:center">
+  <img src="https://preview.redd.it/2fv5maew38i71.jpg?width=640&height=480&crop=smart&auto=webp&s=dfcabd9efd5a89463afc0354cc1af3196c7a77ca" alt="Image Alt Text" />
+</div>
+<p style="text-align:center">Not my exact model or picture, but is the closest to the one we had back then!</p>
+
+<br>
 
 My first PC, or should I say our first family computer, was a Compaq Presario 7400 series desktop tower. I'm not sure of the precise model, but I remember it had a Pentium 3 CPU, 64 MB of RAM, a 30GB HDD, and ran on Windows 98. It even came with an upgrade CD to Windows 98 SE!
 
@@ -38,6 +45,13 @@ This was also the time when I became more interested in Linux! I had read about 
 
 ## 2009 - 2014 HP Pavilion Slimline s5600 Series
 
+<div style="text-align:center">
+  <img src="https://www.slashgear.com/wp-content/uploads/2009/06/hp_slimline_s5000_series_desktop.jpg" alt="Image Alt Text" />
+</div>
+<p style="text-align:center">The Pavilion Slimline Case still holds up in my opinon!</p>
+
+<br>
+
 When I enrolled in university for my major in Computer Science, I needed a new machine because my old one was left at my dad's when we moved, and it was time for an upgrade!
 
 I was advised to get a laptop, which in hindsight was probably the best choice. However, I was stubborn and preferred the repairability and power of a desktop since I rarely needed to leave my desk. So, I received an HP Pavilion Slimline desktop as a gift from my mom. Its slim case was perfect for my desk space, and it looked great too! It featured a Pentium Duo CPU, my first dual-core CPU, 4GB of RAM, a 500GB HDD, Intel HD internal graphics, and a copy of Windows 7 Home Premium.
@@ -55,16 +69,33 @@ This was what I called my *dark* era of computing since I effectively didn't hav
 
 ## 2018 - Current Asus C101PA 3in1 Chromebook
 
+<div style="text-align:center">
+  <img src="https://lh3.googleusercontent.com/4eAyAEg0WARIV8_rxwL2uL4GxbMELhYA169Ty2lLgo7z9h8lIO9MccBPnst9m4ushBv9ytISgAg4wLUQawhLuONFSFfN2wGu7kS3Bg=s2048" alt="Image Alt Text" />
+</div>
+<p style="text-align:center">My current computer and my first Notebook PC!</p>
+
+<br>
+
 By this time, I had gotten my first job at a Mexican restaurant and could afford to buy my own computer! After saving up all the earnings I could from tip-wage work, I was able to purchase a not very glamorous but good enough for me Chromebook!
 
 It was the best for the price and very portable, something that I warmed up to as I grew up. All I needed was a device that allowed me to study, take notes, take tests, do some light coding, and light web browsing, and this small ASUS delivered that in spades!
 
 It's also a convertible, which makes it extra handy when laying on the bed or setting it up in tent mode, for example, in the kitchen!
 
-It packs a Hexacore Rockchip CPU, 4GB of RAM, 16GB eMMC, and runs Chrome OS. I know those are underwhelming specs, but it works for me. : )
+It packs a Hexacore Rockchip CPU, 4GB of RAM, 16GB eMMC, and runs Chrome OS. I know those are underwhelming specs, but it works for me. 
 
-I have been feeling its age now that it's approaching AUE (Auto-Update Expiry), and I tend to push its limits sometimes by running Linux apps on top of a container called Crostini, but it still has plenty of life in it!
+I have been feeling its age now that it's doesn't get any more updates (Auto-Update Expiry), and I tend to push its limits sometimes by running Linux apps on top of a container called Crostini, but it still has plenty of life in it.
 
-I will replace it as my main soon. Once I have an apartment, I'm planning on either building my own or getting one of these small but powerful mini PCs!
+I will replace it as my main device soon. Once I have an apartment, I'm planning on either building my own or getting one of these small but powerful mini PCs!
 
-Regardless, I'm interested in your computing history as well! Did you have a "dark" era like me? What operating systems have you used? Are you more of a laptop or desktop person? Let me know via my new contact page! : )
+## What about you?
+
+Regardless, I'm interested in your computing history as well! Did you have a "dark" era like me? What operating systems have you used? Are you more of a laptop or desktop person? Let me know via my new contact page! ^_^
+
+## Footnotes
+
+[^1]: [Kev's post](https://kevquirk.com/my-computing-history): This post woudn't be possible otherwise! 
+
+[^2]: [Kev Quirk](https://kevquirk.com/): A blogger, I follow, you should too!
+
+<button class="tinylytics_kudos"></button>

@@ -78,9 +78,4 @@ Thanks for checking out my about page! If you like what you read so far why not 
 for that too! 
 
 
-
-
-
-
-
-
+<button class="tinylytics_kudos"></button>
