@@ -90,12 +90,12 @@ I will replace it as my main device soon. Once I have an apartment, I'm planning
 
 ## What about you?
 
-Regardless, I'm interested in your computing history as well! Did you have a "dark" era like me? What operating systems have you used? Are you more of a laptop or desktop person? Let me know via my new contact page! ^_^
+Regardless, I'm interested in your computing history as well! Did you have a "dark" era like me? What operating systems have you used? Are you more of a laptop or desktop person? Let me know via my new contact page! (•‿•)
 
 ## Footnotes
 
 [^1]: [Kev's post](https://kevquirk.com/my-computing-history): This post woudn't be possible otherwise! 
 
-[^2]: [Kev Quirk](https://kevquirk.com/): A blogger, I follow, you should too!
+[^2]: [Kev Quirk](https://kevquirk.com/): A blogger I follow, you should too!
 
 <button class="tinylytics_kudos"></button>
