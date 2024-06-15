@@ -6,6 +6,7 @@ url: ""
 author: Reading
 favicon: /favicon.png
 show_excerpts: true
+timezone: America/New_York
 
 feed:
   path: /feed.xml
