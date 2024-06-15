@@ -6,14 +6,14 @@ categories: Tech
 author: Reading
 excerpt: I recently read a post by Kev Quirk about his computing history, and it seemed like a fun topic, so I'm going to put my own twist on it!
 I've been into computing for two decades now—yes, I'm old. (◔‿◔)
-In that time, I have gone through four computers: one laptop and three desktops, experimenting with several operating systems and applications!"
+In that time, I have gone through four computers; one laptop and three desktops, experimenting with several operating systems and applications!"
 ---
 
 I recently read a post[^1] by Kev Quirk[^2], about his computing history, and it seemed like a fun topic, so I'm going to put my own twist on it!
 
 I've been into computing for two decades now—yes, I'm old. (◔‿◔)
 
-In that time, I have gone through four computers: one laptop and three desktops, experimenting with several operating systems and applications!
+In that time, I have gone through four computers; one laptop and three desktops, experimenting with several operating systems and applications!
 
 ## 1999 - 2004 Compaq Presario 7400 Series 
 
