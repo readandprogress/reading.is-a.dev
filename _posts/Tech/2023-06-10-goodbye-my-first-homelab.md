@@ -5,6 +5,7 @@ date:   2023-06-10 00:00:00 -0000
 author: Reading
 categories: Tech
 ---
+
 I was going to post about my neat home lab, but unfortunately, it didn't work out. I was hosting a SMB file share and Jellyfin media server on a ten-year-old Samsung laptop. I had it lying around, and I thought it would be a good way to give new life to old hardware.
 
 And for a time, everything was well. It was so nice and handy to have a centralized place to store files without having to worry about syncing and such. It made things so much easier! But I digress.
