@@ -8,7 +8,7 @@ excerpt: This has been quite a year in the gaming sphere! is hard not to be over
 ---
 ### Before We Begin!
 
-![Emblem Marth](/assets/images/Header.jpg)
+![Emblem Marth](/assets/images/fee-emblem-marth.jpg)
 
 This has been quite a year in the gaming sphere! is hard not to be overwhelm by the sheer volume of quality titles out this year and with every year us gamers decided on just one game to be our game of the year! 
 
@@ -22,7 +22,7 @@ So now feeling well-versed on it,I feel is the perfect time to talk about my fav
 
 ### The (Not) Anticipated Release! 
 
-![A Bad End](/assets/images/The%20Dark%20Side.jpg)
+![A Bad End?](/assets/images/fee-evil-veyle-bad-ending.jpg)
 
 Back last year, in June, we got the first mention of a new Fire Emblem game, which happened to be Engage! According to a leak from a Reddit user, screenshots from an earlier build of the game surfaced, and the overall community reaction was mixed.
 
@@ -43,7 +43,7 @@ Some started bashing the game before it even got released, saying it was "too di
 
 ### Engaging Gameplay! 
 
-![Battle Overview](/assets/images/Battle%20Overview.jpg)
+![Battle Overview](/assets/images/fee-battle-overview.jpg)
 
 I guess I'll start with the first thing I noticed while playing Engage, and that is refreshing and engaging gameplay! (Sorry, not sorry!)
 
@@ -75,7 +75,7 @@ Now that we have the Engage basics patted down, there are more intricacies as we
 
 Now, that doesn't sound too different to any experienced Fire Emblem player, but I'm not talking about unit classes, but their typing! In Engage, units are categorized into different typings as well as their class. For example, Alear starts off with the Dragon Child class, but they are also classified as a dragon!
 
-![in Battle!](/assets/images/In%20Battle!.jpg)
+![in Battle!](/assets/images/fee-in-battle!.jpg)
 
 Now there are six types all together: Dragon, Calvery, Backup, Mystical, Qi Adept, and Covert! These have all their unique abilities offered by their typing; for example, Dragon-type units have additional effects while engaged with Emblems, Calvary has more movement, and Backup can do chain attacks if they are aligned with the adjacent unit initiating an attack.
 
@@ -104,7 +104,7 @@ But before we wrap up, let's talk about maps. Just like any Fire Emblem game, th
 
 Maps here seem a bit smaller; for example, movement across the board has been cut down! Starting with four for infantry and five or six for cavalry. It takes a while to get used to it, but after awhile, I actually prefer it overall to the other games; battles feel much more dynamic and faster. Maybe smoother is the word? I'm not sure, but it feels different, but in a good way!
 
-![Against a Fell Dragon!](/assets/images/Great%20Foe.jpg)
+![Against a Fell Dragon](/assets/images/fee-great-foe.jpg)
 
 Now the actual maps vary quite a bit; some are better than others, but overall they are good enough. Some of my favorites are:
 
@@ -126,7 +126,7 @@ So yeah, of all the games in the series I've played, I have to say that Engage i
 
 ### A Feast for The Eyes and Ears! 
 
-![The Divine Dragon](/assets/images/Divine%20Dragons.jpg)
+![The Divine Dragon](/assets/images/fee-lumera-appears.jpg)
 
 Of course, gameplay isn't the only thing Engage has going for it! The same could be said about its visuals and
 sound!
@@ -141,7 +141,7 @@ Mika Pikazo, one from v-tuber design fame, was chosen as the lead artist for thi
 
 Now she's up there with my favorite Fire Emblem artists, like Kozaki and Hidari from Awakeing, Fates, and Echoes, respectively. Her character design is quite striking, and I will be talking more about that when we get there, but in general, her art is a breath of fresh air!
 
-![Diamant and Ivy](/assets/images/Diamant%20and%20Ivy.jpg)
+![Diamant and Ivy](/assets/images/fee-diamant-and-vy.jpg)
 
 But it's not only the visuals where Engage shines; it also has a great-sounding soundtrack that I'm coming to warm up to and honestly think is up there with my favorite OSTs of the series!
 
@@ -173,11 +173,11 @@ It's hard to describe the soundtrack in more detail, so here are just a couple o
   - Now I leave you with this! This may be a cheesy Saturday morning cartoon, but this is my cheesy Saturday morning cartoon track! I wasn't crazy about it at first, but I didn't hate it either. It was nice to have male vocals for a change, and after awhile, I've grown to love this song, especially the full version from the DLC. It's pretty good! I recommend at least giving the full version a try; you may fall in love with it like I did.
 
 
-That's just a few of my favorites, or, well, be her all day! But yeah, the soundtrack overall is great! I recommend giving it a listen, even if you are not interested in the game. 
+That's just a few of my favorites, or, I will be here all day! But yeah, the soundtrack overall is great! I recommend giving it a listen, even if you are not interested in the game. 
 
 ### A Conflicting Story! 
 
-![One Last Reunion](/assets/images/Journey%20End.jpg)
+![One Last Reunion](/assets/images/fee-journey's-end.jpg)
 
 With Engage going back to basics, we get a more traditional and simple story, unlike that of Three Houses. Some may see this as a downgrade, but overall, I feel that it does the job quite well, and while it fondles here and there, it is still enjoyable enough.
 
@@ -201,7 +201,7 @@ But yeah, it is fair to say that I feel slightly jaded by this; it feels unfair 
 
 ### The Link Between Story and Gameplay: Your Units!
 
-![The Divine One, Alear](/assets/images/Alear%20M.webp)
+![The Divine One, Alear](/assets/images/m!alear.webp)
 
 The cast of Engage is one of my favorites to date! The characters feel more like the Awakening cast, showing a few traits at first but growing from those when seeing their supports. As of now, I have read every C support, so I have a good gist about each unit, but it is far from complete, so bear that in mind.
 
@@ -225,7 +225,7 @@ Yunaka gets her own chapter to shine right after acquiring the fourth ring. Mica
 
 She's an interesting character with a tragic backstory that I won't spoil, but she's a huge amount of fun! She does impressions—good ones, I say! and her critical quotes bringing out her darker side are just a chef's kiss! She has many great supports as well!
 
-![Alfred's Confession](/assets/images/S-Rank%20with%20Alfred.jpg)
+![Alfred's Confession](/assets/images/fee-alfred-s-rank.jpg)
 
 Alright, so to wrap up, here's a list of my favorite support chains!
 
@@ -252,7 +252,7 @@ Overall, while the supports can be a bit short, there are some good ones in ther
 ### Some Other Thoughts
 
 <div style="text-align: center;">
-  <img src="/assets/images/Alear%20Thinking.webp" alt="Lost in Thoughts">
+  <img src="/assets/images/alear-thinking-feh.webp" alt="Lost in Thoughts">
 </div>
 <br>
 
@@ -295,7 +295,7 @@ I thought the Gameplay was good, but I just didn't find it as gripping as Conque
 ### Why is it My Game Of The Year?
 
 <div style="text-align: center;">
-  <img src="/assets/images/Ending%20Credits.webp" alt="Journeys End">
+  <img src="/assets/images/fee-alear-monarch.webp" alt="Journeys End">
 </div>
 <br>
 
@@ -311,4 +311,6 @@ I have played Star Ocean Second Story R as well as the Megaman Battle Network Le
 Going into 2024, I'm sure even more great games will be released, so I hope to continue this in its own series. For now, I'll see you in a few weeks! Thanks to everyone who made this project possible! I wish you all a Merry Christmas and a Happy New Year!
 
 
-Now, if you'll excuse me, I'm going to rest since this took quite a lot out of me. Later all!
+Now, if you'll excuse me, I'm going to rest since this took quite me some time piece together...
+
+<button class="tinylytics_kudos"></button>
