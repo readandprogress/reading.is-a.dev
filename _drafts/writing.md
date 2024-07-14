@@ -9,4 +9,4 @@ excerpt:
 
 I've been having trouble writing as of late, One of the purppses of crating this blog was to help me get into writing more and it has certainly helped in that regard I do write more than ever before but I haven't made real progress on my orinal fiction project, half of the year is over and I still where I started las time, just the gist of it and some character profiles. Maybe is writer's block you mgoight ask? But I doubt it as I have the motivation to write montly posts for this blog but when it comes to fiction, I just stare a  blank file.. I think is beacuase I too dsistracted not just with life but my hobbies as well. 
 
-When anythings feels more enjoyable is hard to stick it out I feel, I really want to get the first chapter out this year but it feels less and less likely but I'm not giving up! I'm going to dedicate time blocks just for writing story, Every weekeend I want to atleast write 1000 words and 
+When anythings feels more enjoyable is hard to stay on track, at this pace I won't reach my goal of releasing the first chapter this year... but I'm not giving up! Habits are hard to brea
