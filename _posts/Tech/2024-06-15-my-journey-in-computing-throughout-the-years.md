@@ -94,4 +94,3 @@ Regardless, I'm interested in your computing history as well! Did you have a "da
 
 [^2]: [Kev Quirk](https://kevquirk.com/): A blogger I follow, you should too!
 
-<button class="tinylytics_kudos">Kudos</button>

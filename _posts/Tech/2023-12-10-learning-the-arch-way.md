@@ -25,5 +25,4 @@ But since Arch doesn't have the best package support of all the Linux distros, y
 
 In conclusion, Arch is one of the better distros, and running on the bleeding edge has its benefits, while `pacman` can be confusing at first, at least for me! It is easy enough to grasp, and while it is not as verbose as 'apt', it is quite straightforward once you figure out what each command means. For the gamers out there, having a package manager named after an iconic game and seeing Pacman himself gobbling bytes when installing a package is super neat!
 
-<button class="tinylytics_kudos">Kudos</button>
 

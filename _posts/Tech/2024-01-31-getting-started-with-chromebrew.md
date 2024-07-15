@@ -47,7 +47,6 @@ Remember to use the commands in conjunction with each other, not alone, so if yo
 
 In conclusion, Chromebrew is a great tool! Regardless of using it to give new life to older hardware, I feel like every Chromebook or Chrome device owner should have this in their toolkit to make ChromeOS even more enjoyable to use!
 
-<button class="tinylytics_kudos">Kudos</button>
  
 
 

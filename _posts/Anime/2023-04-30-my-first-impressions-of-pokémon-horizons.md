@@ -31,4 +31,3 @@ This one can also become episodic later on, but so far, it looks like the writer
 
 But to wrap up, since this is already longer than planned, I'm quite happy with the new series so far! To be fair, a lot could still go wrong, but I'm enjoying the ride so far! If you like Pokémon, I recommend giving it a shot. It's not my ideal dream Pokémon anime series by a long shot, but it's enjoyable enough to watch, and that may be enough for you!
 
-<button class="tinylytics_kudos">Kudos</button>

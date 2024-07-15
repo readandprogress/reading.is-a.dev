@@ -79,5 +79,3 @@ Use any syncing platform or ~~cloud providers~~ to sync between your devices. I 
 ## Footnotes
 
 [^1]: [Todo.txt](http://todotxt.org/) The most simple and extensible way to track tasks!
-
-<button class="tinylytics_kudos">Kudos</button>

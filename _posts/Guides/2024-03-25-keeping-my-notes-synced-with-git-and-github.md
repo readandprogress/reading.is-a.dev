@@ -56,5 +56,3 @@ For us, though, we must continue! Once you add your files, it is time to use `gi
 Our notes are synced! Now we can work on our notes on one device and then follow the above instructions if you're not using a Git client or IDE/Editor that has Git integration to keep it synced. 
 
 While this isn't automatic, you can use an IDE like VSCode to seamlessly work with your notes or make a script that does it for you! It beats manually using SFTP to sync my notes, that's for sure!
-
-<button class="tinylytics_kudos">Kudos</button>
