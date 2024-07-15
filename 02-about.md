@@ -77,5 +77,3 @@ This blog is licensed under CC BY-NC-SA 4.0. For more information or to view a c
 Thanks for checking out my about page! If you like what you read so far why not jump into the <a href="/">home</a> page or if you like to get in contact with me, I have a [page](/04-contact)
 for that too! 
 
-
-<button class="tinylytics_kudos">Kudos</button>
