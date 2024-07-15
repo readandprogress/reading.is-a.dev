@@ -57,3 +57,4 @@ Our notes are synced! Now we can work on our notes on one device and then follow
 
 While this isn't automatic, you can use an IDE like VSCode to seamlessly work with your notes or make a script that does it for you! It beats manually using SFTP to sync my notes, that's for sure!
 
+<button class="tinylytics_kudos">Kudos</button>

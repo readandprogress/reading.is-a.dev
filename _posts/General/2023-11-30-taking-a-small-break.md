@@ -24,3 +24,5 @@ I'm hoping you all enjoy it and leave your feedback. This is a work of love, so 
 For now, I'm going to enjoy my holidays, and I hope you enjoy yours as well!
 
 See you soon!
+
+<button class="tinylytics_kudos">Kudos</button>

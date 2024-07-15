@@ -313,4 +313,4 @@ Going into 2024, I'm sure even more great games will be released, so I hope to c
 
 Now, if you'll excuse me, I'm going to rest since this took quite me some time piece together...
 
-<button class="tinylytics_kudos"></button>
+<button class="tinylytics_kudos">Kudos</button>

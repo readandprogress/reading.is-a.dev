@@ -19,3 +19,6 @@ I could buy another replacement adapter and have everything up and running again
 For now, I guess I'm back to good old syncing. Which is not bad at all, by any means!
 
 But if you know of any good Raspberry Pi alternatives that are also in the same price range, please let me know!
+
+
+<button class="tinylytics_kudos">Kudos</button>

@@ -31,4 +31,4 @@ Here are the two skin versions you'll see when browsing the site. I'm quite happ
 
 I also have free reign to experiment with other plugins and themes if I wish, but personally, I'm more content with running the latest versions of my framework and my theme, with all the handyness of using Git to manage them. In a way, it feels like I haven't moved at all; I still commit to a repo on my GitHub, but now Cloudflare Pages takes care of the rest!
 
-<button class="tinylytics_kudos"></button>
+<button class="tinylytics_kudos">Kudos</button>

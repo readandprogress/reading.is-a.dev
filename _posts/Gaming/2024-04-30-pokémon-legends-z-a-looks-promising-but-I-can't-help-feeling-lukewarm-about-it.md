@@ -48,3 +48,5 @@ We have a new entry in the series with Legends: Z-A, and it looks promising. We 
 I, on the other hand, look at this with apprehension. I want nothing more than to be hyped for it like I was with Legends: Arceus, but I can't help but keep my hopes low. I just don't want to be disappointed again. So all I can do is hope that this time will be different, but that's all I can do. At least until we get some gameplay, but for now, I'm taking a break from this series. I hope it's just a short break and nothing more.
 
 Phew! That was a long one! If you read this far, thank you! I appreciate all of my readers. What about you? Do you like how the Pokemon games are heading? Do you feel similar to me? Let me know over at my [contact](/04-contact) page! (•‿•)
+
+<button class="tinylytics_kudos">Kudos</button>

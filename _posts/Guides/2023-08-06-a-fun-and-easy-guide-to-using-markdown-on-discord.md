@@ -199,3 +199,5 @@ Just add the greater-than character for a one-line block quote or three for a mu
 ## Wrapping up!
 
 That's it. You now have a pretty good grasp on Markdown on Discord. So what's next? I recommend looking into other Markdown guides if you want to get into the nitty-gritty of it and use it on other platforms! For now, I would love for you to use Markdown syntax on your favorite Discord servers and make the Discord experience better for everyone! I believe everyone should give Markdown a whirl; you may be surprised at how fun it is!
+
+<button class="tinylytics_kudos">Kudos</button>
