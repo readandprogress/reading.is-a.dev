@@ -7,6 +7,10 @@ author: Reading
 excerpt: Todo.txt has everything you need for tracking tasks. But its syntax is quite expansive and easy to grasp. So, I made my own habit tracking system using its specifications and I call it Habits.txt
 ---
 
+## Addendum 2024-07-20
+
+Quick update! But 
+
 I've been using todo.txt [^1]; a special syntax for structuring tasks in a plain text file for a while, and so far I've really been digging its simplicity! I follow the file-over-app philosophy as best as I can, and having my to-dos in a simple .txt file is another way I don't depend on an unnecessary app, in my opinion.
 
 While Todo.txt is great at what it sets out to do, I can't help but wonder what else it is capable of? This came into practice when I started tracking my habits a few months back. I tried multiple methods: pen and paper, a habit tracker app, a table in a markdown file. But none of them felt right. That is until I experimented with tracking them on my todo.txt file, and it worked surprisingly well!
