@@ -7,6 +7,20 @@ author: Reading
 excerpt: Todo.txt has everything you need for tracking tasks. But its syntax is quite expansive and easy to grasp. So, I made my own habit tracking system using its specifications and I call it Habits.txt
 ---
 
+## Addendum 2024-07-18
+
+Quick update! I recently discovered another system by the name of Habits.txt. This tool is created by fellow GitHub user [@estebanthi](https://github.com/estebanthi) and is much more comprehensive and just better than the system I hastily put together. There's no need for a bash script, and he even developed a nice CLI tool as well! I highly recommend using his system instead if you're looking for a plain-text alternative for tracking habits. It's what I personally use now and absolutely love it!
+
+Initially, I shared my system because I couldn't find any plain-text alternatives at that time. This post was written in early to mid-May, and back then, I hadn't come across any other plain-text systems based on todo.txt for habit tracking. It seems that around mid-May, estebanthi released his habits.txt version, so I must have missed it! 
+
+Although our systems are different, I regret not noticing his sooner! Please disregard this post and give estebanthi's [habits.txt](https://github.com/estebanthi/habits.txt) a try immediately! I believe it's exactly what you're looking for!
+
+If, by any chance, you are reading this estebanthi. Thank you so much for creating such an indispensable tool! It's quite remarkable that we both had similar ideas around the same time. Life works in mysterious ways.
+
+I will keep this post as it is, as it is part of my blog's history and If anyone comes across this post, I can gently guide them in the right direction!
+
+
+
 I've been using todo.txt [^1]; a special syntax for structuring tasks in a plain text file for a while, and so far I've really been digging its simplicity! I follow the file-over-app philosophy as best as I can, and having my to-dos in a simple .txt file is another way I don't depend on an unnecessary app, in my opinion.
 
 While Todo.txt is great at what it sets out to do, I can't help but wonder what else it is capable of? This came into practice when I started tracking my habits a few months back. I tried multiple methods: pen and paper, a habit tracker app, a table in a markdown file. But none of them felt right. That is until I experimented with tracking them on my todo.txt file, and it worked surprisingly well!
