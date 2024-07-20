@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+(A) title: "Transfering Files: The Right Way"
 date: 0000-09-00 00:00:00 -0000
 categories: 
 author: Reading
@@ -15,7 +15,7 @@ Fast, easy to use, and secure! So good in fact is odd that I have seen it mentio
 
 ``croc`` commands are simple to grasp and straightfoward if you have just a tiny modicum of experience in the CLI youll be fine and for those who don't I'll try best to make it a easy as possible. 
 
-First let's install ``croc``, is available on most popular linux distrors and of course on BSDs,Mac and Windows, but I will focusing on Linux for this guide. 
+First let's install ``croc``, is available on most popular linux distrors and of course on BSDs,Mac and Windows but I will focusing on Linux for this guide. 
 
 I'm using Debian and ``croc`` is available from the officail repo so all we have to do is;
 
@@ -24,11 +24,39 @@ sudo apt update
 sudo apt install croc -y
 ```
 
-Be sure to install any updates if available before intalling ``croc`` this is Linux CLI 101! if your wondering why is ``-y`` after the command is just so ``apt``knows that we confirm the install, otherwise you'll get an yes or no promt after executing the command. 
-
-Now that we have croc installed let's see what it can do;
+Now on the receiving device a android tablet, I;m using Termux and `croc` is available on the base repo aswell so again super easy to install!
 
 ```bash
-croc --help
+pkg update
+pkg upgrade
+pkg install croc -y
 ```
- 
+
+Be sure to install any updates if available before intalling ``croc`` this is Linux CLI 101! if your wondering why is ``-y`` after the command is just so ``apt``knows that we confirmed the install, otherwise you'll get a promt after executing the command. 
+
+Now that we have croc installed let's start by sending a file, for example I have this huge archive file filled with downloaded YouTube video files that I'll like to get on my tablet for later viewing and luckily `croc` can handle large files just fine, since is a direct connection between devices, is fast and has no limits on file size other than your own storage limitations.
+
+
+```bash
+croc send youtube-videos.zip 
+
+```
+
+Croc will then do it's preparations and then leaving you with a code like this;
+
+```
+Code is: 4812-airline-lima-script
+```
+
+
+```
+Enter receive code: 
+```
+
+Now enter you're short code and croc will do the rest! Is pretty zen-lik just seeing it go. 
+
+
+Once is done your file or files should be hapily sitting in the directory you initiated the croc command on. So what do think? Not that hard right and you didn't have to deal with slow cloud storage services or *forbid* emailing yourself a file...
+
+But know you know better! Which is what counts at the end of the day.
+
