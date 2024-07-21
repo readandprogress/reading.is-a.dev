@@ -1,62 +1,56 @@
 ---
 layout: post
-(A) title: "Transfering Files: The Right Way"
-date: 0000-09-00 00:00:00 -0000
-categories: 
+title: "Transfering Files: The Better Way!"
+date: 2024-07-20 21:00:00 -0500
+categories: Tech
 author: Reading
-excerpt: 
+excerpt: Recently, I've been dealing with transferring large files, and while there are plenty of tools available to do the job, most of them are slow, have a size limit, or are cumbersome to set up. Luckily, I learned about a powerful and simple-to-use tool called `croc` while looking for alternatives, and it's exactly what I've been looking for in a file transfer tool!
 ---
 
-Recently I been dealing with transfering large files over and while there's plenty of tools available to do the job, most of them are slow, have a file size limit, or cumbersome to set up. Luckily I learned of a powerful and simple to use tool called ``croc`` while looking for alternatives and is exactly what I'm looking for in file tranfer tool! 
+Recently, I've been dealing with transferring large files, and while there are plenty of tools available to do the job, most of them are slow, have a size limit, or are cumbersome to set up. Luckily, I learned about a powerful and simple-to-use tool called `croc` while looking for alternatives, and it's exactly what I've been looking for in a file transfer tool!
+ 
+Fast, easy to use, and secure! It's so good that it's odd I haven't seen it mentioned much. So, to remedy that, let me tell you all about it!
 
-Fast, easy to use, and secure! So good in fact is odd that I have seen it mentioned much, so that remedy that, let me tell you all about it! 
+`croc` is a CLI(Command-line Interface) cross-platform file transfer tool. Now, I know for some, the CLI may seem daunting, and you may scoff at the idea of it being simple, but it really is!
 
-``croc`` is CLI cross-platform file-transfer tool, now I know for some the CLI seems daunting and you may scoof at the idea of it being simple but it really is! 
+`croc` commands are simple to grasp and straightforward. If you have just a tiny bit of experience in the CLI, you'll be fine. For those who don't, I'll try my best to make it as easy as possible.
 
-``croc`` commands are simple to grasp and straightfoward if you have just a tiny modicum of experience in the CLI youll be fine and for those who don't I'll try best to make it a easy as possible. 
+First, let's install `croc`. It's available on most popular Linux distributions and, of course, on BSDs, Mac, and Windows, but I'll be focusing on Linux for this guide.
 
-First let's install ``croc``, is available on most popular linux distrors and of course on BSDs,Mac and Windows but I will focusing on Linux for this guide. 
+I'm using Debian, and `croc` is available from the official repo, so all we have to do is:
 
-I'm using Debian and ``croc`` is available from the officail repo so all we have to do is;
-
-```bash
-sudo apt update 
+``` bash
+sudo apt update
 sudo apt install croc -y
 ```
 
-Now on the receiving device a android tablet, I;m using Termux and `croc` is available on the base repo aswell so again super easy to install!
+Now, on the receiving device, an Android tablet, I'm using Termux, and "croc" is available on the base repo as well, so again, it's super easy to install!
 
-```bash
+``` bash
 pkg update
 pkg upgrade
 pkg install croc -y
 ```
 
-Be sure to install any updates if available before intalling ``croc`` this is Linux CLI 101! if your wondering why is ``-y`` after the command is just so ``apt``knows that we confirmed the install, otherwise you'll get a promt after executing the command. 
+Be sure to install any updates if available before installing "croc". This is Linux CLI 101! If you're wondering why there's "-y" after the command, it's just so "apt" knows that we confirmed the install; otherwise, you'll get a prompt after executing the command.
 
-Now that we have croc installed let's start by sending a file, for example I have this huge archive file filled with downloaded YouTube video files that I'll like to get on my tablet for later viewing and luckily `croc` can handle large files just fine, since is a direct connection between devices, is fast and has no limits on file size other than your own storage limitations.
+Now that we have "croc" installed, let's start by sending a file. For example, I have this huge archive file filled with downloaded YouTube video files that I'd like to have on my tablet for later viewing. Luckily, "croc" can handle large files just fine. Since it's a direct connection between devices, it's fast and has no limits on file size other than your own storage limitations.
 
-
-```bash
-croc send youtube-videos.zip 
-
+``` bash
+croc send youtube-videos.zip
 ```
 
-Croc will then do it's preparations and then leaving you with a code like this;
+`croc` will then do its preparations and leave you with a code like this:
 
-```
 Code is: 4812-airline-lima-script
-```
+
+Enter receive code:
+
+Now, enter your short code, and "croc" will do the rest! It's pretty zen-like just seeing it go.
+
+Once it's done, your file or files should be happily sitting in the directory where you initiated the `croc` command. So, what do you think? Not that hard, right? And you didn't have to deal with slow cloud storage services or emailing yourself a file...
+
+But now you know better! And that's what counts at the end of the day.
 
 
-```
-Enter receive code: 
-```
-
-Now enter you're short code and croc will do the rest! Is pretty zen-lik just seeing it go. 
-
-
-Once is done your file or files should be hapily sitting in the directory you initiated the croc command on. So what do think? Not that hard right and you didn't have to deal with slow cloud storage services or *forbid* emailing yourself a file...
-
-But know you know better! Which is what counts at the end of the day.
 

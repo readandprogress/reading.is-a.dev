@@ -25,6 +25,7 @@ minima:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
