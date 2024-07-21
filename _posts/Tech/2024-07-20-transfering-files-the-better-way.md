@@ -43,11 +43,16 @@ croc send youtube-videos.zip
 
 `croc` will then do its preparations and leave you with a code like this:
 
+``` 
 Code is: 4812-airline-lima-script
+```
 
+On your receiving device type `croc` and intiate it. You will get a prompt asking for your code.
+
+``` 
 Enter receive code:
-
-Now, enter your short code, and "croc" will do the rest! It's pretty zen-like just seeing it go.
+```
+Now, just enter your code, and "croc" will do the rest! It's pretty zen-like just seeing it go.
 
 Once it's done, your file or files should be happily sitting in the directory where you initiated the `croc` command. So, what do you think? Not that hard, right? And you didn't have to deal with slow cloud storage services or emailing yourself a file...
 
