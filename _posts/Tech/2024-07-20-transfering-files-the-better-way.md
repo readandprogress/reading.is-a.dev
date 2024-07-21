@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transfering Files: The Better Way!"
-date: 2024-07-20 21:00:00 -0500
+date: 2024-07-20 21:00:00 -0000
 
 categories: Tech
 author: Reading
