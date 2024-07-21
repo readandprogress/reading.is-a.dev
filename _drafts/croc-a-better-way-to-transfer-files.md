@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transfering Files: The Better Way!"
-date: 2024-07-20 21:00:00 -0500
+date: 2024-07-20 21:00:00 -0000
 categories: Tech
 author: Reading
 excerpt: Recently, I've been dealing with transferring large files, and while there are plenty of tools available to do the job, most of them are slow, have a size limit, or are cumbersome to set up. Luckily, I learned about a powerful and simple-to-use tool called `croc` while looking for alternatives, and it's exactly what I've been looking for in a file transfer tool!
