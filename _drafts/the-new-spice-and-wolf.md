@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "Spice and Wolf: Merchant Meets the Wise Wolf is fantastic so far!"
-date: 0000-09-00 00:00:00 -0000
+date: 2024-08-01 00:00:00 -0000
 categories: Anime
 author: Reading
 excerpt: I'm not much of a seasonal anime watcher, but this season is an exception! With the return of the fantastic Spice and Wolf! Yes! a new Spice and Wolf series is finally airing! I'm still a bit surprised that this show is back to be honest.
 time_taken: 47:16.7
 ---
+
+![](/_drafts/the-great-holo-holding-a-pear.jpg)
 
 I'm not much of a seasonal anime watcher, but this season is an exception! With the return of the fantastic Spice and Wolf! Yes! a new Spice and Wolf series is finally airing! I'm still a bit surprised that this show is back to be honest.
 
