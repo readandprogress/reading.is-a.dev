@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spice and Wolf: Merchant Meets the Wise Wolf is fantastic so far!"
-date: 2024-08-05 00:00:00 -0000
+date: 2024-08-06 00:00:00 -0000
 categories: Anime
 author: Reading
 excerpt: I'm not much of a seasonal anime watcher, but this last season is an exception! With the return of the fantastic Spice and Wolf! And now that the first half has finished airing, I'd like to share my thoughts on it!
