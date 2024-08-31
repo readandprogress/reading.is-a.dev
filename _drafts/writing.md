@@ -1,7 +1,7 @@
 ---  
 layout: post
-title: "?"
-date: 2024-07-15 00:00:00 -0000
+title: "WIP"
+date: 2024-09-15 00:00:00 -0000
 categories: Writing
 author: Reading
 excerpt: 
