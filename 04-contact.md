@@ -14,7 +14,7 @@ Yep, I bet you've heard this one before, but email is the best way to get in con
 
 [readandprogress@duck.com](mailto:readandprogress@duck.com)
 
-### Discord 
+### Discord
 
 I am also frequently active on Discord! Feel free to drop by!
 
