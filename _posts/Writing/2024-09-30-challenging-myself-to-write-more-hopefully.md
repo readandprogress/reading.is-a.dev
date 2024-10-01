@@ -1,7 +1,7 @@
 ---  
 layout: post
 title: "Challenging Myself to Write More, Hopefully!"
-date: 2024-09-30 00:00:00 -0000
+date: 2024-09-30 18:00:00 -0000
 categories: Writing
 author: Reading
 excerpt: I've been having trouble writing fiction as of late. I have this original work that I have been mulling over for a while now and really like to get the first chapter out this year, but all I managed to write was some of the worldbuilding, CVs, and some notes.
@@ -21,4 +21,4 @@ But yeah, with that said, I will be taking reflection notes after each session, 
 
 I will, of course, be posting the final review here when all is settled.
 
-As always, thanks for reading! If you're a fellow writer as well, I would love to know what tips and tricks you use to keep yourself motivated! Let me know over my [contact](../04-contact.md) page!
+As always, thanks for reading! If you're a fellow writer as well, I would love to know what tips and tricks you use to keep yourself motivated! Let me know over my [contact](/contact/) page!
