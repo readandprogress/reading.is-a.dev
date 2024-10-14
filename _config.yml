@@ -1,15 +1,16 @@
 title: The Reading Dimension
 email: readandprogress@duck.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
+  A dimension like no other.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: ""
+url: https://reading.is-a.dev
 author: Reading
 favicon: /favicon.png
 show_excerpts: true
 timezone: America/New_York
 
 feed:
-  path: /feed.xml
+  path: feed.xml
   title: The Reading Dimension 
 
 # Permalink configuration
