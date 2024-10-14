@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Transitioning to Cloudflare Pages!"
-date:   2023-10-31 00:00:00 -0000
+title: "Transitioning to Cloudflare Pages!"
+date: 2023-10-31 00:00:00 -0000
 categories: Tech  
 author: Reading
+excerpt: Well, hey there! It's been a while, hasn't it? I have been busy revamping this website and moving over to [Cloudflare Pages](https://pages.cloudflare.com/), so before I go back to my regular posting, let me explain the process and what's new this time around! 
 ---
 Well, hey there! It's been a while, hasn't it? I have been busy revamping this website and moving over to [Cloudflare Pages](https://pages.cloudflare.com/), so before I go back to my regular posting, let me explain the process and what's new this time around! 
 

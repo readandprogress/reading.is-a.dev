@@ -4,6 +4,7 @@ title:  "Being Sick Among Other Things."
 date:   2023-05-31 00:00:00 -0000
 author: Reading
 categories: General
+excerpt: I planned for this blog to be for long-form posts, but I guess I can make an exception for today, and microblogs and microblogging are pretty cool! But I digress.
 ---
 I planned for this blog to be for long-form posts, but I guess I can make an exception for today, and microblogs and microblogging are pretty cool! But I digress.
 

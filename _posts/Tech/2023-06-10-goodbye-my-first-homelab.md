@@ -4,6 +4,7 @@ title:  "Goodbye my First Homelab ; _ ;"
 date:   2023-06-10 00:00:00 -0000
 author: Reading
 categories: Tech
+excerpt: I was going to post about my neat home lab, but unfortunately, it didn't work out. I was hosting a SMB file share and Jellyfin media server on a ten-year-old Samsung laptop. I had it lying around, and I thought it would be a good way to give new life to old hardware.
 ---
 
 I was going to post about my neat home lab, but unfortunately, it didn't work out. I was hosting a SMB file share and Jellyfin media server on a ten-year-old Samsung laptop. I had it lying around, and I thought it would be a good way to give new life to old hardware.

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Why Fire Emblem Engage Is My Game of the Year!"
-date:   2023-12-25 00:00:00 -0000
+title: "Why Fire Emblem Engage Is My Game of the Year!"
+date: 2023-12-25 00:00:00 -0000
 categories: Gaming 
 author: Reading
 excerpt: This has been quite a year in the gaming sphere! is hard not to be overwhelm by the sheer volume of quality titles out this year and with every year us gamers decided on just one game to be our game of the year! 

@@ -6,7 +6,6 @@ categories: Writing
 author: Reading
 excerpt: I've been having trouble writing fiction as of late. I have this original work that I have been mulling over for a while now and really like to get the first chapter out this year, but all I managed to write was some of the worldbuilding, CVs, and some notes.
 ---
-
 I've been having trouble writing fiction as of late. I have this original work that I have been mulling over for a while now and really like to get the first chapter out this year, but all I managed to write was some of the worldbuilding, CVs, and some notes.
 
 One problem I have is focusing more on it. While writing is not *hard* in itself, brainstorming is, and just waiting for inspiration to strike me won't cut it anymore. I want to make real progress, and one thing that writing these posts taught me is that just the action of getting the words on the screen can help get those creative juices flowing.

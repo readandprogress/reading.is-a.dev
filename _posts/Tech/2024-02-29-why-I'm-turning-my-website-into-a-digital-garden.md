@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Why I’m Turning My Website Into a Digital Garden!"
-date:   2024-02-29 00:00:00 -0000
+title: "Why I’m Turning My Website Into a Digital Garden!"
+date: 2024-02-29 00:00:00 -0000
 categories: Tech
 author: Reading
 excerpt: This time I want to share some plans I have for the future of my website and what that means for you!

@@ -7,7 +7,6 @@ author: Reading
 excerpt: I'm not much of a seasonal anime watcher, but this last season is an exception! With the return of the fantastic Spice and Wolf! And now that the first half has finished airing, I'd like to share my thoughts on it!
 time_taken: 47:16.7
 ---
-
 ![The Great Holo Holding a Pear](/assets/images/the-great-holo-holding-a-pear.jpg)
 
 I'm not much of a seasonal anime watcher, but this last season is an exception! With the return of the fantastic Spice and Wolf! And now that the first half has finished airing, I'd like to share my thoughts on it!

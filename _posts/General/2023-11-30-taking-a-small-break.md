@@ -4,6 +4,7 @@ title:  "Taking a Small Break"
 date:   2023-11-30 00:00:00 -0000
 categories: General 
 author: Reading
+excerpt: So hey! How have you been? I'm being good these couple of months, and luckily my health has not stagnated since I got sick mid-year.
 ---
 So hey! How have you been? I'm being good these couple of months, and luckily my health has not stagnated since I got sick mid-year.
 

@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Learning The Arch Way!"
-date:   2023-12-10 00:00:00 -0000
+title: "Learning The Arch Way!"
+date: 2023-12-10 00:00:00 -0000
 categories: Tech 
 author: Reading
+excerpt: I'm not familiar with Arch at all, coming from Debian and Debian-based systems, so there is a fair bit to get used to!
 ---
 So I have been working on setting up an old Chromebook as a server—not using ChromeOS, mind you! I have installed custom firmware on the device, allowing me to install Endeavor OS on bare metal.
 
