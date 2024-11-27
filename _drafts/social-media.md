@@ -6,6 +6,7 @@ categories: Tech
 author: Reading
 excerpt: 
 ---
+
 During my time on the interwebs I have used many social media platforms and none of them ever stuck with me. I wasn't much of a fan, as a early netizen I was accustomed to forums, message boards and IRC chatrooms. For me these new fangled social networks we're robbed of all the uniqueness of the early web. 
 
 One of the reasons I started this blog was so I could have a place to write about my interests without depending on any platform. This has is caveats; discovery for one being one of the biggest. 

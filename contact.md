@@ -2,6 +2,7 @@
 layout: base
 title: Contact
 permalink: /contact/
+order: 3
 ---
 
 ## Get in Touch
