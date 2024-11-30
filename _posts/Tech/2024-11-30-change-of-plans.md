@@ -6,8 +6,6 @@ categories: Tech
 time: 2:48
 author: Reading
 excerpt: It has been a while since I talked about changing my humble blog into a digital garden, all the way back in February of this year. As you can see, now nearing the end of the year, my website remains mostly the same.
-
-So, what happened?
 ---
 
 It has been a while since I talked about changing my humble blog into a digital garden, all the way back in February of this year. As you can see, now nearing the end of the year, my website remains mostly the same.

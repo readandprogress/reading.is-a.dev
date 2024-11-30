@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-30T15:10:52-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Reading Dimension</title><subtitle>A dimension like no other.</subtitle><author><name>Reading</name></author><entry><title type="html">Writing Challenge: Final Review and Results</title><link href="http://localhost:4000/writing-challenge-final-review-and-results/" rel="alternate" type="text/html" title="Writing Challenge: Final Review and Results" /><published>2024-10-14T11:00:00-04:00</published><updated>2024-10-14T11:00:00-04:00</updated><id>http://localhost:4000/writing-challenge-final-review-and-results</id><content type="html" xml:base="http://localhost:4000/writing-challenge-final-review-and-results/"><![CDATA[<p>Welp, a week has passed but unfortunately due to unforeseen events with the weather, writing was far from being the most important thing in my mind these last couple of days…</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-30T18:56:38-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Reading Dimension</title><subtitle>A dimension like no other.</subtitle><author><name>Reading</name></author><entry><title type="html">Change of Plans</title><link href="http://localhost:4000/change-of-plans/" rel="alternate" type="text/html" title="Change of Plans" /><published>2024-11-30T12:00:00-05:00</published><updated>2024-11-30T12:00:00-05:00</updated><id>http://localhost:4000/change-of-plans</id><content type="html" xml:base="http://localhost:4000/change-of-plans/"><![CDATA[<p>It has been a while since I talked about changing my humble blog into a digital garden, all the way back in February of this year. As you can see, now nearing the end of the year, my website remains mostly the same.</p>
+
+<p>So, what happened?</p>
+
+<p>After trying out a few themes, including the aforementioned Minimal Mistakes, I found all of them to be lacking in one way or another—either a missing feature or the design not being to my liking.</p>
+
+<p>So instead, I’m going to stick with the venerable Minima theme and build on top of that for now. I find the Minima theme to be almost what I’m looking for, just missing a few things that will make it a perfect fit for me.</p>
+
+<p>I’m still planning to implement most of the features that I mentioned, with some new additions as well.</p>
+
+<p>Expect some of them in the upcoming weeks. (•‿•)</p>]]></content><author><name>Reading</name></author><category term="Tech" /><summary type="html"><![CDATA[It has been a while since I talked about changing my humble blog into a digital garden, all the way back in February of this year. As you can see, now nearing the end of the year, my website remains mostly the same.]]></summary></entry><entry><title type="html">Writing Challenge: Final Review and Results</title><link href="http://localhost:4000/writing-challenge-final-review-and-results/" rel="alternate" type="text/html" title="Writing Challenge: Final Review and Results" /><published>2024-10-14T11:00:00-04:00</published><updated>2024-10-14T11:00:00-04:00</updated><id>http://localhost:4000/writing-challenge-final-review-and-results</id><content type="html" xml:base="http://localhost:4000/writing-challenge-final-review-and-results/"><![CDATA[<p>Welp, a week has passed but unfortunately due to unforeseen events with the weather, writing was far from being the most important thing in my mind these last couple of days…</p>
 
 <p>But it’s not all doom and gloom. There’s always a silver lining, as they say. The biggest nugget of knowledge that I got from this experience is that a week is not at all enough time to brainstorm ideas, regardless of the situation. One of my downfalls is that I tend to think things take less time than they actually do. Heh-heh.</p>
 
@@ -436,53 +446,4 @@ So for those of you uninformed I’ll be glad to filled you in!</p>
 
 <p>“So when will we expect these changes?” You might ask? Well not anytime soon, I haven’t even began tinkering with <code class="language-plaintext highlighter-rouge">minimal-mistakes</code> yet! Is going to take a while why I finished customizing the theme and making sure is well polished. But you can expect it this year at least.</p>
 
-<p>This will be a big <em>leap</em> for this website and is next real evolution and I hope you are excited as much as I am for it! For now though expect a new post mid March!</p>
-
-<p><button class="tinylytics_kudos">Kudos</button></p>]]></content><author><name>Reading</name></author><category term="Tech" /><summary type="html"><![CDATA[This time I want to share some plans I have for the future of my website and what that means for you!]]></summary></entry><entry><title type="html">Getting Started with Chromebrew!</title><link href="http://localhost:4000/getting-started-with-chromebrew/" rel="alternate" type="text/html" title="Getting Started with Chromebrew!" /><published>2024-01-30T19:00:00-05:00</published><updated>2024-01-30T19:00:00-05:00</updated><id>http://localhost:4000/getting-started-with-chromebrew</id><content type="html" xml:base="http://localhost:4000/getting-started-with-chromebrew/"><![CDATA[<p>I am bringing you a short post for this month since I have been enjoying my holidays, and my last post was my longest and most worked on yet! So I’m taking a small break for now, but I don’t want to leave you with nothing for this month, so here we are. I hope you enjoy it!</p>
-
-<p>I daily drive a Chromebook, and that device has just recently reached EOL (End of Life) or AUE (Auto-Update Expiry), as Google calls it, but is practically the same thing. I’m hugely opposed to planned obsolescence, so I’m not just going to get a new Chromebook and chuck my old one out.</p>
-
-<p>That’s just e-waste, in my opinion, and even though I love ChromeOS as an operating system, this will be my last Chromebook. I can’t, in good conscience, keep using products that endorse this behavior. Now I know there’s a Framework Chromebook, and support has been increased to ten years, but that’s still not enough for me. What if my device is perfectly capable by then? I should, as a consumer, choose how long I use a product, not the company.</p>
-
-<p>I thought this wouldn’t be a big deal when I learned about <code class="language-plaintext highlighter-rouge">lacros</code>, a project that aims to split the Chrome browser from ChromeOS, meaning that it can get updated even after AUE (supposedly). The problem is that Google decided in their infinite wisdom to tie lacros to ChromeOS updates, meaning that as soon as the device is AUE, <code class="language-plaintext highlighter-rouge">lacros</code> will only update a few versions away from the last ChromeOSupdate.e</p>
-
-<p>Making it completely useless for the purpose of extending the life of the device, at first I thought it was just the behavior of being an experimental flag, but it seems Google never designed it for that purpose in the first place, which makes sense: Why not just extend the updates indefinitely then? It wouldn’t align with their best interests, I guess.</p>
-
-<p>Luckily, there are alternate ways to keep your Chromebook or Chrome device up-to-date! First off, there’s ChromeOS Flex, formerly Cloudready, an official distro of ChromeOS without Android, but that’s for the best, in my opinion. This version doesn’t have an AUE date (yet!) and is meant to be a light operating system to bring new life to old x86 devices, but it can also be used on Chromebooks! As long as you have an x86 Chromebook, there is no support for ARM just yet. If you can manage it, this is the best option, as it requires little setup other than installing a regular BIOS with the Mr. Chromebox script.</p>
-
-<p>There’s also brunch! Which is quite similar to Flex but is a community project and supports Android apps on some devices. This thus requires a lot of setup and is only available for x86 devices, which mine aren’t, so this and Flex are a no-go for me.</p>
-
-<p>Then we have the good old, reliable Crouton! While not in active development, it still works wonders, allowing you to run a full desktop environment and apps. Chrouton works on all Chrome devices, but due to running inside ChromeOS within a chroot, you still need to access the shell to install it.</p>
-
-<p>Finally, we have the topic of this very post, Chromebrew! Unlike the others, Chromebrew is a package manager for ChromeOS, making it a full-on Linux distro! So if you enjoy ChromeOS and would like a proper package manager like I do, this is for you! But other than the niftyness of having Linux apps run on bare metal, there’s a second benefit we are looking for!</p>
-
-<p>With Chromebrew, we can install the latest version of Chrome, and its performance is better than <code class="language-plaintext highlighter-rouge">lacros</code> in my opinion! Allowing us to have an updated browser on our AUE Chromebook plus other handy apps. To get started, we first need to set up developer mode on our Chromebook, which is an easy process of holding CTRL+ESC and the power button when turning on the device.</p>
-
-<p>Go through the prompt to disable verification, and voila! The device will start in developer mode after it resets itself, or powerwashes, as Google calls it. Then it’s just a matter of logging in, opening up <code class="language-plaintext highlighter-rouge">chrosh</code>, typing and entering <code class="language-plaintext highlighter-rouge">shell</code>, and using the Chromebrew script.</p>
-
-<p>Once it’s installed, you’ll need to get used to its commands. Here are a few ways to get started.</p>
-
-<ul>
-  <li>
-    <p><code class="language-plaintext highlighter-rouge">crew</code> is the base command when calling upon Chromebrew. You need this command anytime you want to do something with Chromebrew.</p>
-  </li>
-  <li>
-    <p><code class="language-plaintext highlighter-rouge">install</code> is self-explanatory; you use it to install a package and dependencies. -‘remove’, just like the last one, is a no-brainer and allows you to remove a package and its dependencies.</p>
-  </li>
-  <li>
-    <p><code class="language-plaintext highlighter-rouge">update</code> This one doesn’t work like you expect; instead of updating repos, there aren’t any here; it’s all in a git repo. It updates Chromebrew itself.</p>
-  </li>
-  <li>
-    <p><code class="language-plaintext highlighter-rouge">upgrade</code> works as intended, allowing you to upgrade specific or all packages. - <code class="language-plaintext highlighter-rouge">build</code> If a package isn’t available, you can build it from source with this command. I may need to do this myself for some apps like Tailscale.</p>
-  </li>
-  <li>
-    <p><code class="language-plaintext highlighter-rouge">list</code> lists all the packages locally or available to install.</p>
-  </li>
-  <li>
-    <p><code class="language-plaintext highlighter-rouge">search</code> Finally, there’s a search command to find packages with, which is quite handy!</p>
-  </li>
-</ul>
-
-<p>Remember to use the commands in conjunction with each other, not alone, so if you want to install Chrome, for example, you use <code class="language-plaintext highlighter-rouge">crew install chrome</code>.</p>
-
-<p>In conclusion, Chromebrew is a great tool! Regardless of using it to give new life to older hardware, I feel like every Chromebook or Chrome device owner should have this in their toolkit to make ChromeOS even more enjoyable to use!</p>]]></content><author><name>Reading</name></author><category term="Tech" /><summary type="html"><![CDATA[I am bringing you a short post for this month since I have been enjoying my holidays, and my last post was my longest and most worked on yet! So I'm taking a small break for now, but I don't want to leave you with nothing for this month, so here we are. I hope you enjoy it!]]></summary></entry></feed>
+<p>This will be a big <em>leap</em> for this website and is next real evolution and I hope you are excited as much as I am for it! For now though expect a new post mid March!</p>]]></content><author><name>Reading</name></author><category term="Tech" /><summary type="html"><![CDATA[This time I want to share some plans I have for the future of my website and what that means for you!]]></summary></entry></feed>
