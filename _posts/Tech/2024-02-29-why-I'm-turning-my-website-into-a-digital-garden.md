@@ -59,5 +59,3 @@ The plan is to write my thoughts daily that later can become full on posts or ar
 "So when will we expect these changes?" You might ask? Well not anytime soon, I haven't even began tinkering with `minimal-mistakes` yet! Is going to take a while why I finished customizing the theme and making sure is well polished. But you can expect it this year at least.
 
 This will be a big *leap* for this website and is next real evolution and I hope you are excited as much as I am for it! For now though expect a new post mid March!
-
-<button class="tinylytics_kudos">Kudos</button>

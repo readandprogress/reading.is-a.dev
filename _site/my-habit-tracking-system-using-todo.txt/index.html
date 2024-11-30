@@ -4,7 +4,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>My Habit Tracking System Using todo.txt! | The Reading Dimension</title>
-<meta name="generator" content="Jekyll v4.3.3" />
+<meta name="generator" content="Jekyll v4.3.4" />
 <meta property="og:title" content="My Habit Tracking System Using todo.txt!" />
 <meta name="author" content="Reading" />
 <meta property="og:locale" content="en_US" />
@@ -35,7 +35,7 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/">Home</a><a class="page-link" href="/02-about/">About</a><a class="page-link" href="/categories/">Categories</a><a class="page-link" href="/04-contact/">Contact</a></div>
+        <div class="trigger"><a class="page-link" href="/">Home</a><a class="page-link" href="/about/">About</a><a class="page-link" href="/categories/">Categories</a><a class="page-link" href="/contact/">Contact</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
@@ -51,54 +51,63 @@
             <span class="p-author h-card" itemprop="name">Reading</span></span></p>
     
       <div class="post-content e-content" itemprop="articleBody">
-        <p>I’ve been using todo.txt <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>, a special syntax for structuring tasks in a plain text file. So far, I’ve really been digging its simplicity! I follow the file-over-app philosophy as best I can, and having my to-dos in a simple .txt file is another way I don’t depend on an unnecessary app, in my opinion.</p>
+        <h2 id="addendum-2024-07-18">Addendum 2024-07-18</h2>
 
-<p>While todo.txt is great at its base, I’ve been thinking of ways to expand upon it for more than just tasks. I recently started tracking my habits. I tried multiple methods: pen and paper, a habit tracker app, a table in a markdown file. But none of them felt right. That is until I experimented with tracking them on my todo.txt file, and it worked surprisingly well!</p>
+<p>Quick update! I recently discovered another system by the name of Habits.txt. This tool is created by fellow GitHub user <a href="https://github.com/estebanthi">@estebanthi</a> and is much more comprehensive and just better than the system I hastily put together. There’s no need for a bash script, and he even developed a nice CLI tool as well! I highly recommend using his system instead if you’re looking for a plain-text alternative for tracking habits. It’s what I personally use now and absolutely love it!</p>
 
-<p>Todo.txt has everything you need for tracking tasks. But its syntax is quite expansive and easy to grasp. So, I made my own habit tracking system using its specifications and I call it Habits.txt</p>
+<p>Initially, I shared my system because I couldn’t find any plain-text alternatives at that time. This post was written in early to mid-May, and back then, I hadn’t come across any other plain-text systems based on todo.txt for habit tracking. It seems that around mid-May, estebanthi released his habits.txt version, so I must have missed it!</p>
 
-<p>Just like todo.txt, you can and is recommended to have a done.txt or todo.archive.txt file where your completed tasks get archived, if anything this is must have for habits.txt as this is the way you can keep track of your progress. So let’s get started by creating both files in your preferred directory like this:</p>
+<p>Although our systems are different, I regret not noticing his sooner! Please disregard this post and give estebanthi’s <a href="https://github.com/estebanthi/habits.txt">habits.txt</a> a try immediately! I believe it’s exactly what you’re looking for!</p>
+
+<p>If, by any chance, you are reading this estebanthi. Thank you so much for creating such an indispensable tool! It’s quite remarkable that we both had similar ideas around the same time. Life works in mysterious ways.</p>
+
+<p>I will keep this post as it is, as it is part of my blog’s history and If anyone comes across this post, I can gently guide them in the right direction!</p>
+
+<p>I’ve been using todo.txt <sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup>; a special syntax for structuring tasks in a plain text file for a while, and so far I’ve really been digging its simplicity! I follow the file-over-app philosophy as best as I can, and having my to-dos in a simple .txt file is another way I don’t depend on an unnecessary app, in my opinion.</p>
+
+<p>While Todo.txt is great at what it sets out to do, I can’t help but wonder what else it is capable of? This came into practice when I started tracking my habits a few months back. I tried multiple methods: pen and paper, a habit tracker app, a table in a markdown file. But none of them felt right. That is until I experimented with tracking them on my todo.txt file, and it worked surprisingly well!</p>
+
+<p>Todo.txt has everything you need for tracking tasks. But its syntax is quite expansive and easy to grasp. So, I made my own habit tracking system using its specifications, and I call it Habits.txt!</p>
+
+<p>Just like Todo.txt, you can and are recommended to have a done.txt or todo.archive.txt file where your completed tasks get archived. If anything, this is a must-have for Habits.txt as this is the way you can keep track of your progress. So let’s get started by creating both files in your preferred directory like this:</p>
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">touch </span>habits.txt habits.archive.txt
 </code></pre></div></div>
-<p>You can use done.txt instead of habits.archive.txt if you prefer but personally since I have my todo.txt and habits.txt files in the same directory I like having the distinction.</p>
 
-<p>Now let’s add our first habit! Using your favorite editor write your habit on the first line like this:</p>
+<p>You can use done.txt instead of habits.archive.txt if you prefer, but personally, since I have my todo.txt and habits.txt files in the same directory, I like having that distinction.</p>
+
+<p>Now let’s add our first habit! Using your favorite editor, write your habit on the first line like this:</p>
 
 <div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Read for 30 minutes
-
 </code></pre></div></div>
 
-<p>We follow-up by adding a project tag just like in todo.txt!</p>
+<p>We follow up by adding a project tag just like in todo.txt!</p>
 
 <div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Read for 30 minutes +leisure
-
 </code></pre></div></div>
 
-<p>As you can see now our habit is under the +leisure project tag, this way we can keep our habits organized, but we won’t stop there! We’ll add a tag for the day or days we will do our habit.</p>
+<p>As you can see now, our habit is under the +leisure project tag. This way we can keep our habits organized, but we won’t stop there! We’ll add a tag to track when we will do our habit.</p>
 
-<div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(D) Read for 30 minutes +leisure 
-
+<div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(D) Read for 30 minutes +leisure
 </code></pre></div></div>
 
-<p>Just like todo.txt priority tags except instead of priority we are using It to keep track of the days, (D) here stands for daily but you can (W)  and (M) for weekly and monthly respectfully.</p>
+<p>Just like todo.txt priority tags, except instead of priority, we are using it to keep track of when a habit will take place. <code class="language-plaintext highlighter-rouge">(D)</code> here stands for daily, but you can use <code class="language-plaintext highlighter-rouge">(W)</code> and <code class="language-plaintext highlighter-rouge">(M)</code> for weekly and monthly respectively.</p>
 
-<p>Optionally you can add a context tag to specify where and in what matter you do a habit like; @home @gym @work etc</p>
+<p>Optionally, you can add a context tag to specify where and in what manner you do a habit like; <code class="language-plaintext highlighter-rouge">@home</code> <code class="language-plaintext highlighter-rouge">@gym</code> <code class="language-plaintext highlighter-rouge">@work</code>, etc.</p>
 
 <div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(D) Read for 30 minutes +leisure @home
 </code></pre></div></div>
 
-<p>Now that we have our habit nicely logged how do we mark it? The same way as todo.txt we place a (x) at the beginning of each habit and add the date when we had completed it.</p>
+<p>Now that we have our habit nicely logged, how do we mark it? The same way as todo.txt, we place an <code class="language-plaintext highlighter-rouge">x</code> at the beginning of each habit and add the date when we had completed it.</p>
 
 <div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>x 2024-05-25 (D) Read for 30 minutes +leisure
-
 </code></pre></div></div>
 
-<p>Beautiful! We now have a completed habit entry, now we can move it over to our previously created habits.archive.txt. All done!</p>
+<p>Beautiful! We now have a completed habit entry. Now we can move it over to our previously created habits.archive.txt. All done!</p>
 
-<p>You now know how to log habits with habits.txt! Pretty simple right?But thats just the basics, Here’s how I automated it to make it easier.</p>
+<p>You now know how to log habits with habits.txt! Pretty simple, right? But that’s just the basics. Here’s how I automated it to make it easier.</p>
 
-<p>I created a simple bash script that routinely wipes my habits.txt file in the early morning and adds my currently working on habits to the file, here’s a template so you can make your own!</p>
+<p>I created a simple bash script that routinely wipes my habits.txt file in the early morning and adds my currently working on habits to the file. Here’s a template so you can make your own!</p>
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
 
@@ -108,14 +117,11 @@
 <span class="c"># Add text to the file</span>
 <span class="nb">echo</span> <span class="s2">"Your habits here!
 "</span> <span class="o">&gt;&gt;</span> / <span class="c"># Location of your habits.txt file</span>
-
 </code></pre></div></div>
 
-<p>Then I set a cron job to run this script in the early mornings and voila! Now all I have to do is mark my habits as I complete them and then archive them. You can use any editor that supports the todo.txt syntax like VS Code with is fantastic todo.txt extension or Markor on mobile!</p>
+<p>Then I set a cron job to run this script in the early mornings, and voila! Now all I have to do is mark my habits as I complete them and then archive them. You can use any editor that supports the todo.txt syntax like VS Code with its fantastic todo.txt extension or Markor on mobile!</p>
 
-<p>Use any syncing platform or cough cloud provider cough to sync between your devices, I use Git and GitHub to keep it sync like I do with my notes. This is just scratching the surface on what you can do with it, as is plain text is extremely extensible!</p>
-
-<p>So why not give it a shot and if you do please let me know how it went! ^_^</p>
+<p>Use any syncing platform or <del>cloud providers</del> to sync between your devices. I use Git and GitHub to keep it in sync, just like I do with my notes. This is just scratching the surface of what you can do with it, as plain text is extremely extensible! So why not give it a shot, and if you do, please let me know how it went! (•‿•)</p>
 
 <p><br /></p>
 
@@ -123,7 +129,7 @@
 
 <div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:1" role="doc-endnote">
+    <li id="fn:1">
       <p><a href="http://todotxt.org/">Todo.txt</a> The most simple and extensible way to track tasks! <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
@@ -135,6 +141,6 @@
 </article>
 
       </div>
-    </main><script src="https://tinylytics.app/embed/DK_YxVC6G4sW6wGE9F7_.js" defer></script></body>
+    </main><script src="https://tinylytics.app/embed/DK_YxVC6G4sW6wGE9F7_.js?hits&webring"defer></script></body>
 
 </html>

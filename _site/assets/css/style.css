@@ -7,15 +7,15 @@
   --minima-background-color: #fdfdfd;
   --minima-code-background-color: #f1f1f6;
   --minima-link-base-color: #7158CE;
-  --minima-link-visited-color: #4b31a8;
+  --minima-link-visited-color: rgb(74.5138888889, 49.3402777778, 168.1597222222);
   --minima-link-hover-color: #111;
   --minima-border-color-01: white;
-  --minima-border-color-02: #e6e2f6;
+  --minima-border-color-02: rgb(230.3472222222, 226.0069444444, 246.4930555556);
   --minima-border-color-03: #7158ce;
-  --minima-table-text-color: #3f3f3f;
+  --minima-table-text-color: rgb(62.9, 62.9, 62.9);
   --minima-table-zebra-color: white;
   --minima-table-header-bg-color: white;
-  --minima-table-header-border: #edeaf9;
+  --minima-table-header-border: rgb(237.0527777778, 233.8930555556, 248.8069444444);
   --minima-table-border-color: white;
 }
 
@@ -228,9 +228,9 @@
     --minima-border-color-02: #7158ce;
     --minima-border-color-03: #7158CE;
     --minima-table-text-color: #ffffff;
-    --minima-table-zebra-color: #222222;
-    --minima-table-header-bg-color: #323232;
-    --minima-table-header-border: #4e4e4e;
+    --minima-table-zebra-color: rgb(34.2, 34.2, 34.2);
+    --minima-table-header-bg-color: rgb(49.5, 49.5, 49.5);
+    --minima-table-header-border: rgb(77.55, 77.55, 77.55);
     --minima-table-border-color: black;
   }
   .highlight .c {
@@ -669,6 +669,20 @@ table td {
     -webkit-overflow-scrolling: touch;
     -ms-overflow-style: -ms-autohiding-scrollbar;
   }
+}
+
+/**
+ * Tinylytics Hits
+ */
+.tinylytics_hits {
+  font-size: 14px;
+  color: #7158CE;
+  padding: 5px;
+}
+
+.tinylitics_kudos {
+  border: 2px solid #ff0000; /* You can change the color code (#ff0000) to the color you prefer */
+  border-radius: 5px; /* Optional: Add rounded corners to the border */
 }
 
 /**

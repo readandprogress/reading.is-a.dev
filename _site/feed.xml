@@ -1,51 +1,269 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-31T22:41:14-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Reading Dimension</title><subtitle></subtitle><author><name>Reading</name></author><entry><title type="html">My Habit Tracking System Using todo.txt!</title><link href="http://localhost:4000/my-habit-tracking-system-using-todo.txt/" rel="alternate" type="text/html" title="My Habit Tracking System Using todo.txt!" /><published>2024-05-30T20:00:00-04:00</published><updated>2024-05-30T20:00:00-04:00</updated><id>http://localhost:4000/my-habit-tracking-system-using-todo.txt</id><content type="html" xml:base="http://localhost:4000/my-habit-tracking-system-using-todo.txt/"><![CDATA[<p>I’ve been using todo.txt <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>, a special syntax for structuring tasks in a plain text file. So far, I’ve really been digging its simplicity! I follow the file-over-app philosophy as best I can, and having my to-dos in a simple .txt file is another way I don’t depend on an unnecessary app, in my opinion.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-30T15:10:52-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Reading Dimension</title><subtitle>A dimension like no other.</subtitle><author><name>Reading</name></author><entry><title type="html">Writing Challenge: Final Review and Results</title><link href="http://localhost:4000/writing-challenge-final-review-and-results/" rel="alternate" type="text/html" title="Writing Challenge: Final Review and Results" /><published>2024-10-14T11:00:00-04:00</published><updated>2024-10-14T11:00:00-04:00</updated><id>http://localhost:4000/writing-challenge-final-review-and-results</id><content type="html" xml:base="http://localhost:4000/writing-challenge-final-review-and-results/"><![CDATA[<p>Welp, a week has passed but unfortunately due to unforeseen events with the weather, writing was far from being the most important thing in my mind these last couple of days…</p>
 
-<p>While todo.txt is great at its base, I’ve been thinking of ways to expand upon it for more than just tasks. I recently started tracking my habits. I tried multiple methods: pen and paper, a habit tracker app, a table in a markdown file. But none of them felt right. That is until I experimented with tracking them on my todo.txt file, and it worked surprisingly well!</p>
+<p>But it’s not all doom and gloom. There’s always a silver lining, as they say. The biggest nugget of knowledge that I got from this experience is that a week is not at all enough time to brainstorm ideas, regardless of the situation. One of my downfalls is that I tend to think things take less time than they actually do. Heh-heh.</p>
 
-<p>Todo.txt has everything you need for tracking tasks. But its syntax is quite expansive and easy to grasp. So, I made my own habit tracking system using its specifications and I call it Habits.txt</p>
+<p>Nonetheless, you need to be in a certain mood to brainstorm. Turns out that my mood changed after I wrote and published that last post. Who would have dunked it?</p>
 
-<p>Just like todo.txt, you can and is recommended to have a done.txt or todo.archive.txt file where your completed tasks get archived, if anything this is must have for habits.txt as this is the way you can keep track of your progress. So let’s get started by creating both files in your preferred directory like this:</p>
+<h2 id="the-results">The Results</h2>
+
+<p>To make this easier to parse, I’m formatting the following entries as their own headings!</p>
+
+<h3 id="day-1---monday">Day 1 - Monday</h3>
+
+<p>I was pretty optimistic starting out; I started a new draft for the blog as a warm-up, per se. Which was great, but I started to lose steam when it came to actually diving in on my original project, so I never got started. Not a great start, but I’ll take what I can get.</p>
+
+<h3 id="day-2---tuesday">Day 2 - Tuesday</h3>
+
+<p>This was a nothing burger, plain and simple; nothing got done this day for a very good reason. This was the day I was informed about the then new storm coming to our part of town, and all I was thinking was that I needed to get prepared for the worst since you never know with these storms and that it has to be <em>now</em>.</p>
+
+<h3 id="day-3---wednesday">Day 3 - Wednesday</h3>
+
+<p>The day was much the same as the last, except I was really in preparation mode, so most of my day was assigned to that task. This is also the day when the storm hit us late in the night. Luckily, we were unscathed by the brunt of the damage the storm wrecked upon our state. Others weren’t so lucky…</p>
+
+<h3 id="day-4---thursday">Day 4 - Thursday</h3>
+
+<p>We lost power for a few hours since Wednesday, and luckily just as I woke up, the power returned! Now, everyone was not so lucky, unfortunately, and some still to this day have no power. Since things were starting to become normal again, I took it easy and went back into my usual routine.</p>
+
+<h3 id="day-5---friday">Day 5 - Friday</h3>
+
+<p>Another nothing burger; not much progress other than I was able to get back in the flow of other things going on in my life. It started to feel like any other day.</p>
+
+<h3 id="day-6---saturday">Day 6 - Saturday</h3>
+
+<p>I finally have something to report! I was able to work on a draft that became this post and another one that you’ll be seeing soon! Other than blogging, I kind of gave up on the challenge since then. I wasn’t in the right headspace yet, and I didn’t want to force myself either. Sigh, it is what it is, I guess.</p>
+
+<h3 id="final-day---sunday">Final Day - Sunday</h3>
+
+<p>Much the same as the last one; I made more progress on a rather interesting draft (well, in my view at least!) from earlier, and that was rather enjoyable. I also started to gather my thoughts on the week and couldn’t help but feel a sense of dread for not following through with my own imposed challenge, but what can you do when life throws you lemons?</p>
+
+<h2 id="wrapping-up">Wrapping up</h2>
+
+<p>Like I said, not the best start to a week that I set myself out to work on my writing project, but even so, I’m not giving up on the overall goal of making any progress on this beloved work of mine before the end of the year.</p>
+
+<p>With that said, I have reorganized my schedule to have a few hours dedicated to writing on Wednesdays! I feel like having a few hours in a day of the week is a better way for me to focus. Since my hobbies are pretty varied, focusing on too many things every day seems like an easy way to get overwhelmed and burned out in the end. Anyways! Here’s hoping for better writing sessions in my future.</p>]]></content><author><name>Reading</name></author><category term="Writing" /><summary type="html"><![CDATA[Welp, a week has passed but unfortunately due to unforeseen events with the weather, writing was far from being the most important thing in my mind these last couple of days...]]></summary></entry><entry><title type="html">Challenging Myself to Write More, Hopefully!</title><link href="http://localhost:4000/challenging-myself-to-write-more-hopefully/" rel="alternate" type="text/html" title="Challenging Myself to Write More, Hopefully!" /><published>2024-09-30T14:00:00-04:00</published><updated>2024-09-30T14:00:00-04:00</updated><id>http://localhost:4000/challenging-myself-to-write-more-hopefully</id><content type="html" xml:base="http://localhost:4000/challenging-myself-to-write-more-hopefully/"><![CDATA[<p>I’ve been having trouble writing fiction as of late. I have this original work that I have been mulling over for a while now and really like to get the first chapter out this year, but all I managed to write was some of the worldbuilding, CVs, and some notes.</p>
+
+<p>One problem I have is focusing more on it. While writing is not <em>hard</em> in itself, brainstorming is, and just waiting for inspiration to strike me won’t cut it anymore. I want to make real progress, and one thing that writing these posts taught me is that just the action of getting the words on the screen can help get those creative juices flowing.</p>
+
+<p>So hence the <strong>challenge</strong>! I’m going to try to get at least a solid half an hour of writing every day for the next week, starting this Sunday.</p>
+
+<p>The goal here is to get all or most of the brainstorming done; any progress on the first chapter draft is just a bonus, and hopefully, this could be a good start to making it a habit.</p>
+
+<p>Thirty minutes is not a daunting goal and isn’t insignificant either. I think it strikes a good balance for an intermediate writer like myself. I also like that it is a time goal and not a word count goal. From my experience, word count-based goals can be intimidating when starting and demotivating when you fail. It can also incentivize padding things out just to meet a threshold, and for this challenge, I want to mostly focus on ideas, so a word count is insufficient and ill-suited.</p>
+
+<p>But yeah, with that said, I will be taking reflection notes after each session, and once the week is over, I will compile them into one and do a final review. This will give me a rough idea of what I can improve upon.</p>
+
+<p>I will, of course, be posting the final review here when all is settled.</p>
+
+<p>As always, thanks for reading! If you’re a fellow writer as well, I would love to know what tips and tricks you use to keep yourself motivated! Let me know over my <a href="/contact/">contact</a> page!</p>]]></content><author><name>Reading</name></author><category term="Writing" /><summary type="html"><![CDATA[I've been having trouble writing fiction as of late. I have this original work that I have been mulling over for a while now and really like to get the first chapter out this year, but all I managed to write was some of the worldbuilding, CVs, and some notes.]]></summary></entry><entry><title type="html">Spice and Wolf: Merchant Meets the Wise Wolf is fantastic so far!</title><link href="http://localhost:4000/spice-and-wolf-merchant-meets-the-wise-wolf-is-fantastic-so-far!/" rel="alternate" type="text/html" title="Spice and Wolf: Merchant Meets the Wise Wolf is fantastic so far!" /><published>2024-08-05T20:00:00-04:00</published><updated>2024-08-05T20:00:00-04:00</updated><id>http://localhost:4000/spice-and-wolf-merchant-meets-the-wise-wolf-is-fantastic-so-far!</id><content type="html" xml:base="http://localhost:4000/spice-and-wolf-merchant-meets-the-wise-wolf-is-fantastic-so-far!/"><![CDATA[<p><img src="/assets/images/the-great-holo-holding-a-pear.jpg" alt="The Great Holo Holding a Pear" /></p>
+
+<p>I’m not much of a seasonal anime watcher, but this last season is an exception! With the return of the fantastic Spice and Wolf! And now that the first half has finished airing, I’d like to share my thoughts on it!</p>
+
+<p>Now I have only seen the first Spice and Wolf anime, several times, I might add! So keep that in mind. I’m sure the light novels are fantastic, and I will surely read them one day! But for now, I will only be comparing it to the original anime.</p>
+
+<p>The series is aptly subtitled Merchant Meets the Wise Wolf.</p>
+
+<p>It really encapsulates that this is the beginning of their story, and I expect that the next season will have its own distinct subtitle hinting at the events to be unfolded.</p>
+
+<p>The anime itself is unique; not many anime that I know of tackle the subject of economics, and Spice and Wolf really delivers on this front! It makes economics interesting and fun.</p>
+
+<p>Besides the fun world of trade and myths, The characters are also fun, sassy, and memorable. You have the great Holo as the main protagonist!</p>
+
+<p>She’s witty, snarky, and, of course, wise, and she contrasts well with our other protagonist, Kraft Lawrence, a traveling merchant knowledgeable in his trade but still kind to others and not just looking to fatten his pockets.</p>
+
+<p>They make a great pair, and their growing romance isn’t forced or stilted; they just genuinely care for each other, which is refreshing to see!</p>
+
+<p>I’m watching the dub as I usually do when available, and I’m happy to report that the voice actors from the first series have returned to reprise their roles! I haven’t checked the credits to be sure, but if there are any replacements, then they are really good replacements!</p>
+
+<p>Overall, I’m halfway through this twenty-five-episode romp, and I’m enjoying it immensely! I really hope we get a continuation; looking at its popularity, it’s pretty likely. I can’t wait to see the rest of their story!</p>]]></content><author><name>Reading</name></author><category term="Anime" /><summary type="html"><![CDATA[I'm not much of a seasonal anime watcher, but this last season is an exception! With the return of the fantastic Spice and Wolf! And now that the first half has finished airing, I'd like to share my thoughts on it!]]></summary></entry><entry><title type="html">Transfering Files; The Better Way!</title><link href="http://localhost:4000/transfering-files-the-better-way/" rel="alternate" type="text/html" title="Transfering Files; The Better Way!" /><published>2024-07-20T17:00:00-04:00</published><updated>2024-07-20T17:00:00-04:00</updated><id>http://localhost:4000/transfering-files-the-better-way</id><content type="html" xml:base="http://localhost:4000/transfering-files-the-better-way/"><![CDATA[<p>Recently, I’ve been dealing with transferring large files, and while there are plenty of tools available to do the job, most of them are slow, have a size limit, or are cumbersome to set up. Luckily, I learned about a powerful and simple-to-use tool called <code class="language-plaintext highlighter-rouge">croc</code> while looking for alternatives, and it’s exactly what I’ve been looking for in a file transfer tool!</p>
+
+<p>Fast, easy to use, and secure! It’s so good that it’s odd I haven’t seen it mentioned much. So, to remedy that, let me tell you all about it!</p>
+
+<p><code class="language-plaintext highlighter-rouge">croc</code> is a CLI(Command-line Interface) cross-platform file transfer tool. Now, I know for some, the CLI may seem daunting, and you may scoff at the idea of it being simple, but it really is!</p>
+
+<p><code class="language-plaintext highlighter-rouge">croc</code> commands are simple to grasp and straightforward. If you have just a tiny bit of experience in the CLI, you’ll be fine. For those who don’t, I’ll try my best to make it as easy as possible.</p>
+
+<p>First, let’s install <code class="language-plaintext highlighter-rouge">croc</code>. It’s available on most popular Linux distributions and, of course, on BSDs, Mac, and Windows, but I’ll be focusing on Linux for this guide.</p>
+
+<p>I’m using Debian, and <code class="language-plaintext highlighter-rouge">croc</code> is available from the official repo, so all we have to do is:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>apt update
+<span class="nb">sudo </span>apt <span class="nb">install </span>croc <span class="nt">-y</span>
+</code></pre></div></div>
+
+<p>Now, on the receiving device, an Android tablet, I’m using Termux, and “croc” is available on the base repo as well, so again, it’s super easy to install!</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pkg update
+pkg upgrade
+pkg <span class="nb">install </span>croc <span class="nt">-y</span>
+</code></pre></div></div>
+
+<p>Be sure to install any updates if available before installing “croc”. This is Linux CLI 101! If you’re wondering why there’s “-y” after the command, it’s just so “apt” knows that we confirmed the install; otherwise, you’ll get a prompt after executing the command.</p>
+
+<p>Now that we have “croc” installed, let’s start by sending a file. For example, I have this huge archive file filled with downloaded YouTube video files that I’d like to have on my tablet for later viewing. Luckily, “croc” can handle large files just fine. Since it’s a direct connection between devices, it’s fast and has no limits on file size other than your own storage limitations.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>croc send youtube-videos.zip
+</code></pre></div></div>
+
+<p><code class="language-plaintext highlighter-rouge">croc</code> will then do its preparations and leave you with a code like this:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Code is: 4812-airline-lima-script
+</code></pre></div></div>
+
+<p>On your receiving device type <code class="language-plaintext highlighter-rouge">croc</code> and intiate it. You will get a prompt asking for your code.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Enter receive code:
+</code></pre></div></div>
+<p>Now, just enter your code, and “croc” will do the rest! It’s pretty zen-like just seeing it go.</p>
+
+<p>Once it’s done, your file or files should be happily sitting in the directory where you initiated the <code class="language-plaintext highlighter-rouge">croc</code> command. So, what do you think? Not that hard, right? And you didn’t have to deal with slow cloud storage services or emailing yourself a file…</p>
+
+<p>But now you know better! And that’s what counts at the end of the day.</p>]]></content><author><name>Reading</name></author><category term="Tech" /><summary type="html"><![CDATA[Recently, I've been dealing with transferring large files, and while there are plenty of tools available to do the job, most of them are slow, have a size limit, or are cumbersome to set up. Luckily, I learned about a powerful and simple-to-use tool called croc while looking for alternatives, and it's exactly what I've been looking for in a file transfer tool!]]></summary></entry><entry><title type="html">My Journey in Computing Throughout the Years!</title><link href="http://localhost:4000/my-journey-in-computing-throughout-the-years/" rel="alternate" type="text/html" title="My Journey in Computing Throughout the Years!" /><published>2024-06-14T20:00:00-04:00</published><updated>2024-06-14T20:00:00-04:00</updated><id>http://localhost:4000/my-journey-in-computing-throughout-the-years</id><content type="html" xml:base="http://localhost:4000/my-journey-in-computing-throughout-the-years/"><![CDATA[<p>I recently read a post<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup> by Kev Quirk<sup id="fnref:2"><a href="#fn:2" class="footnote" rel="footnote" role="doc-noteref">2</a></sup>, about his computing history, and it seemed like a fun topic, so I’m going to put my own twist on it!</p>
+
+<p>I’ve been into computing for two decades now—yes, I’m old. (◔‿◔)</p>
+
+<p>In that time, I have gone through four computers; one laptop and three desktops, experimenting with several operating systems and applications!</p>
+
+<h2 id="1999---2004-compaq-presario-7400-series">1999 - 2004 Compaq Presario 7400 Series</h2>
+
+<div style="text-align:center">
+  <img src="https://preview.redd.it/2fv5maew38i71.jpg?width=640&amp;height=480&amp;crop=smart&amp;auto=webp&amp;s=dfcabd9efd5a89463afc0354cc1af3196c7a77ca" alt="Image Alt Text" />
+</div>
+<p style="text-align:center">Not my exact model or picture, but is the closest to the one we had back then!</p>
+
+<p><br /></p>
+
+<p>My first PC, or should I say our first family computer, was a Compaq Presario 7400 series desktop tower. I’m not sure of the precise model, but I remember it had a Pentium 3 CPU, 64 MB of RAM, a 30GB HDD, and ran on Windows 98. It even came with an upgrade CD to Windows 98 SE!</p>
+
+<p>I have fond memories of playing games, going online for the first time, and slowly learning more about computers during that period. I remember reading both the accompanying manuals quite frequently; it was the closest thing to scratching the itch when the computer was occupied by my father or sister.</p>
+
+<p>It eventually became my own computer when my dad upgraded to a new custom-built PC and my sister bought herself a laptop. Even though it was a hand-me-down, I was quite happy to have a PC all to myself!</p>
+
+<p>Although I don’t use Windows anymore, Windows 98 will always have a special spot in my heart!</p>
+
+<h2 id="2004---2009-custom-built-pentium-4-desktop">2004 - 2009 Custom Built Pentium 4 Desktop</h2>
+
+<p>Around the time I was in middle school, my dad surprised me with a custom-built PC! I don’t know much about its components, but it had a Pentium 4 CPU, 1GB of RAM, 300GB HDD, internal graphics, and a copy of Windows XP. It was a good machine and it worked terrifically well!</p>
+
+<p>Windows XP was also more stable than Windows 98, so it made for a pleasant experience. However, unlike 98, I hold no love for XP; Sorry XP Fans!</p>
+
+<p>This was also the time when I became more interested in Linux! I had read about it before and was intrigued, but this is when I learned more about it and started ordering those free Live CDs! Fun times.</p>
+
+<h2 id="2009---2014-hp-pavilion-slimline-s5600-series">2009 - 2014 HP Pavilion Slimline s5600 Series</h2>
+
+<div style="text-align:center">
+  <img src="https://www.slashgear.com/wp-content/uploads/2009/06/hp_slimline_s5000_series_desktop.jpg" alt="Image Alt Text" />
+</div>
+<p style="text-align:center">The Pavilion Slimline Case still holds up in my opinon!</p>
+
+<p><br /></p>
+
+<p>When I enrolled in university for my major in Computer Science, I needed a new machine because my old one was left at my dad’s when we moved, and it was time for an upgrade!</p>
+
+<p>I was advised to get a laptop, which in hindsight was probably the best choice. However, I was stubborn and preferred the repairability and power of a desktop since I rarely needed to leave my desk. So, I received an HP Pavilion Slimline desktop as a gift from my mom. Its slim case was perfect for my desk space, and it looked great too! It featured a Pentium Duo CPU, my first dual-core CPU, 4GB of RAM, a 500GB HDD, Intel HD internal graphics, and a copy of Windows 7 Home Premium.</p>
+
+<p>This machine was fantastic! It ran smoothly without any issues and was quite impressive for an entry-level rig at that time!</p>
+
+<p>Windows 7 was also pleasant to use. Even though I was already using Linux and enjoying it, I decided to stick with Windows 7 on this machine. I eventually installed Kubuntu, and it ran fantastically!</p>
+
+<h2 id="2014---2018-the-dark-era">2014 - 2018 The Dark Era</h2>
+
+<p>During late 2014 I moved over to Florida and with it I parted away with a lot of my stuff including my trusty HP, I didn’t want to lug it all the way and it was already bit out of date anyways.</p>
+
+<p>This was what I called my <em>dark</em> era of computing since I effectively didn’t have a computer until late 2018 making do with tablets and later a smartphone. Not the best of times for me personally either, it was a <em>dark</em> era indeed.</p>
+
+<h2 id="2018---current-asus-c101pa-3in1-chromebook">2018 - Current Asus C101PA 3in1 Chromebook</h2>
+
+<div style="text-align:center">
+  <img src="https://lh3.googleusercontent.com/4eAyAEg0WARIV8_rxwL2uL4GxbMELhYA169Ty2lLgo7z9h8lIO9MccBPnst9m4ushBv9ytISgAg4wLUQawhLuONFSFfN2wGu7kS3Bg=s2048" alt="Image Alt Text" />
+</div>
+<p style="text-align:center">My current computer and my first Notebook PC!</p>
+
+<p><br /></p>
+
+<p>By this time, I had gotten my first job at a Mexican restaurant and could afford to buy my own computer! After saving up all the earnings I could from tip-wage work, I was able to purchase a not very glamorous but good enough for me Chromebook!</p>
+
+<p>It was the best for the price and very portable, something that I warmed up to as I grew up. All I needed was a device that allowed me to study, take notes, take tests, do some light coding, and light web browsing, and this small ASUS delivered that in spades!</p>
+
+<p>It’s also a convertible, which makes it extra handy when laying on the bed or setting it up in tent mode, for example, in the kitchen!</p>
+
+<p>It packs a Hexacore Rockchip CPU, 4GB of RAM, 16GB eMMC, and runs Chrome OS. I know those are underwhelming specs, but it works for me.</p>
+
+<p>I have been feeling its age now that it’s doesn’t get any more updates (Auto-Update Expiry), and I tend to push its limits sometimes by running Linux apps on top of a container called Crostini, but it still has plenty of life in it.</p>
+
+<p>I will replace it as my main device soon. Once I have an apartment, I’m planning on either building my own or getting one of these small but powerful mini PCs!</p>
+
+<h2 id="what-about-you">What about you?</h2>
+
+<p>Regardless, I’m interested in your computing history as well! Did you have a “dark” era like me? What operating systems have you used? Are you more of a laptop or desktop person? Let me know via my new contact page! (•‿•)</p>
+
+<h2 id="footnotes">Footnotes</h2>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1">
+      <p><a href="https://kevquirk.com/my-computing-history">Kev’s post</a>: This post woudn’t be possible otherwise! <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p><a href="https://kevquirk.com/">Kev Quirk</a>: A blogger I follow, you should too! <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name>Reading</name></author><category term="Tech" /><summary type="html"><![CDATA[I recently read a post by Kev Quirk about his computing history, and it seemed like a fun topic, so I'm going to put my own twist on it! I've been into computing for two decades now—yes, I'm old. (◔‿◔) In that time, I have gone through four computers; one laptop and three desktops, experimenting with several operating systems and applications!]]></summary></entry><entry><title type="html">My Habit Tracking System Using todo.txt!</title><link href="http://localhost:4000/my-habit-tracking-system-using-todo.txt/" rel="alternate" type="text/html" title="My Habit Tracking System Using todo.txt!" /><published>2024-05-30T20:00:00-04:00</published><updated>2024-05-30T20:00:00-04:00</updated><id>http://localhost:4000/my-habit-tracking-system-using-todo.txt</id><content type="html" xml:base="http://localhost:4000/my-habit-tracking-system-using-todo.txt/"><![CDATA[<h2 id="addendum-2024-07-18">Addendum 2024-07-18</h2>
+
+<p>Quick update! I recently discovered another system by the name of Habits.txt. This tool is created by fellow GitHub user <a href="https://github.com/estebanthi">@estebanthi</a> and is much more comprehensive and just better than the system I hastily put together. There’s no need for a bash script, and he even developed a nice CLI tool as well! I highly recommend using his system instead if you’re looking for a plain-text alternative for tracking habits. It’s what I personally use now and absolutely love it!</p>
+
+<p>Initially, I shared my system because I couldn’t find any plain-text alternatives at that time. This post was written in early to mid-May, and back then, I hadn’t come across any other plain-text systems based on todo.txt for habit tracking. It seems that around mid-May, estebanthi released his habits.txt version, so I must have missed it!</p>
+
+<p>Although our systems are different, I regret not noticing his sooner! Please disregard this post and give estebanthi’s <a href="https://github.com/estebanthi/habits.txt">habits.txt</a> a try immediately! I believe it’s exactly what you’re looking for!</p>
+
+<p>If, by any chance, you are reading this estebanthi. Thank you so much for creating such an indispensable tool! It’s quite remarkable that we both had similar ideas around the same time. Life works in mysterious ways.</p>
+
+<p>I will keep this post as it is, as it is part of my blog’s history and If anyone comes across this post, I can gently guide them in the right direction!</p>
+
+<p>I’ve been using todo.txt <sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup>; a special syntax for structuring tasks in a plain text file for a while, and so far I’ve really been digging its simplicity! I follow the file-over-app philosophy as best as I can, and having my to-dos in a simple .txt file is another way I don’t depend on an unnecessary app, in my opinion.</p>
+
+<p>While Todo.txt is great at what it sets out to do, I can’t help but wonder what else it is capable of? This came into practice when I started tracking my habits a few months back. I tried multiple methods: pen and paper, a habit tracker app, a table in a markdown file. But none of them felt right. That is until I experimented with tracking them on my todo.txt file, and it worked surprisingly well!</p>
+
+<p>Todo.txt has everything you need for tracking tasks. But its syntax is quite expansive and easy to grasp. So, I made my own habit tracking system using its specifications, and I call it Habits.txt!</p>
+
+<p>Just like Todo.txt, you can and are recommended to have a done.txt or todo.archive.txt file where your completed tasks get archived. If anything, this is a must-have for Habits.txt as this is the way you can keep track of your progress. So let’s get started by creating both files in your preferred directory like this:</p>
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">touch </span>habits.txt habits.archive.txt
 </code></pre></div></div>
-<p>You can use done.txt instead of habits.archive.txt if you prefer but personally since I have my todo.txt and habits.txt files in the same directory I like having the distinction.</p>
 
-<p>Now let’s add our first habit! Using your favorite editor write your habit on the first line like this:</p>
+<p>You can use done.txt instead of habits.archive.txt if you prefer, but personally, since I have my todo.txt and habits.txt files in the same directory, I like having that distinction.</p>
+
+<p>Now let’s add our first habit! Using your favorite editor, write your habit on the first line like this:</p>
 
 <div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Read for 30 minutes
-
 </code></pre></div></div>
 
-<p>We follow-up by adding a project tag just like in todo.txt!</p>
+<p>We follow up by adding a project tag just like in todo.txt!</p>
 
 <div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Read for 30 minutes +leisure
-
 </code></pre></div></div>
 
-<p>As you can see now our habit is under the +leisure project tag, this way we can keep our habits organized, but we won’t stop there! We’ll add a tag for the day or days we will do our habit.</p>
+<p>As you can see now, our habit is under the +leisure project tag. This way we can keep our habits organized, but we won’t stop there! We’ll add a tag to track when we will do our habit.</p>
 
-<div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(D) Read for 30 minutes +leisure 
-
+<div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(D) Read for 30 minutes +leisure
 </code></pre></div></div>
 
-<p>Just like todo.txt priority tags except instead of priority we are using It to keep track of the days, (D) here stands for daily but you can (W)  and (M) for weekly and monthly respectfully.</p>
+<p>Just like todo.txt priority tags, except instead of priority, we are using it to keep track of when a habit will take place. <code class="language-plaintext highlighter-rouge">(D)</code> here stands for daily, but you can use <code class="language-plaintext highlighter-rouge">(W)</code> and <code class="language-plaintext highlighter-rouge">(M)</code> for weekly and monthly respectively.</p>
 
-<p>Optionally you can add a context tag to specify where and in what matter you do a habit like; @home @gym @work etc</p>
+<p>Optionally, you can add a context tag to specify where and in what manner you do a habit like; <code class="language-plaintext highlighter-rouge">@home</code> <code class="language-plaintext highlighter-rouge">@gym</code> <code class="language-plaintext highlighter-rouge">@work</code>, etc.</p>
 
 <div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(D) Read for 30 minutes +leisure @home
 </code></pre></div></div>
 
-<p>Now that we have our habit nicely logged how do we mark it? The same way as todo.txt we place a (x) at the beginning of each habit and add the date when we had completed it.</p>
+<p>Now that we have our habit nicely logged, how do we mark it? The same way as todo.txt, we place an <code class="language-plaintext highlighter-rouge">x</code> at the beginning of each habit and add the date when we had completed it.</p>
 
 <div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>x 2024-05-25 (D) Read for 30 minutes +leisure
-
 </code></pre></div></div>
 
-<p>Beautiful! We now have a completed habit entry, now we can move it over to our previously created habits.archive.txt. All done!</p>
+<p>Beautiful! We now have a completed habit entry. Now we can move it over to our previously created habits.archive.txt. All done!</p>
 
-<p>You now know how to log habits with habits.txt! Pretty simple right?But thats just the basics, Here’s how I automated it to make it easier.</p>
+<p>You now know how to log habits with habits.txt! Pretty simple, right? But that’s just the basics. Here’s how I automated it to make it easier.</p>
 
-<p>I created a simple bash script that routinely wipes my habits.txt file in the early morning and adds my currently working on habits to the file, here’s a template so you can make your own!</p>
+<p>I created a simple bash script that routinely wipes my habits.txt file in the early morning and adds my currently working on habits to the file. Here’s a template so you can make your own!</p>
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
 
@@ -55,14 +273,11 @@
 <span class="c"># Add text to the file</span>
 <span class="nb">echo</span> <span class="s2">"Your habits here!
 "</span> <span class="o">&gt;&gt;</span> / <span class="c"># Location of your habits.txt file</span>
-
 </code></pre></div></div>
 
-<p>Then I set a cron job to run this script in the early mornings and voila! Now all I have to do is mark my habits as I complete them and then archive them. You can use any editor that supports the todo.txt syntax like VS Code with is fantastic todo.txt extension or Markor on mobile!</p>
+<p>Then I set a cron job to run this script in the early mornings, and voila! Now all I have to do is mark my habits as I complete them and then archive them. You can use any editor that supports the todo.txt syntax like VS Code with its fantastic todo.txt extension or Markor on mobile!</p>
 
-<p>Use any syncing platform or cough cloud provider cough to sync between your devices, I use Git and GitHub to keep it sync like I do with my notes. This is just scratching the surface on what you can do with it, as is plain text is extremely extensible!</p>
-
-<p>So why not give it a shot and if you do please let me know how it went! ^_^</p>
+<p>Use any syncing platform or <del>cloud providers</del> to sync between your devices. I use Git and GitHub to keep it in sync, just like I do with my notes. This is just scratching the surface of what you can do with it, as plain text is extremely extensible! So why not give it a shot, and if you do, please let me know how it went! (•‿•)</p>
 
 <p><br /></p>
 
@@ -70,7 +285,7 @@
 
 <div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:1" role="doc-endnote">
+    <li id="fn:1">
       <p><a href="http://todotxt.org/">Todo.txt</a> The most simple and extensible way to track tasks! <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
@@ -114,7 +329,9 @@
 
 <p>I, on the other hand, look at this with apprehension. I want nothing more than to be hyped for it like I was with Legends: Arceus, but I can’t help but keep my hopes low. I just don’t want to be disappointed again. So all I can do is hope that this time will be different, but that’s all I can do. At least until we get some gameplay, but for now, I’m taking a break from this series. I hope it’s just a short break and nothing more.</p>
 
-<p>Phew! That was a long one! If you read this far, thank you! I appreciate all of my readers. What about you? Do you like how the Pokemon games are heading? Do you feel similar to me? Let me know over <a href="mailto:readandprogress@duck.com.com">email</a> or on Discord(@readandprogress)!</p>]]></content><author><name>Reading</name></author><category term="Gaming" /><summary type="html"><![CDATA[Back with another post, and this time about a game, if you can believe it! My recent posts don't really scream gamer, so let's change that! Let's talk about one of my favorite game series, or I guess you could say it used to be one of them.]]></summary></entry><entry><title type="html">Keeping My Notes Synced With Git and GitHub!</title><link href="http://localhost:4000/keeping-my-notes-synced-with-git-and-github/" rel="alternate" type="text/html" title="Keeping My Notes Synced With Git and GitHub!" /><published>2024-03-24T20:00:00-04:00</published><updated>2024-03-24T20:00:00-04:00</updated><id>http://localhost:4000/keeping-my-notes-synced-with-git-and-github</id><content type="html" xml:base="http://localhost:4000/keeping-my-notes-synced-with-git-and-github/"><![CDATA[<p>Since I now take notes and write posts on my tablet and Chromebook. Actually, the last few posts I have written are from my tablet using <a href="https://github.com/gsantner/markor">Markor</a>!</p>
+<p>Phew! That was a long one! If you read this far, thank you! I appreciate all of my readers. What about you? Do you like how the Pokemon games are heading? Do you feel similar to me? Let me know over at my <a href="/04-contact">contact</a> page! (•‿•)</p>
+
+<p><button class="tinylytics_kudos">Kudos</button></p>]]></content><author><name>Reading</name></author><category term="Gaming" /><summary type="html"><![CDATA[Back with another post, and this time about a game, if you can believe it! My recent posts don't really scream gamer, so let's change that! Let's talk about one of my favorite game series, or I guess you could say it used to be one of them.]]></summary></entry><entry><title type="html">Keeping My Notes Synced With Git and GitHub!</title><link href="http://localhost:4000/keeping-my-notes-synced-with-git-and-github/" rel="alternate" type="text/html" title="Keeping My Notes Synced With Git and GitHub!" /><published>2024-03-24T20:00:00-04:00</published><updated>2024-03-24T20:00:00-04:00</updated><id>http://localhost:4000/keeping-my-notes-synced-with-git-and-github</id><content type="html" xml:base="http://localhost:4000/keeping-my-notes-synced-with-git-and-github/"><![CDATA[<p>Since I now take notes and write posts on my tablet and Chromebook. Actually, the last few posts I have written are from my tablet using <a href="https://github.com/gsantner/markor">Markor</a>!</p>
 
 <p>What can I say? I like laying on my bed and getting some posts out, a lifesaver when I was sick last month and didn’t want to leave my bed for extended periods.</p>
 
@@ -219,7 +436,9 @@ So for those of you uninformed I’ll be glad to filled you in!</p>
 
 <p>“So when will we expect these changes?” You might ask? Well not anytime soon, I haven’t even began tinkering with <code class="language-plaintext highlighter-rouge">minimal-mistakes</code> yet! Is going to take a while why I finished customizing the theme and making sure is well polished. But you can expect it this year at least.</p>
 
-<p>This will be a big <em>leap</em> for this website and is next real evolution and I hope you are excited as much as I am for it! For now though expect a new post mid March!</p>]]></content><author><name>Reading</name></author><category term="Tech" /><summary type="html"><![CDATA[This time I want to share some plans I have for the future of my website and what that means for you!]]></summary></entry><entry><title type="html">Getting Started with Chromebrew!</title><link href="http://localhost:4000/getting-started-with-chromebrew/" rel="alternate" type="text/html" title="Getting Started with Chromebrew!" /><published>2024-01-30T19:00:00-05:00</published><updated>2024-01-30T19:00:00-05:00</updated><id>http://localhost:4000/getting-started-with-chromebrew</id><content type="html" xml:base="http://localhost:4000/getting-started-with-chromebrew/"><![CDATA[<p>I am bringing you a short post for this month since I have been enjoying my holidays, and my last post was my longest and most worked on yet! So I’m taking a small break for now, but I don’t want to leave you with nothing for this month, so here we are. I hope you enjoy it!</p>
+<p>This will be a big <em>leap</em> for this website and is next real evolution and I hope you are excited as much as I am for it! For now though expect a new post mid March!</p>
+
+<p><button class="tinylytics_kudos">Kudos</button></p>]]></content><author><name>Reading</name></author><category term="Tech" /><summary type="html"><![CDATA[This time I want to share some plans I have for the future of my website and what that means for you!]]></summary></entry><entry><title type="html">Getting Started with Chromebrew!</title><link href="http://localhost:4000/getting-started-with-chromebrew/" rel="alternate" type="text/html" title="Getting Started with Chromebrew!" /><published>2024-01-30T19:00:00-05:00</published><updated>2024-01-30T19:00:00-05:00</updated><id>http://localhost:4000/getting-started-with-chromebrew</id><content type="html" xml:base="http://localhost:4000/getting-started-with-chromebrew/"><![CDATA[<p>I am bringing you a short post for this month since I have been enjoying my holidays, and my last post was my longest and most worked on yet! So I’m taking a small break for now, but I don’t want to leave you with nothing for this month, so here we are. I hope you enjoy it!</p>
 
 <p>I daily drive a Chromebook, and that device has just recently reached EOL (End of Life) or AUE (Auto-Update Expiry), as Google calls it, but is practically the same thing. I’m hugely opposed to planned obsolescence, so I’m not just going to get a new Chromebook and chuck my old one out.</p>
 
@@ -266,601 +485,4 @@ So for those of you uninformed I’ll be glad to filled you in!</p>
 
 <p>Remember to use the commands in conjunction with each other, not alone, so if you want to install Chrome, for example, you use <code class="language-plaintext highlighter-rouge">crew install chrome</code>.</p>
 
-<p>In conclusion, Chromebrew is a great tool! Regardless of using it to give new life to older hardware, I feel like every Chromebook or Chrome device owner should have this in their toolkit to make ChromeOS even more enjoyable to use!</p>]]></content><author><name>Reading</name></author><category term="Tech" /><summary type="html"><![CDATA[I am bringing you a short post for this month since I have been enjoying my holidays, and my last post was my longest and most worked on yet! So I'm taking a small break for now, but I don't want to leave you with nothing for this month, so here we are. I hope you enjoy it!]]></summary></entry><entry><title type="html">Why Fire Emblem Engage Is My Game of the Year!</title><link href="http://localhost:4000/why-fire-emblem-engage-is-my-game-of-the-year/" rel="alternate" type="text/html" title="Why Fire Emblem Engage Is My Game of the Year!" /><published>2023-12-24T19:00:00-05:00</published><updated>2023-12-24T19:00:00-05:00</updated><id>http://localhost:4000/why-fire-emblem-engage-is-my-game-of-the-year</id><content type="html" xml:base="http://localhost:4000/why-fire-emblem-engage-is-my-game-of-the-year/"><![CDATA[<h3 id="before-we-begin">Before We Begin!</h3>
-
-<p><img src="/assets/images/Header.jpg" alt="Emblem Marth" /></p>
-
-<p>This has been quite a year in the gaming sphere! is hard not to be overwhelm by the sheer volume of quality titles out this year and with every year us gamers decided on just one game to be our game of the year!</p>
-
-<p>This year has been awfully packed making the choice even harder but one game reigned supreme regardless of that: Fire Emblem Engage!</p>
-
-<p>Ever since the game released last January and I got my hands on it that fateful midnight, I knew deep down in my heart that this game will be my game of the year and I wasn’t wrong!</p>
-
-<p>Now that I have sinked in more three-hundred or so hours into it and completed most of the supports, I wanted to complete them before writing this but supports in Engage are notorisly hard to unlock!</p>
-
-<p>So now feeling well-versed on it,I feel is the perfect time to talk about my favorite game of the year!</p>
-
-<h3 id="the-not-anticipated-release">The (Not) Anticipated Release!</h3>
-
-<p><img src="/assets/images/The%20Dark%20Side.jpg" alt="A Bad End" /></p>
-
-<p>Back last year, in June, we got the first mention of a new Fire Emblem game, which happened to be Engage! According to a leak from a Reddit user, screenshots from an earlier build of the game surfaced, and the overall community reaction was mixed.</p>
-
-<p>Most of them thought it was fake, including me! When I first saw the screenshots, I disregarded them as being from a Chinese FE-like mobile game and went about my day. I didn’t give it much thought otherwise. Back then, for me, it clearly looked fake, but I was so wrong!</p>
-
-<p>Then, late that year, we got our first official announcement along with a trailer in a direct. There were no doubts about it; Fire Emblem Engage was real! Now, before this point, I was still skeptical of the authenticity of the leak, like most people. I don’t particularly care for leaks in this day and age when video game companies leak and spoil their audience by themselves.</p>
-
-<p>But nonetheless, some of the community was worried about this leak, and rightfully so! Since it was in a wildly different direction than that last game, Three Houses, the artwork was one of the points that intrigued me, with its vivid colors and quite out there designs. We haven’t seen a FE quite like this!</p>
-
-<p>But since I have disregarded the leak, I wasn’t worried or against any of these changes; I’ll see it when I see it, and did I ever see it? The announcement of Fire Emblem Engage for me was a bit shocking, but not unwelcome! I was so sure it was a fake that I never gave it the <em>slightest</em> chance of being real! But after watching the trailer again, I couldn’t stop myself from liking what I was seeing!</p>
-
-<p>The visuals look striking! So colorful and vibrant, it is fair to say we have never seen a Fire Meblem game like this before! The animated cutscenes look great! They are so clean, and they may just be the best-looking cutscenes in all of Fire Emblem! The little gameplay we saw looks great; it seems to run much faster than Three Houses, and the battle animations look fantastic!</p>
-
-<p>All in all, I really like the trailer, and in my opinion, it was 180 to my first impression from the leak. I was actually fairly excited for it! The community was trying to warm up to it as well; not everyone liked what they saw, but it was turning out to be more positive overall.</p>
-
-<p>Some started bashing the game before it even got released, saying it was “too different and too anime!” The first one has merit; it is quite a departure, but I can’t fathom the second. Are we to believe Fire Emblem wasn’t ever anime?! Is one thing to not like the artwork, the other is being ignorant. But regardless, people seem to be warming up to it, and genuine anticipation was garnered as well, but just like with any Fire Emblem release, there were always haters! Although these seem to be more vocal this time around, regardless, in a few months the game will be released, and we will soon know what it entails!</p>
-
-<h3 id="engaging-gameplay">Engaging Gameplay!</h3>
-
-<p><img src="/assets/images/Battle%20Overview.jpg" alt="Battle Overview" /></p>
-
-<p>I guess I’ll start with the first thing I noticed while playing Engage, and that is refreshing and engaging gameplay! (Sorry, not sorry!)</p>
-
-<p>After playing Three Houses, Engage is quite refreshing in how it gets right to the point. Houses has quite a lot of things to unpack before you hit your first battle, saving the students from bandits, but in Engage, you get your first taste of battle right after a short cutscene in premonition.</p>
-
-<p>Giving you time to get acclimated to the new combat and engagement system! The first thing you’ll notice right away is that you don’t have a cursor or arrow showing you where you can move around your unit; instead, selecting a unit shows the moving area, and the unit automatically moves alongside your cursor.</p>
-
-<p>This is called Direct in the game settings and will take some getting used to, but not to fret! You could always set it back to cursor and return to the traditional cursor and arrow, but I wouldn’t disregard it right away once you get used to it. It is quite an efficient and smoother experience.</p>
-
-<p>Next, you’ll notice the Emblem Rings. Marth has a list of passive and active skills you get access to thanks to Emblem Sync, allowing your unit to have these skills as long as they’re wearing an Emblem Ring. They can acquire some of them by inheriting them, but we’ll talk about this when we get there.</p>
-
-<p>For example, Marth’s skill Perceptive, when activated, gives your unit Avoid +15 per fight. Some skills offer passive boosts that are activated as long as your unit wears the ring. But they all applied some kind of buff or ability, like Corrin’s Dragon Vein, allowing your unit, depending on type, to use certain terrain effects. Some skills have additional effects when used on different types of units, like Sigurd’s Gallop. If a calvary-type unit initiates this skill, they will get two more additional movements while engaged.</p>
-
-<p>Now to the more interesting part, Engages! You can engage with an Emblem Ring as long as it is the first time per battle or after it has recovered energy. You can do this by waiting on an energy spot on the map or continuing fighting with that unit until the recovery bar is full.</p>
-
-<p>Engaging provides huge buffs and boosts, but only for three turns! So you have to balance your strategy around them; when or where to use them is something you need to figure out as you play, but you’ll have plenty of time to master these mechanics!</p>
-
-<p>Now, while engaged, your unit gets access to Engage Skills, a more powerful version of the regular skills like Sigurd’s Gallop or Marth’s Divine Speed, allowing your unit to use an additional attack dealing 50% damage!</p>
-
-<p>It is important to manage these skills for the best effect, but more importantly, engaging gives your unit access to new and stronger weapons regardless of their unit type or weapon proficiency. There is an even more important buff that engaging provides: Engage Attacks! These powerful attacks can only be used once per engage and can be outright devastating! They can turn the tide of battle and ensure victory for your unit.</p>
-
-<p>Lodestar Rush is the first one youll be able to use, normally a 7-hit attack with 30% damage per hit, and using the main character,  Alear, youll get a bonus of 2 attacks thanks to their Dragon typing.</p>
-
-<p>Engage attacks aren’t strictly offensive; there’s Micaiah’s Great Sacirfice, a healing move that heals the whole party at the cost of the unit casting it losing 99% of their HP, unless they’re a dragon-type unit only losing 30%. There’s also Ike’s Great Aether! Like the name implies, this is a defensive move targeting your unit, and once unleashed, it does massive damage to the foes around them and heals your unit afterwards.</p>
-
-<p>Just like mastering Engage Skills, mastering Engage Attacks will take time but will be worth it later on in the game and on harder difficulties!</p>
-
-<p>Now that we have the Engage basics patted down, there are more intricacies as well as new mechanics introduced in Engage that we will need to understand the gameplay. Like unit types! Understanding unit types is crucial for strategizing and maximizing effectiveness in battles.</p>
-
-<p>Now, that doesn’t sound too different to any experienced Fire Emblem player, but I’m not talking about unit classes, but their typing! In Engage, units are categorized into different typings as well as their class. For example, Alear starts off with the Dragon Child class, but they are also classified as a dragon!</p>
-
-<p><img src="/assets/images/In%20Battle!.jpg" alt="in Battle!" /></p>
-
-<p>Now there are six types all together: Dragon, Calvery, Backup, Mystical, Qi Adept, and Covert! These have all their unique abilities offered by their typing; for example, Dragon-type units have additional effects while engaged with Emblems, Calvary has more movement, and Backup can do chain attacks if they are aligned with the adjacent unit initiating an attack.</p>
-
-<p>But more importantly, each has different additional effects when engaged with Emblem Rings! Like we saw with Marth’s Lodestar Rush on units like Alear! And just like classes, you can change your unit into a new unit type as well! Want more backup units so you can use more chain attacks? Go for it! These systems increased the amount of customization for your units.</p>
-
-<p>Reclassing, like I mentioned before, is back! Engage goes back to more of a traditional classing system; instead of deciding what classes to be certified into, like in Houses, Engage units have their starting/canonical classes and have the option to move into any non-special classes! Yep, I said any class, unlike Awakening or Fates, when you have a variety of classes you can choose from. Engage, on the other hand, opens up the floodgates as they were, allowing you to make some wacky builds if you like!</p>
-
-<p>Unlike Houses, Engage uses a traditional two-tier classing system, so you have your base classes and advanced classes, and like the games before Houses, units reset to level one when they change classes. It is recommended that you promote your units ASAP! The exception is Ivy, Hortensia, Timmera, and Fogado, as they can wait as they are in high tens when you recruit them.</p>
-
-<p>What else? Oh yeah, of course! Can’t forget about the new mechanics in Engage: The Break and Smash mechanic!</p>
-
-<p>These new mechanics are, to me, the heart of Engage’s captivating gameplay! To start, the weapon triangle is back along with a new triangle consisting of arts, knives, and tomes. The break mechanic adds on top of that when you or your enemy, (Yeah you heard right, it can be both ways! ) attack with an effective weapon type like a lance versus a sword; not only do you get bonus damage, but you also break them, which means they can’t attack for the following two turns!</p>
-
-<p>This is so simple, but it adds so much needed depth to the combat! Now you are actively penalized for turtling, a technique used when you wait for the enemy to come to you and let your units counterattack them to finish them off. You now have to be proactive in avoiding being broken, or else you may be ambushed without recourse.</p>
-
-<p>Like I said, a simple change, but a great one! I hope that the next entry keeps this mechanic; it feels just as universal as the weapon triangle!</p>
-
-<p>So what about the Smash mechanic? Well, while not as impactful as the break mechanic, it adds an additional flair if you’re willing to use it! Unlike his sibling, Smash is quite optional, though you have to worry about enemies doing this, which is not very common. Smash breaks your unit and moves them one space back. Now it doesn’t seem useful at first, but if you use it right, you can give your units more openness to attack or have a weaker unit attack and gain experience since they’re also broken and can’t retaliate, making it useful to train low-level units.</p>
-
-<p>But if is not your cup of tea, It is completely optional and can only be used with certain special, great, and blade weapons.</p>
-
-<p>Overall, these two mechanics add so much to the depth of the gameplay that, along with Emblems Rings, Engage has its own unique charm unlike other titles.</p>
-
-<p>But before we wrap up, let’s talk about maps. Just like any Fire Emblem game, the gameplay can be great, but it doesn’t matter much if the maps you’re playing aren’t fun.</p>
-
-<p>Maps here seem a bit smaller; for example, movement across the board has been cut down! Starting with four for infantry and five or six for cavalry. It takes a while to get used to it, but after awhile, I actually prefer it overall to the other games; battles feel much more dynamic and faster. Maybe smoother is the word? I’m not sure, but it feels different, but in a good way!</p>
-
-<p><img src="/assets/images/Great%20Foe.jpg" alt="Against a Fell Dragon!" /></p>
-
-<p>Now the actual maps vary quite a bit; some are better than others, but overall they are good enough. Some of my favorites are:</p>
-
-<ul>
-  <li>Lythos Tutorial with Lumera
-    <ul>
-      <li>I found this one quite fun since you are just starting out, and as soon as Lumera engages, it can get quite difficult if you don’t know what you are doing, which at this point you probably don’t!</li>
-    </ul>
-  </li>
-  <li>Firene Castle
-    <ul>
-      <li>This one, oh this one! I gave it several tries before beating it the first time. Not only do you have the choice of going head-on inside or splitting your forces, but you also have enemies surrounding you from all sides, and if you are not quick enough, consider not getting any treasure as a thief moves from the far left towards the chests. You also get the first taste of the revival stones. Units with these stones have two health bars instead of just one.</li>
-    </ul>
-  </li>
-  <li>Mountain Pass
-    <ul>
-      <li>This map has avalanches occurring regularly on three different paths; you have to carefully avoid them, or your units will get dragged all the way back! However, you have a strong foe ahead with Past Alear! It was a fun but hectic time. There were many close calls, but we managed to defeat them in the end.</li>
-    </ul>
-  </li>
-</ul>
-
-<p>In conclusion, the maps are pretty good, with good variety all around; not every map is a winner, and that’s okay; all of them are fun enough to romp through, at least for me!</p>
-
-<p>Wrapping up Engage’s gameplay is the funnest time I had playing a Fire Emblem game. There are just so many layers to a fantastic experience like no other. The whole thing feels smooth! It feels like the team spends the most time here than in any other area! To their detriment, maybe? But that’s not relevant, but I will get to it. Since Ihave much to say on that matter.</p>
-
-<p>So yeah, of all the games in the series I’ve played, I have to say that Engage is my favorite when it comes to the gameplay; nothing can top it! Fates comes close with their map design, but while its gameplay is fun, it lacks the intracasies of Engage, which why I say is a close second. If what you care about in a Fire Emblem game is the gameplay, then Engage has you covered and you don’t need to read on, but if thats just a part of it, like it is for me, then the rest of the game has other enjoyable aspects, some of which may be disappointing to others, but if you want to know more, you just have to keep on reading!</p>
-
-<h3 id="a-feast-for-the-eyes-and-ears">A Feast for The Eyes and Ears!</h3>
-
-<p><img src="/assets/images/Divine%20Dragons.jpg" alt="The Divine Dragon" /></p>
-
-<p>Of course, gameplay isn’t the only thing Engage has going for it! The same could be said about its visuals and
-sound!</p>
-
-<p>Firstly, I must say that this is the best-looking Fire Emblem game by a mile! Fan of Mika Pikazo’s artstyle or not, you can’t argue with me that visuals don’t look striking! It is so much cleaner than Three Houses muddy look, and some scenes are right down mesmerizing!</p>
-
-<p>I wonder if the reason they allow you to explore the maps after battle is to showcase the beautiful scenery. At times, I feel like I am in an open-world game when exploring because everything looks so detailed! It really invites you to take a break and take it all in.</p>
-
-<p>So the visuals overall are clean, smooth, and polished—something you can say about a lot of aspects of the game, but I have no better words for describing them, so please take a look at some screenshots to get a better idea!</p>
-
-<p>Mika Pikazo, one from v-tuber design fame, was chosen as the lead artist for this game, and while I wasn’t in love with her art at first sight, I slowly warm up to her designs! Her art is colorful and quite a departure from the series norm, but in a good way! The colors were as said, but the developers called back to Shadow Dragon and The Blade of Light sprites and styles. Is the clever nod seemingly since this is an anniversary game?</p>
-
-<p>Now she’s up there with my favorite Fire Emblem artists, like Kozaki and Hidari from Awakeing, Fates, and Echoes, respectively. Her character design is quite striking, and I will be talking more about that when we get there, but in general, her art is a breath of fresh air!</p>
-
-<p><img src="/assets/images/Diamant%20and%20Ivy.jpg" alt="Diamant and Ivy" /></p>
-
-<p>But it’s not only the visuals where Engage shines; it also has a great-sounding soundtrack that I’m coming to warm up to and honestly think is up there with my favorite OSTs of the series!</p>
-
-<p>The music is filled with a variety of musical styles and new remixes of old favorites! There’s something for everyone on this soundtrack! I mean, everyone, theres a chessy Saturday morning cartoon main theme for those who love those!</p>
-
-<p>It’s hard to describe the soundtrack in more detail, so here are just a couple of my favorites! I took the liberty of linking to the tracks so you can listen to them while you read, and I actually did the same while writing this. ♪</p>
-
-<ul>
-  <li><a href="https://youtu.be/tu2U5sRTFeA?si=xaiaiVWI5qdfzDDn">Fiery Bonds</a> (English and Japanese)
-    <ul>
-      <li>What can I say? I love this song! It is bittersweet but hopeful, and every time I hear it, it makes me cry. It reminds me of what a good experience I just had with the game, and when any song does that, it is guaranteed to be one of my favorites! This one also has lyrics!</li>
-    </ul>
-  </li>
-  <li><a href="https://youtu.be/xxGVd8wc_mA?si=6WDmabSsHb0wKFPu">Tear Streaked (Ice)</a>
-    <ul>
-      <li>Now this one is a banger! It shows up in an important part of the game, and this unique sound to it, as well as including a quire, starts slow but really amps up. I listen to this on occasion outside of the game.</li>
-    </ul>
-  </li>
-  <li><a href="https://youtu.be/P8ryKxTNV7g?si=hSORHvyZJRC4_RN7">Last Engage</a> (Prayer-Incantation)
-    <ul>
-      <li>This is the final boss music, and just by that alone, it deserves to be on the list! It’s surprisingly hopeful and happy for a final boss theme; it’s like a nice, fun romp through the final boss, and having a quire as well as the good old Fire Emblem theme definitely helps!</li>
-    </ul>
-  </li>
-  <li><a href="https://youtu.be/LkwisPhn5cM?si=UanUdqzB-lrEngeD">Mirrored Engage</a>
-    <ul>
-      <li>This is one of the few tracks from the DLC and also a final boss theme, and like always, it slaps hard! It has a unique start with this almost otherworldly feeling. Is this my second favorite of the DLC tracks? Man, all of the Engage tracks slap!</li>
-    </ul>
-  </li>
-  <li><a href="https://youtu.be/Xy55oxJfLjc?si=23SxBo-dw4YOyfH-">Inconstant One (Frenzy)</a>
-    <ul>
-      <li>Remember when I said Mirrored Engage was my second favorite DLC track? Well, this is my first! It is an unassuming track at first, but it gets really good after awhile; it has a quire and this unique sound! Weirdly, the regular version of Inconstant One doesn’t sound at all like this, but maybe that’s for the better!</li>
-    </ul>
-  </li>
-  <li><a href="https://youtu.be/I3pHa5mtXVw?si=Jbq2fUSrc0nrF3vb">Emblem Engage! (Full Version)</a>
-    <ul>
-      <li>Now I leave you with this! This may be a cheesy Saturday morning cartoon, but this is my cheesy Saturday morning cartoon track! I wasn’t crazy about it at first, but I didn’t hate it either. It was nice to have male vocals for a change, and after awhile, I’ve grown to love this song, especially the full version from the DLC. It’s pretty good! I recommend at least giving the full version a try; you may fall in love with it like I did.</li>
-    </ul>
-  </li>
-</ul>
-
-<p>That’s just a few of my favorites, or, well, be her all day! But yeah, the soundtrack overall is great! I recommend giving it a listen, even if you are not interested in the game.</p>
-
-<h3 id="a-conflicting-story">A Conflicting Story!</h3>
-
-<p><img src="/assets/images/Journey%20End.jpg" alt="One Last Reunion" /></p>
-
-<p>With Engage going back to basics, we get a more traditional and simple story, unlike that of Three Houses. Some may see this as a downgrade, but overall, I feel that it does the job quite well, and while it fondles here and there, it is still enjoyable enough.</p>
-
-<p>Now we all see the same story of evil dragons and good dragons in other Fire Emblem games, but Engage is unique enough to follow the same story bits but do their own thing with them.</p>
-
-<p>In my opinion, this is a character-focused story, focusing on Alear’s journey in finding himself and their rightful place in the world, finding family in unlikely places, and making their own destiny! Enjoying a story such as this requires liking the character that it is focused on. In that way, Alear is central for people to enjoy it. Alear must be an enjoyable character for the story to work, and I think they did well for the most part.</p>
-
-<p>I would talk more about Alear and their character arc later on, but for now, I feel that to enjoy one means to enjoy both.</p>
-
-<p>This doesn’t mean they aren’t problems, because there are! But honestly, I enjoyed it enough—with twists I honestly didn’t see coming!</p>
-
-<p>There are parts that I feel were changed late in development, like some animated cutscenes not showing at all in the game but only in the intro cutscene. Things like these make me feel like the game story went through several rewrites. If these are the causes of the story’s problems, who could say? Only developers can tell, and I’m not sure if they will ever admit it or not.</p>
-
-<p>But I’m in the minority that enjoys the story; most hate it or find it hilarious to some degree. I will not disprove those that have concerns because they are valid and I can see where they come from, but stories like most of anything you experience can be subjective, so I would recommend playing the game and giving it a shot or at least watching a playthrough so you can form your own opinions.</p>
-
-<p>Before I move on, though, I want to add something. Being as Engage release after Three Houses, I feel it gets an unhealthy amount of bashing for not keeping up with the standards of Three Houses. Fire Emblem never was much for having fantastic worldbuilding, lore, or stories in their games; only a few titles are held as such. Making Engage hold to those standards feels unfair to me.</p>
-
-<p>Instead of comparing it to similar titles like Awakening or Fates, it gets the hatred that I don’t think it rightfully deserves. This game was never advertised to be like Three Houses; in fact, they were both made around the same time, and Intelligent Systems was intending for Engage to be completely different from Three Houses.</p>
-
-<p>But yeah, it is fair to say that I feel slightly jaded by this; it feels unfair to lay the blame on Engages feet just for releasing after a game like Three Houses. But nevertheless, let’s move on to one of my favorite parts of any Fire Emblem game.</p>
-
-<h3 id="the-link-between-story-and-gameplay-your-units">The Link Between Story and Gameplay: Your Units!</h3>
-
-<p><img src="/assets/images/Alear%20M.webp" alt="The Divine One, Alear" /></p>
-
-<p>The cast of Engage is one of my favorites to date! The characters feel more like the Awakening cast, showing a few traits at first but growing from those when seeing their supports. As of now, I have read every C support, so I have a good gist about each unit, but it is far from complete, so bear that in mind.</p>
-
-<p>Let’s start with your unit and main character, Alear. They have quite an interesting character, as they are very down-to-earth and relatable. They defy the norms of being a brave hero, being scared of the Corrupted, for example. They feel a bit like an Isekai protagonist, thanks to their annemsia, with which they eventually remember everything, unlike other anemsiacs like Robin.</p>
-
-<p>At first, I was neutral on Alear; I liked the design well enough and was expecting another Corrin-like affair. But suddenly, I’ve grown to really love Alear as a character, which I didn’t see coming! I think the first time that I thought this wasn’t like the others was when Alear woke from a thousand years of sleep and was escorted into Lythos Castle by their stewards.</p>
-
-<p>They suddenly get attacked by the Corrupted, In this single moment, Alear defies my expectations and says, “No, let’s run.” That was so refreshing for me! Seeing the main character as kind of a wimp really mixes it up. Intelligent Systems actually intended for Alear to be even more of a wimp, but Nintendo wasn’t too keen on that, so they compensated. But personally, I would love to see a more timid Alear! But luckily, the manga’s Alear seems to be based on Intelligent Systems original idea of them.</p>
-
-<p>I was hooked after that, and seeing them develop into a unique character even more is why I believe they are the key to Engage’s story. They’re now up there with my favorite Fire Emblem characters, second only to Robin!</p>
-
-<p>Here are a few other characters I quite enjoyed!</p>
-
-<p>Alfred is the first lord we recruit, and he’s my favorite lord in Engage! At first, like Alear, I was quite neutral about him, thinking he was a generic Dimitri, which, in hindsight, I can’t believe I ever thought! Like most of the cast, Alfred has basic traits for his character. He’s a huge muscle head and does everything to get stronger and build muscles. He’s part of the muscle trio along with Etie and Boucheron.</p>
-
-<p>But he’s much more than that! Diving on his support, he has an illness that he wants to keep secret from the others, with only Celine knowing his younger sister, which can be the reason why she drinks so much tea as a coping mechanism as her brother could die any day, as seen on their support when the illness they thought was gone was just being suppressed by him keeping his health up. It is quite depressing for such a bright game as Engage, but it is welcomed.</p>
-
-<p>I could talk about the other lords, but I don’t want to drag this out, so I will talk about one character that surprised me!</p>
-
-<p>Yunaka gets her own chapter to shine right after acquiring the fourth ring. Micaiah, after the battle, we get the best quote in Fire Emblem series history! “Hiya Papaya!” Such a weird but oddly fitting greeting for someone who presumely lives in Firene with their bontiful harvests!</p>
-
-<p>She’s an interesting character with a tragic backstory that I won’t spoil, but she’s a huge amount of fun! She does impressions—good ones, I say! and her critical quotes bringing out her darker side are just a chef’s kiss! She has many great supports as well!</p>
-
-<p><img src="/assets/images/S-Rank%20with%20Alfred.jpg" alt="Alfred's Confession" /></p>
-
-<p>Alright, so to wrap up, here’s a list of my favorite support chains!</p>
-
-<ul>
-  <li>
-    <p>Alfred and Celine</p>
-
-    <ul>
-      <li>As mentioned before, this support is rather sweet and sad and a must read if you want to know Alfred’s backstory.</li>
-    </ul>
-  </li>
-  <li>
-    <p>Celine and Alcryst</p>
-
-    <ul>
-      <li>Just the two talking about how best to support their brothers and being worried if something happens to me is quite sweet and a good sign for Celine and Alcryst.</li>
-    </ul>
-  </li>
-  <li>
-    <p>Alear &amp; Alfred</p>
-
-    <ul>
-      <li>Alfred being overly caring as a friend and Alear just being mildly annoyed is a sweet support that grows into Friends to Lovers, one of my favorite ships.</li>
-    </ul>
-  </li>
-  <li>
-    <p>Yunaka and Seadall</p>
-    <ul>
-      <li>Yunaka tries performing with Seadall and is, of course, a natural! Is this sweet support you could read as romantic? I do!</li>
-    </ul>
-  </li>
-</ul>
-
-<p>Overall, while the supports can be a bit short, there are some good ones in there! The cast of Engage is full of fun and zany characters; there’s something for everyone!</p>
-
-<h3 id="some-other-thoughts">Some Other Thoughts</h3>
-
-<div style="text-align: center;">
-  <img src="/assets/images/Alear%20Thinking.webp" alt="Lost in Thoughts" />
-</div>
-<p><br /></p>
-
-<p>I went around and gathered some thoughts about the game besides my own; some are positive and some are not. I wanted to gauge what the opinion of Engage is now that the game is close to being a year old. I got some interesting responses!</p>
-
-<hr />
-
-<blockquote>
-  <p>The writing is my biggest issue with the game. I disagree with the common sentiment that they wanted to make a simple plot that isn’t too serious, I think they tried and failed. 
-If I’m being more specific my biggest gripe is probably with the over reliance on emotional, dialogue-heavy death scenes in the game. I think there’s roughly 7 or 8 which is far too many. They are used to try and force emotional moments and redeem characters, both of which were done very poorly imo.
-I like how they wrote the sibling relationships in engage</p>
-</blockquote>
-
-<ul>
-  <li>Matraiya</li>
-</ul>
-
-<blockquote>
-  <p>To be honest, the game look fine and has good music from what I’ve seen but I mainly avoided it due to the bad story remark I got. Like, you don’t need a good world. You could simply use basic concept and concentrate on the character. Problem is that this time is spent on the villain more than the heroes and well… they Peter Grffin themselves on the landing. I mean, you could have had the main story focusing on the conflict of the villain versus the heroes (Main Lord I mean) and have some cheesy/camp dialogue because that way, you attracted a crowd that would meme on it.</p>
-</blockquote>
-
-<ul>
-  <li>Anonymous</li>
-</ul>
-
-<blockquote>
-  <p>Gameplay wise the most frustrating thing has to be the low deployement slot. it’s not an engage only thing,  and i know part of it is that part of the cast size is meant to accomodate for deaths, however it’s still frustrating, cuz you don’t just bench objectively bad performers, you bench even fine units cuz there’s simply no space
-Story wise, probably that you could cut out the boat map from the story without much issues: it’s post the 6v6,  it’s not against the hounds, they don’t use a particularly outstanding strategy that could make up for the lack of emblems, and it doesn’t comment much on elusian themselves aside of lindon. A good map but actual filler.A bandit chapter would have been better</p>
-</blockquote>
-
-<ul>
-  <li>namu</li>
-</ul>
-
-<blockquote>
-  <p>Most frustrating thing about Engage (imo): 
--Undercooked lore. Needs more time in the oven. I’d prefer to add more nation/lords lore
-Having to slog FX for characters every new save. 
-What I enjoyed about Engage: Gameplay. Smooth, fun. Maps are pretty good. Characters are fun
-With enough effort, you can make anything work.</p>
-</blockquote>
-
-<ul>
-  <li>TBromine</li>
-</ul>
-
-<blockquote>
-  <p>Fun gameplay, story’s eh. The early-joining units are kinda atrociously balanced, and the game particularly fumbles the ball with regard to most female units’ build</p>
-</blockquote>
-
-<ul>
-  <li>Raxis</li>
-</ul>
-
-<blockquote>
-  <p>I love Fire Emblem and I thought that Engage was fine… And that is the problem. I’ve replayed TH many times, same with Fates, Awakening, FE7… But I just don’t feel like playing Engage again.
-I thought the Gameplay was good, but I just didn’t find it as gripping as Conquest’s or even Three Houses’ (unpopular opinion, I know :P)</p>
-</blockquote>
-
-<ul>
-  <li>Rodrieleven421 <a href="https://rodri11421.tumblr.com/">Tumblr</a></li>
-</ul>
-
-<h3 id="why-is-it-my-game-of-the-year">Why is it My Game Of The Year?</h3>
-
-<div style="text-align: center;">
-  <img src="/assets/images/Ending%20Credits.webp" alt="Journeys End" />
-</div>
-<p><br /></p>
-
-<p>Phew! That was a long one, but yeah, I just had to gush about this game sometime! It is my game of the year for a reason!</p>
-
-<p>And why might you be asking, Why is it my game of the year? Well, I’m a huge fan of the Fire Emblem Series, and this was one of the games I was most excited for this year, and after playing some others, none of them could compare!</p>
-
-<p>I have played Star Ocean Second Story R as well as the Megaman Battle Network Legacy Collection, although I doubt that counts as it is a collection. I enjoyed both, but Star Ocean Second Story R really surprised me with his stunning graphics and fun gameplay! So even though I haven’t finished it yet, it gets my honorary mention.</p>
-
-<p>Going into 2024, I’m sure even more great games will be released, so I hope to continue this in its own series. For now, I’ll see you in a few weeks! Thanks to everyone who made this project possible! I wish you all a Merry Christmas and a Happy New Year!</p>
-
-<p>Now, if you’ll excuse me, I’m going to rest since this took quite a lot out of me. Later all!</p>]]></content><author><name>Reading</name></author><category term="Gaming" /><summary type="html"><![CDATA[This has been quite a year in the gaming sphere! is hard not to be overwhelm by the sheer volume of quality titles out this year and with every year us gamers decided on just one game to be our game of the year!]]></summary></entry><entry><title type="html">Learning The Arch Way!</title><link href="http://localhost:4000/learning-the-arch-way/" rel="alternate" type="text/html" title="Learning The Arch Way!" /><published>2023-12-09T19:00:00-05:00</published><updated>2023-12-09T19:00:00-05:00</updated><id>http://localhost:4000/learning-the-arch-way</id><content type="html" xml:base="http://localhost:4000/learning-the-arch-way/"><![CDATA[<p>So I have been working on setting up an old Chromebook as a server—not using ChromeOS, mind you! I have installed custom firmware on the device, allowing me to install Endeavor OS on bare metal.</p>
-
-<p>Why Endeavor OS? It was the only distro to support all of the hardware on this device. Thanks to being just Arch preconfigured to be ready to use and Arch being a rolling distro, it has the latest drivers available, and thankfully, it has all the drivers for this old Chromebook!</p>
-
-<p>I’m not familiar with Arch at all, coming from Debian and Debian-based systems, so there is a fair bit to get used to!</p>
-
-<p>The main thing to learn is <code class="language-plaintext highlighter-rouge">pacman</code> Arch’s package manager, where you can install packages, update and upgrade the system, and more!</p>
-
-<p>For those unfamiliar with the command line, Arch is not the best distro to start with, but for us who mostly live in the shell, it isn’t that hard to get accustomed to!</p>
-
-<p>For example, coming from Debian, if you want to install a package, you use <code class="language-plaintext highlighter-rouge">sudo apt install packagename</code> You can accomplish the same thing with Arch with <code class="language-plaintext highlighter-rouge">sudo pacman -S packagename</code></p>
-
-<p>Now for updating and upgrading the system, if you’re familiar with Debian, then you know about <code class="language-plaintext highlighter-rouge">sudo apt update</code>,<code class="language-plaintext highlighter-rouge">sudo apt upgrade</code> and <code class="language-plaintext highlighter-rouge">sudo apt full-upgrade</code>. On Arch, though, we use <code class="language-plaintext highlighter-rouge">sudo pacman -Sy</code>to update the system and <code class="language-plaintext highlighter-rouge">sudo pacman -Syu</code> for upgrading.</p>
-
-<p>To remove packages on Debian, we use <code class="language-plaintext highlighter-rouge">sudo apt remove packagename</code>. Now on Arch we use <code class="language-plaintext highlighter-rouge">sudo pacman -R</code> to do the same!</p>
-
-<p>But since Arch doesn’t have the best package support of all the Linux distros, you’re going to be building from source as well. Luckily, this is quite easy for with <code class="language-plaintext highlighter-rouge">makepkg -s PKGBUILD</code>, I have to do this with Discord since the package in the repo was outdated, but you may not have to! There’s always the AUR, and while I haven’t used it as much, it is worth checking there first before trying anything else, and hey, the AUR is a key feature of Arch!</p>
-
-<p>In conclusion, Arch is one of the better distros, and running on the bleeding edge has its benefits, while <code class="language-plaintext highlighter-rouge">pacman</code> can be confusing at first, at least for me! It is easy enough to grasp, and while it is not as verbose as ‘apt’, it is quite straightforward once you figure out what each command means. For the gamers out there, having a package manager named after an iconic game and seeing Pacman himself gobbling bytes when installing a package is super cute!</p>]]></content><author><name>Reading</name></author><category term="Tech" /><summary type="html"><![CDATA[So I have been working on setting up an old Chromebook as a server—not using ChromeOS, mind you! I have installed custom firmware on the device, allowing me to install Endeavor OS on bare metal.]]></summary></entry><entry><title type="html">Taking a Small Break</title><link href="http://localhost:4000/taking-a-small-break/" rel="alternate" type="text/html" title="Taking a Small Break" /><published>2023-11-29T19:00:00-05:00</published><updated>2023-11-29T19:00:00-05:00</updated><id>http://localhost:4000/taking-a-small-break</id><content type="html" xml:base="http://localhost:4000/taking-a-small-break/"><![CDATA[<p>So hey! How have you been? I’m being good these couple of months, and luckily my health has not stagnated since I got sick mid-year.</p>
-
-<p>Anyway, to keep this brief, I’m taking a small break from posting again. Unfortunately, the post that I have been working on has dragged on, and I’m not feeling it anymore, so I thrashed it.</p>
-
-<p>That post was supposed to be out on Halloween, which was perfectly fitting for the media I was talking about, but that didn’t work out, and so it got delayed until finally being binned.</p>
-
-<p>The holidays have not made that any easier, so I decided to take a small break from my usual monthly posting. I hate taking these breaks, but that is what <em>needs</em> to happen.</p>
-
-<p>But not to worry! I’m making up for it, but I have not one but two posts out this December!</p>
-
-<p>One of them is a surprise, but the other and more important one is finally my review of my game of the year, Fire Emblem Engage, which is not that surprising since this blog is full of Engage flair!</p>
-
-<p>I’m very excited to get that review out there! Thought late, but better than never! Is going to be a big one, my biggest post yet, and is going to be a small Christmas present from me, dropping the 25th!</p>
-
-<p>I’m hoping you all enjoy it and leave your feedback. This is a work of love, so it would be highly appreciated! </p>
-
-<p>For now, I’m going to enjoy my holidays, and I hope you enjoy yours as well!</p>
-
-<p>See you soon!</p>]]></content><author><name>Reading</name></author><category term="General" /><summary type="html"><![CDATA[So hey! How have you been? I’m being good these couple of months, and luckily my health has not stagnated since I got sick mid-year.]]></summary></entry><entry><title type="html">Transitioning to Cloudflare Pages!</title><link href="http://localhost:4000/moving-over-to-cloudflare-pages/" rel="alternate" type="text/html" title="Transitioning to Cloudflare Pages!" /><published>2023-10-30T20:00:00-04:00</published><updated>2023-10-30T20:00:00-04:00</updated><id>http://localhost:4000/moving-over-to-cloudflare-pages</id><content type="html" xml:base="http://localhost:4000/moving-over-to-cloudflare-pages/"><![CDATA[<p>Well, hey there! It’s been a while, hasn’t it? I have been busy revamping this website and moving over to <a href="https://pages.cloudflare.com/">Cloudflare Pages</a>, so before I go back to my regular posting, let me explain the process and what’s new this time around!</p>
-
-<p>So I started this website over on <a href="https://pages.github.com/">GitHub Pages</a>, at the time, it was perfectly suited to my needs. I had just started learning web development and Git and was looking for free hosting solutions. I knew about Github Pages for awhile, so I gave that a shot. I decided to use a framework and went with Jekyll and started learning it, and I found that it was perfectly capable for my needs. It has built-in blog support, and it uses Markdown for posts and pages. I <em>love</em> Markdown, so this was a huge plus! You can also use plain HTML if you’re so inclined!</p>
-
-<p>I set up Jekyll with the default minima theme, which is just what I was looking for. It was simple and minimalistic, without too much fluff, and it continues to be my theme of choice.</p>
-
-<p>For awhile, I was content with GitHub Pages; it was one of the better options for free hosting, and using Git to manage my site worked like a dream. I wrote the majority of my posts using VSCode, so being able to commit changes from there was a timesaver!</p>
-
-<p>But I started to encounter a few things that bothered me, like the fact that the Jekyll version that GitHub Pages supports is <a href="https://github.com/jekyll/jekyll/releases/tag/v3.9.3">quite old now!</a> So I needed to be using the same version locally, or I would be getting error messages constantly. Using the GitHub Pages gem remedied this, but it was still annoying.</p>
-
-<p>The minima theme was also outdated, and there were some neat features—no necessary ones for me that I was missing out on. You could circumvent this by building from a remote theme, but frankly, that’s just more trouble than it’s worth, and worse of all, GitHub Pages has strict requirements for Jekyll gems and plugins that can be run or require older versions of <a href="https://pages.github.com/versions/">them</a>. This was stifling for me, to say the least.</p>
-
-<p>But luckily, I found out about Cloudflare Pages and that they provide an amazingly valuable free tier. I don’t know how or why it is free, but I’m not complaining!</p>
-
-<p>Like GitHub Pages, you can create a site with a framework like Jekyll or without a framework at all, and start from scratch if you prefer! Unlike GitHub Pages, you can use the latest version of Jekyll with his gems and plugins, and it supports Git integration, so you can continue to use Git to make changes!</p>
-
-<p>This allows me to use the newest <a href="https://github.com/jekyll/minima">minima</a> theme with a new feature called skins, allowing you to choose from a variety of skins and more significantly <code class="language-plaintext highlighter-rouge">auto.sccs</code> for me, which allows me to have the light skin and dark skin change depending on the user’s system theme; no more flashbangs when reading at night! I promise you, this annoyed me more than you think!</p>
-
-<p>Here are the two skin versions you’ll see when browsing the site. I’m quite happy with both of them, but that may change later on.</p>
-
-<p><img src="/assets/images/lightskin.png" alt="My website with the light skin applied, this was you get regardless of your system them back on the old site, glad thats behind us now! :)" /></p>
-
-<p><img src="/assets/images/darkskin.png" alt="My website with the dark skin applied, safe for night readers!" /></p>
-
-<p>I also have free reign to experiment with other plugins and themes if I wish, but personally, I’m more content with running the latest versions of my framework and my theme, with all the handyness of using Git to manage them. In a way, it feels like I haven’t moved at all; I still commit to a repo on my GitHub, but now Cloudflare Pages takes care of the rest!</p>]]></content><author><name>Reading</name></author><category term="Tech" /><summary type="html"><![CDATA[Well, hey there! It’s been a while, hasn’t it? I have been busy revamping this website and moving over to Cloudflare Pages, so before I go back to my regular posting, let me explain the process and what’s new this time around!]]></summary></entry><entry><title type="html">A Fun and Easy Guide to Using Markdown on Discord!</title><link href="http://localhost:4000/a-fun-and-easy-guide-to-using-markdown-on-discord/" rel="alternate" type="text/html" title="A Fun and Easy Guide to Using Markdown on Discord!" /><published>2023-08-14T20:00:00-04:00</published><updated>2023-08-14T20:00:00-04:00</updated><id>http://localhost:4000/a-fun-and-easy-guide-to-using-markdown-on-discord</id><content type="html" xml:base="http://localhost:4000/a-fun-and-easy-guide-to-using-markdown-on-discord/"><![CDATA[<h2 id="introduction">Introduction</h2>
-
-<p>I frequent Discord quite often and I don’t see many members using Markdown syntax to flair out their messages, which is a shame. So after some deliberation on my part and some fellow server members showing interest,I decided to write one! This guide ‘s goal is to hopefully be easier to understand and follow than the already existing Discord Markdown 101 support page. This is, however, my first time writing a guide, so please bear with me! But with that said, let’s get to it!</p>
-
-<h2 id="the-basics">The Basics</h2>
-
-<p>While you can use Discord’s built-in formatting tools for some of these, using Markdown is often a better option. Markdown is a simple plain text formatting syntax that can be used to create a variety of effects, such as italics, bold, and spoilers. It’s also more portable, so you can use it on other platforms, such as GitHub, for example!</p>
-
-<h3 id="spoiler-tags">Spoiler Tags</h3>
-
-<p>Don’t want to spoil that awesome game ending or want to troll your friends? Just use two pipe characters on the front and back of your text!</p>
-
-<p>Note that this is a special Markdown syntax that may only work on Discord and is not part of the standard Markdown spec.</p>
-
-<details>
-  <summary>I'm invisible!</summary>
-  I'm not invisible anymore; hide me, please. : _ ;
-</details>
-<p><br /></p>
-
-<p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>||I'm not invisible anymore; hide me, please. : _ ;|| 
-</code></pre></div></div>
-<h3 id="italics">Italics</h3>
-
-<p>To italicize text, all you need to do is add an asterisk to a sentence or word, both before and after. This will be the same for the following, so keep that in mind.</p>
-
-<p><em>Look at me, I’m pointy!</em></p>
-
-<p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>*Look at me, I'm pointy!*
-</code></pre></div></div>
-<h3 id="underline-italics">Underline Italics</h3>
-
-<p>Underlined italicization uses the same asterisk character but with the addition of two undescores at the end and beginning. This is a special Discord syntax and is not possible in regular Markdown, so keep that in mind.</p>
-
-<p><u><i>I'm still pointy but with a underline!<i></i><u></u></i></u></p>
-
-<p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>__*I'm still pointy but with a underline!*__
-</code></pre></div></div>
-
-<h3 id="underlining">Underlining</h3>
-
-<p>Now for just underlining, you just need to add two underscores front and back to your text. This also only works on Discord!</p>
-
-<p><u>Sometimes you just need some underlining, ya know?</u></p>
-
-<p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>__Sometimes you just need some underlining, ya know?__
-</code></pre></div></div>
-
-<h3 id="bolding">Bolding</h3>
-
-<p>But what if you want to give your text more importance? That’s where bolding comes in handy!</p>
-
-<p>Just add two asterisks! Remember, always front and back!</p>
-
-<p><strong>I’m a ghost, boo!</strong></p>
-
-<p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>**I'm a ghost, boo!**
-</code></pre></div></div>
-
-<h3 id="underline-bolding">Underline Bolding</h3>
-
-<p>But what if you like some undeline with that? Just add the same characters we use for underlining; that’s two underscores if you lost track. It happens to the best of us!</p>
-
-<p><b><u>I'm still a ghost, by the way!</u></b></p>
-
-<p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>__**I'm still a ghost, by the way!**__
-</code></pre></div></div>
-
-<h3 id="bolding-and-italics">Bolding and Italics</h3>
-
-<p>And if you want to be extra spicy, you can always italicize and bold at the same time with two underscores and three asterisk characters. This is different from regular Markdown, which uses just one underscore and two asterisk characters for the same effect.</p>
-
-<p><em><strong>Just the thing you need when making a big point!</strong></em></p>
-
-<p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>__***Just the thing you need when making a big point!__***
-</code></pre></div></div>
-
-<h3 id="strikethrough">Strikethrough</h3>
-
-<p>Sometimes you want to say something but want to keep it low-key; this is where strikethrough text comes to the rescue.</p>
-
-<p>Just add two tildes, front and back, to your text.</p>
-
-<p><del>Sshh, don’t tell anyone. :P</del></p>
-
-<p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>~~Sshh, don't tell anyone. :P~~
-</code></pre></div></div>
-<p><br /></p>
-
-<h2 id="the-fun-stuff">The Fun Stuff!</h2>
-
-<p>Now for the really cool stuff you probably don’t know about! Like making bulleted lists, headers, masking links, sharing your code snippets with code blocks, and more, You can do quite a lot to make yours and others Discord experiences better thanks to Markdowm!</p>
-
-<h3 id="headers">Headers</h3>
-
-<p>With Discord adding forum-like features, it’s really handy to use a header for detailed articles or posts you want to share on Discord!</p>
-
-<p>Just add the hash character to make a header; be sure to leave a space before typing the header’s content. There are three header types!</p>
-
-<ul>
-  <li>( # ) For a large header, just what you need for a tittle!</li>
-  <li>( ## ) For a medium header, useful for sections on an article.</li>
-  <li>( ### ) For a small header.</li>
-</ul>
-
-<p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># Bigger is always better, right?
-## Not so big, but not too small either.
-### I'm just right! unlike the other two... 
-</code></pre></div></div>
-
-<h3 id="masked-links">Masked Links</h3>
-
-<p>You can paste a link into the chat, but that is not the prettiest thing, right? Especially if Discord doesn’t have a preview, why not embed it in the text? Luckily, we can do that!</p>
-
-<p>Just use brackets for the text and parenthesis for the link, and you have a masked link!</p>
-
-<p><a href="https://reading.is-a.dev">Check out my blog!</a></p>
-
-<p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[Check out my blog!](https://reading.is-a.dev)
-</code></pre></div></div>
-
-<h3 id="lists">Lists</h3>
-
-<p>It’s pretty self-explanatory: while you could list stuff with regular, good old plain text, you can make it even prettier with Markdown!</p>
-
-<p>Just use a hyphen before each item, and you can indent the list by adding two more extra spaces after the first bullet point.</p>
-
-<ul>
-  <li>Listing is fun!
-    <ul>
-      <li>right?</li>
-    </ul>
-
-    <p><br /></p>
-  </li>
-</ul>
-
-<p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- Listing is fun!
-  - right?
-</code></pre></div></div>
-
-<h3 id="code-blocks">Code Blocks</h3>
-
-<p>One of my favorites! It makes it a breeze to copy code; just add a backtick for one line of code or three if the code is multi-lined like a script.</p>
-
-<p><code class="language-plaintext highlighter-rouge">Just imagine this is a piece of code, Okay?</code></p>
-
-<p>See, isn’t that just better? Now all we need to do is double-click it to select it. Timesaver!</p>
-
-<p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>`Just imagine this is a piece of code, Okay?`
-</code></pre></div></div>
-<h3 id="block-quotes">Block Quotes</h3>
-
-<p>Finally, sometimes you need to quote a piece of text; maybe you’re doing a book club. Regardless, this is where block quotes come in handy!</p>
-
-<p>Just add the greater-than character for a one-line block quote or three for a multiline one.</p>
-
-<blockquote>
-  <p>I can’t believe this guide is almost done!</p>
-</blockquote>
-
-<blockquote>
-  <p>It took me some days to finish this, but I’m quite relieved that it’s done. It was a fun side project, and I hope you can get some use out of it!</p>
-</blockquote>
-
-<p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; I can't believe this guide is almost done!
-
-&gt;&gt;&gt; It took me some days to finish this, but I'm quite relieved that it's done. It was a fun side project, and I hope you can get some use out of it! 
-</code></pre></div></div>
-
-<h2 id="wrapping-up">Wrapping up!</h2>
-
-<p>That’s it. You now have a pretty good grasp on Markdown on Discord. So what’s next? I recommend looking into other Markdown guides if you want to get into the nitty-gritty of it and use it on other platforms! For now, I would love for you to use Markdown syntax on your favorite Discord servers and make the Discord experience better for everyone! I believe everyone should give Markdown a whirl; you may be surprised at how fun it is!</p>]]></content><author><name>Reading</name></author><category term="Guides" /><summary type="html"><![CDATA[I frequent Discord quite often and I don't see many members using Markdown syntax to flair out their messages, which is a shame. So after some deliberation on my part and some fellow server members showing interest,I decided to write one! This guide 's goal is to hopefully be easier to understand and follow than the already existing Discord Markdown 101 support page. This is, however, my first time writing a guide, so please bear with me! But with that said, let's get to it!]]></summary></entry></feed>
+<p>In conclusion, Chromebrew is a great tool! Regardless of using it to give new life to older hardware, I feel like every Chromebook or Chrome device owner should have this in their toolkit to make ChromeOS even more enjoyable to use!</p>]]></content><author><name>Reading</name></author><category term="Tech" /><summary type="html"><![CDATA[I am bringing you a short post for this month since I have been enjoying my holidays, and my last post was my longest and most worked on yet! So I'm taking a small break for now, but I don't want to leave you with nothing for this month, so here we are. I hope you enjoy it!]]></summary></entry></feed>
