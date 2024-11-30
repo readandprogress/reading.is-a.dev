@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Change of Plans"
-date: 2024-11-30 00:00:00 -0500
+date: 2024-11-30 00:00:00 -0000
 categories: Tech
 time: 2:48
 author: Reading
