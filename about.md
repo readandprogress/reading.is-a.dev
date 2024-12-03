@@ -2,6 +2,7 @@
 layout: base
 title: About
 permalink: /about/
+order: 4
 ---
 
 <div style="text-align: center;">
