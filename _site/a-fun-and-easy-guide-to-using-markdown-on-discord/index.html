@@ -1,65 +1,895 @@
-<!DOCTYPE html>
-<html lang="en"><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>A Fun and Easy Guide to Using Markdown on Discord! | The Reading Dimension</title>
+<!doctype html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- `site.alt_lang` can specify a language different from the UI -->
+<html lang="en" >
+  <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f7f7f7">
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1b1b1e">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta
+    name="viewport"
+    content="width=device-width, user-scalable=no initial-scale=1, shrink-to-fit=no, viewport-fit=cover"
+  ><!-- Setup Open Graph image -->
+
+  
+
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta name="generator" content="Jekyll v4.3.4" />
 <meta property="og:title" content="A Fun and Easy Guide to Using Markdown on Discord!" />
-<meta name="author" content="Reading" />
-<meta property="og:locale" content="en_US" />
+<meta property="og:locale" content="en" />
 <meta name="description" content="I frequent Discord quite often and I don’t see many members using Markdown syntax to flair out their messages, which is a shame. So after some deliberation on my part and some fellow server members showing interest,I decided to write one! This guide ‘s goal is to hopefully be easier to understand and follow than the already existing Discord Markdown 101 support page. This is, however, my first time writing a guide, so please bear with me! But with that said, let’s get to it!" />
 <meta property="og:description" content="I frequent Discord quite often and I don’t see many members using Markdown syntax to flair out their messages, which is a shame. So after some deliberation on my part and some fellow server members showing interest,I decided to write one! This guide ‘s goal is to hopefully be easier to understand and follow than the already existing Discord Markdown 101 support page. This is, however, my first time writing a guide, so please bear with me! But with that said, let’s get to it!" />
 <link rel="canonical" href="http://localhost:4000/a-fun-and-easy-guide-to-using-markdown-on-discord/" />
 <meta property="og:url" content="http://localhost:4000/a-fun-and-easy-guide-to-using-markdown-on-discord/" />
 <meta property="og:site_name" content="The Reading Dimension" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2023-08-14T20:00:00-04:00" />
-<meta name="twitter:card" content="summary" />
+<meta property="article:published_time" content="2023-08-15T21:00:00-04:00" />
+<meta property="og:image" content="https://avatars.githubusercontent.com/u/126733238?v=4" /><meta name="twitter:card" content="summary_large_image" />
+      <meta property="twitter:image" content="https://avatars.githubusercontent.com/u/126733238?v=4" />
 <meta property="twitter:title" content="A Fun and Easy Guide to Using Markdown on Discord!" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Reading"},"dateModified":"2023-08-14T20:00:00-04:00","datePublished":"2023-08-14T20:00:00-04:00","description":"I frequent Discord quite often and I don’t see many members using Markdown syntax to flair out their messages, which is a shame. So after some deliberation on my part and some fellow server members showing interest,I decided to write one! This guide ‘s goal is to hopefully be easier to understand and follow than the already existing Discord Markdown 101 support page. This is, however, my first time writing a guide, so please bear with me! But with that said, let’s get to it!","headline":"A Fun and Easy Guide to Using Markdown on Discord!","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/a-fun-and-easy-guide-to-using-markdown-on-discord/"},"url":"http://localhost:4000/a-fun-and-easy-guide-to-using-markdown-on-discord/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-12-19T17:45:00-05:00","datePublished":"2023-08-15T21:00:00-04:00","description":"I frequent Discord quite often and I don’t see many members using Markdown syntax to flair out their messages, which is a shame. So after some deliberation on my part and some fellow server members showing interest,I decided to write one! This guide ‘s goal is to hopefully be easier to understand and follow than the already existing Discord Markdown 101 support page. This is, however, my first time writing a guide, so please bear with me! But with that said, let’s get to it!","headline":"A Fun and Easy Guide to Using Markdown on Discord!","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/a-fun-and-easy-guide-to-using-markdown-on-discord/"},"url":"http://localhost:4000/a-fun-and-easy-guide-to-using-markdown-on-discord/"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/css/style.css">
-  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="The Reading Dimension" />
-</head>
-<body><header class="site-header">
-  <meta http-equiv="Content-Security-Policy" content="script-src 'self' https://static.cloudflareinsights.com; object-src 'none'; base-uri 'self';">
-  <div class="wrapper"><a class="site-title" rel="author" href="/">The Reading Dimension</a><nav class="site-nav">
-        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-        <label for="nav-trigger">
-          <span class="menu-icon">
-            <svg viewBox="0 0 18 15" width="18px" height="15px">
-              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
-            </svg>
-          </span>
-        </label>
 
-        <div class="trigger"><a class="page-link" href="/">Home</a><a class="page-link" href="/categories/">Categories</a><a class="page-link" href="/contact/">Contact</a><a class="page-link" href="/about/">About</a></div>
-      </nav></div>
-</header>
-<main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">A Fun and Easy Guide to Using Markdown on Discord!</h1>
-    <p class="post-meta"><time class="dt-published" datetime="2023-08-14T20:00:00-04:00" itemprop="datePublished">
-        Aug 14, 2023
-      </time>• 
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">Reading</span></span></p>
+  <title>A Fun and Easy Guide to Using Markdown on Discord! | The Reading Dimension
+  </title>
+
+  <!--
+  The Favicons for Web, Android, Microsoft, and iOS (iPhone and iPad) Apps
+  Generated by: https://realfavicongenerator.net/
+-->
+
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicons/favicon-16x16.png">
+
+  <link rel="manifest" href="/assets/img/favicons/site.webmanifest">
+
+<link rel="shortcut icon" href="/assets/img/favicons/favicon.ico">
+<meta name="apple-mobile-web-app-title" content="The Reading Dimension">
+<meta name="application-name" content="The Reading Dimension">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/assets/img/favicons/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+
+
+  <!-- Resource Hints -->
+  
     
-      <div class="post-content e-content" itemprop="articleBody">
-        <h2 id="introduction">Introduction</h2>
+      
+        <link rel="preconnect" href="https://fonts.googleapis.com" >
+      
+        <link rel="dns-prefetch" href="https://fonts.googleapis.com" >
+      
+    
+      
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      
+        <link rel="dns-prefetch" href="https://fonts.gstatic.com" >
+      
+    
+      
+        <link rel="preconnect" href="https://cdn.jsdelivr.net" >
+      
+        <link rel="dns-prefetch" href="https://cdn.jsdelivr.net" >
+      
+    
+  
+
+  <!-- Bootstrap -->
+  
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+  
+
+  <!-- Theme style -->
+  <link rel="stylesheet" href="/assets/css/jekyll-theme-chirpy.css">
+
+  <!-- Web Font -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Source+Sans+Pro:wght@400;600;700;900&display=swap">
+
+  <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.1/css/all.min.css">
+
+  <!-- 3rd-party Dependencies -->
+
+  
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tocbot@4.32.2/dist/tocbot.min.css">
+  
+
+  
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/loading-attribute-polyfill@2.1.1/dist/loading-attribute-polyfill.min.css">
+  
+
+  
+    <!-- Image Popup -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox@3.3.0/dist/css/glightbox.min.css">
+  
+
+  <!-- Scripts -->
+
+  <script src="/assets/js/dist/theme.min.js"></script>
+
+  <!-- JS selector for site. -->
+
+<!-- commons -->
+
+
+
+<!-- layout specified -->
+
+
+  
+
+  
+    <!-- image lazy-loading & popup & clipboard -->
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+
+    
+
+  
+
+  
+    
+
+    
+
+  
+
+  
+    
+
+    
+
+  
+
+  
+    
+
+    
+
+  
+
+  
+    
+
+    
+
+  
+
+  
+    
+
+    
+
+  
+
+  
+    
+
+    
+
+  
+
+  
+    
+
+    
+
+  
+
+  
+    
+
+    
+
+  
+
+
+
+  <script defer src="https://cdn.jsdelivr.net/combine/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js,npm/loading-attribute-polyfill@2.1.1/dist/loading-attribute-polyfill.umd.min.js,npm/glightbox@3.3.0/dist/js/glightbox.min.js,npm/clipboard@2.0.11/dist/clipboard.min.js,npm/dayjs@1.11.13/dayjs.min.js,npm/dayjs@1.11.13/locale/en.js,npm/dayjs@1.11.13/plugin/relativeTime.js,npm/dayjs@1.11.13/plugin/localizedFormat.js,npm/tocbot@4.32.2/dist/tocbot.min.js"></script>
+
+
+
+
+
+
+
+<script defer src="/assets/js/dist/post.min.js"></script>
+
+
+
+<!-- Pageviews -->
+
+  
+
+  
+
+
+
+  
+
+  <!-- A placeholder to allow defining custom metadata -->
+
+</head>
+
+
+  <body>
+    <!-- The Side Bar -->
+
+<aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
+  <header class="profile-wrapper">
+    <a href="/" id="avatar" class="rounded-circle"><img src="https://avatars.githubusercontent.com/u/126733238?v=4" width="112" height="112" alt="avatar" onerror="this.style.display='none'"></a>
+
+    <a class="site-title d-block" href="/">The Reading Dimension</a>
+    <p class="site-subtitle fst-italic mb-0">A dimension like no other.</p>
+  </header>
+  <!-- .profile-wrapper -->
+
+  <nav class="flex-column flex-grow-1 w-100 ps-0">
+    <ul class="nav">
+      <!-- home -->
+      <li class="nav-item">
+        <a href="/" class="nav-link">
+          <i class="fa-fw fas fa-home"></i>
+          <span>HOME</span>
+        </a>
+      </li>
+      <!-- the real tabs -->
+      
+        <li class="nav-item">
+          <a href="/categories/" class="nav-link">
+            <i class="fa-fw fas fa-stream"></i>
+            
+
+            <span>CATEGORIES</span>
+          </a>
+        </li>
+        <!-- .nav-item -->
+      
+        <li class="nav-item">
+          <a href="/archives/" class="nav-link">
+            <i class="fa-fw fas fa-archive"></i>
+            
+
+            <span>ARCHIVES</span>
+          </a>
+        </li>
+        <!-- .nav-item -->
+      
+        <li class="nav-item">
+          <a href="/about/" class="nav-link">
+            <i class="fa-fw fas fa-info-circle"></i>
+            
+
+            <span>ABOUT</span>
+          </a>
+        </li>
+        <!-- .nav-item -->
+      
+    </ul>
+  </nav>
+
+  <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100">
+    
+      <button type="button" class="btn btn-link nav-link" aria-label="Switch Mode" id="mode-toggle">
+        <i class="fas fa-adjust"></i>
+      </button>
+
+      
+        <span class="icon-border"></span>
+      
+    
+
+    
+      
+
+      
+        <a
+          href="https://github.com/readandprogress"
+          aria-label="github"
+          
+
+          
+            target="_blank"
+            
+          
+
+          
+
+          
+            rel="noopener noreferrer"
+          
+        >
+          <i class="fab fa-github"></i>
+        </a>
+      
+    
+      
+
+      
+        <a
+          href="https://discord.com/users/394951184236019723"
+          aria-label="discord"
+          
+
+          
+            target="_blank"
+            
+          
+
+          
+
+          
+            rel="noopener noreferrer"
+          
+        >
+          <i class="fa-brands fa-discord"></i>
+        </a>
+      
+    
+      
+
+      
+        <a
+          href="javascript:location.href = 'mailto:' + ['readandprogress','duck.com'].join('@')"
+          aria-label="email"
+          
+
+          
+
+          
+
+          
+        >
+          <i class="fas fa-envelope"></i>
+        </a>
+      
+    
+      
+
+      
+        <a
+          href="/feed.xml"
+          aria-label="rss"
+          
+
+          
+
+          
+
+          
+        >
+          <i class="fas fa-rss"></i>
+        </a>
+      
+    
+  </div>
+  <!-- .sidebar-bottom -->
+</aside>
+<!-- #sidebar -->
+
+
+    <div id="main-wrapper" class="d-flex justify-content-center">
+      <div class="container d-flex flex-column px-xxl-5">
+        <!-- The Top Bar -->
+
+<header id="topbar-wrapper" aria-label="Top Bar">
+  <div
+    id="topbar"
+    class="d-flex align-items-center justify-content-between px-lg-3 h-100"
+  >
+    <nav id="breadcrumb" aria-label="Breadcrumb">
+      
+
+      
+        
+          
+            <span>
+              <a href="/">Home</a>
+            </span>
+
+          
+        
+          
+            
+              <span>A Fun and Easy Guide to Using Markdown on Discord!</span>
+            
+
+          
+        
+      
+    </nav>
+    <!-- endof #breadcrumb -->
+
+    <button type="button" id="sidebar-trigger" class="btn btn-link">
+      <i class="fas fa-bars fa-fw"></i>
+    </button>
+
+    <div id="topbar-title">
+      Post
+    </div>
+
+    <button type="button" id="search-trigger" class="btn btn-link">
+      <i class="fas fa-search fa-fw"></i>
+    </button>
+
+    <search id="search" class="align-items-center ms-3 ms-lg-0">
+      <i class="fas fa-search fa-fw"></i>
+      <input
+        class="form-control"
+        id="search-input"
+        type="search"
+        aria-label="search"
+        autocomplete="off"
+        placeholder="Search..."
+      >
+    </search>
+    <button type="button" class="btn btn-link text-decoration-none" id="search-cancel">Cancel</button>
+  </div>
+</header>
+
+
+        <div class="row flex-grow-1">
+          <main aria-label="Main Content" class="col-12 col-lg-11 col-xl-9 px-md-4">
+            
+              <!-- Refactor the HTML structure -->
+
+
+
+<!--
+  In order to allow a wide table to scroll horizontally,
+  we suround the markdown table with `<div class="table-wrapper">` and `</div>`
+-->
+
+
+
+<!--
+  Fixed kramdown code highlight rendering:
+  https://github.com/penibelst/jekyll-compress-html/issues/101
+  https://github.com/penibelst/jekyll-compress-html/issues/71#issuecomment-188144901
+-->
+
+
+
+<!-- Change the icon of checkbox -->
+
+
+
+<!-- Handle images -->
+
+
+
+
+
+<!-- Add header for code snippets -->
+
+
+
+<!-- Create heading anchors -->
+
+
+
+
+
+  
+  
+
+  
+    
+    
+
+    
+      
+        
+        
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
+
+    
+  
+
+  
+  
+
+  
+    
+    
+
+    
+      
+        
+        
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
+
+    
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+
+
+
+<!-- return -->
+
+
+
+
+
+
+
+
+
+
+<article class="px-1" data-toc="true">
+  <header>
+    <h1 data-toc-skip>A Fun and Easy Guide to Using Markdown on Discord!</h1>
+    
+      <p class="post-desc fw-light mb-4">I frequent Discord quite often and I don't see many members using Markdown syntax to flair out their messages, which is a shame. So after some deliberation on my part and some fellow server members showing interest,I decided to write one! This guide 's goal is to hopefully be easier to understand and follow than the already existing Discord Markdown 101 support page. This is, however, my first time writing a guide, so please bear with me! But with that said, let's get to it!</p>
+    
+
+    <div class="post-meta text-muted">
+      <!-- published date -->
+      <span>
+        Posted
+        <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/locale-dateime.js
+-->
+
+
+
+
+<time
+  
+  data-ts="1692147600"
+  data-df="ll"
+  
+    data-bs-toggle="tooltip" data-bs-placement="bottom"
+  
+>
+  Aug 15, 2023
+</time>
+
+      </span>
+
+      <!-- lastmod date -->
+      
+        <span>
+          Updated
+          <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/locale-dateime.js
+-->
+
+
+
+
+<time
+  
+  data-ts="1734648300"
+  data-df="ll"
+  
+    data-bs-toggle="tooltip" data-bs-placement="bottom"
+  
+>
+  Dec 19, 2024
+</time>
+
+        </span>
+      
+
+      
+
+      <div class="d-flex justify-content-between">
+        <!-- author(s) -->
+        <span>
+          
+
+          By
+
+          <em>
+            
+              <a href="https://github.com/readandprogress">Reading</a>
+            
+          </em>
+        </span>
+
+        <div>
+          <!-- pageviews -->
+          
+
+          <!-- read time -->
+          <!-- Calculate the post's reading time, and display the word count in tooltip -->
+
+
+
+<!-- words per minute -->
+
+
+
+
+
+
+
+
+
+
+<!-- return element -->
+<span
+  class="readtime"
+  data-bs-toggle="tooltip"
+  data-bs-placement="bottom"
+  title="1131 words"
+>
+  <em>6 min</em> read</span>
+
+        </div>
+      </div>
+    </div>
+  </header>
+
+  
+    <div id="toc-bar" class="d-flex align-items-center justify-content-between invisible">
+      <span class="label text-truncate">A Fun and Easy Guide to Using Markdown on Discord!</span>
+      <button type="button" class="toc-trigger btn me-1">
+        <i class="fa-solid fa-list-ul fa-fw"></i>
+      </button>
+    </div>
+
+    <button id="toc-solo-trigger" type="button" class="toc-trigger btn btn-outline-secondary btn-sm">
+      <span class="label ps-2 pe-1">Contents</span>
+      <i class="fa-solid fa-angle-right fa-fw"></i>
+    </button>
+
+    <dialog id="toc-popup" class="p-0">
+      <div class="header d-flex flex-row align-items-center justify-content-between">
+        <div class="label text-truncate py-2 ms-4">A Fun and Easy Guide to Using Markdown on Discord!</div>
+        <button id="toc-popup-close" type="button" class="btn mx-1 my-1 opacity-75">
+          <i class="fas fa-close"></i>
+        </button>
+      </div>
+      <div id="toc-popup-content" class="px-4 py-3 pb-4"></div>
+    </dialog>
+  
+
+  <div class="content">
+    <h2 id="introduction"><span class="me-2">Introduction</span><a href="#introduction" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
 
 <p>I frequent Discord quite often and I don’t see many members using Markdown syntax to flair out their messages, which is a shame. So after some deliberation on my part and some fellow server members showing interest,I decided to write one! This guide ‘s goal is to hopefully be easier to understand and follow than the already existing Discord Markdown 101 support page. This is, however, my first time writing a guide, so please bear with me! But with that said, let’s get to it!</p>
 
-<h2 id="the-basics">The Basics</h2>
+<h2 id="the-basics"><span class="me-2">The Basics</span><a href="#the-basics" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
 
 <p>While you can use Discord’s built-in formatting tools for some of these, using Markdown is often a better option. Markdown is a simple plain text formatting syntax that can be used to create a variety of effects, such as italics, bold, and spoilers. It’s also more portable, so you can use it on other platforms, such as GitHub, for example!</p>
 
-<h3 id="spoiler-tags">Spoiler Tags</h3>
+<h3 id="spoiler-tags"><span class="me-2">Spoiler Tags</span><a href="#spoiler-tags" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 
 <p>Don’t want to spoil that awesome game ending or want to troll your friends? Just use two pipe characters on the front and back of your text!</p>
 
@@ -72,38 +902,56 @@
 <p><br /></p>
 
 <p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>||I'm not invisible anymore; hide me, please. : _ ;|| 
-</code></pre></div></div>
-<h3 id="italics">Italics</h3>
+
+<div class="language-markdown highlighter-rouge"><div class="code-header">
+        <span data-label-text="Markdown"><i class="fas fa-code fa-fw small"></i></span>
+      <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>||I'm not invisible anymore; hide me, please. : _ ;|| 
+</pre></td></tr></tbody></table></code></div></div>
+
+<h3 id="italics"><span class="me-2">Italics</span><a href="#italics" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 
 <p>To italicize text, all you need to do is add an asterisk to a sentence or word, both before and after. This will be the same for the following, so keep that in mind.</p>
 
 <p><em>Look at me, I’m pointy!</em></p>
 
 <p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>*Look at me, I'm pointy!*
-</code></pre></div></div>
-<h3 id="underline-italics">Underline Italics</h3>
 
-<p>Underlined italicization uses the same asterisk character but with the addition of two undescores at the end and beginning. This is a special Discord syntax and is not possible in regular Markdown, so keep that in mind.</p>
+<div class="language-markdown highlighter-rouge"><div class="code-header">
+        <span data-label-text="Markdown"><i class="fas fa-code fa-fw small"></i></span>
+      <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="ge">*Look at me, I'm pointy!*</span>
+</pre></td></tr></tbody></table></code></div></div>
 
-<p><u><i>I'm still pointy but with a underline!<i></i><u></u></i></u></p>
+<h3 id="underline-italics"><span class="me-2">Underline Italics</span><a href="#underline-italics" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
+
+<p>Underlined italicization uses the same asterisk character but with the addition of two underscores at the end and beginning. This is a special Discord syntax and is not possible in regular Markdown, so keep that in mind.</p>
+
+<p><em><u>I'm still pointy but with a underline!</u></em></p>
 
 <p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>__*I'm still pointy but with a underline!*__
-</code></pre></div></div>
 
-<h3 id="underlining">Underlining</h3>
+<div class="language-markdown highlighter-rouge"><div class="code-header">
+        <span data-label-text="Markdown"><i class="fas fa-code fa-fw small"></i></span>
+      <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="gs">__*I'm still pointy but with a underline!*__</span>
+</pre></td></tr></tbody></table></code></div></div>
+
+<h3 id="underlining"><span class="me-2">Underlining</span><a href="#underlining" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 
 <p>Now for just underlining, you just need to add two underscores front and back to your text. This also only works on Discord!</p>
 
 <p><u>Sometimes you just need some underlining, ya know?</u></p>
 
 <p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>__Sometimes you just need some underlining, ya know?__
-</code></pre></div></div>
 
-<h3 id="bolding">Bolding</h3>
+<div class="language-markdown highlighter-rouge"><div class="code-header">
+        <span data-label-text="Markdown"><i class="fas fa-code fa-fw small"></i></span>
+      <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="gs">__Sometimes you just need some underlining, ya know?__</span>
+</pre></td></tr></tbody></table></code></div></div>
+
+<h3 id="bolding"><span class="me-2">Bolding</span><a href="#bolding" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 
 <p>But what if you want to give your text more importance? That’s where bolding comes in handy!</p>
 
@@ -112,47 +960,64 @@
 <p><strong>I’m a ghost, boo!</strong></p>
 
 <p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>**I'm a ghost, boo!**
-</code></pre></div></div>
 
-<h3 id="underline-bolding">Underline Bolding</h3>
+<div class="language-markdown highlighter-rouge"><div class="code-header">
+        <span data-label-text="Markdown"><i class="fas fa-code fa-fw small"></i></span>
+      <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="gs">**I'm a ghost, boo!**</span>
+</pre></td></tr></tbody></table></code></div></div>
 
-<p>But what if you like some undeline with that? Just add the same characters we use for underlining; that’s two underscores if you lost track. It happens to the best of us!</p>
+<h3 id="underline-bolding"><span class="me-2">Underline Bolding</span><a href="#underline-bolding" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
+
+<p>But what if you like some underline with that? Just add the same characters we use for underlining; that’s two underscores if you lost track. It happens to the best of us!</p>
 
 <p><b><u>I'm still a ghost, by the way!</u></b></p>
 
 <p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>__**I'm still a ghost, by the way!**__
-</code></pre></div></div>
 
-<h3 id="bolding-and-italics">Bolding and Italics</h3>
+<div class="language-markdown highlighter-rouge"><div class="code-header">
+        <span data-label-text="Markdown"><i class="fas fa-code fa-fw small"></i></span>
+      <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="gs">__**I'm still a ghost, by the way!**__</span>
+</pre></td></tr></tbody></table></code></div></div>
+
+<h3 id="bolding-and-italics"><span class="me-2">Bolding and Italics</span><a href="#bolding-and-italics" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 
 <p>And if you want to be extra spicy, you can always italicize and bold at the same time with two underscores and three asterisk characters. This is different from regular Markdown, which uses just one underscore and two asterisk characters for the same effect.</p>
 
-<p><em><strong>Just the thing you need when making a big point!</strong></em></p>
+<p><strong><em>Just the thing you need when making a big point!</em></strong></p>
 
 <p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>__***Just the thing you need when making a big point!__***
-</code></pre></div></div>
 
-<h3 id="strikethrough">Strikethrough</h3>
+<div class="language-markdown highlighter-rouge"><div class="code-header">
+        <span data-label-text="Markdown"><i class="fas fa-code fa-fw small"></i></span>
+      <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="gs">__***Just the thing you need when making a big point!__</span><span class="ge">**</span><span class="err">*</span>
+</pre></td></tr></tbody></table></code></div></div>
+
+<h3 id="strikethrough"><span class="me-2">Strikethrough</span><a href="#strikethrough" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 
 <p>Sometimes you want to say something but want to keep it low-key; this is where strikethrough text comes to the rescue.</p>
 
 <p>Just add two tildes, front and back, to your text.</p>
 
-<p><del>Sshh, don’t tell anyone. :P</del></p>
+<p><del>Shh, don’t tell anyone. :P</del></p>
 
 <p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>~~Sshh, don't tell anyone. :P~~
-</code></pre></div></div>
+
+<div class="language-markdown highlighter-rouge"><div class="code-header">
+        <span data-label-text="Markdown"><i class="fas fa-code fa-fw small"></i></span>
+      <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>~~Sshh, don't tell anyone. :P~~
+</pre></td></tr></tbody></table></code></div></div>
+
 <p><br /></p>
 
-<h2 id="the-fun-stuff">The Fun Stuff!</h2>
+<h2 id="the-fun-stuff"><span class="me-2">The Fun Stuff</span><a href="#the-fun-stuff" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
 
-<p>Now for the really cool stuff you probably don’t know about! Like making bulleted lists, headers, masking links, sharing your code snippets with code blocks, and more, You can do quite a lot to make yours and others Discord experiences better thanks to Markdowm!</p>
+<p>Now for the really cool stuff you probably don’t know about! Like making bulleted lists, headers, masking links, sharing your code snippets with code blocks, and more, You can do quite a lot to make yours and others Discord experiences better thanks to Markdown!</p>
 
-<h3 id="headers">Headers</h3>
+<h3 id="headers"><span class="me-2">Headers</span><a href="#headers" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 
 <p>With Discord adding forum-like features, it’s really handy to use a header for detailed articles or posts you want to share on Discord!</p>
 
@@ -165,12 +1030,18 @@
 </ul>
 
 <p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># Bigger is always better, right?
-## Not so big, but not too small either.
-### I'm just right! unlike the other two... 
-</code></pre></div></div>
 
-<h3 id="masked-links">Masked Links</h3>
+<div class="language-markdown highlighter-rouge"><div class="code-header">
+        <span data-label-text="Markdown"><i class="fas fa-code fa-fw small"></i></span>
+      <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+</pre></td><td class="rouge-code"><pre><span class="gh"># Bigger is always better, right?</span>
+<span class="gu">## Not so big, but not too small either.</span>
+<span class="gu">### I'm just right! unlike the other two... </span>
+</pre></td></tr></tbody></table></code></div></div>
+
+<h3 id="masked-links"><span class="me-2">Masked Links</span><a href="#masked-links" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 
 <p>You can paste a link into the chat, but that is not the prettiest thing, right? Especially if Discord doesn’t have a preview, why not embed it in the text? Luckily, we can do that!</p>
 
@@ -179,10 +1050,14 @@
 <p><a href="https://reading.is-a.dev">Check out my blog!</a></p>
 
 <p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[Check out my blog!](https://reading.is-a.dev)
-</code></pre></div></div>
 
-<h3 id="lists">Lists</h3>
+<div class="language-markdown highlighter-rouge"><div class="code-header">
+        <span data-label-text="Markdown"><i class="fas fa-code fa-fw small"></i></span>
+      <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="p">[</span><span class="nv">Check out my blog!</span><span class="p">](</span><span class="sx">https://reading.is-a.dev</span><span class="p">)</span>
+</pre></td></tr></tbody></table></code></div></div>
+
+<h3 id="lists"><span class="me-2">Lists</span><a href="#lists" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 
 <p>It’s pretty self-explanatory: while you could list stuff with regular, good old plain text, you can make it even prettier with Markdown!</p>
 
@@ -199,11 +1074,16 @@
 </ul>
 
 <p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- Listing is fun!
-  - right?
-</code></pre></div></div>
 
-<h3 id="code-blocks">Code Blocks</h3>
+<div class="language-markdown highlighter-rouge"><div class="code-header">
+        <span data-label-text="Markdown"><i class="fas fa-code fa-fw small"></i></span>
+      <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre><span class="p">-</span> Listing is fun!
+<span class="p">  -</span> right?
+</pre></td></tr></tbody></table></code></div></div>
+
+<h3 id="code-blocks"><span class="me-2">Code Blocks</span><a href="#code-blocks" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 
 <p>One of my favorites! It makes it a breeze to copy code; just add a backtick for one line of code or three if the code is multi-lined like a script.</p>
 
@@ -212,9 +1092,14 @@
 <p>See, isn’t that just better? Now all we need to do is double-click it to select it. Timesaver!</p>
 
 <p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>`Just imagine this is a piece of code, Okay?`
-</code></pre></div></div>
-<h3 id="block-quotes">Block Quotes</h3>
+
+<div class="language-markdown highlighter-rouge"><div class="code-header">
+        <span data-label-text="Markdown"><i class="fas fa-code fa-fw small"></i></span>
+      <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="sb">`Just imagine this is a piece of code, Okay?`</span>
+</pre></td></tr></tbody></table></code></div></div>
+
+<h3 id="block-quotes"><span class="me-2">Block Quotes</span><a href="#block-quotes" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 
 <p>Finally, sometimes you need to quote a piece of text; maybe you’re doing a book club. Regardless, this is where block quotes come in handy!</p>
 
@@ -229,21 +1114,470 @@
 </blockquote>
 
 <p><strong>ex:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; I can't believe this guide is almost done!
 
-&gt;&gt;&gt; It took me some days to finish this, but I'm quite relieved that it's done. It was a fun side project, and I hope you can get some use out of it! 
-</code></pre></div></div>
+<div class="language-markdown highlighter-rouge"><div class="code-header">
+        <span data-label-text="Markdown"><i class="fas fa-code fa-fw small"></i></span>
+      <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+</pre></td><td class="rouge-code"><pre><span class="gt">&gt; I can't believe this guide is almost done!</span>
+<span class="gt">
+&gt;&gt;&gt; It took me some days to finish this, but I'm quite relieved that it's done. It was a fun side project, and I hope you can get some use out of it! </span>
+</pre></td></tr></tbody></table></code></div></div>
 
-<h2 id="wrapping-up">Wrapping up!</h2>
+<h2 id="wrapping-up"><span class="me-2">Wrapping up</span><a href="#wrapping-up" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
 
 <p>That’s it. You now have a pretty good grasp on Markdown on Discord. So what’s next? I recommend looking into other Markdown guides if you want to get into the nitty-gritty of it and use it on other platforms! For now, I would love for you to use Markdown syntax on your favorite Discord servers and make the Discord experience better for everyone! I believe everyone should give Markdown a whirl; you may be surprised at how fun it is!</p>
 
+  </div>
+
+  <div class="post-tail-wrapper text-muted">
+    <!-- categories -->
+    
+      <div class="post-meta mb-3">
+        <i class="far fa-folder-open fa-fw me-1"></i>
+        
+          <a href="/categories/guides/">Guides</a>
       </div>
     
-  </header><a class="u-url" href="/a-fun-and-easy-guide-to-using-markdown-on-discord/" hidden></a>
+
+    <!-- tags -->
+    
+
+    <div
+      class="
+        post-tail-bottom
+        d-flex justify-content-between align-items-center mt-5 pb-2
+      "
+    >
+      <div class="license-wrapper">
+        
+          
+
+          This post is licensed under 
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+          CC BY-NC-SA 4.0
+        </a>
+         by the author.
+        
+      </div>
+
+      <!-- Post sharing snippet -->
+
+<div class="share-wrapper d-flex align-items-center">
+  <span class="share-label text-muted">Share</span>
+  <span class="share-icons">
+    
+    
+    
+
+    
+
+    <button
+      id="copy-link"
+      aria-label="Copy link"
+      class="btn small"
+      data-bs-toggle="tooltip"
+      data-bs-placement="top"
+      title="Copy link"
+      data-title-succeed="Link copied successfully!"
+    >
+      <i class="fa-fw fas fa-link pe-none fs-6"></i>
+    </button>
+  </span>
+</div>
+
+    </div>
+    <!-- .post-tail-bottom -->
+  </div>
+  <!-- div.post-tail-wrapper -->
 </article>
 
-      </div>
-    </main><script src="https://tinylytics.app/embed/DK_YxVC6G4sW6wGE9F7_.js?hits&webring"defer></script></body>
 
+            
+          </main>
+
+          <!-- panel -->
+          <aside aria-label="Panel" id="panel-wrapper" class="col-xl-3 ps-2 text-muted">
+            <div class="access">
+              <!-- Get 5 last posted/updated posts -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <section id="access-lastmod">
+    <h2 class="panel-heading">Recently Updated</h2>
+    <ul class="content list-unstyled ps-0 pb-1 ms-1 mt-2">
+      
+        
+        
+        
+        <li class="text-truncate lh-lg">
+          <a href="/moving-over-to-jekyll-chirpy/">Finally Moved Over To Jekyll Chirpy!</a>
+        </li>
+      
+        
+        
+        
+        <li class="text-truncate lh-lg">
+          <a href="/why-I'm-turning-my-website-into-a-digital-garden/">Why I’m Turning My Website Into a Digital Garden!</a>
+        </li>
+      
+        
+        
+        
+        <li class="text-truncate lh-lg">
+          <a href="/keeping-my-notes-synced-with-git-and-github/">Keeping My Notes Synced With Git and GitHub!</a>
+        </li>
+      
+        
+        
+        
+        <li class="text-truncate lh-lg">
+          <a href="/pok%C3%A9mon-legends-z-a-looks-promising-but-I-can't-help-feeling-lukewarm-about-it/">Pokémon Legends: Z-A Looks Promising but I Can't Help Feeling Lukewarm About It</a>
+        </li>
+      
+        
+        
+        
+        <li class="text-truncate lh-lg">
+          <a href="/my-journey-in-computing-throughout-the-years/">My Journey in Computing Throughout the Years!</a>
+        </li>
+      
+    </ul>
+  </section>
+  <!-- #access-lastmod -->
+
+
+              <!-- The trending tags list -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+
+            
+              
+              
+
+
+
+
+
+
+  <div class="toc-border-cover z-3"></div>
+  <section id="toc-wrapper" class="invisible position-sticky ps-0 pe-4 pb-4">
+    <h2 class="panel-heading ps-3 pb-2 mb-0">Contents</h2>
+    <nav id="toc"></nav>
+  </section>
+
+
+            
+          </aside>
+        </div>
+
+        <div class="row">
+          <!-- tail -->
+          <div id="tail-wrapper" class="col-12 col-lg-11 col-xl-9 px-md-4">
+            
+              
+              <!-- Recommend the other 3 posts according to the tags and categories of the current post. -->
+
+<!-- The total size of related posts -->
+
+
+<!-- An random integer that bigger than 0 -->
+
+
+<!-- Equals to TAG_SCORE / {max_categories_hierarchy} -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  <aside id="related-posts" aria-labelledby="related-label">
+    <h3 class="mb-4" id="related-label">Further Reading</h3>
+    <nav class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4 mb-4">
+      
+        <article class="col">
+          <a href="/my-habit-tracking-system-using-todo.txt/" class="post-preview card h-100">
+            <div class="card-body">
+              <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/locale-dateime.js
+-->
+
+
+
+
+<time
+  
+  data-ts="1717200000"
+  data-df="ll"
+  
+>
+  May 31, 2024
+</time>
+
+              <h4 class="pt-0 my-2">My Habit Tracking System Using todo.txt!</h4>
+              <div class="text-muted">
+                <p>Todo.txt has everything you need for tracking tasks. But its syntax is quite expansive and easy to grasp. So, I made my own habit tracking system using its specifications and I call it Habits.txt.</p>
+              </div>
+            </div>
+          </a>
+        </article>
+      
+    </nav>
+  </aside>
+  <!-- #related-posts -->
+
+
+            
+              
+              <!-- Navigation buttons at the bottom of the post. -->
+
+<nav class="post-navigation d-flex justify-content-between" aria-label="Post Navigation">
+  
+  
+
+  
+    <a
+      href="/goodbye-my-first-homelab/"
+      class="btn btn-outline-primary"
+      aria-label="Older"
+    >
+      <p>Goodbye my First Homelab ; _ ;</p>
+    </a>
+  
+
+  
+    <a
+      href="/transitioning-to-cloudflare-pages/"
+      class="btn btn-outline-primary"
+      aria-label="Newer"
+    >
+      <p>Transitioning to Cloudflare Pages!</p>
+    </a>
+  
+</nav>
+
+            
+
+            <!-- The Footer -->
+
+<footer
+  aria-label="Site Info"
+  class="
+    d-flex flex-column justify-content-center text-muted
+    flex-lg-row justify-content-lg-between align-items-lg-center pb-lg-3
+  "
+>
+  <p>©
+    <time>2024</time>
+
+    
+      <a href="https://github.com/readandprogress">Reading</a>.
+    
+
+    
+      <span
+        data-bs-toggle="tooltip"
+        data-bs-placement="top"
+        title="Except where otherwise noted, the blog posts on this site are licensed under the Creative Commons Attribution 4.0 International (CC BY-NC-SA 4.0) License by the author."
+      >Some rights reserved.</span>
+    
+  </p>
+
+  <p>Using the <a
+        data-bs-toggle="tooltip"
+        data-bs-placement="top"
+        title="v7.2.2"
+        href="https://github.com/cotes2020/jekyll-theme-chirpy"
+        target="_blank"
+        rel="noopener"
+      >Chirpy</a> theme for <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a>.
+  </p>
+</footer>
+
+          </div>
+        </div>
+
+        <!-- The Search results -->
+
+<div id="search-result-wrapper" class="d-flex justify-content-center d-none">
+  <div class="col-11 content">
+    <div id="search-hints">
+      <!-- The trending tags list -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    <div id="search-results" class="d-flex flex-wrap justify-content-center text-muted mt-3"></div>
+  </div>
+</div>
+
+      </div>
+
+      <aside aria-label="Scroll to Top">
+        <button id="back-to-top" type="button" class="btn btn-lg btn-box-shadow">
+          <i class="fas fa-angle-up"></i>
+        </button>
+      </aside>
+    </div>
+
+    <div id="mask" class="d-none position-fixed w-100 h-100 z-1"></div>
+
+    
+      <aside
+  id="notification"
+  class="toast"
+  role="alert"
+  aria-live="assertive"
+  aria-atomic="true"
+  data-bs-animation="true"
+  data-bs-autohide="false"
+>
+  <div class="toast-header">
+    <button
+      type="button"
+      class="btn-close ms-auto"
+      data-bs-dismiss="toast"
+      aria-label="Close"
+    ></button>
+  </div>
+  <div class="toast-body text-center pt-0">
+    <p class="px-2 mb-3">A new version of content is available.</p>
+    <button type="button" class="btn btn-primary" aria-label="Update">
+      Update
+    </button>
+  </div>
+</aside>
+
+    
+
+    <!-- Embedded scripts -->
+
+    
+      
+      <!-- The comments switcher -->
+
+
+    
+
+    <!--
+  Jekyll Simple Search loader
+  See: <https://github.com/christian-fei/Simple-Jekyll-Search>
+-->
+
+
+
+
+
+<script>
+  
+  document.addEventListener('DOMContentLoaded', () => {
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('search-results'),
+      json: '/assets/js/data/search.json',
+      searchResultTemplate: '  <article class="px-1 px-sm-2 px-lg-4 px-xl-0">    <header>      <h2><a href="{url}">{title}</a></h2>      <div class="post-meta d-flex flex-column flex-sm-row text-muted mt-1 mb-1">        {categories}        {tags}      </div>    </header>    <p>{snippet}</p>  </article>',
+      noResultsText: '<p class="mt-5">Oops! No results found.</p>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'categories') {
+          if (value === '') {
+            return `${value}`;
+          } else {
+            return `<div class="me-sm-4"><i class="far fa-folder fa-fw"></i>${value}</div>`;
+          }
+        }
+
+        if (prop === 'tags') {
+          if (value === '') {
+            return `${value}`;
+          } else {
+            return `<div><i class="fa fa-tag fa-fw"></i>${value}</div>`;
+          }
+        }
+      }
+    });
+  });
+</script>
+
+  </body>
 </html>
+

@@ -1,10 +1,8 @@
 ---
-layout: post
 title: "Getting Started with Chromebrew!"
-date: 2024-01-31 00:00:00 -0000
+date: 2024-01-31 18:00:00 -0500
 categories: Tech
-author: Reading
-excerpt: I am bringing you a short post for this month since I have been enjoying my holidays, and my last post was my longest and most worked on yet! So I'm taking a small break for now, but I don't want to leave you with nothing for this month, so here we are. I hope you enjoy it!
+description: I am bringing you a short post for this month since I have been enjoying my holidays, and my last post was my longest and most worked on yet! So I'm taking a small break for now, but I don't want to leave you with nothing for this month, so here we are. I hope you enjoy it!
 ---
 
 I am bringing you a short post for this month since I have been enjoying my holidays, and my last post was my longest and most worked on yet! So I'm taking a small break for now, but I don't want to leave you with nothing for this month, so here we are. I hope you enjoy it!
@@ -46,9 +44,3 @@ Once it's installed, you'll need to get used to its commands. Here are a few way
 Remember to use the commands in conjunction with each other, not alone, so if you want to install Chrome, for example, you use `crew install chrome`.
 
 In conclusion, Chromebrew is a great tool! Regardless of using it to give new life to older hardware, I feel like every Chromebook or Chrome device owner should have this in their toolkit to make ChromeOS even more enjoyable to use!
-
- 
-
-
-
-

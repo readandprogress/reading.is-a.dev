@@ -1,14 +1,16 @@
 ---
-layout: post
 title: "Why Fire Emblem Engage Is My Game of the Year!"
-date: 2023-12-25 00:00:00 -0000
-categories: Gaming 
-author: Reading
-excerpt: This has been quite a year in the gaming sphere! is hard not to be overwhelm by the sheer volume of quality titles out this year and with every year us gamers decided on just one game to be our game of the year! 
+date: 2023-12-25 20:00:00 -0500
+categories: Gaming
+time: 
+description: This has been quite a year in the gaming sphere! is hard not to be overwhelm by the sheer volume of quality titles out this year and with every year us gamers decided on just one game to be our game of the year! 
+toc: true
 ---
-### Before We Begin!
+## Before We Begin!
 
-![Emblem Marth](/assets/images/fee-emblem-marth.jpg)
+![Emblem Marth.](/assets/images/2023-12-25-why-fire-emblem-engage-is-my-game-of-the-year/emblem-marth.jpg)
+_Emblem Marth._
+
 
 This has been quite a year in the gaming sphere! is hard not to be overwhelm by the sheer volume of quality titles out this year and with every year us gamers decided on just one game to be our game of the year! 
 
@@ -20,9 +22,10 @@ Now that I have sinked in more three-hundred or so hours into it and completed m
 
 So now feeling well-versed on it,I feel is the perfect time to talk about my favorite game of the year!
 
-### The (Not) Anticipated Release! 
+## The (Not) Anticipated Release! 
 
-![A Bad End?](/assets/images/fee-evil-veyle-bad-ending.jpg)
+![A Bad End?](/assets/images/2023-12-25-why-fire-emblem-engage-is-my-game-of-the-year/a-bad-end.jpg)
+_A Bad End?_
 
 Back last year, in June, we got the first mention of a new Fire Emblem game, which happened to be Engage! According to a leak from a Reddit user, screenshots from an earlier build of the game surfaced, and the overall community reaction was mixed.
 
@@ -34,16 +37,18 @@ But nonetheless, some of the community was worried about this leak, and rightful
 
 But since I have disregarded the leak, I wasn't worried or against any of these changes; I'll see it when I see it, and did I ever see it? The announcement of Fire Emblem Engage for me was a bit shocking, but not unwelcome! I was so sure it was a fake that I never gave it the *slightest* chance of being real! But after watching the trailer again, I couldn't stop myself from liking what I was seeing!
 
-The visuals look striking! So colorful and vibrant, it is fair to say we have never seen a Fire Meblem game like this before! The animated cutscenes look great! They are so clean, and they may just be the best-looking cutscenes in all of Fire Emblem! The little gameplay we saw looks great; it seems to run much faster than Three Houses, and the battle animations look fantastic!
+The visuals look striking! So colorful and vibrant, it is fair to say we have never seen a Fire Emblem game like this before! The animated cutscenes look great! They are so clean, and they may just be the best-looking cutscenes in all of Fire Emblem! The little gameplay we saw looks great; it seems to run much faster than Three Houses, and the battle animations look fantastic!
 
 All in all, I really like the trailer, and in my opinion, it was 180 to my first impression from the leak. I was actually fairly excited for it! The community was trying to warm up to it as well; not everyone liked what they saw, but it was turning out to be more positive overall.
 
 Some started bashing the game before it even got released, saying it was "too different and too anime!" The first one has merit; it is quite a departure, but I can't fathom the second. Are we to believe Fire Emblem wasn't ever anime?! Is one thing to not like the artwork, the other is being ignorant. But regardless, people seem to be warming up to it, and genuine anticipation was garnered as well, but just like with any Fire Emblem release, there were always haters! Although these seem to be more vocal this time around, regardless, in a few months the game will be released, and we will soon know what it entails!
 
 
-### Engaging Gameplay! 
+## Engaging Gameplay! 
 
-![Battle Overview](/assets/images/fee-battle-overview.jpg)
+![](/assets/images/2023-12-25-why-fire-emblem-engage-is-my-game-of-the-year/battle-overview.jpg)
+_Battle Overview._
+
 
 I guess I'll start with the first thing I noticed while playing Engage, and that is refreshing and engaging gameplay! (Sorry, not sorry!)
 
@@ -65,9 +70,9 @@ Now, while engaged, your unit gets access to Engage Skills, a more powerful vers
 
 It is important to manage these skills for the best effect, but more importantly, engaging gives your unit access to new and stronger weapons regardless of their unit type or weapon proficiency. There is an even more important buff that engaging provides: Engage Attacks! These powerful attacks can only be used once per engage and can be outright devastating! They can turn the tide of battle and ensure victory for your unit.
 
-Lodestar Rush is the first one youll be able to use, normally a 7-hit attack with 30% damage per hit, and using the main character,  Alear, youll get a bonus of 2 attacks thanks to their Dragon typing.
+Lodestar Rush is the first one you'll be able to use, normally a 7-hit attack with 30% damage per hit, and using the main character,  Alear, you'll get a bonus of 2 attacks thanks to their Dragon typing.
 
-Engage attacks aren't strictly offensive; there's Micaiah's Great Sacirfice, a healing move that heals the whole party at the cost of the unit casting it losing 99% of their HP, unless they're a dragon-type unit only losing 30%. There's also Ike's Great Aether! Like the name implies, this is a defensive move targeting your unit, and once unleashed, it does massive damage to the foes around them and heals your unit afterwards.
+Engage attacks aren't strictly offensive; there's Micaiah's Great Sacrifice, a healing move that heals the whole party at the cost of the unit casting it losing 99% of their HP, unless they're a dragon-type unit only losing 30%. There's also Ike's Great Aether! Like the name implies, this is a defensive move targeting your unit, and once unleashed, it does massive damage to the foes around them and heals your unit afterwards.
 
 Just like mastering Engage Skills, mastering Engage Attacks will take time but will be worth it later on in the game and on harder difficulties!
 
@@ -75,9 +80,10 @@ Now that we have the Engage basics patted down, there are more intricacies as we
 
 Now, that doesn't sound too different to any experienced Fire Emblem player, but I'm not talking about unit classes, but their typing! In Engage, units are categorized into different typings as well as their class. For example, Alear starts off with the Dragon Child class, but they are also classified as a dragon!
 
-![in Battle!](/assets/images/fee-in-battle!.jpg)
+![in Battle!](/assets/images/2023-12-25-why-fire-emblem-engage-is-my-game-of-the-year/in-battle!.jpg)
+_In Battle!_
 
-Now there are six types all together: Dragon, Calvery, Backup, Mystical, Qi Adept, and Covert! These have all their unique abilities offered by their typing; for example, Dragon-type units have additional effects while engaged with Emblems, Calvary has more movement, and Backup can do chain attacks if they are aligned with the adjacent unit initiating an attack.
+Now there are six types all together: Dragon, Calvary, Backup, Mystical, Qi Adept, and Covert! These have all their unique abilities offered by their typing; for example, Dragon-type units have additional effects while engaged with Emblems, Calvary has more movement, and Backup can do chain attacks if they are aligned with the adjacent unit initiating an attack.
 
 But more importantly, each has different additional effects when engaged with Emblem Rings! Like we saw with Marth's Lodestar Rush on units like Alear! And just like classes, you can change your unit into a new unit type as well! Want more backup units so you can use more chain attacks? Go for it! These systems increased the amount of customization for your units.
 
@@ -104,7 +110,8 @@ But before we wrap up, let's talk about maps. Just like any Fire Emblem game, th
 
 Maps here seem a bit smaller; for example, movement across the board has been cut down! Starting with four for infantry and five or six for cavalry. It takes a while to get used to it, but after awhile, I actually prefer it overall to the other games; battles feel much more dynamic and faster. Maybe smoother is the word? I'm not sure, but it feels different, but in a good way!
 
-![Against a Fell Dragon](/assets/images/fee-great-foe.jpg)
+![Against a Fell Dragon.](/assets/images/2023-12-25-why-fire-emblem-engage-is-my-game-of-the-year/against-a-fell-dragon.jpg)
+_Against a Fell Dragon._
 
 Now the actual maps vary quite a bit; some are better than others, but overall they are good enough. Some of my favorites are:
 
@@ -119,14 +126,15 @@ Now the actual maps vary quite a bit; some are better than others, but overall t
 
 In conclusion, the maps are pretty good, with good variety all around; not every map is a winner, and that's okay; all of them are fun enough to romp through, at least for me!
 
-Wrapping up Engage's gameplay is the funnest time I had playing a Fire Emblem game. There are just so many layers to a fantastic experience like no other. The whole thing feels smooth! It feels like the team spends the most time here than in any other area! To their detriment, maybe? But that's not relevant, but I will get to it. Since Ihave much to say on that matter.
+Wrapping up Engage's gameplay is the funnest time I had playing a Fire Emblem game. There are just so many layers to a fantastic experience like no other. The whole thing feels smooth! It feels like the team spends the most time here than in any other area! To their detriment, maybe? But that's not relevant, but I will get to it. Since I have much to say on that matter.
 
 
-So yeah, of all the games in the series I've played, I have to say that Engage is my favorite when it comes to the gameplay; nothing can top it! Fates comes close with their map design, but while its gameplay is fun, it lacks the intracasies of Engage, which why I say is a close second. If what you care about in a Fire Emblem game is the gameplay, then Engage has you covered and you don't need to read on, but if thats just a part of it, like it is for me, then the rest of the game has other enjoyable aspects, some of which may be disappointing to others, but if you want to know more, you just have to keep on reading!
+So yeah, of all the games in the series I've played, I have to say that Engage is my favorite when it comes to the gameplay; nothing can top it! Fates comes close with their map design, but while its gameplay is fun, it lacks the intricacies of Engage, which why I say is a close second. If what you care about in a Fire Emblem game is the gameplay, then Engage has you covered and you don't need to read on, but if thats just a part of it, like it is for me, then the rest of the game has other enjoyable aspects, some of which may be disappointing to others, but if you want to know more, you just have to keep on reading!
 
-### A Feast for The Eyes and Ears! 
+## A Feast for The Eyes and Ears! 
 
-![The Divine Dragon](/assets/images/fee-lumera-appears.jpg)
+![The Divine Dragon Lumera Appears!](/assets/images/2023-12-25-why-fire-emblem-engage-is-my-game-of-the-year/the-divine-dragon-lumera-appears.jpg)
+_The Divine Dragon Lumera Appears!_
 
 Of course, gameplay isn't the only thing Engage has going for it! The same could be said about its visuals and
 sound!
@@ -141,7 +149,8 @@ Mika Pikazo, one from v-tuber design fame, was chosen as the lead artist for thi
 
 Now she's up there with my favorite Fire Emblem artists, like Kozaki and Hidari from Awakeing, Fates, and Echoes, respectively. Her character design is quite striking, and I will be talking more about that when we get there, but in general, her art is a breath of fresh air!
 
-![Diamant and Ivy](/assets/images/fee-diamant-and-vy.jpg)
+![The Brodian Prince and Elusian Princess, Diamant and Ivy!](/assets/images/2023-12-25-why-fire-emblem-engage-is-my-game-of-the-year/the-brodian-prince-diamant-and-the-elusian-princess-ivy.jpg)
+_The Brodian Prince and Elusian Princess, Diamant and Ivy!_
 
 But it's not only the visuals where Engage shines; it also has a great-sounding soundtrack that I'm coming to warm up to and honestly think is up there with my favorite OSTs of the series!
 
@@ -175,9 +184,10 @@ It's hard to describe the soundtrack in more detail, so here are just a couple o
 
 That's just a few of my favorites, or, I will be here all day! But yeah, the soundtrack overall is great! I recommend giving it a listen, even if you are not interested in the game. 
 
-### A Conflicting Story! 
+## A Conflicting Story! 
 
-![One Last Reunion](/assets/images/fee-journey's-end.jpg)
+![One Last Reunion.](/assets/images/2023-12-25-why-fire-emblem-engage-is-my-game-of-the-year/one-last-reunion.jpg)
+_One Last Reunion._
 
 With Engage going back to basics, we get a more traditional and simple story, unlike that of Three Houses. Some may see this as a downgrade, but overall, I feel that it does the job quite well, and while it fondles here and there, it is still enjoyable enough.
 
@@ -199,13 +209,13 @@ Instead of comparing it to similar titles like Awakening or Fates, it gets the h
 
 But yeah, it is fair to say that I feel slightly jaded by this; it feels unfair to lay the blame on Engages feet just for releasing after a game like Three Houses. But nevertheless, let's move on to one of my favorite parts of any Fire Emblem game.
 
-### The Link Between Story and Gameplay: Your Units!
+## The Link Between Story and Gameplay: Your Units!
 
-![The Divine One, Alear](/assets/images/m!alear.webp)
+![The Divine One, Alear.](/assets/images/2023-12-25-why-fire-emblem-engage-is-my-game-of-the-year/the-divine-one-alear.webp){: w="400" h="333" {: .left }
 
 The cast of Engage is one of my favorites to date! The characters feel more like the Awakening cast, showing a few traits at first but growing from those when seeing their supports. As of now, I have read every C support, so I have a good gist about each unit, but it is far from complete, so bear that in mind.
 
-Let's start with your unit and main character, Alear. They have quite an interesting character, as they are very down-to-earth and relatable. They defy the norms of being a brave hero, being scared of the Corrupted, for example. They feel a bit like an Isekai protagonist, thanks to their annemsia, with which they eventually remember everything, unlike other anemsiacs like Robin.
+Let's start with your unit and main character, Alear. They have quite an interesting character, as they are very down-to-earth and relatable. They defy the norms of being a brave hero, being scared of the Corrupted, for example. They feel a bit like an Isekai protagonist, thanks to their amnesia, with which they eventually remember everything, unlike other amnesiacs like Robin.
 
 At first, I was neutral on Alear; I liked the design well enough and was expecting another Corrin-like affair. But suddenly, I've grown to really love Alear as a character, which I didn't see coming! I think the first time that I thought this wasn't like the others was when Alear woke from a thousand years of sleep and was escorted into Lythos Castle by their stewards.
 
@@ -221,40 +231,36 @@ But he's much more than that! Diving on his support, he has an illness that he w
 
 I could talk about the other lords, but I don't want to drag this out, so I will talk about one character that surprised me!
 
-Yunaka gets her own chapter to shine right after acquiring the fourth ring. Micaiah, after the battle, we get the best quote in Fire Emblem series history! "Hiya Papaya!" Such a weird but oddly fitting greeting for someone who presumely lives in Firene with their bontiful harvests!
+Yunaka gets her own chapter to shine right after acquiring the fourth ring. Micaiah, after the battle, we get the best quote in Fire Emblem series history! "Hiya Papaya!" Such a weird but oddly fitting greeting for someone who presumably lives in Firene with their bountiful harvests!
 
 She's an interesting character with a tragic backstory that I won't spoil, but she's a huge amount of fun! She does impressions—good ones, I say! and her critical quotes bringing out her darker side are just a chef's kiss! She has many great supports as well!
 
-![Alfred's Confession](/assets/images/fee-alfred-s-rank.jpg)
+![Alfred's Confession.](/assets/images/2023-12-25-why-fire-emblem-engage-is-my-game-of-the-year/alfred-confession.jpg)
+_Alfred's Confession._
 
 Alright, so to wrap up, here's a list of my favorite support chains!
 
-- Alfred and Celine
+- Alfred and Celine's
 
   - As mentioned before, this support is rather sweet and sad and a must read if you want to know Alfred's backstory.
 
-- Celine and Alcryst
+- Celine and Alcryst's
 
-  - Just the two talking about how best to support their brothers and being worried if something happens to me is quite sweet and a good sign for Celine and Alcryst.
-
-
-- Alear & Alfred
-
-  - Alfred being overly caring as a friend and Alear just being mildly annoyed is a sweet support that grows into Friends to Lovers, one of my favorite ships.
+  - Just the two talking about how best to support their brothers and being worried if something happens to them. is quite sweet. 
 
 
-- Yunaka and Seadall
-   - Yunaka tries performing with Seadall and is, of course, a natural! Is this sweet support you could read as romantic? I do!
+- Alear and Alfred's
 
+  - Alfred being overly caring as a friend and Alear just being mildly annoyed by it. Is a very sweet support and one of my favorite ships from this game. 
 
-Overall, while the supports can be a bit short, there are some good ones in there! The cast of Engage is full of fun and zany characters; there's something for everyone!
+- Yunaka and Seadall's
+   - Yunaka tries performing with Seadall and is, of course, a natural! You could read this romantically or platonically, Either way a great support!
 
-### Some Other Thoughts
+Overall, while the supports can be a bit short, there are some good ones in there! The cast of Engage is full of fun and zany characters. There's something for everyone!
 
-<div style="text-align: center;">
-  <img src="/assets/images/alear-thinking-feh.webp" alt="Lost in Thoughts">
-</div>
-<br>
+## Some Other Thoughts
+
+![Alear Thinking.](/assets/images/2023-12-25-why-fire-emblem-engage-is-my-game-of-the-year/alear-thinking.webp){: w="440" h="440" }{: .left }
 
 I went around and gathered some thoughts about the game besides my own; some are positive and some are not. I wanted to gauge what the opinion of Engage is now that the game is close to being a year old. I got some interesting responses!
 
@@ -290,27 +296,19 @@ With enough effort, you can make anything work.
 > I love Fire Emblem and I thought that Engage was fine... And that is the problem. I've replayed TH many times, same with Fates, Awakening, FE7... But I just don't feel like playing Engage again.
 I thought the Gameplay was good, but I just didn't find it as gripping as Conquest's or even Three Houses' (unpopular opinion, I know :P)
 
-- Rodrieleven421 [Tumblr](https://rodri11421.tumblr.com/)
+- [Rodrieleven421](https://rodri11421.tumblr.com/)
 
-### Why is it My Game Of The Year?
+## Why is it My Game Of The Year?
 
-<div style="text-align: center;">
-  <img src="/assets/images/fee-alear-monarch.webp" alt="Journeys End">
-</div>
-<br>
+![The Divine Monarch, Alear.
+](/assets/images/2023-12-25-why-fire-emblem-engage-is-my-game-of-the-year/divine-monarch-alear.webp){: w="400" h="400" }{: .right }
 
 Phew! That was a long one, but yeah, I just had to gush about this game sometime! It is my game of the year for a reason!
 
-
 And why might you be asking, Why is it my game of the year? Well, I'm a huge fan of the Fire Emblem Series, and this was one of the games I was most excited for this year, and after playing some others, none of them could compare!
-
 
 I have played Star Ocean Second Story R as well as the Megaman Battle Network Legacy Collection, although I doubt that counts as it is a collection. I enjoyed both, but Star Ocean Second Story R really surprised me with his stunning graphics and fun gameplay! So even though I haven't finished it yet, it gets my honorary mention.
 
-
 Going into 2024, I'm sure even more great games will be released, so I hope to continue this in its own series. For now, I'll see you in a few weeks! Thanks to everyone who made this project possible! I wish you all a Merry Christmas and a Happy New Year!
 
-
 Now, if you'll excuse me, I'm going to rest since this took quite me some time piece together...
-
-<button class="tinylytics_kudos">Kudos</button>

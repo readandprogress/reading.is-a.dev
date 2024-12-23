@@ -1,10 +1,8 @@
 ---
-layout: post
 title: "My Journey in Computing Throughout the Years!"
-date: 2024-06-15 00:00:00 -0000
+date: 2024-06-15 20:00:00 -0500
 categories: Tech 
-author: Reading
-excerpt: "I recently read a post by Kev Quirk about his computing history, and it seemed like a fun topic, so I'm going to put my own twist on it! I've been into computing for two decades now—yes, I'm old. (◔‿◔) In that time, I have gone through four computers; one laptop and three desktops, experimenting with several operating systems and applications!"
+description: "I recently read a post by Kev Quirk about his computing history, and it seemed like a fun topic, so I'm going to put my own twist on it! I've been into computing for two decades now—yes, I'm old. (◔‿◔) In that time, I have gone through four computers; one laptop and three desktops, experimenting with several operating systems and applications!"
 ---
 
 I recently read a post[^1] by Kev Quirk[^2], about his computing history, and it seemed like a fun topic, so I'm going to put my own twist on it!
@@ -13,14 +11,11 @@ I've been into computing for two decades now—yes, I'm old. (◔‿◔)
 
 In that time, I have gone through four computers; one laptop and three desktops, experimenting with several operating systems and applications!
 
-## 1999 - 2004 Compaq Presario 7400 Series 
+## 1999 - 2004 Compaq Presario 7400 Series  
 
-<div style="text-align:center">
-  <img src="https://preview.redd.it/2fv5maew38i71.jpg?width=640&height=480&crop=smart&auto=webp&s=dfcabd9efd5a89463afc0354cc1af3196c7a77ca" alt="Image Alt Text" />
-</div>
-<p style="text-align:center">Not my exact model or picture, but is the closest to the one we had back then!</p>
+![Compaq Presario Desktop Computer](https://preview.redd.it/2fv5maew38i71.jpg?width=640&height=480&crop=smart&auto=webp&s=dfcabd9efd5a89463afc0354cc1af3196c7a77ca)
+_Not my exact model or picture, but is the closest to the one we had back then!_
 
-<br>
 
 My first PC, or should I say our first family computer, was a Compaq Presario 7400 series desktop tower. I'm not sure of the precise model, but I remember it had a Pentium 3 CPU, 64 MB of RAM, a 30GB HDD, and ran on Windows 98. It even came with an upgrade CD to Windows 98 SE!
 
@@ -41,12 +36,8 @@ This was also the time when I became more interested in Linux! I had read about 
 
 ## 2009 - 2014 HP Pavilion Slimline s5600 Series
 
-<div style="text-align:center">
-  <img src="https://www.slashgear.com/wp-content/uploads/2009/06/hp_slimline_s5000_series_desktop.jpg" alt="Image Alt Text" />
-</div>
-<p style="text-align:center">The Pavilion Slimline Case still holds up in my opinon!</p>
-
-<br>
+![HP Pavilion Slimline Desktop](https://www.slashgear.com/wp-content/uploads/2009/06/hp_slimline_s5000_series_desktop.jpg)
+_The Pavilion Slimline Case still holds up in my opinion!_
 
 When I enrolled in university for my major in Computer Science, I needed a new machine because my old one was left at my dad's when we moved, and it was time for an upgrade!
 
@@ -57,20 +48,16 @@ This machine was fantastic! It ran smoothly without any issues and was quite imp
 Windows 7 was also pleasant to use. Even though I was already using Linux and enjoying it, I decided to stick with Windows 7 on this machine. I eventually installed Kubuntu, and it ran fantastically!
 
 
-## 2014 - 2018 The Dark Era 
+## 2014 - 2018 The Dark Era
 
 During late 2014 I moved over to Florida and with it I parted away with a lot of my stuff including my trusty HP, I didn't want to lug it all the way and it was already bit out of date anyways.
 
 This was what I called my *dark* era of computing since I effectively didn't have a computer until late 2018 making do with tablets and later a smartphone. Not the best of times for me personally either, it was a *dark* era indeed.
 
-## 2018 - Current Asus C101PA 3in1 Chromebook
+## 2018 - Current ASUS C101PA 3in1 Chromebook
 
-<div style="text-align:center">
-  <img src="https://lh3.googleusercontent.com/4eAyAEg0WARIV8_rxwL2uL4GxbMELhYA169Ty2lLgo7z9h8lIO9MccBPnst9m4ushBv9ytISgAg4wLUQawhLuONFSFfN2wGu7kS3Bg=s2048" alt="Image Alt Text" />
-</div>
-<p style="text-align:center">My current computer and my first Notebook PC!</p>
-
-<br>
+![ASUS C101PA 3in1 Chromebook](https://lh3.googleusercontent.com/4eAyAEg0WARIV8_rxwL2uL4GxbMELhYA169Ty2lLgo7z9h8lIO9MccBPnst9m4ushBv9ytISgAg4wLUQawhLuONFSFfN2wGu7kS3Bg=s2048)
+_My current computer and my first Notebook PC!_
 
 By this time, I had gotten my first job at a Mexican restaurant and could afford to buy my own computer! After saving up all the earnings I could from tip-wage work, I was able to purchase a not very glamorous but good enough for me Chromebook!
 
@@ -86,11 +73,10 @@ I will replace it as my main device soon. Once I have an apartment, I'm planning
 
 ## What about you?
 
-Regardless, I'm interested in your computing history as well! Did you have a "dark" era like me? What operating systems have you used? Are you more of a laptop or desktop person? Let me know via my new contact page! (•‿•)
+Regardless, I'm interested in your computing history as well! Did you have a "dark" era like me? What operating systems have you used? Are you more of a laptop or desktop person? Let me know via email! (•‿•)
 
 ## Footnotes
 
 [^1]: [Kev's post](https://kevquirk.com/my-computing-history): This post woudn't be possible otherwise! 
 
 [^2]: [Kev Quirk](https://kevquirk.com/): A blogger I follow, you should too!
-

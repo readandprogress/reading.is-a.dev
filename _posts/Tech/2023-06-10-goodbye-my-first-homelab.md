@@ -1,12 +1,11 @@
 ---
-layout: post
-title:  "Goodbye my First Homelab ; _ ;" 
-date:   2023-06-10 00:00:00 -0000
-author: Reading
+title: "Goodbye my First Homelab ; _ ;"
+date: 2023-06-10 18:00:00 -0500
 categories: Tech
-excerpt: I was going to post about my neat home lab, but unfortunately, it didn't work out. I was hosting a SMB file share and Jellyfin media server on a ten-year-old Samsung laptop. I had it lying around, and I thought it would be a good way to give new life to old hardware.
+time: 
+description: I was going to post about my neat home lab, but unfortunately, it didn't work out. I was hosting a SMB file share and Jellyfin media server on a ten-year-old Samsung laptop. I had it lying around, and I thought it would be a good way to give new life to old hardware.
+toc: # false | Only when you don't wan TOC.  
 ---
-
 I was going to post about my neat home lab, but unfortunately, it didn't work out. I was hosting a SMB file share and Jellyfin media server on a ten-year-old Samsung laptop. I had it lying around, and I thought it would be a good way to give new life to old hardware.
 
 And for a time, everything was well. It was so nice and handy to have a centralized place to store files without having to worry about syncing and such. It made things so much easier! But I digress.
@@ -20,4 +19,3 @@ I could buy another replacement adapter and have everything up and running again
 For now, I guess I'm back to good old syncing. Which is not bad at all, by any means!
 
 But if you know of any good Raspberry Pi alternatives that are also in the same price range, please let me know!
-

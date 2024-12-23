@@ -1,10 +1,8 @@
 ---
-layout: post
 title: "Learning The Arch Way!"
-date: 2023-12-10 00:00:00 -0000
+date: 2023-12-10 18:00:00 -0500
 categories: Tech 
-author: Reading
-excerpt: I'm not familiar with Arch at all, coming from Debian and Debian-based systems, so there is a fair bit to get used to!
+description: I'm not familiar with Arch at all, coming from Debian and Debian-based systems, so there is a fair bit to get used to!
 ---
 So I have been working on setting up an old Chromebook as a server—not using ChromeOS, mind you! I have installed custom firmware on the device, allowing me to install Endeavor OS on bare metal.
 
@@ -25,5 +23,3 @@ To remove packages on Debian, we use `sudo apt remove packagename`. Now on Arch 
 But since Arch doesn't have the best package support of all the Linux distros, you're going to be building from source as well. Luckily, this is quite easy for with `makepkg -s PKGBUILD`, I have to do this with Discord since the package in the repo was outdated, but you may not have to! There's always the AUR, and while I haven't used it as much, it is worth checking there first before trying anything else, and hey, the AUR is a key feature of Arch!
 
 In conclusion, Arch is one of the better distros, and running on the bleeding edge has its benefits, while `pacman` can be confusing at first, at least for me! It is easy enough to grasp, and while it is not as verbose as 'apt', it is quite straightforward once you figure out what each command means. For the gamers out there, having a package manager named after an iconic game and seeing Pacman himself gobbling bytes when installing a package is super neat!
-
-

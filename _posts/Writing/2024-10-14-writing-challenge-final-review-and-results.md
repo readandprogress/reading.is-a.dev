@@ -1,13 +1,11 @@
 ---  
-layout: post
 title: "Writing Challenge: Final Review and Results"
-date: 2024-10-14 15:00:00 -0000
+date: 2024-10-14 15:00:00 -0500
 categories: Writing
-author: Reading
-time_taken: 68:32.1
-excerpt: Welp, a week has passed but unfortunately due to unforeseen events with the weather, writing was far from being the most important thing in my mind these last couple of days...
+time: 68:32.1
+description: Whelp, a week has passed but unfortunately due to unforeseen events with the weather, writing was far from being the most important thing in my mind these last couple of days...
 ---
-Welp, a week has passed but unfortunately due to unforeseen events with the weather, writing was far from being the most important thing in my mind these last couple of days...
+Whelp, a week has passed but unfortunately due to unforeseen events with the weather, writing was far from being the most important thing in my mind these last couple of days...
 
 But it's not all doom and gloom. There's always a silver lining, as they say. The biggest nugget of knowledge that I got from this experience is that a week is not at all enough time to brainstorm ideas, regardless of the situation. One of my downfalls is that I tend to think things take less time than they actually do. Heh-heh.
 

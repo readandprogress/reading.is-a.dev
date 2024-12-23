@@ -1,24 +1,23 @@
 ---
-layout: post
 title: "My Habit Tracking System Using todo.txt!"
-date: 2024-05-31 00:00:00 -0000
+date: 2024-05-31 19:00:00 -0500
+last_modified_at: 2024-07-18 20:00:00 -0500
 categories: Guides
-author: Reading
-excerpt: Todo.txt has everything you need for tracking tasks. But its syntax is quite expansive and easy to grasp. So, I made my own habit tracking system using its specifications and I call it Habits.txt
+time: 
+description: Todo.txt has everything you need for tracking tasks. But its syntax is quite expansive and easy to grasp. So, I made my own habit tracking system using its specifications and I call it Habits.txt.
+toc: false  
 ---
-
-## Addendum 2024-07-18
-
-Quick update! I recently discovered another system by the name of Habits.txt. This tool is created by fellow GitHub user [@estebanthi](https://github.com/estebanthi) and is much more comprehensive and just better than the system I hastily put together. There's no need for a bash script, and he even developed a nice CLI tool as well! I highly recommend using his system instead if you're looking for a plain-text alternative for tracking habits. It's what I personally use now and absolutely love it!
-
-Initially, I shared my system because I couldn't find any plain-text alternatives at that time. This post was written in early to mid-May, and back then, I hadn't come across any other plain-text systems based on todo.txt for habit tracking. It seems that around mid-May, estebanthi released his habits.txt version, so I must have missed it! 
-
-Although our systems are different, I regret not noticing his sooner! Please disregard this post and give estebanthi's [habits.txt](https://github.com/estebanthi/habits.txt) a try immediately! I believe it's exactly what you're looking for!
-
-If, by any chance, you are reading this estebanthi. Thank you so much for creating such an indispensable tool! It's quite remarkable that we both had similar ideas around the same time. Life works in mysterious ways.
-
-I will keep this post as it is, as it is part of my blog's history and If anyone comes across this post, I can gently guide them in the right direction!
-
+> **Addendum 2024-07-18**
+>
+>Quick update! I recently discovered another system by the name of Habits.txt. This tool is created by fellow GitHub user [@estebanthi](https://github.com/estebanthi) and is much more comprehensive and just better than the system I hastily put together. There's no need for a bash script, and he even developed a nice CLI tool as well! I highly recommend using his system instead if you're looking for a plain-text alternative for tracking habits. It's what I personally use now and absolutely love it!
+>
+> Initially, I shared my system because I couldn't find any plain-text alternatives at that time. This post was written in early to mid-May, and back then, I hadn't come across any other plain-text systems based on todo.txt for habit tracking. It seems that around mid-May, estebanthi released his habits.txt version, so I must have missed it!
+>
+> Although our systems are different, I regret not noticing his sooner! Please disregard this post and give estebanthi's [habits.txt](https://github.com/estebanthi/habits.txt) a try immediately! I believe it's exactly what you're looking for!
+>
+> If, by any chance, you are reading this estebanthi. Thank you so much for creating such an indispensable tool! It's quite remarkable that we both had similar ideas around the same time. Life works in mysterious ways.
+>
+> I will keep this post as it is, as it is part of my blog's history and If anyone comes across this post, I can gently guide them in the right direction!
 
 
 I've been using todo.txt [^1]; a special syntax for structuring tasks in a plain text file for a while, and so far I've really been digging its simplicity! I follow the file-over-app philosophy as best as I can, and having my to-dos in a simple .txt file is another way I don't depend on an unnecessary app, in my opinion.
@@ -37,19 +36,19 @@ You can use done.txt instead of habits.archive.txt if you prefer, but personally
 
 Now let's add our first habit! Using your favorite editor, write your habit on the first line like this:
 
-```xml
+``` plaintext
 Read for 30 minutes
 ```
 
 We follow up by adding a project tag just like in todo.txt!
 
-```xml
+``` plaintext
 Read for 30 minutes +leisure
 ```
 
 As you can see now, our habit is under the +leisure project tag. This way we can keep our habits organized, but we won't stop there! We'll add a tag to track when we will do our habit.
 
-```xml
+``` plaintext
 (D) Read for 30 minutes +leisure
 ```
 
@@ -57,13 +56,13 @@ Just like todo.txt priority tags, except instead of priority, we are using it to
 
 Optionally, you can add a context tag to specify where and in what manner you do a habit like; `@home` `@gym` `@work`, etc.
 
-```xml
+``` plaintext
 (D) Read for 30 minutes +leisure @home
 ```
 
 Now that we have our habit nicely logged, how do we mark it? The same way as todo.txt, we place an `x` at the beginning of each habit and add the date when we had completed it.
 
-```xml
+``` plaintext
 x 2024-05-25 (D) Read for 30 minutes +leisure
 ```
 
@@ -73,7 +72,7 @@ You now know how to log habits with habits.txt! Pretty simple, right? But that's
 
 I created a simple bash script that routinely wipes my habits.txt file in the early morning and adds my currently working on habits to the file. Here's a template so you can make your own!
 
-```bash
+``` bash
 #!/bin/bash
 
 # Clear the contents of the file
@@ -87,8 +86,6 @@ echo "Your habits here!
 Then I set a cron job to run this script in the early mornings, and voila! Now all I have to do is mark my habits as I complete them and then archive them. You can use any editor that supports the todo.txt syntax like VS Code with its fantastic todo.txt extension or Markor on mobile!
 
 Use any syncing platform or ~~cloud providers~~ to sync between your devices. I use Git and GitHub to keep it in sync, just like I do with my notes. This is just scratching the surface of what you can do with it, as plain text is extremely extensible! So why not give it a shot, and if you do, please let me know how it went! (•‿•)
-
-<br>
 
 ## Footnotes
 

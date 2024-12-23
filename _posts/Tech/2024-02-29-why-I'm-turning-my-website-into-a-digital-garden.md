@@ -1,10 +1,8 @@
 ---
-layout: post
 title: "Why I’m Turning My Website Into a Digital Garden!"
-date: 2024-02-29 00:00:00 -0000
+date: 2024-02-29 20:00:00 -0500
 categories: Tech
-author: Reading
-excerpt: This time I want to share some plans I have for the future of my website and what that means for you!
+description: This time I want to share some plans I have for the future of my website and what that means for you!
 ---
 
 Before we get started, I just realized that this year is a *leap* year! Making this a *leap* post! Just found that tidbit cool and fitting for our topic today!

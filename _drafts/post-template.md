@@ -1,9 +1,8 @@
 ---
-layout: post
 title: ""
-date: 0000-09-00 00:00:00 -0000
+date: 0000-00-00 00:00:00 -0500
 categories: 
 time: 
-author: Reading
-excerpt: 
+description:
+toc: # false | Only when you don't wan TOC.  
 ---

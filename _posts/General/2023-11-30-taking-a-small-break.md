@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  "Taking a Small Break"
-date:   2023-11-30 00:00:00 -0000
-categories: General 
-author: Reading
-excerpt: So hey! How have you been? I'm being good these couple of months, and luckily my health has not stagnated since I got sick mid-year.
+title: "Taking a Small Break"
+date: 2023-11-30 20:00:00 -0500
+categories: General
+time: 
+description: So hey! How have you been? I'm being good these couple of months, and luckily my health has not stagnated since I got sick mid-year.
+toc: # false | Only when you don't wan TOC.  
 ---
 So hey! How have you been? I'm being good these couple of months, and luckily my health has not stagnated since I got sick mid-year.
 
@@ -25,5 +25,3 @@ I'm hoping you all enjoy it and leave your feedback. This is a work of love, so 
 For now, I'm going to enjoy my holidays, and I hope you enjoy yours as well!
 
 See you soon!
-
-<button class="tinylytics_kudos">Kudos</button>

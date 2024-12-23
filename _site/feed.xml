@@ -1,449 +1,143 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-12-03T18:00:01-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Reading Dimension</title><subtitle>A dimension like no other.</subtitle><author><name>Reading</name></author><entry><title type="html">Change of Plans</title><link href="http://localhost:4000/change-of-plans/" rel="alternate" type="text/html" title="Change of Plans" /><published>2024-11-30T12:00:00-05:00</published><updated>2024-11-30T12:00:00-05:00</updated><id>http://localhost:4000/change-of-plans</id><content type="html" xml:base="http://localhost:4000/change-of-plans/"><![CDATA[<p>It has been a while since I talked about changing my humble blog into a digital garden, all the way back in February of this year. As you can see, now nearing the end of the year, my website remains mostly the same.</p>
 
-<p>So, what happened?</p>
 
-<p>After trying out a few themes, including the aforementioned Minimal Mistakes, I found all of them to be lacking in one way or another—either a missing feature or the design not being to my liking.</p>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>The Reading Dimension</title>
+  <subtitle>Welcome to my own little corner of the web! Here, I muse about a variety of topics, mostly tech-related, but I also dabble in others like anime, manga, writing, and gaming as well! (•‿•)</subtitle>
+  <updated>2024-12-23T18:12:06-05:00</updated>
+  <author>
+    <name>Reading</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
+  <rights> © 2024 Reading </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Finally Moved Over To Jekyll Chirpy!</title>
+    <link href="http://localhost:4000/moving-over-to-jekyll-chirpy/" rel="alternate" type="text/html" title="Finally Moved Over To Jekyll Chirpy!" />
+    <published>2024-12-23T18:00:00-05:00</published>
+  
+    <updated>2024-12-23T18:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/moving-over-to-jekyll-chirpy/</id>
+    <content type="text/html" src="http://localhost:4000/moving-over-to-jekyll-chirpy/" />
+    <author>
+      <name>Reading</name>
+    </author>
+
+  
+    
+    <category term="Tech" />
+    
+  
+
+  <summary>After much deliberation on my part and messing around with different themes, I finally decided to go with the Jekyll Chirpy theme!</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Writing Challenge: Final Review and Results</title>
+    <link href="http://localhost:4000/writing-challenge-final-review-and-results/" rel="alternate" type="text/html" title="Writing Challenge: Final Review and Results" />
+    <published>2024-10-14T16:00:00-04:00</published>
+  
+    <updated>2024-12-20T18:25:20-05:00</updated>
+  
+    <id>http://localhost:4000/writing-challenge-final-review-and-results/</id>
+    <content type="text/html" src="http://localhost:4000/writing-challenge-final-review-and-results/" />
+    <author>
+      <name>Reading</name>
+    </author>
+
+  
+    
+    <category term="Writing" />
+    
+  
+
+  <summary>Whelp, a week has passed but unfortunately due to unforeseen events with the weather, writing was far from being the most important thing in my mind these last couple of days...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Challenging Myself to Write More, Hopefully!</title>
+    <link href="http://localhost:4000/challenging-myself-to-write-more-hopefully/" rel="alternate" type="text/html" title="Challenging Myself to Write More, Hopefully!" />
+    <published>2024-09-30T19:00:00-04:00</published>
+  
+    <updated>2024-12-20T18:25:20-05:00</updated>
+  
+    <id>http://localhost:4000/challenging-myself-to-write-more-hopefully/</id>
+    <content type="text/html" src="http://localhost:4000/challenging-myself-to-write-more-hopefully/" />
+    <author>
+      <name>Reading</name>
+    </author>
+
+  
+    
+    <category term="Writing" />
+    
+  
+
+  <summary>I&amp;#39;ve been having trouble writing fiction as of late. I have this original work that I have been mulling over for a while now and really like to get the first chapter out this year, but all I managed to write was some of the worldbuilding, CVs, and some notes.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Spice and Wolf: Merchant Meets the Wise Wolf is Fantastic so Far!</title>
+    <link href="http://localhost:4000/spice-and-wolf-merchant-meets-the-wise-wolf-is-fantastic-so-far!/" rel="alternate" type="text/html" title="Spice and Wolf: Merchant Meets the Wise Wolf is Fantastic so Far!" />
+    <published>2024-08-06T21:00:00-04:00</published>
+  
+    <updated>2024-08-06T21:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/spice-and-wolf-merchant-meets-the-wise-wolf-is-fantastic-so-far!/</id>
+    <content type="text/html" src="http://localhost:4000/spice-and-wolf-merchant-meets-the-wise-wolf-is-fantastic-so-far!/" />
+    <author>
+      <name>Reading</name>
+    </author>
+
+  
+    
+    <category term="Anime" />
+    
+  
+
+  <summary>I&amp;#39;m not much of a seasonal anime watcher, but this last season is an exception! With the return of the fantastic Spice and Wolf! And now that the first half has finished airing, I&amp;#39;d like to share my thoughts on it!</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Transferring Files: The Better Way!</title>
+    <link href="http://localhost:4000/transferring-files-the-better-way/" rel="alternate" type="text/html" title="Transferring Files: The Better Way!" />
+    <published>2024-07-20T22:00:00-04:00</published>
+  
+    <updated>2024-12-20T18:25:20-05:00</updated>
+  
+    <id>http://localhost:4000/transferring-files-the-better-way/</id>
+    <content type="text/html" src="http://localhost:4000/transferring-files-the-better-way/" />
+    <author>
+      <name>Reading</name>
+    </author>
+
+  
+    
+    <category term="Tech" />
+    
+  
+
+  <summary>Recently, I&amp;#39;ve been dealing with transferring large files, and while there are plenty of tools available to do the job, most of them are slow, have a size limit, or are cumbersome to set up. Luckily, I learned about a powerful and simple-to-use tool called croc while looking for alternatives, and it&amp;#39;s exactly what I&amp;#39;ve been looking for in a file transfer tool!</summary>
+
+  </entry>
+
+</feed>
 
-<p>So instead, I’m going to stick with the venerable Minima theme and build on top of that for now. I find the Minima theme to be almost what I’m looking for, just missing a few things that will make it a perfect fit for me.</p>
 
-<p>I’m still planning to implement most of the features that I mentioned, with some new additions as well.</p>
-
-<p>Expect some of them in the upcoming weeks. (•‿•)</p>]]></content><author><name>Reading</name></author><category term="Tech" /><summary type="html"><![CDATA[It has been a while since I talked about changing my humble blog into a digital garden, all the way back in February of this year. As you can see, now nearing the end of the year, my website remains mostly the same.]]></summary></entry><entry><title type="html">Writing Challenge: Final Review and Results</title><link href="http://localhost:4000/writing-challenge-final-review-and-results/" rel="alternate" type="text/html" title="Writing Challenge: Final Review and Results" /><published>2024-10-14T11:00:00-04:00</published><updated>2024-10-14T11:00:00-04:00</updated><id>http://localhost:4000/writing-challenge-final-review-and-results</id><content type="html" xml:base="http://localhost:4000/writing-challenge-final-review-and-results/"><![CDATA[<p>Welp, a week has passed but unfortunately due to unforeseen events with the weather, writing was far from being the most important thing in my mind these last couple of days…</p>
-
-<p>But it’s not all doom and gloom. There’s always a silver lining, as they say. The biggest nugget of knowledge that I got from this experience is that a week is not at all enough time to brainstorm ideas, regardless of the situation. One of my downfalls is that I tend to think things take less time than they actually do. Heh-heh.</p>
-
-<p>Nonetheless, you need to be in a certain mood to brainstorm. Turns out that my mood changed after I wrote and published that last post. Who would have dunked it?</p>
-
-<h2 id="the-results">The Results</h2>
-
-<p>To make this easier to parse, I’m formatting the following entries as their own headings!</p>
-
-<h3 id="day-1---monday">Day 1 - Monday</h3>
-
-<p>I was pretty optimistic starting out; I started a new draft for the blog as a warm-up, per se. Which was great, but I started to lose steam when it came to actually diving in on my original project, so I never got started. Not a great start, but I’ll take what I can get.</p>
-
-<h3 id="day-2---tuesday">Day 2 - Tuesday</h3>
-
-<p>This was a nothing burger, plain and simple; nothing got done this day for a very good reason. This was the day I was informed about the then new storm coming to our part of town, and all I was thinking was that I needed to get prepared for the worst since you never know with these storms and that it has to be <em>now</em>.</p>
-
-<h3 id="day-3---wednesday">Day 3 - Wednesday</h3>
-
-<p>The day was much the same as the last, except I was really in preparation mode, so most of my day was assigned to that task. This is also the day when the storm hit us late in the night. Luckily, we were unscathed by the brunt of the damage the storm wrecked upon our state. Others weren’t so lucky…</p>
-
-<h3 id="day-4---thursday">Day 4 - Thursday</h3>
-
-<p>We lost power for a few hours since Wednesday, and luckily just as I woke up, the power returned! Now, everyone was not so lucky, unfortunately, and some still to this day have no power. Since things were starting to become normal again, I took it easy and went back into my usual routine.</p>
-
-<h3 id="day-5---friday">Day 5 - Friday</h3>
-
-<p>Another nothing burger; not much progress other than I was able to get back in the flow of other things going on in my life. It started to feel like any other day.</p>
-
-<h3 id="day-6---saturday">Day 6 - Saturday</h3>
-
-<p>I finally have something to report! I was able to work on a draft that became this post and another one that you’ll be seeing soon! Other than blogging, I kind of gave up on the challenge since then. I wasn’t in the right headspace yet, and I didn’t want to force myself either. Sigh, it is what it is, I guess.</p>
-
-<h3 id="final-day---sunday">Final Day - Sunday</h3>
-
-<p>Much the same as the last one; I made more progress on a rather interesting draft (well, in my view at least!) from earlier, and that was rather enjoyable. I also started to gather my thoughts on the week and couldn’t help but feel a sense of dread for not following through with my own imposed challenge, but what can you do when life throws you lemons?</p>
-
-<h2 id="wrapping-up">Wrapping up</h2>
-
-<p>Like I said, not the best start to a week that I set myself out to work on my writing project, but even so, I’m not giving up on the overall goal of making any progress on this beloved work of mine before the end of the year.</p>
-
-<p>With that said, I have reorganized my schedule to have a few hours dedicated to writing on Wednesdays! I feel like having a few hours in a day of the week is a better way for me to focus. Since my hobbies are pretty varied, focusing on too many things every day seems like an easy way to get overwhelmed and burned out in the end. Anyways! Here’s hoping for better writing sessions in my future.</p>]]></content><author><name>Reading</name></author><category term="Writing" /><summary type="html"><![CDATA[Welp, a week has passed but unfortunately due to unforeseen events with the weather, writing was far from being the most important thing in my mind these last couple of days...]]></summary></entry><entry><title type="html">Challenging Myself to Write More, Hopefully!</title><link href="http://localhost:4000/challenging-myself-to-write-more-hopefully/" rel="alternate" type="text/html" title="Challenging Myself to Write More, Hopefully!" /><published>2024-09-30T14:00:00-04:00</published><updated>2024-09-30T14:00:00-04:00</updated><id>http://localhost:4000/challenging-myself-to-write-more-hopefully</id><content type="html" xml:base="http://localhost:4000/challenging-myself-to-write-more-hopefully/"><![CDATA[<p>I’ve been having trouble writing fiction as of late. I have this original work that I have been mulling over for a while now and really like to get the first chapter out this year, but all I managed to write was some of the worldbuilding, CVs, and some notes.</p>
-
-<p>One problem I have is focusing more on it. While writing is not <em>hard</em> in itself, brainstorming is, and just waiting for inspiration to strike me won’t cut it anymore. I want to make real progress, and one thing that writing these posts taught me is that just the action of getting the words on the screen can help get those creative juices flowing.</p>
-
-<p>So hence the <strong>challenge</strong>! I’m going to try to get at least a solid half an hour of writing every day for the next week, starting this Sunday.</p>
-
-<p>The goal here is to get all or most of the brainstorming done; any progress on the first chapter draft is just a bonus, and hopefully, this could be a good start to making it a habit.</p>
-
-<p>Thirty minutes is not a daunting goal and isn’t insignificant either. I think it strikes a good balance for an intermediate writer like myself. I also like that it is a time goal and not a word count goal. From my experience, word count-based goals can be intimidating when starting and demotivating when you fail. It can also incentivize padding things out just to meet a threshold, and for this challenge, I want to mostly focus on ideas, so a word count is insufficient and ill-suited.</p>
-
-<p>But yeah, with that said, I will be taking reflection notes after each session, and once the week is over, I will compile them into one and do a final review. This will give me a rough idea of what I can improve upon.</p>
-
-<p>I will, of course, be posting the final review here when all is settled.</p>
-
-<p>As always, thanks for reading! If you’re a fellow writer as well, I would love to know what tips and tricks you use to keep yourself motivated! Let me know over my <a href="/contact/">contact</a> page!</p>]]></content><author><name>Reading</name></author><category term="Writing" /><summary type="html"><![CDATA[I've been having trouble writing fiction as of late. I have this original work that I have been mulling over for a while now and really like to get the first chapter out this year, but all I managed to write was some of the worldbuilding, CVs, and some notes.]]></summary></entry><entry><title type="html">Spice and Wolf: Merchant Meets the Wise Wolf is fantastic so far!</title><link href="http://localhost:4000/spice-and-wolf-merchant-meets-the-wise-wolf-is-fantastic-so-far!/" rel="alternate" type="text/html" title="Spice and Wolf: Merchant Meets the Wise Wolf is fantastic so far!" /><published>2024-08-05T20:00:00-04:00</published><updated>2024-08-05T20:00:00-04:00</updated><id>http://localhost:4000/spice-and-wolf-merchant-meets-the-wise-wolf-is-fantastic-so-far!</id><content type="html" xml:base="http://localhost:4000/spice-and-wolf-merchant-meets-the-wise-wolf-is-fantastic-so-far!/"><![CDATA[<p><img src="/assets/images/the-great-holo-holding-a-pear.jpg" alt="The Great Holo Holding a Pear" /></p>
-
-<p>I’m not much of a seasonal anime watcher, but this last season is an exception! With the return of the fantastic Spice and Wolf! And now that the first half has finished airing, I’d like to share my thoughts on it!</p>
-
-<p>Now I have only seen the first Spice and Wolf anime, several times, I might add! So keep that in mind. I’m sure the light novels are fantastic, and I will surely read them one day! But for now, I will only be comparing it to the original anime.</p>
-
-<p>The series is aptly subtitled Merchant Meets the Wise Wolf.</p>
-
-<p>It really encapsulates that this is the beginning of their story, and I expect that the next season will have its own distinct subtitle hinting at the events to be unfolded.</p>
-
-<p>The anime itself is unique; not many anime that I know of tackle the subject of economics, and Spice and Wolf really delivers on this front! It makes economics interesting and fun.</p>
-
-<p>Besides the fun world of trade and myths, The characters are also fun, sassy, and memorable. You have the great Holo as the main protagonist!</p>
-
-<p>She’s witty, snarky, and, of course, wise, and she contrasts well with our other protagonist, Kraft Lawrence, a traveling merchant knowledgeable in his trade but still kind to others and not just looking to fatten his pockets.</p>
-
-<p>They make a great pair, and their growing romance isn’t forced or stilted; they just genuinely care for each other, which is refreshing to see!</p>
-
-<p>I’m watching the dub as I usually do when available, and I’m happy to report that the voice actors from the first series have returned to reprise their roles! I haven’t checked the credits to be sure, but if there are any replacements, then they are really good replacements!</p>
-
-<p>Overall, I’m halfway through this twenty-five-episode romp, and I’m enjoying it immensely! I really hope we get a continuation; looking at its popularity, it’s pretty likely. I can’t wait to see the rest of their story!</p>]]></content><author><name>Reading</name></author><category term="Anime" /><summary type="html"><![CDATA[I'm not much of a seasonal anime watcher, but this last season is an exception! With the return of the fantastic Spice and Wolf! And now that the first half has finished airing, I'd like to share my thoughts on it!]]></summary></entry><entry><title type="html">Transfering Files; The Better Way!</title><link href="http://localhost:4000/transfering-files-the-better-way/" rel="alternate" type="text/html" title="Transfering Files; The Better Way!" /><published>2024-07-20T17:00:00-04:00</published><updated>2024-07-20T17:00:00-04:00</updated><id>http://localhost:4000/transfering-files-the-better-way</id><content type="html" xml:base="http://localhost:4000/transfering-files-the-better-way/"><![CDATA[<p>Recently, I’ve been dealing with transferring large files, and while there are plenty of tools available to do the job, most of them are slow, have a size limit, or are cumbersome to set up. Luckily, I learned about a powerful and simple-to-use tool called <code class="language-plaintext highlighter-rouge">croc</code> while looking for alternatives, and it’s exactly what I’ve been looking for in a file transfer tool!</p>
-
-<p>Fast, easy to use, and secure! It’s so good that it’s odd I haven’t seen it mentioned much. So, to remedy that, let me tell you all about it!</p>
-
-<p><code class="language-plaintext highlighter-rouge">croc</code> is a CLI(Command-line Interface) cross-platform file transfer tool. Now, I know for some, the CLI may seem daunting, and you may scoff at the idea of it being simple, but it really is!</p>
-
-<p><code class="language-plaintext highlighter-rouge">croc</code> commands are simple to grasp and straightforward. If you have just a tiny bit of experience in the CLI, you’ll be fine. For those who don’t, I’ll try my best to make it as easy as possible.</p>
-
-<p>First, let’s install <code class="language-plaintext highlighter-rouge">croc</code>. It’s available on most popular Linux distributions and, of course, on BSDs, Mac, and Windows, but I’ll be focusing on Linux for this guide.</p>
-
-<p>I’m using Debian, and <code class="language-plaintext highlighter-rouge">croc</code> is available from the official repo, so all we have to do is:</p>
-
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>apt update
-<span class="nb">sudo </span>apt <span class="nb">install </span>croc <span class="nt">-y</span>
-</code></pre></div></div>
-
-<p>Now, on the receiving device, an Android tablet, I’m using Termux, and “croc” is available on the base repo as well, so again, it’s super easy to install!</p>
-
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pkg update
-pkg upgrade
-pkg <span class="nb">install </span>croc <span class="nt">-y</span>
-</code></pre></div></div>
-
-<p>Be sure to install any updates if available before installing “croc”. This is Linux CLI 101! If you’re wondering why there’s “-y” after the command, it’s just so “apt” knows that we confirmed the install; otherwise, you’ll get a prompt after executing the command.</p>
-
-<p>Now that we have “croc” installed, let’s start by sending a file. For example, I have this huge archive file filled with downloaded YouTube video files that I’d like to have on my tablet for later viewing. Luckily, “croc” can handle large files just fine. Since it’s a direct connection between devices, it’s fast and has no limits on file size other than your own storage limitations.</p>
-
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>croc send youtube-videos.zip
-</code></pre></div></div>
-
-<p><code class="language-plaintext highlighter-rouge">croc</code> will then do its preparations and leave you with a code like this:</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Code is: 4812-airline-lima-script
-</code></pre></div></div>
-
-<p>On your receiving device type <code class="language-plaintext highlighter-rouge">croc</code> and intiate it. You will get a prompt asking for your code.</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Enter receive code:
-</code></pre></div></div>
-<p>Now, just enter your code, and “croc” will do the rest! It’s pretty zen-like just seeing it go.</p>
-
-<p>Once it’s done, your file or files should be happily sitting in the directory where you initiated the <code class="language-plaintext highlighter-rouge">croc</code> command. So, what do you think? Not that hard, right? And you didn’t have to deal with slow cloud storage services or emailing yourself a file…</p>
-
-<p>But now you know better! And that’s what counts at the end of the day.</p>]]></content><author><name>Reading</name></author><category term="Tech" /><summary type="html"><![CDATA[Recently, I've been dealing with transferring large files, and while there are plenty of tools available to do the job, most of them are slow, have a size limit, or are cumbersome to set up. Luckily, I learned about a powerful and simple-to-use tool called croc while looking for alternatives, and it's exactly what I've been looking for in a file transfer tool!]]></summary></entry><entry><title type="html">My Journey in Computing Throughout the Years!</title><link href="http://localhost:4000/my-journey-in-computing-throughout-the-years/" rel="alternate" type="text/html" title="My Journey in Computing Throughout the Years!" /><published>2024-06-14T20:00:00-04:00</published><updated>2024-06-14T20:00:00-04:00</updated><id>http://localhost:4000/my-journey-in-computing-throughout-the-years</id><content type="html" xml:base="http://localhost:4000/my-journey-in-computing-throughout-the-years/"><![CDATA[<p>I recently read a post<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup> by Kev Quirk<sup id="fnref:2"><a href="#fn:2" class="footnote" rel="footnote" role="doc-noteref">2</a></sup>, about his computing history, and it seemed like a fun topic, so I’m going to put my own twist on it!</p>
-
-<p>I’ve been into computing for two decades now—yes, I’m old. (◔‿◔)</p>
-
-<p>In that time, I have gone through four computers; one laptop and three desktops, experimenting with several operating systems and applications!</p>
-
-<h2 id="1999---2004-compaq-presario-7400-series">1999 - 2004 Compaq Presario 7400 Series</h2>
-
-<div style="text-align:center">
-  <img src="https://preview.redd.it/2fv5maew38i71.jpg?width=640&amp;height=480&amp;crop=smart&amp;auto=webp&amp;s=dfcabd9efd5a89463afc0354cc1af3196c7a77ca" alt="Image Alt Text" />
-</div>
-<p style="text-align:center">Not my exact model or picture, but is the closest to the one we had back then!</p>
-
-<p><br /></p>
-
-<p>My first PC, or should I say our first family computer, was a Compaq Presario 7400 series desktop tower. I’m not sure of the precise model, but I remember it had a Pentium 3 CPU, 64 MB of RAM, a 30GB HDD, and ran on Windows 98. It even came with an upgrade CD to Windows 98 SE!</p>
-
-<p>I have fond memories of playing games, going online for the first time, and slowly learning more about computers during that period. I remember reading both the accompanying manuals quite frequently; it was the closest thing to scratching the itch when the computer was occupied by my father or sister.</p>
-
-<p>It eventually became my own computer when my dad upgraded to a new custom-built PC and my sister bought herself a laptop. Even though it was a hand-me-down, I was quite happy to have a PC all to myself!</p>
-
-<p>Although I don’t use Windows anymore, Windows 98 will always have a special spot in my heart!</p>
-
-<h2 id="2004---2009-custom-built-pentium-4-desktop">2004 - 2009 Custom Built Pentium 4 Desktop</h2>
-
-<p>Around the time I was in middle school, my dad surprised me with a custom-built PC! I don’t know much about its components, but it had a Pentium 4 CPU, 1GB of RAM, 300GB HDD, internal graphics, and a copy of Windows XP. It was a good machine and it worked terrifically well!</p>
-
-<p>Windows XP was also more stable than Windows 98, so it made for a pleasant experience. However, unlike 98, I hold no love for XP; Sorry XP Fans!</p>
-
-<p>This was also the time when I became more interested in Linux! I had read about it before and was intrigued, but this is when I learned more about it and started ordering those free Live CDs! Fun times.</p>
-
-<h2 id="2009---2014-hp-pavilion-slimline-s5600-series">2009 - 2014 HP Pavilion Slimline s5600 Series</h2>
-
-<div style="text-align:center">
-  <img src="https://www.slashgear.com/wp-content/uploads/2009/06/hp_slimline_s5000_series_desktop.jpg" alt="Image Alt Text" />
-</div>
-<p style="text-align:center">The Pavilion Slimline Case still holds up in my opinon!</p>
-
-<p><br /></p>
-
-<p>When I enrolled in university for my major in Computer Science, I needed a new machine because my old one was left at my dad’s when we moved, and it was time for an upgrade!</p>
-
-<p>I was advised to get a laptop, which in hindsight was probably the best choice. However, I was stubborn and preferred the repairability and power of a desktop since I rarely needed to leave my desk. So, I received an HP Pavilion Slimline desktop as a gift from my mom. Its slim case was perfect for my desk space, and it looked great too! It featured a Pentium Duo CPU, my first dual-core CPU, 4GB of RAM, a 500GB HDD, Intel HD internal graphics, and a copy of Windows 7 Home Premium.</p>
-
-<p>This machine was fantastic! It ran smoothly without any issues and was quite impressive for an entry-level rig at that time!</p>
-
-<p>Windows 7 was also pleasant to use. Even though I was already using Linux and enjoying it, I decided to stick with Windows 7 on this machine. I eventually installed Kubuntu, and it ran fantastically!</p>
-
-<h2 id="2014---2018-the-dark-era">2014 - 2018 The Dark Era</h2>
-
-<p>During late 2014 I moved over to Florida and with it I parted away with a lot of my stuff including my trusty HP, I didn’t want to lug it all the way and it was already bit out of date anyways.</p>
-
-<p>This was what I called my <em>dark</em> era of computing since I effectively didn’t have a computer until late 2018 making do with tablets and later a smartphone. Not the best of times for me personally either, it was a <em>dark</em> era indeed.</p>
-
-<h2 id="2018---current-asus-c101pa-3in1-chromebook">2018 - Current Asus C101PA 3in1 Chromebook</h2>
-
-<div style="text-align:center">
-  <img src="https://lh3.googleusercontent.com/4eAyAEg0WARIV8_rxwL2uL4GxbMELhYA169Ty2lLgo7z9h8lIO9MccBPnst9m4ushBv9ytISgAg4wLUQawhLuONFSFfN2wGu7kS3Bg=s2048" alt="Image Alt Text" />
-</div>
-<p style="text-align:center">My current computer and my first Notebook PC!</p>
-
-<p><br /></p>
-
-<p>By this time, I had gotten my first job at a Mexican restaurant and could afford to buy my own computer! After saving up all the earnings I could from tip-wage work, I was able to purchase a not very glamorous but good enough for me Chromebook!</p>
-
-<p>It was the best for the price and very portable, something that I warmed up to as I grew up. All I needed was a device that allowed me to study, take notes, take tests, do some light coding, and light web browsing, and this small ASUS delivered that in spades!</p>
-
-<p>It’s also a convertible, which makes it extra handy when laying on the bed or setting it up in tent mode, for example, in the kitchen!</p>
-
-<p>It packs a Hexacore Rockchip CPU, 4GB of RAM, 16GB eMMC, and runs Chrome OS. I know those are underwhelming specs, but it works for me.</p>
-
-<p>I have been feeling its age now that it’s doesn’t get any more updates (Auto-Update Expiry), and I tend to push its limits sometimes by running Linux apps on top of a container called Crostini, but it still has plenty of life in it.</p>
-
-<p>I will replace it as my main device soon. Once I have an apartment, I’m planning on either building my own or getting one of these small but powerful mini PCs!</p>
-
-<h2 id="what-about-you">What about you?</h2>
-
-<p>Regardless, I’m interested in your computing history as well! Did you have a “dark” era like me? What operating systems have you used? Are you more of a laptop or desktop person? Let me know via my new contact page! (•‿•)</p>
-
-<h2 id="footnotes">Footnotes</h2>
-
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:1">
-      <p><a href="https://kevquirk.com/my-computing-history">Kev’s post</a>: This post woudn’t be possible otherwise! <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:2">
-      <p><a href="https://kevquirk.com/">Kev Quirk</a>: A blogger I follow, you should too! <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-  </ol>
-</div>]]></content><author><name>Reading</name></author><category term="Tech" /><summary type="html"><![CDATA[I recently read a post by Kev Quirk about his computing history, and it seemed like a fun topic, so I'm going to put my own twist on it! I've been into computing for two decades now—yes, I'm old. (◔‿◔) In that time, I have gone through four computers; one laptop and three desktops, experimenting with several operating systems and applications!]]></summary></entry><entry><title type="html">My Habit Tracking System Using todo.txt!</title><link href="http://localhost:4000/my-habit-tracking-system-using-todo.txt/" rel="alternate" type="text/html" title="My Habit Tracking System Using todo.txt!" /><published>2024-05-30T20:00:00-04:00</published><updated>2024-05-30T20:00:00-04:00</updated><id>http://localhost:4000/my-habit-tracking-system-using-todo.txt</id><content type="html" xml:base="http://localhost:4000/my-habit-tracking-system-using-todo.txt/"><![CDATA[<h2 id="addendum-2024-07-18">Addendum 2024-07-18</h2>
-
-<p>Quick update! I recently discovered another system by the name of Habits.txt. This tool is created by fellow GitHub user <a href="https://github.com/estebanthi">@estebanthi</a> and is much more comprehensive and just better than the system I hastily put together. There’s no need for a bash script, and he even developed a nice CLI tool as well! I highly recommend using his system instead if you’re looking for a plain-text alternative for tracking habits. It’s what I personally use now and absolutely love it!</p>
-
-<p>Initially, I shared my system because I couldn’t find any plain-text alternatives at that time. This post was written in early to mid-May, and back then, I hadn’t come across any other plain-text systems based on todo.txt for habit tracking. It seems that around mid-May, estebanthi released his habits.txt version, so I must have missed it!</p>
-
-<p>Although our systems are different, I regret not noticing his sooner! Please disregard this post and give estebanthi’s <a href="https://github.com/estebanthi/habits.txt">habits.txt</a> a try immediately! I believe it’s exactly what you’re looking for!</p>
-
-<p>If, by any chance, you are reading this estebanthi. Thank you so much for creating such an indispensable tool! It’s quite remarkable that we both had similar ideas around the same time. Life works in mysterious ways.</p>
-
-<p>I will keep this post as it is, as it is part of my blog’s history and If anyone comes across this post, I can gently guide them in the right direction!</p>
-
-<p>I’ve been using todo.txt <sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup>; a special syntax for structuring tasks in a plain text file for a while, and so far I’ve really been digging its simplicity! I follow the file-over-app philosophy as best as I can, and having my to-dos in a simple .txt file is another way I don’t depend on an unnecessary app, in my opinion.</p>
-
-<p>While Todo.txt is great at what it sets out to do, I can’t help but wonder what else it is capable of? This came into practice when I started tracking my habits a few months back. I tried multiple methods: pen and paper, a habit tracker app, a table in a markdown file. But none of them felt right. That is until I experimented with tracking them on my todo.txt file, and it worked surprisingly well!</p>
-
-<p>Todo.txt has everything you need for tracking tasks. But its syntax is quite expansive and easy to grasp. So, I made my own habit tracking system using its specifications, and I call it Habits.txt!</p>
-
-<p>Just like Todo.txt, you can and are recommended to have a done.txt or todo.archive.txt file where your completed tasks get archived. If anything, this is a must-have for Habits.txt as this is the way you can keep track of your progress. So let’s get started by creating both files in your preferred directory like this:</p>
-
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">touch </span>habits.txt habits.archive.txt
-</code></pre></div></div>
-
-<p>You can use done.txt instead of habits.archive.txt if you prefer, but personally, since I have my todo.txt and habits.txt files in the same directory, I like having that distinction.</p>
-
-<p>Now let’s add our first habit! Using your favorite editor, write your habit on the first line like this:</p>
-
-<div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Read for 30 minutes
-</code></pre></div></div>
-
-<p>We follow up by adding a project tag just like in todo.txt!</p>
-
-<div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Read for 30 minutes +leisure
-</code></pre></div></div>
-
-<p>As you can see now, our habit is under the +leisure project tag. This way we can keep our habits organized, but we won’t stop there! We’ll add a tag to track when we will do our habit.</p>
-
-<div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(D) Read for 30 minutes +leisure
-</code></pre></div></div>
-
-<p>Just like todo.txt priority tags, except instead of priority, we are using it to keep track of when a habit will take place. <code class="language-plaintext highlighter-rouge">(D)</code> here stands for daily, but you can use <code class="language-plaintext highlighter-rouge">(W)</code> and <code class="language-plaintext highlighter-rouge">(M)</code> for weekly and monthly respectively.</p>
-
-<p>Optionally, you can add a context tag to specify where and in what manner you do a habit like; <code class="language-plaintext highlighter-rouge">@home</code> <code class="language-plaintext highlighter-rouge">@gym</code> <code class="language-plaintext highlighter-rouge">@work</code>, etc.</p>
-
-<div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(D) Read for 30 minutes +leisure @home
-</code></pre></div></div>
-
-<p>Now that we have our habit nicely logged, how do we mark it? The same way as todo.txt, we place an <code class="language-plaintext highlighter-rouge">x</code> at the beginning of each habit and add the date when we had completed it.</p>
-
-<div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>x 2024-05-25 (D) Read for 30 minutes +leisure
-</code></pre></div></div>
-
-<p>Beautiful! We now have a completed habit entry. Now we can move it over to our previously created habits.archive.txt. All done!</p>
-
-<p>You now know how to log habits with habits.txt! Pretty simple, right? But that’s just the basics. Here’s how I automated it to make it easier.</p>
-
-<p>I created a simple bash script that routinely wipes my habits.txt file in the early morning and adds my currently working on habits to the file. Here’s a template so you can make your own!</p>
-
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
-
-<span class="c"># Clear the contents of the file</span>
-<span class="o">&gt;</span> / <span class="c"># Location of your habits.txt file</span>
-
-<span class="c"># Add text to the file</span>
-<span class="nb">echo</span> <span class="s2">"Your habits here!
-"</span> <span class="o">&gt;&gt;</span> / <span class="c"># Location of your habits.txt file</span>
-</code></pre></div></div>
-
-<p>Then I set a cron job to run this script in the early mornings, and voila! Now all I have to do is mark my habits as I complete them and then archive them. You can use any editor that supports the todo.txt syntax like VS Code with its fantastic todo.txt extension or Markor on mobile!</p>
-
-<p>Use any syncing platform or <del>cloud providers</del> to sync between your devices. I use Git and GitHub to keep it in sync, just like I do with my notes. This is just scratching the surface of what you can do with it, as plain text is extremely extensible! So why not give it a shot, and if you do, please let me know how it went! (•‿•)</p>
-
-<p><br /></p>
-
-<h2 id="footnotes">Footnotes</h2>
-
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:1">
-      <p><a href="http://todotxt.org/">Todo.txt</a> The most simple and extensible way to track tasks! <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-  </ol>
-</div>]]></content><author><name>Reading</name></author><category term="Guides" /><summary type="html"><![CDATA[Todo.txt has everything you need for tracking tasks. But its syntax is quite expansive and easy to grasp. So, I made my own habit tracking system using its specifications and I call it Habits.txt]]></summary></entry><entry><title type="html">Pokémon Legends: Z-A Looks Promising but I Can’t Help Feeling Lukewarm About It</title><link href="http://localhost:4000/pok%C3%A9mon-legends-z-a-looks-promising-but-I-can't-help-feeling-lukewarm-about-it/" rel="alternate" type="text/html" title="Pokémon Legends: Z-A Looks Promising but I Can’t Help Feeling Lukewarm About It" /><published>2024-04-29T20:00:00-04:00</published><updated>2024-04-29T20:00:00-04:00</updated><id>http://localhost:4000/pok%C3%A9mon-legends-z-a-looks-promising-but-I-can&apos;t-help-feeling-lukewarm-about-it</id><content type="html" xml:base="http://localhost:4000/pok%C3%A9mon-legends-z-a-looks-promising-but-I-can&apos;t-help-feeling-lukewarm-about-it/"><![CDATA[<p>Back with another post, and this time about a game, if you can believe it! My recent posts don’t really scream <em>gamer</em>, so let’s change that! Let’s talk about one of my favorite game series, or I guess you could say it used to be one of them.</p>
-
-<p>Truth be told, the recent Pokemon games haven’t been clicking with me. There are several reasons why, which I will go into detail about soon, but for now, a little backstory on me and the series.</p>
-
-<p>I like most people my age back in the late 90s who fell in love with Pokemon; it was inexcapable! Pokemania was in full bloom, and there wasn’t a shortage of people to trade, battle, or just talk about Pokemon! I’ve never had many friends as a kid, and neither do I have now, but that’s besides the point!</p>
-
-<p>The ones I did have, we’re all thanks to Pokemon! It allowed me to connect to people over trades, battles, or just our shared love of the games, anime, TCG, or any other facet of the franchise, something that, as an introverted autistic kid, was hard to do! </p>
-
-<p>I’m sure I’m not alone in this. It may be corny, but I’m going to say it anyway! Pokemon made me the person I am today, and even though I dislike some aspects of it, I can always count on the games to be fantastic! Or at least that was the case.</p>
-
-<p>Recently, ever since the release of Pokémon Let’s Go, the games feel like they’re in a mid-life crisis, losing sight of themselves and becoming more experimental. While that’s not necessarily a bad thing, it’s good to break the stale formula once in awhile. I feel like they are experimenting with the wrong elements.</p>
-
-<p>Art and style are really important to me, and I absolutely love Ken Sugimori’s style! It screams Pokemon to me and is symbolic to the series, or at least I think so. But it looks like that’s not the case over at GameFreak, the game company that develops the main-series Pokemon games. Let’s Go went with a different non-cell-shaded style for its graphics. Something that has been a mainstay ever since the release of X and Y in 2013.</p>
-
-<p>Which is weird because they themselves said they decided on cell-shaded graphics as a way to preserve Ken Sugimori’s style going forward.</p>
-
-<p>Now, that would be fine and dandy if it were just those games, but no, they kept experimenting with the style of the games with the next entry, Sword and Shield. This time there is not much whiplash from Sun and Moon to Let’s Go, but something about it feels off, and that’s because it merges with some style elements from Let’s Go. a compromise, if you will.</p>
-
-<p>Now I have no idea what’s going on inside of GameFreak, but looking from the outside in, it feels like there’s some disagreements on the game’s graphics within the teams, and so it looks like they’re compromising. Something unheard of since the main-series games kept a consistent style for the graphics before that point.</p>
-
-<p>So maybe this will be the style moving forward? Or so I thought! Legends: Arceus releases, and look at this! A new art style! This time much more consistent with the older games, but with a twist of its own! Using watercolors.</p>
-
-<p>Honestly, I love this style! It is cell-shaded and adds its own unique look; this is what Pokemon games should look like, in my opinion! Unfortunately, my hopes for future entries graphics were crushed utterly by the release of Scarlet and Violet.</p>
-
-<p>Now I’m not going to open that can of worms today! This post is already longer than I expected!</p>
-
-<p>No, I’m only talking about the game’s graphics style and, in my opinion, what a huge downgrade it is! Just like Let’s Go is not cell-shaded, and worse, is it just uglier?! It feels souless, not to mention that they added realistic textures to People and Pokemon. Now, this is a matter of taste, but for a fantasy game, I don’t think making it look realistic is the right call. Games are a form of escapism into other worlds from our own, which is emphasized by making them colorful and different.</p>
-
-<p>I can stop asking myself, Why would GameFreak do this? They took so much care to preserve Ken’s Sugimori style that they even pushed back on going 3D earlier due to it.</p>
-
-<p>Maybe it is just that GameFreak has changed? Maybe they have a new vision now? And with new hands taking over some of the veteran staff, maybe that’s just the natural progression?</p>
-
-<p>I can’t say, but I will say one thing: this is not the future I want. For me, Ken Sugimori’s style is fundamental for the series; I can’t look at anything else not resembling it and say, “That’s Pokemon!”. Not without a heavy heart, at least. Maybe I just don’t like change? But one thing is for sure: I won’t be playing these entries. I can’t stomach it, and that may sound silly, but that’s how important it is for me.</p>
-
-<p>But this isn’t the end as much as I would like it to be!</p>
-
-<p>We have a new entry in the series with Legends: Z-A, and it looks promising. We don’t have much information or gameplay, for that matter, but fans are excited for it!</p>
-
-<p>I, on the other hand, look at this with apprehension. I want nothing more than to be hyped for it like I was with Legends: Arceus, but I can’t help but keep my hopes low. I just don’t want to be disappointed again. So all I can do is hope that this time will be different, but that’s all I can do. At least until we get some gameplay, but for now, I’m taking a break from this series. I hope it’s just a short break and nothing more.</p>
-
-<p>Phew! That was a long one! If you read this far, thank you! I appreciate all of my readers. What about you? Do you like how the Pokemon games are heading? Do you feel similar to me? Let me know over at my <a href="/04-contact">contact</a> page! (•‿•)</p>
-
-<p><button class="tinylytics_kudos">Kudos</button></p>]]></content><author><name>Reading</name></author><category term="Gaming" /><summary type="html"><![CDATA[Back with another post, and this time about a game, if you can believe it! My recent posts don't really scream gamer, so let's change that! Let's talk about one of my favorite game series, or I guess you could say it used to be one of them.]]></summary></entry><entry><title type="html">Keeping My Notes Synced With Git and GitHub!</title><link href="http://localhost:4000/keeping-my-notes-synced-with-git-and-github/" rel="alternate" type="text/html" title="Keeping My Notes Synced With Git and GitHub!" /><published>2024-03-24T20:00:00-04:00</published><updated>2024-03-24T20:00:00-04:00</updated><id>http://localhost:4000/keeping-my-notes-synced-with-git-and-github</id><content type="html" xml:base="http://localhost:4000/keeping-my-notes-synced-with-git-and-github/"><![CDATA[<p>Since I now take notes and write posts on my tablet and Chromebook. Actually, the last few posts I have written are from my tablet using <a href="https://github.com/gsantner/markor">Markor</a>!</p>
-
-<p>What can I say? I like laying on my bed and getting some posts out, a lifesaver when I was sick last month and didn’t want to leave my bed for extended periods.</p>
-
-<p>Now, working from my tablet for posts is easy enough. I just <code class="language-plaintext highlighter-rouge">gh repo clone</code> my blog repo to it using <a href="https://termux.dev/en/">Termux</a>, I could use some IDEs with Git support, but I found all of them lacking. I want something as close to <a href="https://code.visualstudio.com/">VSCode</a> as possible. The closest was <a href="https://acode.app/">Acode</a> but it lacks features that I’m used to, if only VSCode was available for android and no the VSCode PWA is nice and all, but I’d prefer a native app for speed and for better file access.</p>
-
-<p>So I’m sticking with Git on Termux, although that means I have to add files to my local repo and then push them to my remote repo, instead of working with the remote repo directly like VSCode.</p>
-
-<p>This gave me an idea though! An idea that somehow I never thought about before. Why don’t I use Git and GitHub to sync my notes?</p>
-
-<p>After all, my blog repo houses <code class="language-plaintext highlighter-rouge">.md</code> files, the same files I use for my notes. Why don’t I do the same?</p>
-
-<p>Now before we delve on that, let me tell you how I synced my notes and all my files before.</p>
-
-<p>Like I said before, I used to have a small homelab setup in which I had a Samba server, so in this case I didn’t sync my files at all and just had a centralized place for them. This was the best thing I had ever done in terms of file management. No need to worry about syncing conflicts and losing data over it, which happened more than once for me, RIP.</p>
-
-<p>After my home lab suffered an early death due to a bad power supply which, by the way, you can read about <a href="/blog/goodbye-my-first-homelab/">here</a>!</p>
-
-<p>It was back to good old syncing for me. This time I just manually synced some files. I keep everything on a flash drive connected to my Chromebook and some files like my movies, shows and books on my tablet, since that’s where I consume most of those media.</p>
-
-<p>That was a <em>pain</em>, as you can imagine to managed! So I decide to try out <a href="https://syncthing.net/">Syncthing</a>! I used similar software before with mixed results, but I never tried out anything and, for the most part, it worked well. This time I synched my notes as well, since I have started experimenting with taking notes on my tablet like I have aforementioned.</p>
-
-<p>And well, it didn’t last long, at <em>all</em>! After a few days, my Chromebook crashed from running the Synthing server, which is odd since it shouldn’t be that intensive but <code class="language-plaintext highlighter-rouge">crostini</code>, where I was running it, can be quite resource intensive. So that was a wash and a huge bummer since I love having my notes automatically synched specifically.</p>
-
-<p>This brings us to now, and I know I have digressed a fair bit! But I wanted to let you know about my situation before showing you this solution.</p>
-
-<p>Like anything, this is just one solution to a problem, and it may not be the best solution for you! But in sharing it, you may make your own or modify it to work for you.</p>
-
-<p>Regardless, setting it up is quite straightforward, but you will need to familiarize yourself with Git beforehand if you aren’t already, so please check <a href="https://docs.github.com/en/get-started/using-git/about-git">About Git</a> page, it will tell you all you need to know to get started, although you can also follow this guide, but I highly recommend reading the About Git page first.</p>
-
-<p>First make sure you have a GitHub account or make one. Once you have one in a terminal, install both <code class="language-plaintext highlighter-rouge">git</code> and <code class="language-plaintext highlighter-rouge">gh</code>. You don’t need <code class="language-plaintext highlighter-rouge">gh</code> necessarily, but it makes the process easier if you’re using GitHub.</p>
-
-<p>Now use <code class="language-plaintext highlighter-rouge">gh auth login</code>, follow the instructions to authenticate, make sure that you select to authenticate Git as well. This is the main reason we are using <code class="language-plaintext highlighter-rouge">gh</code>.</p>
-
-<p>Once that’s done, running <code class="language-plaintext highlighter-rouge">gh repo create</code>, you can either create a new remote repo or use a local repo you have initialized. For me, the last option didn’t work, so I just made a new remote repo.</p>
-
-<p>Okay, now I will go through the repo creation process. I have selected to make it a private repo. You can, however, do anything you want. Do note that making it private doesn’t necessarily mean it is, so please don’t add any sensitive files as a precaution. I marked it as private, so it doesn’t show up on my profile.</p>
-
-<p>For reference, I named my repo <code class="language-plaintext highlighter-rouge">Notes</code>. I selected to not have a license or <code class="language-plaintext highlighter-rouge">.gitignore</code> and I decided not to have a readme either.</p>
-
-<p>Then make sure to <code class="language-plaintext highlighter-rouge">clone</code> that repo locally. You can do this when creating a repo. It will prompt you.</p>
-
-<p>Now just add your files to the repo folder on your device or if you use your local repo with your notes inside, then you’re done! Your notes are synched on GitHub now, and you can access them with any Git client or an IDE with Git support like VSCode, or you can just clone the repo on the other device you want to keep it synced with.</p>
-
-<p>For us, though, we must continue! Once you add your files, it is time to use <code class="language-plaintext highlighter-rouge">git add.</code> which will add all the file changes to that repo. Then we use <code class="language-plaintext highlighter-rouge">git commit -m "Your commit message here!</code> to commit our changes. Then it is just a <code class="language-plaintext highlighter-rouge">git push</code> and you’re done!</p>
-
-<p>Our notes are synced! Now we can work on our notes on one device and then follow the above instructions if you’re not using a Git client or IDE/Editor that has Git integration to keep it synced.</p>
-
-<p>While this isn’t automatic, you can use an IDE like VSCode to seamlessly work with your notes or make a script that does it for you! It beats manually using SFTP to sync my notes, that’s for sure!</p>]]></content><author><name>Reading</name></author><category term="Guides" /><summary type="html"><![CDATA[Why don't I use Git and GitHub to sync my notes? After all, my blog repo houses `.md` files, the same files I use for my notes. Why don't I do the same? Now before we delve upon that let me tell you how I synced my notes and all my files before.]]></summary></entry><entry><title type="html">Why I’m Turning My Website Into a Digital Garden!</title><link href="http://localhost:4000/why-I'm-turning-my-website-into-a-digital-garden/" rel="alternate" type="text/html" title="Why I’m Turning My Website Into a Digital Garden!" /><published>2024-02-28T19:00:00-05:00</published><updated>2024-02-28T19:00:00-05:00</updated><id>http://localhost:4000/why-I&apos;m-turning-my-website-into-a-digital-garden</id><content type="html" xml:base="http://localhost:4000/why-I&apos;m-turning-my-website-into-a-digital-garden/"><![CDATA[<p>Before we get started, I just realized that this year is a <em>leap</em> year! Making this a <em>leap</em> post! Just found that tidbit cool and fitting for our topic today!</p>
-
-<p>I haven’t updated you all about my website in a while, last time was when I had transition into Cloudflare Pages and moved into a newer version of Jekyll and the <code class="language-plaintext highlighter-rouge">minima</code> theme gem.</p>
-
-<p>This time I want to share some plans I have for the future of my website and what that means for you!</p>
-
-<p>First off, while <code class="language-plaintext highlighter-rouge">minima</code> theme has served me well I have grown to see that it doesn’t fit what I want for a theme.
-<code class="language-plaintext highlighter-rouge">minima</code> is very simple and minimalistic by design which is the reason I picked it but there’s a few features that I would really like missing, for example:</p>
-
-<ul>
-  <li>
-    <p>There’s no option to add a logo, you can however tinker around with CSS and HTML and add it that way but is not a simple or a easy solution.</p>
-  </li>
-  <li>
-    <p>There’s not a natively built-in search function, which for what I want to transform this website into needs.</p>
-  </li>
-  <li>
-    <p>No native support for header images, while not a necessity is a nice to have feature.</p>
-  </li>
-</ul>
-
-<p>While I love the simplicity of the theme, it is just too simple for me. I want minimalism. But I do want to be able to express myself as well!</p>
-
-<p>This bring us to <code class="language-plaintext highlighter-rouge">minimal-mistakes</code>! A minimal theme but with way more features built-in than <code class="language-plaintext highlighter-rouge">minima</code>. It has everything I ever want or need!</p>
-
-<p>A search function, built-in logo support, header images, and not to mention a way more fitting theme for a digital garden!
-Plus it is well documented unlike <code class="language-plaintext highlighter-rouge">minima</code>, so a web dev newbie like me can get behind it!</p>
-
-<p>But I bet your thinking; “That’s all well and good but what’s this about a digital garden?”.
-So for those of you uninformed I’ll be glad to filled you in!</p>
-
-<p>A digital garden is much like any other website but focused on creating and fostering ideas or I guess you could say planting and nurturing ideas!</p>
-
-<p>It focuses on linking ideas together and curation  unlike a blog where old posts fall to the wayside for newer posts, posts can be evergreen and be updated with new links and info over time.</p>
-
-<p>Instead of scrolling a feed you’ll land on a homepage of feature articles, posts or notes curated by the writer and when you click one you’ll noticed that they bidirectionally linked, a post can lead other posts like and endless rabbit hole of ideas.</p>
-
-<p>Another boon of a digital garden is that is not just a blog your not limited in what you want to curated and showcase in this space!</p>
-
-<p>For example you can have a list of games you have played, your favorites, what are you currently playing and more! You can engage with your audience in more ways than one.</p>
-
-<p>In a nutshell a digital garden is personal space online that you make your own with whatever interests you!</p>
-
-<p>So what does that mean for this website? Well, nothing much will change since even before I knew about this concept I wanted to make more than just a blog and create a place of the Internet for myself.</p>
-
-<p>A portal to my world as it were, In fact that’s what the name comes from! My very own dimension online but it also serves a double meaning, I wanted this dimension to be a place of learning as well this is why about half of my posts are guides or tutorials.</p>
-
-<p>And that fits perfectly with digital gardens since they place a huge deal on public learning. So if anything I will just add more content and deeper insight into my interests.</p>
-
-<p>I’ll still have a page with chronologically sorted posts for those who want to read the latest and for feed readers. But I will slowly put more emphasis on curation and if your looking for something in particular you can always search for it!</p>
-
-<p>I also want to add a microblog to this digital garden as well! I just recently left cohost! Because I barely used it, and it looks too much like social media that I grew to despise nowadays. But with it, I lose out on its microblogging aspects, so I’m making my own!</p>
-
-<p>The plan is to write my thoughts daily that later can become full on posts or articles! Making the writing process much easier.</p>
-
-<p>“So when will we expect these changes?” You might ask? Well not anytime soon, I haven’t even began tinkering with <code class="language-plaintext highlighter-rouge">minimal-mistakes</code> yet! Is going to take a while why I finished customizing the theme and making sure is well polished. But you can expect it this year at least.</p>
-
-<p>This will be a big <em>leap</em> for this website and is next real evolution and I hope you are excited as much as I am for it! For now though expect a new post mid March!</p>]]></content><author><name>Reading</name></author><category term="Tech" /><summary type="html"><![CDATA[This time I want to share some plans I have for the future of my website and what that means for you!]]></summary></entry></feed>
