@@ -10,7 +10,7 @@ excerpt:
 
 I always found it fascinating what others name their computers and devices. Just like finding funny and unique Wi-Fi names, Is a small window into someones interests and personality.
 
-Now that I have a Uses page, is a good time to delve into my naming scheme!
+So allow me to share my own!
 
 - ASUS C100PA Chromebook: [Sayla]
 - Debian Container: [Artesia]

@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>The Reading Dimension</title>
   <subtitle>Welcome to my own little corner of the web! Here, I muse about a variety of topics, mostly tech-related, but I also dabble in others like anime, manga, writing, and gaming as well! (•‿•)</subtitle>
-  <updated>2024-12-23T18:12:06-05:00</updated>
+  <updated>2025-01-20T19:53:14-05:00</updated>
   <author>
     <name>Reading</name>
     <uri>http://localhost:4000/</uri>
@@ -13,7 +13,7 @@
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
-  <rights> © 2024 Reading </rights>
+  <rights> © 2025 Reading </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
@@ -48,7 +48,7 @@
     <link href="http://localhost:4000/writing-challenge-final-review-and-results/" rel="alternate" type="text/html" title="Writing Challenge: Final Review and Results" />
     <published>2024-10-14T16:00:00-04:00</published>
   
-    <updated>2024-12-20T18:25:20-05:00</updated>
+    <updated>2024-12-23T18:29:05-05:00</updated>
   
     <id>http://localhost:4000/writing-challenge-final-review-and-results/</id>
     <content type="text/html" src="http://localhost:4000/writing-challenge-final-review-and-results/" />
@@ -72,7 +72,7 @@
     <link href="http://localhost:4000/challenging-myself-to-write-more-hopefully/" rel="alternate" type="text/html" title="Challenging Myself to Write More, Hopefully!" />
     <published>2024-09-30T19:00:00-04:00</published>
   
-    <updated>2024-12-20T18:25:20-05:00</updated>
+    <updated>2024-12-23T18:29:05-05:00</updated>
   
     <id>http://localhost:4000/challenging-myself-to-write-more-hopefully/</id>
     <content type="text/html" src="http://localhost:4000/challenging-myself-to-write-more-hopefully/" />
@@ -96,7 +96,7 @@
     <link href="http://localhost:4000/spice-and-wolf-merchant-meets-the-wise-wolf-is-fantastic-so-far!/" rel="alternate" type="text/html" title="Spice and Wolf: Merchant Meets the Wise Wolf is Fantastic so Far!" />
     <published>2024-08-06T21:00:00-04:00</published>
   
-    <updated>2024-08-06T21:00:00-04:00</updated>
+    <updated>2024-12-23T18:29:05-05:00</updated>
   
     <id>http://localhost:4000/spice-and-wolf-merchant-meets-the-wise-wolf-is-fantastic-so-far!/</id>
     <content type="text/html" src="http://localhost:4000/spice-and-wolf-merchant-meets-the-wise-wolf-is-fantastic-so-far!/" />
@@ -120,7 +120,7 @@
     <link href="http://localhost:4000/transferring-files-the-better-way/" rel="alternate" type="text/html" title="Transferring Files: The Better Way!" />
     <published>2024-07-20T22:00:00-04:00</published>
   
-    <updated>2024-12-20T18:25:20-05:00</updated>
+    <updated>2024-07-20T22:00:00-04:00</updated>
   
     <id>http://localhost:4000/transferring-files-the-better-way/</id>
     <content type="text/html" src="http://localhost:4000/transferring-files-the-better-way/" />
