@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>The Reading Dimension</title>
   <subtitle>Welcome to my own little corner of the web! Here, I muse about a variety of topics, mostly tech-related, but I also dabble in others like anime, manga, writing, and gaming as well! (•‿•)</subtitle>
-  <updated>2025-01-20T19:53:14-05:00</updated>
+  <updated>2025-01-21T19:02:56-05:00</updated>
   <author>
     <name>Reading</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>My Device Naming Scheme</title>
+    <link href="http://localhost:4000/my-device-naming-scheme/" rel="alternate" type="text/html" title="My Device Naming Scheme" />
+    <published>2025-01-21T19:00:00-05:00</published>
+  
+    <updated>2025-01-21T19:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/my-device-naming-scheme/</id>
+    <content type="text/html" src="http://localhost:4000/my-device-naming-scheme/" />
+    <author>
+      <name>Reading</name>
+    </author>
+
+  
+    
+    <category term="Tech" />
+    
+  
+
+  <summary>I have always found it fascinating what others name their computers and devices. Just like finding funny and unique Wi-Fi names, it is a small window into someone&amp;#39;s interests and personality. So allow me to share my own!</summary>
+
+  </entry>
 
   
   <entry>
@@ -111,30 +135,6 @@
   
 
   <summary>I&amp;#39;m not much of a seasonal anime watcher, but this last season is an exception! With the return of the fantastic Spice and Wolf! And now that the first half has finished airing, I&amp;#39;d like to share my thoughts on it!</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Transferring Files: The Better Way!</title>
-    <link href="http://localhost:4000/transferring-files-the-better-way/" rel="alternate" type="text/html" title="Transferring Files: The Better Way!" />
-    <published>2024-07-20T22:00:00-04:00</published>
-  
-    <updated>2024-07-20T22:00:00-04:00</updated>
-  
-    <id>http://localhost:4000/transferring-files-the-better-way/</id>
-    <content type="text/html" src="http://localhost:4000/transferring-files-the-better-way/" />
-    <author>
-      <name>Reading</name>
-    </author>
-
-  
-    
-    <category term="Tech" />
-    
-  
-
-  <summary>Recently, I&amp;#39;ve been dealing with transferring large files, and while there are plenty of tools available to do the job, most of them are slow, have a size limit, or are cumbersome to set up. Luckily, I learned about a powerful and simple-to-use tool called croc while looking for alternatives, and it&amp;#39;s exactly what I&amp;#39;ve been looking for in a file transfer tool!</summary>
 
   </entry>
 
