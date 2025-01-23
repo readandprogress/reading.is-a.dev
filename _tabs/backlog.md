@@ -25,9 +25,6 @@ OLM • Action
 
 J.C Staff • Action
 
-**Apothecary Diaries**
-
-OLM/TOHO Animation Studio • Drama
 
 **Oshi-no-Ko Season 2**
 
@@ -42,6 +39,10 @@ Kinema Citrus • Adventure
 **Lazarus**
 
 MAPPA • Sci-Fi
+
+**Apothecary Diaries season 2**
+
+OLM/TOHO Animation Studio • Drama
 
 **Fate/stay night: Heaven's Feel III. Spring Song**
 
@@ -74,6 +75,10 @@ Drive • Fantasy
 MADHOUSE • Comedy
 
 ### Watched
+
+**Apothecary Diaries**
+
+OLM/TOHO Animation Studio • Drama
 
 **Oshi-no-Ko**
 
