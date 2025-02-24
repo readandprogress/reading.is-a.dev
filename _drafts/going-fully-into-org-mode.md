@@ -1,10 +1,8 @@
 ---
-layout: post
-title: ""
-date: 0000-09-00 00:00:00 -0000
-categories: 
+title: "What I Learned From Org-Mode and Why I Returned to Markdown."
+date: 2025-02-28 18:00:00 -0500
+categories: Tech
 time: 
-author: Reading
-excerpt: 
+description: 
+toc: false
 ---
-

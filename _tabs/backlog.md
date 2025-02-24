@@ -9,8 +9,20 @@ toc: true
 
 ### Watching
 
-**Shangri-La Frontier Season 2**
+**Overlord IV**
 
+MADHOUSE • Action
+
+**Shaman King: Flowers**
+
+Studio Bridge • Action
+
+**SAKAMOTO DAYS**
+
+TMS Entertainment • Action
+
+**Shangri-La Frontier Season 2**
+  
 C2C • Fantasy
 
 **Mobile Fighter G Gundam**
@@ -24,11 +36,6 @@ OLM • Action
 **Demon Lord 2099**
 
 J.C Staff • Action
-
-
-**Oshi-no-Ko Season 2**
-
-Doga Kobo • Drama
 
 **Cardfight!! Vanguard DivineZ Season 2**
 
@@ -75,6 +82,10 @@ Drive • Fantasy
 MADHOUSE • Comedy
 
 ### Watched
+
+**Oshi-no-Ko Season 2**
+
+Doga Kobo • Drama
 
 **Apothecary Diaries**
 
@@ -124,6 +135,18 @@ Passione • Fantasy
 
 MADHOUSE • Fantasy
 
+**Overlord**
+
+MADHOUSE • Action
+
+**Overlord II**
+
+MADHOUSE • Action
+
+**Overlord III**
+
+MADHOUSE • Action
+
 **The Elusive Samurai**
 
 CloverWorks • Adventure
@@ -163,6 +186,10 @@ White Fox • Drama
 **Steins;Gate 0**
 
 White Fox • Drama
+
+**Shaman King (2021)**
+
+Studio Bridge • Action
 
 **Cells At Work!**
 
