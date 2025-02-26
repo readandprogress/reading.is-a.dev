@@ -41,7 +41,7 @@ J.C Staff • Action
 
 Kinema Citrus • Adventure
 
-### Planned
+### Planning To Watch
 
 **Lazarus**
 
@@ -63,7 +63,7 @@ OZ/NAZ • Fantasy
 
 Kinema Citrus • Adventure
 
-### Paused
+### Intermission
 
 **Pokémon Horizons: The Series**
 
@@ -499,13 +499,13 @@ Kazuro Kyou • Fantasy
 
 Kuniaki Totsuka • Fantasy
 
-### Planned
+### Planning To Read
 
 **Soul Eater**
 
 Ookubo Atsushi • Action
 
-### Hold
+### On Hold
 
 **Cardfight!! Vanguard: YouthQuake**
 
@@ -534,7 +534,7 @@ Intelligent Systems • Nintendo Switch • RPG
 
 Intelligent Systems • Nintendo 3DS • RPG • 100+
 
-### Planned
+### Planning To Play
 
 **Pokémon Trading Card Game GB**
 
