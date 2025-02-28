@@ -120,6 +120,9 @@
         {% include analytics/{{ platform }}.html %}
       {% endif %}
     {% endfor %}
+
+     <!-- Include Tinylitics -->
+    {% include analytics/tinylitics.html %}
   {% endif %}
 
   {% include metadata-hook.html %}
