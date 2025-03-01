@@ -46,9 +46,8 @@ webmaster_verifications:
 
 # Web Analytics Settings
 analytics:
-  provider: tinylytics
-  tinylytics: 
-    id: DK_YxVC6G4sW6wGE9F7_
+
+
 
 
 # Page views settings
