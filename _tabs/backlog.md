@@ -525,14 +525,26 @@ Kageyama Naoyuki/Takahashi Kazuki • Adventure
 
 ### Playing
 
-**Fire Emblem Engage**
+**Pokémon Legends: Arceus**
 
-Intelligent Systems • Nintendo Switch • RPG
-• 475+
+Game Freak • Nintendo 3DS • RPG • 100+
 
 **Fire Emblem Fates: Conquest**
 
 Intelligent Systems • Nintendo 3DS • RPG • 100+
+
+**AI: The Somnium Files**
+
+Spike Chunsoft • Nintendo Switch • Visual Novel • TBD
+
+
+**Apollo Justice: Ace Attorney**
+
+CAPCOM • Nintendo 3DS • Visual Novel • 2+
+
+**Downwell**
+
+Moppin • Nintendo Switch • Shooter • 115+
 
 ### Planning To Play
 
@@ -548,10 +560,6 @@ Nintendo R&D1 • Nintendo 3DS • Adventure • TBD
 
 Nintendo R&D1 • Nintendo 3DS • Adventure • TBD
 
-**AI: The Somnium Files**
-
-Spike Chunsoft • Nintendo Switch • Visual Novel • TBD
-
 **Ace Attorney: Dual Destinies**
 
 CAPCOM • Nintendo 3DS • Visual Novel • TBD
@@ -566,21 +574,14 @@ Game Freak • Nintendo 3DS • RPG • TBD
 
 ### Paused
 
+
 **Megaman Battle Network Legacy Collection**
 
 CAPCOM • Nintendo Switch • RPG • 115
 
-**Downwell**
-
-Moppin • Nintendo Switch • Shooter • 115+
-
 **Grand Theft Auto: Vice City Stories**
 
 Rockstar Leeds • Playstation Portable • Racing • 50+
-
-**Apollo Justice: Ace Attorney**
-
-CAPCOM • Nintendo 3DS • Visual Novel • 2+
 
 **Crystaline**
 
@@ -603,6 +604,11 @@ Game Freak • Nintendo 3DS • RPG • 100+
 **Devil May Cry**
 
 CAPCOM • Nintendo Switch • Hack and slash • 15+
+
+**Fire Emblem Engage**
+
+Intelligent Systems • Nintendo Switch • RPG
+• 475+
 
 **Fire Emblem: Three Houses**
 
