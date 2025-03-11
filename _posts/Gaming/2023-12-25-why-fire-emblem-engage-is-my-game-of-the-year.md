@@ -6,24 +6,24 @@ categories: Gaming
 time: 
 description: This has been quite a year in the gaming sphere! is hard not to be overwhelm by the sheer volume of quality titles out this year and with every year us gamers decided on just one game to be our game of the year! 
 toc: true
+license: The images used in this post are owned by their respective copyright owners. All rights reserved.
 ---
-## Before We Begin!
+## Before We Begin
 
 ![Emblem Marth.](/assets/images/2023-12-25-why-fire-emblem-engage-is-my-game-of-the-year/emblem-marth.jpg)
 _Emblem Marth._
 
+This has been quite a year in the gaming sphere! is hard not to be overwhelm by the sheer volume of quality titles out this year and with every year us gamers decided on just one game to be our game of the year!
 
-This has been quite a year in the gaming sphere! is hard not to be overwhelm by the sheer volume of quality titles out this year and with every year us gamers decided on just one game to be our game of the year! 
+This year has been awfully packed making the choice even harder but one game reigned supreme regardless of that: Fire Emblem Engage!
 
-This year has been awfully packed making the choice even harder but one game reigned supreme regardless of that: Fire Emblem Engage! 
+Ever since the game released last January and I got my hands on it that fateful midnight, I knew deep down in my heart that this game will be my game of the year and I wasn't wrong!
 
-Ever since the game released last January and I got my hands on it that fateful midnight, I knew deep down in my heart that this game will be my game of the year and I wasn't wrong! 
-
-Now that I have sinked in more three-hundred or so hours into it and completed most of the supports, I wanted to complete them before writing this but supports in Engage are notorisly hard to unlock! 
+Now that I have sinked in more three-hundred or so hours into it and completed most of the supports, I wanted to complete them before writing this but supports in Engage are notorisly hard to unlock!
 
 So now feeling well-versed on it,I feel is the perfect time to talk about my favorite game of the year!
 
-## The (Not) Anticipated Release! 
+## The (Not) Anticipated Release
 
 ![A Bad End?](/assets/images/2023-12-25-why-fire-emblem-engage-is-my-game-of-the-year/a-bad-end.jpg)
 _A Bad End?_
@@ -36,7 +36,7 @@ Then, late that year, we got our first official announcement along with a traile
 
 But nonetheless, some of the community was worried about this leak, and rightfully so! Since it was in a wildly different direction than that last game, Three Houses, the artwork was one of the points that intrigued me, with its vivid colors and quite out there designs. We haven't seen a FE quite like this!
 
-But since I have disregarded the leak, I wasn't worried or against any of these changes; I'll see it when I see it, and did I ever see it? The announcement of Fire Emblem Engage for me was a bit shocking, but not unwelcome! I was so sure it was a fake that I never gave it the *slightest* chance of being real! But after watching the trailer again, I couldn't stop myself from liking what I was seeing!
+But since I have disregarded the leak, I wasn't worried or against any of these changes; I'll see it when I see it, and did I ever see it? The announcement of Fire Emblem Engage for me was a bit shocking, but not unwelcome! I was so sure it was a fake that I never gave it the _slightest_ chance of being real! But after watching the trailer again, I couldn't stop myself from liking what I was seeing!
 
 The visuals look striking! So colorful and vibrant, it is fair to say we have never seen a Fire Emblem game like this before! The animated cutscenes look great! They are so clean, and they may just be the best-looking cutscenes in all of Fire Emblem! The little gameplay we saw looks great; it seems to run much faster than Three Houses, and the battle animations look fantastic!
 
@@ -44,12 +44,10 @@ All in all, I really like the trailer, and in my opinion, it was 180 to my first
 
 Some started bashing the game before it even got released, saying it was "too different and too anime!" The first one has merit; it is quite a departure, but I can't fathom the second. Are we to believe Fire Emblem wasn't ever anime?! Is one thing to not like the artwork, the other is being ignorant. But regardless, people seem to be warming up to it, and genuine anticipation was garnered as well, but just like with any Fire Emblem release, there were always haters! Although these seem to be more vocal this time around, regardless, in a few months the game will be released, and we will soon know what it entails!
 
+## Engaging Gameplay
 
-## Engaging Gameplay! 
-
-![](/assets/images/2023-12-25-why-fire-emblem-engage-is-my-game-of-the-year/battle-overview.jpg)
+![Battle Overview.](/assets/images/2023-12-25-why-fire-emblem-engage-is-my-game-of-the-year/battle-overview.jpg)
 _Battle Overview._
-
 
 I guess I'll start with the first thing I noticed while playing Engage, and that is refreshing and engaging gameplay! (Sorry, not sorry!)
 
@@ -100,7 +98,6 @@ This is so simple, but it adds so much needed depth to the combat! Now you are a
 
 Like I said, a simple change, but a great one! I hope that the next entry keeps this mechanic; it feels just as universal as the weapon triangle!
 
-
 So what about the Smash mechanic? Well, while not as impactful as the break mechanic, it adds an additional flair if you're willing to use it! Unlike his sibling, Smash is quite optional, though you have to worry about enemies doing this, which is not very common. Smash breaks your unit and moves them one space back. Now it doesn't seem useful at first, but if you use it right, you can give your units more openness to attack or have a weaker unit attack and gain experience since they're also broken and can't retaliate, making it useful to train low-level units.
 
 But if is not your cup of tea, It is completely optional and can only be used with certain special, great, and blade weapons.
@@ -117,7 +114,7 @@ _Against a Fell Dragon._
 Now the actual maps vary quite a bit; some are better than others, but overall they are good enough. Some of my favorites are:
 
 - Lythos Tutorial with Lumera
-  -  I found this one quite fun since you are just starting out, and as soon as Lumera engages, it can get quite difficult if you don't know what you are doing, which at this point you probably don't!
+  - I found this one quite fun since you are just starting out, and as soon as Lumera engages, it can get quite difficult if you don't know what you are doing, which at this point you probably don't!
 
 - Firene Castle
   - This one, oh this one! I gave it several tries before beating it the first time. Not only do you have the choice of going head-on inside or splitting your forces, but you also have enemies surrounding you from all sides, and if you are not quick enough, consider not getting any treasure as a thief moves from the far left towards the chests. You also get the first taste of the revival stones. Units with these stones have two health bars instead of just one.
@@ -129,10 +126,9 @@ In conclusion, the maps are pretty good, with good variety all around; not every
 
 Wrapping up Engage's gameplay is the funnest time I had playing a Fire Emblem game. There are just so many layers to a fantastic experience like no other. The whole thing feels smooth! It feels like the team spends the most time here than in any other area! To their detriment, maybe? But that's not relevant, but I will get to it. Since I have much to say on that matter.
 
-
 So yeah, of all the games in the series I've played, I have to say that Engage is my favorite when it comes to the gameplay; nothing can top it! Fates comes close with their map design, but while its gameplay is fun, it lacks the intricacies of Engage, which why I say is a close second. If what you care about in a Fire Emblem game is the gameplay, then Engage has you covered and you don't need to read on, but if thats just a part of it, like it is for me, then the rest of the game has other enjoyable aspects, some of which may be disappointing to others, but if you want to know more, you just have to keep on reading!
 
-## A Feast for The Eyes and Ears! 
+## A Feast for The Eyes and Ears
 
 ![The Divine Dragon Lumera Appears!](/assets/images/2023-12-25-why-fire-emblem-engage-is-my-game-of-the-year/the-divine-dragon-lumera-appears.jpg)
 _The Divine Dragon Lumera Appears!_
@@ -162,30 +158,24 @@ It's hard to describe the soundtrack in more detail, so here are just a couple o
 - [Fiery Bonds](https://youtu.be/tu2U5sRTFeA?si=xaiaiVWI5qdfzDDn) (English and Japanese)
   - What can I say? I love this song! It is bittersweet but hopeful, and every time I hear it, it makes me cry. It reminds me of what a good experience I just had with the game, and when any song does that, it is guaranteed to be one of my favorites! This one also has lyrics!
 
-
 - [Tear Streaked (Ice)](https://youtu.be/xxGVd8wc_mA?si=6WDmabSsHb0wKFPu)
   - Now this one is a banger! It shows up in an important part of the game, and this unique sound to it, as well as including a quire, starts slow but really amps up. I listen to this on occasion outside of the game.
-
 
 - [Last Engage](https://youtu.be/P8ryKxTNV7g?si=hSORHvyZJRC4_RN7) (Prayer-Incantation)
   - This is the final boss music, and just by that alone, it deserves to be on the list! It's surprisingly hopeful and happy for a final boss theme; it's like a nice, fun romp through the final boss, and having a quire as well as the good old Fire Emblem theme definitely helps!
 
-
 - [Mirrored Engage](https://youtu.be/LkwisPhn5cM?si=UanUdqzB-lrEngeD)
   - This is one of the few tracks from the DLC and also a final boss theme, and like always, it slaps hard! It has a unique start with this almost otherworldly feeling. Is this my second favorite of the DLC tracks? Man, all of the Engage tracks slap!
-
 
 - [Inconstant One (Frenzy)](https://youtu.be/Xy55oxJfLjc?si=23SxBo-dw4YOyfH-)
   - Remember when I said Mirrored Engage was my second favorite DLC track? Well, this is my first! It is an unassuming track at first, but it gets really good after awhile; it has a quire and this unique sound! Weirdly, the regular version of Inconstant One doesn't sound at all like this, but maybe that's for the better!
 
-
 - [Emblem Engage! (Full Version)](https://youtu.be/I3pHa5mtXVw?si=Jbq2fUSrc0nrF3vb)
   - Now I leave you with this! This may be a cheesy Saturday morning cartoon, but this is my cheesy Saturday morning cartoon track! I wasn't crazy about it at first, but I didn't hate it either. It was nice to have male vocals for a change, and after awhile, I've grown to love this song, especially the full version from the DLC. It's pretty good! I recommend at least giving the full version a try; you may fall in love with it like I did.
 
+That's just a few of my favorites, or, I will be here all day! But yeah, the soundtrack overall is great! I recommend giving it a listen, even if you are not interested in the game.
 
-That's just a few of my favorites, or, I will be here all day! But yeah, the soundtrack overall is great! I recommend giving it a listen, even if you are not interested in the game. 
-
-## A Conflicting Story! 
+## A Conflicting Story
 
 ![One Last Reunion.](/assets/images/2023-12-25-why-fire-emblem-engage-is-my-game-of-the-year/one-last-reunion.jpg)
 _One Last Reunion._
@@ -210,7 +200,7 @@ Instead of comparing it to similar titles like Awakening or Fates, it gets the h
 
 But yeah, it is fair to say that I feel slightly jaded by this; it feels unfair to lay the blame on Engages feet just for releasing after a game like Three Houses. But nevertheless, let's move on to one of my favorite parts of any Fire Emblem game.
 
-## The Link Between Story and Gameplay: Your Units!
+## The Link Between Story and Gameplay: Your Units
 
 ![The Divine One, Alear.](/assets/images/2023-12-25-why-fire-emblem-engage-is-my-game-of-the-year/the-divine-one-alear.webp){: w="400" h="333" {: .left }
 
@@ -247,15 +237,14 @@ Alright, so to wrap up, here's a list of my favorite support chains!
 
 - Celine and Alcryst's
 
-  - Just the two talking about how best to support their brothers and being worried if something happens to them. is quite sweet. 
-
+  - Just the two talking about how best to support their brothers and being worried if something happens to them. is quite sweet.
 
 - Alear and Alfred's
 
-  - Alfred being overly caring as a friend and Alear just being mildly annoyed by it. Is a very sweet support and one of my favorite ships from this game. 
+  - Alfred being overly caring as a friend and Alear just being mildly annoyed by it. Is a very sweet support and one of my favorite ships from this game.
 
 - Yunaka and Seadall's
-   - Yunaka tries performing with Seadall and is, of course, a natural! You could read this romantically or platonically, Either way a great support!
+  - Yunaka tries performing with Seadall and is, of course, a natural! You could read this romantically or platonically, Either way a great support!
 
 Overall, while the supports can be a bit short, there are some good ones in there! The cast of Engage is full of fun and zany characters. There's something for everyone!
 
@@ -267,24 +256,24 @@ I went around and gathered some thoughts about the game besides my own; some are
 
 ---
 
-> The writing is my biggest issue with the game. I disagree with the common sentiment that they wanted to make a simple plot that isn't too serious, I think they tried and failed. 
+> The writing is my biggest issue with the game. I disagree with the common sentiment that they wanted to make a simple plot that isn't too serious, I think they tried and failed.
 If I'm being more specific my biggest gripe is probably with the over reliance on emotional, dialogue-heavy death scenes in the game. I think there's roughly 7 or 8 which is far too many. They are used to try and force emotional moments and redeem characters, both of which were done very poorly imo.
 I like how they wrote the sibling relationships in engage
 
 - Matraiya
 
-> To be honest, the game look fine and has good music from what I've seen but I mainly avoided it due to the bad story remark I got. Like, you don't need a good world. You could simply use basic concept and concentrate on the character. Problem is that this time is spent on the villain more than the heroes and well... they Peter Grffin themselves on the landing. I mean, you could have had the main story focusing on the conflict of the villain versus the heroes (Main Lord I mean) and have some cheesy/camp dialogue because that way, you attracted a crowd that would meme on it. 
+> To be honest, the game look fine and has good music from what I've seen but I mainly avoided it due to the bad story remark I got. Like, you don't need a good world. You could simply use basic concept and concentrate on the character. Problem is that this time is spent on the villain more than the heroes and well... they Peter Grffin themselves on the landing. I mean, you could have had the main story focusing on the conflict of the villain versus the heroes (Main Lord I mean) and have some cheesy/camp dialogue because that way, you attracted a crowd that would meme on it.
 
-- Anonymous 
+- Anonymous
 
 > Gameplay wise the most frustrating thing has to be the low deployement slot. it's not an engage only thing,  and i know part of it is that part of the cast size is meant to accomodate for deaths, however it's still frustrating, cuz you don't just bench objectively bad performers, you bench even fine units cuz there's simply no space
 Story wise, probably that you could cut out the boat map from the story without much issues: it's post the 6v6,  it's not against the hounds, they don't use a particularly outstanding strategy that could make up for the lack of emblems, and it doesn't comment much on elusian themselves aside of lindon. A good map but actual filler.A bandit chapter would have been better
 
 - namu
 
-> Most frustrating thing about Engage (imo): 
+> Most frustrating thing about Engage (imo):
 -Undercooked lore. Needs more time in the oven. I’d prefer to add more nation/lords lore
-Having to slog FX for characters every new save. 
+Having to slog FX for characters every new save.
 What I enjoyed about Engage: Gameplay. Smooth, fun. Maps are pretty good. Characters are fun
 With enough effort, you can make anything work.
 
