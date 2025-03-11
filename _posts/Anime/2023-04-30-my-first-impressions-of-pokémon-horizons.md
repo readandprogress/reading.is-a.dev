@@ -4,8 +4,11 @@ date: 2023-04-30 20:00:00 -0500
 categories: Anime 
 time: 
 description: The new Pokémon anime series has dropped in Japan! and I have some mostly positive thoughts about it. Bear in mind that this post contains spoilers for the first three episodes. give our take.
-toc: false   
+toc: false  
+image: /assets/images/2023-04-30-my-first-impressions-of-pokémon-horizons/liko-and-roy-with-the-starters.jpg
+license: The images used in this post are owned by their respective copyright owners. All rights reserved.  
 ---
+
 The new Pokémon anime series has dropped in Japan! and I have some mostly positive thoughts about it. Bear in mind that this post contains spoilers for the first three episodes. give our take.
 
 First of all, I can't believe that The Pokémon Company decided to end the last protagonist's journey. I had long resigned myself to the fact that it would never happen, so I was happily surprised! A worthwhile change in my opinion, although I don't feel it's the only change to be made to make a suberb Pokémon anime; length and structure are also important, but I digress.
