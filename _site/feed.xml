@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>The Reading Dimension</title>
   <subtitle>Welcome to my own little corner of the web! Here, I muse about a variety of topics, mostly tech-related, but I also dabble in others like anime, manga, writing, and gaming as well! (•‿•)</subtitle>
-  <updated>2025-03-13T17:40:05-04:00</updated>
+  <updated>2025-03-13T17:48:21-04:00</updated>
   <author>
     <name>Reading</name>
     <uri>http://localhost:4000/</uri>
@@ -12,35 +12,11 @@
   <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
-  <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2025 Reading </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
-
-  
-  <entry>
-    <title>Pokémon Legends Z-A Is Making Me Feel Optimistic About This Series Again!</title>
-    <link href="http://localhost:4000/pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/" rel="alternate" type="text/html" title="Pokémon Legends Z-A Is Making Me Feel Optimistic About This Series Again!" />
-    <published>2025-03-20T20:00:00-04:00</published>
-  
-    <updated>2025-03-20T20:00:00-04:00</updated>
-  
-    <id>http://localhost:4000/pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/</id>
-    <content type="text/html" src="http://localhost:4000/pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/" />
-    <author>
-      <name>Reading</name>
-    </author>
-
-  
-    
-    <category term="Gaming" />
-    
-  
-
-  <summary>Pokemon Day came and went and left us with a new trailer for the upcoming; Pokemon Legends Z-A and i have some thoughts on it.</summary>
-
-  </entry>
 
   
   <entry>
@@ -135,6 +111,30 @@
   
 
   <summary>Whelp, a week has passed but unfortunately due to unforeseen events with the weather, writing was far from being the most important thing in my mind these last couple of days...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Challenging Myself to Write More, Hopefully!</title>
+    <link href="http://localhost:4000/challenging-myself-to-write-more-hopefully/" rel="alternate" type="text/html" title="Challenging Myself to Write More, Hopefully!" />
+    <published>2024-09-30T19:00:00-04:00</published>
+  
+    <updated>2024-12-23T18:29:05-05:00</updated>
+  
+    <id>http://localhost:4000/challenging-myself-to-write-more-hopefully/</id>
+    <content type="text/html" src="http://localhost:4000/challenging-myself-to-write-more-hopefully/" />
+    <author>
+      <name>Reading</name>
+    </author>
+
+  
+    
+    <category term="Writing" />
+    
+  
+
+  <summary>I&amp;#39;ve been having trouble writing fiction as of late. I have this original work that I have been mulling over for a while now and really like to get the first chapter out this year, but all I managed to write was some of the worldbuilding, CVs, and some notes.</summary>
 
   </entry>
 
