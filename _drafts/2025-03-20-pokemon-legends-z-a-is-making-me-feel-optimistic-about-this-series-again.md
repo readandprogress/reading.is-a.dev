@@ -2,7 +2,7 @@
 title: "Pokémon Legends Z-A Is Making Me Feel Optimistic About This Series Again!"
 date: 2025-03-20 21:00:00 -0500
 categories: Gaming
-time: 
+time: 7
 description:
 toc: # false | Only when you don't wan TOC.  
 license: The images used in this post are owned by their respective copyright owners. All rights reserved.  
