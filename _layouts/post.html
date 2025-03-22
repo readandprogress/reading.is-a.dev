@@ -159,21 +159,27 @@ script_includes:
         d-flex justify-content-between align-items-center mt-5 pb-2
       "
     >
-      <div class="license-wrapper">
-        {% if site.data.locales[lang].copyright.license.template %}
-          {% capture _replacement %}
+    <div class="license-wrapper">
+      {% if page.license %}
+        <p>{{ page.license }}</p>
+      {% elsif site.data.locales[lang].copyright.license.template %}
+        {% capture _replacement %}
         <a href="{{ site.data.locales[lang].copyright.license.link }}">
           {{ site.data.locales[lang].copyright.license.name }}
         </a>
         {% endcapture %}
-
-          {{ site.data.locales[lang].copyright.license.template | replace: ':LICENSE_NAME', _replacement }}
-        {% endif %}
-      </div>
+    
+        {{ site.data.locales[lang].copyright.license.template | replace: ':LICENSE_NAME', _replacement }}
+      {% endif %}
+    </div>
 
       {% include post-sharing.html lang=lang %}
     </div>
     <!-- .post-tail-bottom -->
+    <div id="hit-counter">
+      <p>This post has been viewed <span id="view-count">0</span> times.</p>
+  </div>
+
   </div>
   <!-- div.post-tail-wrapper -->
 </article>
