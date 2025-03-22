@@ -202,7 +202,9 @@ But yeah, it is fair to say that I feel slightly jaded by this; it feels unfair 
 
 ## The Link Between Story and Gameplay: Your Units
 
-![The Divine One, Alear.](/assets/images/2023-12-25-why-fire-emblem-engage-is-my-game-of-the-year/the-divine-one-alear.webp){: w="400" h="333" {: .left }
+![The Divine One, Alear.](/assets/images/2023-12-25-why-fire-emblem-engage-is-my-game-of-the-year/the-divine-one-alear.webp){: w="300" h="333" {: .left }
+{: .left }
+_The Divine One, Alear._
 
 The cast of Engage is one of my favorites to date! The characters feel more like the Awakening cast, showing a few traits at first but growing from those when seeing their supports. As of now, I have read every C support, so I have a good gist about each unit, but it is far from complete, so bear that in mind.
 
