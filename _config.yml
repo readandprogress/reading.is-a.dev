@@ -46,6 +46,10 @@ webmaster_verifications:
 
 # Web Analytics Settings
 analytics:
+cloudflare:
+    id: 381f1b3f2346445484d72e74f851be23
+goatcounter:
+    id: # fill in your GoatCounter ID
 
 
 

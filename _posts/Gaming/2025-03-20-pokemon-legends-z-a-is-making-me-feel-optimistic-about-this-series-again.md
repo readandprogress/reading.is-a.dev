@@ -8,7 +8,7 @@ toc: # false | Only when you don't wan TOC.
 license: The images used in this post are owned by their respective copyright owners. All rights reserved.  
 ---
 
-![Pokémon Legends Z-A Logo.](/assets/images/2025-03-20-pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/pokemon-legends-z-a-logo.jpg){: .left }{: width="400" height="400" }
+![Pokémon Legends Z-A Logo.](/assets/images/2025-03-20-pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/pokemon-legends-z-a-logo.jpg){: .left }{: width="300" height="300" }
 _Pokémon Legends Z-A Logo._
 {: .left }
 
@@ -22,7 +22,7 @@ To my pleasant surprise, the visuals are indeed cel-shaded, although they use [P
 
 Furthermore, I'm glad that my previous worries were unfounded, as I mentioned back in an older [post]({% post_url /Gaming/2024-04-30-pokémon-legends-z-a-looks-promising-but-I-can't-help-feeling-lukewarm-about-it %}). I was worried that the teams over at Game Freak were going in a new direction visually, a direction I didn't like as a veteran Pokémon fan. So far, this new game looks to be going in the right direction, in my humble opinion.
 
-![Player Characters.](/assets/images/2025-03-20-pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/pokemon-legends-z-a-player-characters.jpg){: .left }{: width="400" height="400" }
+![Your Player Character.](/assets/images/2025-03-20-pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/pokemon-legends-z-a-player-characters.jpg){: .left }{: width="300" height="300" }
 _Your Player Character._
 {: .left }
 
@@ -30,7 +30,7 @@ First, we have the new player characters. I like their designs quite a lot, and 
 
 Their neon green jackets are fitting, being that we are helping with the redevelopment of the city, and their hats are a nice touch. I also found it interesting that they're using fanny packs instead of the usual backpack, similar to how in Pokémon Legends Arceus they use satchels. Calem and Serena, the player characters for [Pokémon X and Y](https://www.pokemon.com/us/pokemon-video-games/pokemon-x-and-pokemon-y), for example, used a messenger bag and purse, respectively.
 
-![Your Rival.](/assets/images/2025-03-20-pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/pokemon-legends-z-a-rivals-urbain-and-taunie.jpg){: .right }{: width="400" height="400" }
+![Urbain and Taunie, your rivals.](/assets/images/2025-03-20-pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/pokemon-legends-z-a-rivals-urbain-and-taunie.jpg){: .right }{: width="300" height="300" }
 _Urbain and Taunie, your rivals._
 {: .right }
 
@@ -38,7 +38,7 @@ As for the new rivals, we have, for the first time in the series, a rival that w
 
 Being that you get a rival of the opposite gender makes me think there may be some dating elements involved? We had something similar with Curtis and Yancy in [Pokémon Black and White 2](https://www.pokemon.com/us/pokemon-video-games/pokemon-black-version-2-and-pokemon-white-version-2), after all. These player characters look to be quite older than the norm; the XY player characters are also on the older side, and being that Kalos is based on France, the country of love, it makes a lot of sense to introduce a dating mechanic here. Plus, we have confirmation that these games are to be rated E 10+ (Everyone 10+). So maybe that plays into that?
 
-![AZ](/assets/images/2025-03-20-pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/pokemon-legends-z-a-az.jpg){: .left }{: width="400" height="400" }
+![AZ.](/assets/images/2025-03-20-pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/pokemon-legends-z-a-az.jpg){: .left }{: width="300" height="300" }
 _AZ._
 {: .left }
 
@@ -50,7 +50,7 @@ Next, you have a chance to catch a Pokémon if you knock it out, as they get stu
 
 This is a nice Quality of Life improvement and would save me from accidentally losing a catch because of an accidental critical hit. I also like to note that the visibility icon on the UI is back, so we can expect Pokémon to notice you and run away or attack you, although probably not as savagely as in the last Legends title, being as these Pokémon are used to humans somewhat.
 
-![Lumiose City Map](/assets/images/2025-03-20-pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/pokemon-legends-z-a-lumisose-city-map.jpg)
+![Lumiose City Map.](/assets/images/2025-03-20-pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/pokemon-legends-z-a-lumisose-city-map.jpg)
 _Lumiose City Map._
 
 The battles are the best part of this trailer, in my opinion. Finally, we have real-time battles! You can dodge moves or counter with your own. The first Legends game toyed with this idea, making it more action-based, but now we are in the full precipice of this idea. I'm excited to try these out! I'm sure some moves will play differently, as it is not turn-based anymore, and I'll bet there will be some cool combinations we could do. Also, your Pokémon now follow you both outside and inside of battle, so the ability to move your player character has functionality, as you can move to dodge attacks and your Pokémon will be right behind you!
