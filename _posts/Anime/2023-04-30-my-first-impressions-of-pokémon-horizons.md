@@ -2,6 +2,7 @@
 title: "My First Impressions of Pokémon Horizons!"
 date: 2023-04-30 20:00:00 -0500
 categories: Anime 
+tags: pokemon impressions characters spoilers story plot
 time: 
 description: The new Pokémon anime series has dropped in Japan! and I have some mostly positive thoughts about it. Bear in mind that this post contains spoilers for the first three episodes. give our take.
 toc: false  

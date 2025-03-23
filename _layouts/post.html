@@ -93,6 +93,7 @@ script_includes:
 
           <!-- read time -->
           {% include read-time.html content=content prompt=true lang=lang %}
+          
         </div>
       </div>
     </div>
@@ -171,15 +172,16 @@ script_includes:
     
         {{ site.data.locales[lang].copyright.license.template | replace: ':LICENSE_NAME', _replacement }}
       {% endif %}
+     
     </div>
 
       {% include post-sharing.html lang=lang %}
+     
     </div>
     <!-- .post-tail-bottom -->
     <div id="hit-counter">
-      <p>This post has been viewed <span id="view-count">0</span> times.</p>
-  </div>
-
+      <p>This digital garden has been visited <span class="tinylytics_hits"></span> times. Would you like to visit another site in our <a href="" class="tinylytics_webring">webring</a>?</p>
+</div>
   </div>
   <!-- div.post-tail-wrapper -->
 </article>

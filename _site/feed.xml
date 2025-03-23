@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>The Reading Dimension</title>
   <subtitle>Welcome to my own little corner of the web! Here, I muse about a variety of topics, mostly tech-related, but I also dabble in others like anime, manga, writing, and gaming as well! (•‿•)</subtitle>
-  <updated>2025-03-22T19:08:07-04:00</updated>
+  <updated>2025-03-23T19:56:26-04:00</updated>
   <author>
     <name>Reading</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/" rel="alternate" type="text/html" title="Pokémon Legends Z-A Is Making Me Feel Optimistic About This Series Again!" />
     <published>2025-03-20T20:00:00-04:00</published>
   
-    <updated>2025-03-20T20:00:00-04:00</updated>
+    <updated>2025-03-22T20:27:00-04:00</updated>
   
     <id>http://localhost:4000/pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/</id>
     <content type="text/html" src="http://localhost:4000/pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/" />
