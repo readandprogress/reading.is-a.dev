@@ -2,6 +2,7 @@
 title: "Taking a Small Break"
 date: 2023-11-30 20:00:00 -0500
 categories: General
+tags: [ holidays, burnout, writing, agenda, break ]
 time: 
 description: So hey! How have you been? I'm being good these couple of months, and luckily my health has not stagnated since I got sick mid-year.
 toc: # false | Only when you don't wan TOC.  
@@ -20,7 +21,7 @@ One of them is a surprise, but the other and more important one is finally my re
 
 I'm very excited to get that review out there! Thought late, but better than never! Is going to be a big one, my biggest post yet, and is going to be a small Christmas present from me, dropping the 25th!
 
-I'm hoping you all enjoy it and leave your feedback. This is a work of love, so it would be highly appreciated! 
+I'm hoping you all enjoy it and leave feedback. This is a work of love, so it would be highly appreciated!
 
 For now, I'm going to enjoy my holidays, and I hope you enjoy yours as well!
 

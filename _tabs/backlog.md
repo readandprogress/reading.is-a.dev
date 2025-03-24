@@ -1,7 +1,8 @@
 ---
-icon: fa-solid fa-check
 title: Backlog
+author: Reading
 order: 3
+icon: fa-solid fa-check
 toc: true
 ---
 
@@ -9,20 +10,24 @@ toc: true
 
 ### Watching
 
+**Fate/stay night: Heaven's Feel III. Spring Song**
+
+ufotable • Fantasy
+
+<b><span style="color:rgba(244,63,94,1)">Dr. Stone: Science Future</span></b>
+
+TMS Entertainment • Adventure
+
 **Overlord IV**
 
 MADHOUSE • Action
-
-**Shaman King: Flowers**
-
-Studio Bridge • Action
 
 **SAKAMOTO DAYS**
 
 TMS Entertainment • Action
 
 **Shangri-La Frontier Season 2**
-  
+
 C2C • Fantasy
 
 **Mobile Fighter G Gundam**
@@ -33,13 +38,13 @@ Sunrise • Mecha
 
 OLM • Action
 
-**Demon Lord 2099**
-
-J.C Staff • Action
-
 **Cardfight!! Vanguard DivineZ Season 2**
 
 Kinema Citrus • Adventure
+
+<b><span style="color:rgba(16,185,129,1)">Pokémon Horizons: The Series</span></b>
+
+OLM • Adventure
 
 ### Planning To Watch
 
@@ -51,10 +56,6 @@ MAPPA • Sci-Fi
 
 OLM/TOHO Animation Studio • Drama
 
-**Fate/stay night: Heaven's Feel III. Spring Song**
-
-ufotable • Fantasy
-
 **Sabiki Bisco Season 2**
 
 OZ/NAZ • Fantasy
@@ -64,10 +65,6 @@ OZ/NAZ • Fantasy
 Kinema Citrus • Adventure
 
 ### Intermission
-
-**Pokémon Horizons: The Series**
-
-OLM • Adventure
 
 **KonoSuba: God's Blessing on This Wonderful World! Season 3**
 
@@ -82,6 +79,14 @@ Drive • Fantasy
 MADHOUSE • Comedy
 
 ### Watched
+
+**Demon Lord 2099**
+
+J.C Staff • Action
+
+**Shaman King: Flowers**
+
+Studio Bridge • Action
 
 **Oshi-no-Ko Season 2**
 
@@ -537,7 +542,6 @@ Intelligent Systems • Nintendo 3DS • RPG • 100+
 
 Spike Chunsoft • Nintendo Switch • Visual Novel • TBD
 
-
 **Apollo Justice: Ace Attorney**
 
 CAPCOM • Nintendo 3DS • Visual Novel • 2+
@@ -574,7 +578,6 @@ Game Freak • Nintendo 3DS • RPG • TBD
 
 ### Paused
 
-
 **Megaman Battle Network Legacy Collection**
 
 CAPCOM • Nintendo Switch • RPG • 115
@@ -607,8 +610,7 @@ CAPCOM • Nintendo Switch • Hack and slash • 15+
 
 **Fire Emblem Engage**
 
-Intelligent Systems • Nintendo Switch • RPG
-• 475+
+Intelligent Systems • Nintendo Switch • RPG • 475+
 
 **Fire Emblem: Three Houses**
 

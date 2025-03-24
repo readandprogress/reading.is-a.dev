@@ -1,7 +1,9 @@
 ---
 title: "Keeping My Notes Synced With Git and GitHub!"
 date: 2024-03-25 19:00:00 -0500
+last_modified_at: 2024-03-24 19:17:00 -0500
 categories: Tech
+tags: [ notes, git, github, sync, markdown, markor, vscode, acode, termux, syncthing, sftp, ssh, command-line, crostini, chromeos, android ]
 time: 
 description: Why don't I use Git and GitHub to sync my notes? After all, my blog repo houses .md files, the same files I use for my notes. Why don't I do the same? Now before we delve upon that let me tell you how I synced my notes and all my files before.
 toc: # false | Only when you don't wan TOC.  
@@ -24,11 +26,11 @@ Like I said before, I used to have a small homelab setup in which I had a Samba 
 
 After my home lab suffered an early death due to a bad power supply which, by the way, you can read about [here]({% post_url /Tech/2023-06-10-goodbye-my-first-homelab %})!
 
-It was back to good old syncing for me. This time I just manually synced some files. I keep everything on a flash drive connected to my Chromebook and some files like my movies, shows and books on my tablet, since that's where I consume most of those media.
+It was back to good old syncing for me. This time I just manually synced some files. I keep everything on a flash drive connected to my Chromebook and some files like my movies, shows and books on my tablet, since that's where I consume most of that media.
 
-That was a *pain*, as you can imagine to managed! So I decide to try out [Syncthing](https://syncthing.net/)! I used similar software before with mixed results, but I never tried out anything and, for the most part, it worked well. This time I synched my notes as well, since I have started experimenting with taking notes on my tablet like I have aforementioned.
+That was a *pain*, as you can imagine to manage! So I decide to try out [Syncthing](https://syncthing.net/)! I used similar software before with mixed results, but I never tried out anything and, for the most part, it worked well. This time I synched my notes as well, since I have started experimenting with taking notes on my tablet like I have aforementioned.
 
-And well, it didn't last long, at *all*! After a few days, my Chromebook crashed from running the Synthing server, which is odd since it shouldn't be that intensive but `crostini`, where I was running it, can be quite resource intensive. So that was a wash and a huge bummer since I love having my notes automatically synched specifically.
+And well, it didn't last long, at *all*! After a few days, my Chromebook crashed from running the Synthing server, which is odd since it shouldn't be that intensive but `crostini`, where I was running it, can be quite resource intensive since is a cointainer ad all. So that was a wash and a huge bummer since I love having my notes automatically synched specifically.
 
 This brings us to now, and I know I have digressed a fair bit! But I wanted to let you know about my situation before showing you this solution.
 
