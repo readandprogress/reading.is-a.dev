@@ -1,7 +1,9 @@
 ---
 title: "My Journey in Computing Throughout the Years!"
 date: 2024-06-15 20:00:00 -0500
+last_modified_at: 2025-03-25 19:13:00 -0500
 categories: Tech 
+tags: [ computing, hardware, software, operating-systems, linux, windows, chromeos, crostini, nostalgia, desktop, laptop, followup ]
 description: "I recently read a post by Kev Quirk about his computing history, and it seemed like a fun topic, so I'm going to put my own twist on it! I've been into computing for two decades now—yes, I'm old. (◔‿◔) In that time, I have gone through four computers; one laptop and three desktops, experimenting with several operating systems and applications!"
 ---
 
@@ -16,7 +18,6 @@ In that time, I have gone through four computers; one laptop and three desktops,
 ![Compaq Presario Desktop Computer](https://preview.redd.it/2fv5maew38i71.jpg?width=640&height=480&crop=smart&auto=webp&s=dfcabd9efd5a89463afc0354cc1af3196c7a77ca)
 _Not my exact model or picture, but is the closest to the one we had back then!_
 
-
 My first PC, or should I say our first family computer, was a Compaq Presario 7400 series desktop tower. I'm not sure of the precise model, but I remember it had a Pentium 3 CPU, 64 MB of RAM, a 30GB HDD, and ran on Windows 98. It even came with an upgrade CD to Windows 98 SE!
 
 I have fond memories of playing games, going online for the first time, and slowly learning more about computers during that period. I remember reading both the accompanying manuals quite frequently; it was the closest thing to scratching the itch when the computer was occupied by my father or sister.
@@ -24,7 +25,6 @@ I have fond memories of playing games, going online for the first time, and slow
 It eventually became my own computer when my dad upgraded to a new custom-built PC and my sister bought herself a laptop. Even though it was a hand-me-down, I was quite happy to have a PC all to myself!
 
 Although I don't use Windows anymore, Windows 98 will always have a special spot in my heart!
-
 
 ## 2004 - 2009 Custom Built Pentium 4 Desktop
 
@@ -47,25 +47,24 @@ This machine was fantastic! It ran smoothly without any issues and was quite imp
 
 Windows 7 was also pleasant to use. Even though I was already using Linux and enjoying it, I decided to stick with Windows 7 on this machine. I eventually installed Kubuntu, and it ran fantastically!
 
-
 ## 2014 - 2018 The Dark Era
 
 During late 2014 I moved over to Florida and with it I parted away with a lot of my stuff including my trusty HP, I didn't want to lug it all the way and it was already bit out of date anyways.
 
-This was what I called my *dark* era of computing since I effectively didn't have a computer until late 2018 making do with tablets and later a smartphone. Not the best of times for me personally either, it was a *dark* era indeed.
+This was what I called my _dark_ era of computing since I effectively didn't have a computer until late 2018 making do with tablets and later a smartphone. Not the best of times for me personally either, it was a _dark_ era indeed.
 
 ## 2018 - Current ASUS C101PA 3in1 Chromebook
 
 ![ASUS C101PA 3in1 Chromebook](https://lh3.googleusercontent.com/4eAyAEg0WARIV8_rxwL2uL4GxbMELhYA169Ty2lLgo7z9h8lIO9MccBPnst9m4ushBv9ytISgAg4wLUQawhLuONFSFfN2wGu7kS3Bg=s2048)
 _My current computer and my first Notebook PC!_
 
-By this time, I had gotten my first job at a Mexican restaurant and could afford to buy my own computer! After saving up all the earnings I could from tip-wage work, I was able to purchase a not very glamorous but good enough for me Chromebook!
+By this time, I had gotten my first job at a Mexican restaurant and could afford to buy my own computer! After saving up all the earnings I could from tip-wage work, I was able to purchase a not very glamorous but good enough for me Chromebook.
 
 It was the best for the price and very portable, something that I warmed up to as I grew up. All I needed was a device that allowed me to study, take notes, take tests, do some light coding, and light web browsing, and this small ASUS delivered that in spades!
 
 It's also a convertible, which makes it extra handy when laying on the bed or setting it up in tent mode, for example, in the kitchen!
 
-It packs a Hexacore Rockchip CPU, 4GB of RAM, 16GB eMMC, and runs Chrome OS. I know those are underwhelming specs, but it works for me. 
+It packs a Hexacore Rockchip CPU, 4GB of RAM, 16GB eMMC, and runs Chrome OS. I know those are underwhelming specs, but it works for me.
 
 I have been feeling its age now that it's doesn't get any more updates (Auto-Update Expiry), and I tend to push its limits sometimes by running Linux apps on top of a container called Crostini, but it still has plenty of life in it.
 
@@ -77,6 +76,6 @@ Regardless, I'm interested in your computing history as well! Did you have a "da
 
 ## Footnotes
 
-[^1]: [Kev's post](https://kevquirk.com/my-computing-history): This post woudn't be possible otherwise! 
+[^1]: [Kev's post](https://kevquirk.com/my-computing-history): This post woudn't be possible otherwise!
 
 [^2]: [Kev Quirk](https://kevquirk.com/): A blogger I follow, you should too!

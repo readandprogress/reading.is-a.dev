@@ -1,7 +1,9 @@
 ---
 title: "Transferring Files: The Better Way!"
 date: 2024-07-20 21:00:00 -0500
+last_modified_at: 2025-03-25 19:20:00 -0500
 categories: Tech
+tags: [ command-line, linux, windows, macOS, android, termux, croc, file-sharing, tools ]
 description: Recently, I've been dealing with transferring large files, and while there are plenty of tools available to do the job, most of them are slow, have a size limit, or are cumbersome to set up. Luckily, I learned about a powerful and simple-to-use tool called croc while looking for alternatives, and it's exactly what I've been looking for in a file transfer tool!
 ---
 
@@ -22,17 +24,17 @@ sudo apt update
 sudo apt install croc -y
 ```
 
-Now, on the receiving device, an Android tablet, I'm using Termux, and "croc" is available on the base repo as well, so again, it's super easy to install!
+Now, on the receiving device, an Android tablet, I'm using Termux, and `croc` is available on the base repo as well, so again, it's super easy to install!
 
-``` bash
+``` sh
 pkg update
 pkg upgrade
 pkg install croc -y
 ```
 
-Be sure to install any updates if available before installing "croc". This is Linux CLI 101! If you're wondering why there's "-y" after the command, it's just so "apt" knows that we confirmed the install; otherwise, you'll get a prompt after executing the command.
+Be sure to install any updates if available before installing "croc". This is Linux CLI (Command-line Interface) 101! If you're wondering why there's "-y" after the command, it's just so "apt" knows that we confirmed the install; otherwise, you'll get a prompt after executing the command.
 
-Now that we have "croc" installed, let's start by sending a file. For example, I have this huge archive file filled with downloaded YouTube video files that I'd like to have on my tablet for later viewing. Luckily, "croc" can handle large files just fine. Since it's a direct connection between devices, it's fast and has no limits on file size other than your own storage limitations.
+Now that we have `croc` installed, let's start by sending a file. For example, I have this huge archive file filled with downloaded YouTube video files that I'd like to have on my tablet for later viewing. Luckily, `croc` can handle large files just fine. Since it's a direct connection between devices, it's fast and has no limits on file size other than your own storage limitations.
 
 ``` bash
 croc send youtube-videos.zip
@@ -46,7 +48,7 @@ Code is: 4812-airline-lima-script
 
 On your receiving device type `croc` and initiate it. You will get a prompt asking for your code.
 
-``` bash
+``` sh
 Enter receive code:
 ```
 

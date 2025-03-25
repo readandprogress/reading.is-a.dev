@@ -3,7 +3,7 @@ title: "Pokémon Legends: Z-A Looks Promising but I Can't Help Feeling Lukewarm 
 date: 2024-04-30 20:00:00 -0500
 last_modified_at: 2025-03-17 19:00:00 -0500
 categories: Gaming
-tags: [ pokemon, thoughts, rpg, upcoming, visuals, artstyle, nintendo, gamefreak, thepokemoncompany]
+tags: [ pokemon, thoughts, rpg, upcoming, visuals, artstyle, nintendo, gamefreak, pokemon-company ]
 time: 
 description: Back with another post, and this time about a game, if you can believe it! My recent posts don't really scream gamer, so let's change that! Let's talk about one of my favorite game series, or I guess you could say it used to be one of them.
 toc: # false | Only when you don't want a TOC.  

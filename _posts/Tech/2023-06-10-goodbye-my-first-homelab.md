@@ -1,7 +1,9 @@
 ---
 title: "Goodbye my First Homelab ; _ ;"
 date: 2023-06-10 18:00:00 -0500
+last_modified_at: 2025-03-25 18:29:00 -0500
 categories: Tech
+tags: [ homelab, jellyfin, linux, raspberry-pi, smb, file-sharing, laptop, samsung. hardware, failure ]
 time: 
 description: I was going to post about my neat home lab, but unfortunately, it didn't work out. I was hosting a SMB file share and Jellyfin media server on a ten-year-old Samsung laptop. I had it lying around, and I thought it would be a good way to give new life to old hardware.
 toc: # false | Only when you don't wan TOC.  
@@ -13,8 +15,6 @@ And for a time, everything was well. It was so nice and handy to have a centrali
 So, what was the culprit? Luckily, nothing serious happened. I was given this laptop, and the power adapter was defective. So I replaced it with a cheap one I found online. For the price, it lasted longer than expected. I replaced it around 2019, so not bad overall!
 
 Now I could buy another replacement adapter and have everything running again in no time. But personally, if I'm going to invest in this old hardware again, I might as well get something smaller and more energy-efficient.
-
-I could buy another replacement adapter and have everything up and running again in no time. However, I don't think it's worth investing in this old hardware again. I'd rather get something smaller and more energy-efficient.
 
 For now, I guess I'm back to good old syncing. Which is not bad at all, by any means!
 

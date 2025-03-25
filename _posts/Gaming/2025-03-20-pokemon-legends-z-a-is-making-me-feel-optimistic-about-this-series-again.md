@@ -3,11 +3,12 @@ title: "Pokémon Legends Z-A Is Making Me Feel Optimistic About This Series Agai
 date: 2025-03-20 19:00:00 -0500
 last_modified_at: 2025-03-22 19:27:00 -0500
 categories: Gaming
-tags: [ pokemon, thoughts, rpg, upcoming, visuals, artstyle, nintendo, gamefreak, thepokemoncompany, followup, impressions]
+tags: [ pokemon, thoughts, rpg, upcoming, visuals, artstyle, nintendo, gamefreak, pokemon-company, followup, impressions]
 time: 1:10
 description: Pokémon Day came and went and left us with a new trailer for the upcoming Pokémon Legends Z-A, and I have some thoughts on it.
 toc: # false | Only when you don't wan TOC.  
-license: The images used in this post are owned by their respective copyright owners. All rights reserved.  
+license: The images used in this post are owned by their respective copyright owners. All rights reserved. 
+pin: true 
 ---
 
 ![Pokémon Legends Z-A Logo.](/assets/images/2025-03-20-pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/pokemon-legends-z-a-logo.jpg){: .left }{: width="300" height="300" }

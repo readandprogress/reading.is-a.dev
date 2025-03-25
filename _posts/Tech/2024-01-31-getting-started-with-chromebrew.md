@@ -1,9 +1,11 @@
 ---
 title: "Getting Started with Chromebrew!"
 date: 2024-01-31 18:00:00 -0500
+last_modified_at: 2025-03-25 19:00:00 -0500
 categories: Tech
+tags: [ holidays, chromebook, chromeos, EoL, auto-update-expiry, e-waste, lacros,chromeosflex, brunch, crouton, chromebrew, chrome ]
 description: I am bringing you a short post for this month since I have been enjoying my holidays, and my last post was my longest and most worked on yet! So I'm taking a small break for now, but I don't want to leave you with nothing for this month, so here we are. I hope you enjoy it!
-pin: true
+pin: false
 ---
 
 I am bringing you a short post for this month since I have been enjoying my holidays, and my last post was my longest and most worked on yet! So I'm taking a small break for now, but I don't want to leave you with nothing for this month, so here we are. I hope you enjoy it!
@@ -12,15 +14,15 @@ I daily drive a Chromebook, and that device has just recently reached EOL (End o
 
 That's just e-waste, in my opinion, and even though I love ChromeOS as an operating system, this will be my last Chromebook. I can't, in good conscience, keep using products that endorse this behavior. Now I know there's a Framework Chromebook, and support has been increased to ten years, but that's still not enough for me. What if my device is perfectly capable by then? I should, as a consumer, choose how long I use a product, not the company.
 
-I thought this wouldn't be a big deal when I learned about `lacros`, a project that aims to split the Chrome browser from ChromeOS, meaning that it can get updated even after AUE (supposedly). The problem is that Google decided in their infinite wisdom to tie lacros to ChromeOS updates, meaning that as soon as the device is AUE, `lacros` will only update a few versions away from the last ChromeOSupdate.e
+I thought this wouldn't be a big deal when I learned about `lacros`, a project that aims to split the Chrome browser from ChromeOS, meaning that it can get updated even after AUE (supposedly). The problem is that Google decided in their infinite wisdom to tie lacros to ChromeOS updates, meaning that as soon as the device is AUE, `lacros` will only update a few versions away from the last ChromeOS update.
 
 Making it completely useless for the purpose of extending the life of the device, at first I thought it was just the behavior of being an experimental flag, but it seems Google never designed it for that purpose in the first place, which makes sense: Why not just extend the updates indefinitely then? It wouldn't align with their best interests, I guess.
 
 Luckily, there are alternate ways to keep your Chromebook or Chrome device up-to-date! First off, there's ChromeOS Flex, formerly Cloudready, an official distro of ChromeOS without Android, but that's for the best, in my opinion. This version doesn't have an AUE date (yet!) and is meant to be a light operating system to bring new life to old x86 devices, but it can also be used on Chromebooks! As long as you have an x86 Chromebook, there is no support for ARM just yet. If you can manage it, this is the best option, as it requires little setup other than installing a regular BIOS with the Mr. Chromebox script.
 
-There's also brunch! Which is quite similar to Flex but is a community project and supports Android apps on some devices. This thus requires a lot of setup and is only available for x86 devices, which mine aren't, so this and Flex are a no-go for me.
+There's also brunch! Which is quite similar to Flex but is a community project and supports Android apps on some devices. This thus requires a lot of setup and is only available for x86 devices, which mine isn't, so this and Flex are a no-go for me.
 
-Then we have the good old, reliable Crouton! While not in active development, it still works wonders, allowing you to run a full desktop environment and apps. Chrouton works on all Chrome devices, but due to running inside ChromeOS within a chroot, you still need to access the shell to install it.
+Then we have the good old, reliable Crouton! While not in active development, it still works wonders, allowing you to run a full desktop environment and apps. Chrouton works on all ChromeOS devices, but due to running inside ChromeOS within a chroot, you will need access to the shell. Meaning your device needs to be on developer mode to install it.
 
 Finally, we have the topic of this very post, Chromebrew! Unlike the others, Chromebrew is a package manager for ChromeOS, making it a full-on Linux distro! So if you enjoy ChromeOS and would like a proper package manager like I do, this is for you! But other than the niftyness of having Linux apps run on bare metal, there's a second benefit we are looking for!
 

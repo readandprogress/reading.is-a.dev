@@ -1,7 +1,9 @@
 ---
 title: "Why I’m Turning My Website Into a Digital Garden!"
-date: 2024-02-29 20:00:00 -0500
+date: 2024-02-29 20:00:00 -0500\
+last_modified_at: 2025-03-25 19:05:00 -0500
 categories: Tech
+tags: [ digital-garden, web-development, jekyll, minima, minimal-mistakes, cloudflare, html, css, websites, microblogging ]
 description: This time I want to share some plans I have for the future of my website and what that means for you!
 ---
 
@@ -50,7 +52,7 @@ And that fits perfectly with digital gardens since they place a huge deal on pub
 
 I'll still have a page with chronologically sorted posts for those who want to read the latest and for feed readers. But I will slowly put more emphasis on curation and if your looking for something in particular you can always search for it!
 
-I also want to add a microblog to this digital garden as well! I just recently left cohost! Because I barely used it, and it looks too much like social media that I grew to despise nowadays. But with it, I lose out on its microblogging aspects, so I'm making my own!
+I also want to add a microblog to this digital garden as well! I just recently left cohost. Because I barely used it, and it looks too much like social media that I grew to despise nowadays. But with it, I lose out on its microblogging aspects, so I'm making my own!
 
 The plan is to write my thoughts daily that later can become full on posts or articles! Making the writing process much easier.
 
