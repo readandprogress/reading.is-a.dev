@@ -550,6 +550,10 @@ CAPCOM • Nintendo 3DS • Visual Novel • 2+
 
 Moppin • Nintendo Switch • Shooter • 115+
 
+**Super Mario Land 2: 6 Golden Coins**
+
+Nintendo R&D 1 • Nintendo Switch Online • Platformer • 1+
+
 ### Planning To Play
 
 **Pokémon Trading Card Game GB**
@@ -595,6 +599,10 @@ PixelFade • Android • Visual Novel • TBD
 **.hack//G.U. Last Recode**
 
 CyberConnect2 • Nintendo Switch • RPG • 110+
+
+**Super Mario Land**
+
+Nintendo R&D 1 • Nintendo Switch Online • Platformer • 2+
 
 **SuperHot**
 
