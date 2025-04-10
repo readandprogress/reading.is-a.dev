@@ -4,7 +4,7 @@ date: 2025-04-10 19:00:00 -0500
 last_modified_at: 2025-04-10 20:00:00 -0500
 categories: Tech
 tags: [ markdown, note-taking, inkdown, vs code, productivity, writing, tools, software, editors , pwa ]
-time: 39
+time: 00:94
 description:
 toc: # false | Only when you don't wan TOC.  
 pin: true
@@ -25,6 +25,9 @@ Inkdown works locally, and you can sync your notes to a folder and/or push your 
 Inkdown works with workspaces similar to Obsidian and others. You can create up to two of them with the free tier and up to thirty on the paid tier.
 
 Here's how my workspace looks:
+
+![My Inkdown Workspace](/assets/images/2025-04-10-taking-inkdown-for-a-spin/inkdown-workspace-light-theme.png){: .light }{: .shadow }
+![My Inkdown Workspace](/assets/images/2025-04-10-taking-inkdown-for-a-spin/inkdown-workspace-dark-theme.png){: .dark }{: .shadow }
 
 I really like how Inkdown displays rendered Markdown; the nicer-looking code blocks and how it displays front matter are huge pluses for me. I would like it if it supported tags too, but being as is keeping it simple, I don't really mind.
 
