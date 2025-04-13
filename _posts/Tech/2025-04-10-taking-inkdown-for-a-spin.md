@@ -12,7 +12,7 @@ pin: true
 
 As I said back in an earlier post, I decided to go back to Markdown for all my notes. I use VS Code as my Markdown editor of choice for writing these posts and taking notes, but I recently learned about a new Markdown notetaking app that caught my interest, so I've decided to take it for a spin!
 
-The app is called Inkdown and is by far the best Markdown notetaking app I have the pleasure of using. I have tried several others, but none of them are as simple and intuitive as Inkdown is, in my opinion. Apps like Logseq and Obsidian are simple and minimal at first, but they try to accomplish too much, in my opinion. At their base, they're just Markdown editors with unnecessary fluff on top, so much so that the final Markdown file is barely unrecognizable and loses out on its portability, something that these apps proudly highlight on their websites, ironically.
+The app is called Inkdown[^1] and is by far the best Markdown notetaking app I have the pleasure of using. I have tried several others, but none of them are as simple and intuitive as Inkdown is, in my opinion. Apps like Logseq and Obsidian are simple and minimal at first, but they try to accomplish too much, in my opinion. At their base, they're just Markdown editors with unnecessary fluff on top, so much so that the final Markdown file is barely unrecognizable and loses out on its portability, something that these apps proudly highlight on their websites, ironically.
 
 On the other hand, Inkdown keeps it simple: no plugins, no database, just plain Markdown. Using GitHub's Flavored Markdown to be specific, so you can get extended Markdown syntax like checkboxes, tables, etc. And if that's not enough for you, Inkdown has built-in support for Mermaid and LaTeX as well, and if that still isn't enough, Inkdown uses HTML to add even more features like iframes, highlighting, etc. You have all the capability you need without affecting the portability of the final Markdown file. After all, it's just plain Markdown, Mermaid, LaTeX, and HTML.
 
@@ -38,3 +38,7 @@ Like I can't do some special formatting without using the slash menu; creating c
 I haven't mentioned it since I don't use it, but Inkdown allows you to publish your notes, handy when you need to share a note with somebody quickly or if you're into digital gardening. Keep in mind that you are limited in how many notes you can publish with the free tier, though.
 
 So what do you think about Inkdown? Why not give it a try and let me know how it went? For me, I'm going to be sticking with it in the meantime. I would also love to hear what you use for notetaking! (•‿•)
+
+## Footnotes
+
+[^1]: [Inkdown](https://www.inkdown.me/)
