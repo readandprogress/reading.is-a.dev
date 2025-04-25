@@ -42,7 +42,7 @@ Kinema Citrus • Adventure
 
 OLM • Adventure
 
-**Apothecary Diaries season 2**
+**Apothecary Diaries Season 2**
 
 OLM/TOHO Animation Studio • Drama
 
