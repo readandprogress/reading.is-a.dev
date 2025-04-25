@@ -42,15 +42,15 @@ Kinema Citrus • Adventure
 
 OLM • Adventure
 
+**Apothecary Diaries season 2**
+
+OLM/TOHO Animation Studio • Drama
+
 ### Planning To Watch
 
 **Lazarus**
 
-MAPPA • Sci-Fi
-
-**Apothecary Diaries season 2**
-
-OLM/TOHO Animation Studio • Drama
+MAPPA • Sci-Fi\
 
 **Sabiki Bisco Season 2**
 
@@ -76,7 +76,7 @@ MADHOUSE • Comedy
 
 ### Watched
 
-<b><span style="color:rgba(244,63,94,1)">Dr. Stone: Science Future</span></b>
+**Dr. Stone: Science Future**
 
 TMS Entertainment • Adventure
 
