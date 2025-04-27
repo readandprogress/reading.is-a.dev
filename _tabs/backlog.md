@@ -48,9 +48,13 @@ OLM/TOHO Animation Studio • Drama
 
 ### Planning To Watch
 
+**Mobile Suit Gundam GQuuuuuuX**
+
+Studio Kara x Sunrise • Mecha
+
 **Lazarus**
 
-MAPPA • Sci-Fi\
+MAPPA • Sci-Fi
 
 **Sabiki Bisco Season 2**
 
