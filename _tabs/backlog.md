@@ -48,7 +48,7 @@ OLM/TOHO Animation Studio • Drama
 
 **Mobile Suit Gundam GQuuuuuuX**
 
-Studio Kara x Sunrise • Mecha
+Studio Khara x Sunrise • Mecha
 
 ### Planning To Watch
 
