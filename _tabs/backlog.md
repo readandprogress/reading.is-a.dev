@@ -14,10 +14,6 @@ toc: true
 
 ufotable • Fantasy
 
-<b><span style="color:rgba(244,63,94,1)">Dr. Stone: Science Future</span></b>
-
-TMS Entertainment • Adventure
-
 **Overlord IV**
 
 MADHOUSE • Action
@@ -42,19 +38,23 @@ OLM • Action
 
 Kinema Citrus • Adventure
 
-<b><span style="color:rgba(16,185,129,1)">Pokémon Horizons: The Series</span></b>
+**Pokémon Horizons: The Series**
 
 OLM • Adventure
+
+**Apothecary Diaries Season 2**
+
+OLM/TOHO Animation Studio • Drama
+
+**Mobile Suit Gundam GQuuuuuuX**
+
+Studio Khara x Sunrise • Mecha
 
 ### Planning To Watch
 
 **Lazarus**
 
 MAPPA • Sci-Fi
-
-**Apothecary Diaries season 2**
-
-OLM/TOHO Animation Studio • Drama
 
 **Sabiki Bisco Season 2**
 
@@ -79,6 +79,10 @@ Drive • Fantasy
 MADHOUSE • Comedy
 
 ### Watched
+
+**Dr. Stone: Science Future**
+
+TMS Entertainment • Adventure
 
 **Demon Lord 2099**
 
@@ -538,21 +542,13 @@ Game Freak • Nintendo 3DS • RPG • 100+
 
 Intelligent Systems • Nintendo 3DS • RPG • 100+
 
-**AI: The Somnium Files**
-
-Spike Chunsoft • Nintendo Switch • Visual Novel • TBD
-
 **Apollo Justice: Ace Attorney**
 
 CAPCOM • Nintendo 3DS • Visual Novel • 2+
 
-**Downwell**
+**Yu-Gi-Oh! Master Duel**
 
-Moppin • Nintendo Switch • Shooter • 115+
-
-**Super Mario Land 2: 6 Golden Coins**
-
-Nintendo R&D 1 • Nintendo Switch Online • Platformer • 1+
+Konami • Nintendo Switch • Card Game • 50+ 
 
 ### Planning To Play
 
@@ -582,6 +578,10 @@ Game Freak • Nintendo 3DS • RPG • TBD
 
 ### Paused
 
+**AI: The Somnium Files**
+
+Spike Chunsoft • Nintendo Switch • Visual Novel • TBD
+
 **Megaman Battle Network Legacy Collection**
 
 CAPCOM • Nintendo Switch • RPG • 115
@@ -595,6 +595,14 @@ Rockstar Leeds • Playstation Portable • Racing • 50+
 PixelFade • Android • Visual Novel • TBD
 
 ### Played
+
+**Downwell**
+
+Moppin • Nintendo Switch • Shooter • 115+
+
+**Super Mario Land 2: 6 Golden Coins**
+
+Nintendo R&D 1 • Nintendo Switch Online • Platformer • 1+
 
 **.hack//G.U. Last Recode**
 
@@ -616,7 +624,7 @@ Game Freak • Nintendo 3DS • RPG • 100+
 
 CAPCOM • Nintendo Switch • Hack and slash • 15+
 
-**Fire Emblem Engage**
+[Fire Emblem Engage](Games%2FFire%20Emblem%20Engage.md)
 
 Intelligent Systems • Nintendo Switch • RPG • 475+
 
