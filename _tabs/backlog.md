@@ -50,6 +50,10 @@ OLM/TOHO Animation Studio • Drama
 
 Studio Khara x Sunrise • Mecha
 
+
+
+### Rewatching
+
 ### Planning To Watch
 
 **Lazarus**
@@ -508,6 +512,8 @@ Kazuro Kyou • Fantasy
 
 Kuniaki Totsuka • Fantasy
 
+### Rereading
+
 ### Planning To Read
 
 **Soul Eater**
@@ -534,14 +540,6 @@ Kageyama Naoyuki/Takahashi Kazuki • Adventure
 
 ### Playing
 
-**Pokémon Legends: Arceus**
-
-Game Freak • Nintendo 3DS • RPG • 100+
-
-**Fire Emblem Fates: Conquest**
-
-Intelligent Systems • Nintendo 3DS • RPG • 100+
-
 **Apollo Justice: Ace Attorney**
 
 CAPCOM • Nintendo 3DS • Visual Novel • 2+
@@ -549,6 +547,16 @@ CAPCOM • Nintendo 3DS • Visual Novel • 2+
 **Yu-Gi-Oh! Master Duel**
 
 Konami • Nintendo Switch • Card Game • 50+ 
+
+### Replaying
+
+**Pokémon Legends: Arceus**
+
+Game Freak • Nintendo 3DS • RPG • 100+
+
+**Fire Emblem Fates: Conquest**
+
+Intelligent Systems • Nintendo 3DS • RPG • 100+
 
 ### Planning To Play
 
