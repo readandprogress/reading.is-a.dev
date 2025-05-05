@@ -50,8 +50,6 @@ OLM/TOHO Animation Studio • Drama
 
 Studio Khara x Sunrise • Mecha
 
-
-
 ### Rewatching
 
 ### Planning To Watch
