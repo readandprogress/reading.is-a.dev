@@ -10,11 +10,11 @@ toc: true
 
 ### Watching
 
-**Fate/stay night: Heaven's Feel III. Spring Song**
+**Fate/stay night: Heaven's Feel Collection**
 
 ufotable • Fantasy
 
-**Overlord IV**
+**Overlord**
 
 MADHOUSE • Action
 
@@ -22,7 +22,7 @@ MADHOUSE • Action
 
 TMS Entertainment • Action
 
-**Shangri-La Frontier Season 2**
+**Shangri-La Frontier** 
 
 C2C • Fantasy
 
@@ -34,21 +34,21 @@ Sunrise • Mecha
 
 OLM • Action
 
-**Cardfight!! Vanguard DivineZ Season 2**
-
-Kinema Citrus • Adventure
-
 **Pokémon Horizons: The Series**
 
 OLM • Adventure
 
-**Apothecary Diaries Season 2**
+**Apothecary Diaries**
 
 OLM/TOHO Animation Studio • Drama
 
 **Mobile Suit Gundam GQuuuuuuX**
 
 Studio Khara x Sunrise • Mecha
+
+**Cardfight!! Vanguard OverDress (2021)**
+
+Kinema Citrus • Adventure
 
 ### Rewatching
 
@@ -62,13 +62,9 @@ MAPPA • Sci-Fi
 
 OZ/NAZ • Fantasy
 
-**Cardfight!! Vanguard DivineZ DELUXE Arc**
-
-Kinema Citrus • Adventure
-
 ### Intermission
 
-**KonoSuba: God's Blessing on This Wonderful World! Season 3**
+**KonoSuba: God's Blessing on This Wonderful World!** 
 
 Drive • Fantasy
 
@@ -82,10 +78,6 @@ MADHOUSE • Comedy
 
 ### Watched
 
-**Dr. Stone: Science Future**
-
-TMS Entertainment • Adventure
-
 **Demon Lord 2099**
 
 J.C Staff • Action
@@ -93,14 +85,6 @@ J.C Staff • Action
 **Shaman King: Flowers**
 
 Studio Bridge • Action
-
-**Oshi-no-Ko Season 2**
-
-Doga Kobo • Drama
-
-**Apothecary Diaries**
-
-OLM/TOHO Animation Studio • Drama
 
 **Oshi-no-Ko**
 
@@ -112,27 +96,7 @@ OZ/NAZ • Fantasy
 
 **Shangri-La Frontier**
 
-C2c • Fantasy
-
-**Cardfight!! Vanguard OverDress**
-
-Kinema Citrus • Adventure
-
-**Cardfight!! Vanguard WillDress**
-
-Kinema Citrus • Adventure
-
-**Cardfight!! Vanguard WillDress Season 2**
-
-Kinema Citrus • Adventure
-
-**Cardfight!! Vanguard WillDress Season 3**
-
-Kinema Citrus • Adventure
-
-**Cardfight!! Vanguard DivineZ**
-
-Kinema Citrus • Adventure
+C2C • Fantasy
 
 **Mobile Suit Gundam SEED Freedom**
 
@@ -146,29 +110,13 @@ Passione • Fantasy
 
 MADHOUSE • Fantasy
 
-**Overlord**
-
-MADHOUSE • Action
-
-**Overlord II**
-
-MADHOUSE • Action
-
-**Overlord III**
-
-MADHOUSE • Action
-
 **The Elusive Samurai**
 
 CloverWorks • Adventure
 
-**Durarara!!**
+**Durarara!! (2010)**
 
-Brain's Base • Action
-
-**Durarara!! X2**
-
-Shuka • Action
+Brain's Base/Shuka • Action
 
 **Psycho-Pass**
 
@@ -282,14 +230,6 @@ ufotable • Fantasy
 
 ufotable • Fantasy
 
-**Fate/stay night: Heaven's Feel I. Presage Flower**
-
-ufotable • Fantasy
-
-**Fate/stay night: Heaven's Feel II. Lost Butterfly**
-
-ufotable • Fantasy
-
 **Fate/apocrypha**
 
 A-1 Pictures • Action
@@ -299,10 +239,6 @@ A-1 Pictures • Action
 A-1 Pictures • Action
 
 **Spy x Family**
-
-CloverWorks/Wit Studio • Action
-
-**Spy x Family Season 2**
 
 CloverWorks/Wit Studio • Action
 
@@ -338,10 +274,6 @@ Sunrise • Mecha
 
 Sunrise • Mecha
 
-**Gundam Build Fighters Try**
-
-Sunrise • Mecha
-
 **Buddy Daddies**
 
 P.A. Works • Action
@@ -350,23 +282,7 @@ P.A. Works • Action
 
 AIC A.S.T.A. • Action
 
-**Gundam Build Fighters GM's Counterattack**
-
-Sunrise • Mecha
-
-**Gundam Build Fighters TRY: Island Wars**
-
-Sunrise • Mecha
-
-**Gundam Build Fighters Battlelouge**
-
-Sunrise • Mecha
-
 **Gundam Build Divers**
-
-Sunrise • Mecha
-
-**Gundam Build Diver Re:Rise**
 
 Sunrise • Mecha
 
@@ -386,19 +302,7 @@ Sunrise • Mecha
 
 MADHOUSE • Action
 
-**Black Lagoon: The Second Barrage**
-
-MADHOUSE • Action
-
-**Black Lagoon: Roberta's Blood Trail**
-
-MADHOUSE • Action
-
 **To Your Eternity**
-
-Brain's Base • Adventure
-
-**To Your Eternity Season 2**
 
 Brain's Base • Adventure
 
@@ -411,10 +315,6 @@ White Fox • Comedy
 Shin-EL Animation/Domerica • Action
 
 **The Heroic Legend of Arslan**
-
-LIDENDILMS • Fantasy
-
-**The Heroic Legend of Arslan: Dust Storm Dance**
 
 LIDENDILMS • Fantasy
 
@@ -440,37 +340,9 @@ Trigger • Adventure
 
 **Black Butler**
 
-A-I Pictures • Action
-
-**Black Butler II**
-
-A-I Pictures • Action
-
-**Black Butler: Book of Circus**
-
-A-I Pictures • Action
-
-**Black Butler: Book of Murder**
-
-A-I Pictures • Action
-
-**Black Butler: Book of the Atlantic**
-
-A-I Pictures • Action
-
-**Black Butler: Public School Arc**
-
-CloverWorks • Action
+A-I Pictures/CloverWorks • Action
 
 **Mushoku Tensei: Jobless Reincarnation**
-
-Studio Bind • Fantasy
-
-**Mushoku Tensei: Jobless Reincarnation II**
-
-Studio Bind • Fantasy
-
-**Mushoku Tensei: Jobless Reincarnation III**
 
 Studio Bind • Fantasy
 
@@ -483,10 +355,6 @@ MAPPA • Action
 Wit Studio • Fantasy
 
 **KonoSuba: God's Blessing on This Wonderful World!**
-
-Drive • Fantasy
-
-**KonoSuba: God's Blessing on This Wonderful World! Season 2**
 
 Drive • Fantasy
 
@@ -512,6 +380,10 @@ Kuniaki Totsuka • Fantasy
 
 ### Rereading
 
+**Yu-Gi-Oh!**
+
+Kazuki Takahashi • Adventure
+
 ### Planning To Read
 
 **Soul Eater**
@@ -523,10 +395,6 @@ Ookubo Atsushi • Action
 **Cardfight!! Vanguard: YouthQuake**
 
 Quily • Action
-
-**Yu-Gi-Oh!**
-
-Kazuki Takahashi • Adventure
 
 ### Read
 
@@ -542,13 +410,13 @@ Kageyama Naoyuki/Takahashi Kazuki • Adventure
 
 CAPCOM • Nintendo 3DS • Visual Novel • 2+
 
-**Yu-Gi-Oh! Master Duel**
+[Yu-Gi-Oh! Master Duel](Games%2FYu-Gi-Oh!%20Master%20Duel.md)
 
 Konami • Nintendo Switch • Card Game • 50+ 
 
 ### Replaying
 
-**Pokémon Legends: Arceus**
+[Pokémon LEGENDS: Arceus](Games%2FPok%C3%A9mon%20LEGENDS%3A%20Arceus.md)
 
 Game Freak • Nintendo 3DS • RPG • 100+
 
@@ -736,14 +604,9 @@ Intelligent Systems • Nintendo Switch • RPG • 40+
 
 CAPCOM • Nintendo 3DS • Visual Novel • 80+
 
-**Pokémon Ultra Sun**
-
-Game Freak • Nintendo 3DS • RPG • 300+
-
 **Pokémon Shield**
 
 Game Freak • Nintendo 3DS • RPG • 350+
 
-**Pokémon Legends: Arceus**
 
-Game Freak • Nintendo 3DS • RPG • 100+
+
