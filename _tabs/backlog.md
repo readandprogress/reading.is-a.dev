@@ -26,10 +26,6 @@ TMS Entertainment • Action
 
 C2C • Fantasy
 
-**Mobile Fighter G Gundam**
-
-Sunrise • Mecha
-
 **Summertime Rendering**
 
 OLM • Action
@@ -52,13 +48,17 @@ Kinema Citrus • Adventure
 
 ### Rewatching
 
+**Mobile Fighter G Gundam**
+
+Sunrise • Mecha
+
 ### Planning To Watch
 
 **Lazarus**
 
 MAPPA • Sci-Fi
 
-**Sabiki Bisco Season 2**
+**Sabiki Bisco**
 
 OZ/NAZ • Fantasy
 
@@ -89,14 +89,6 @@ Studio Bridge • Action
 **Oshi-no-Ko**
 
 Doga Kobo • Drama
-
-**Sabiki Bisco**
-
-OZ/NAZ • Fantasy
-
-**Shangri-La Frontier**
-
-C2C • Fantasy
 
 **Mobile Suit Gundam SEED Freedom**
 
@@ -353,10 +345,6 @@ MAPPA • Action
 **The Grimm Variations**
 
 Wit Studio • Fantasy
-
-**KonoSuba: God's Blessing on This Wonderful World!**
-
-Drive • Fantasy
 
 ## Manga
 
