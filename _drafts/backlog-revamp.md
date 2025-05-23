@@ -23,15 +23,15 @@ Since the backlog itself is done all I'm doing is creating a page for each entry
 
 As you can see in this page, I have the name of the game as the title and I use key art from the game as a header image.
 
-At the right side is the cover art of the game and on the left you have more more information in key points followed by a summary and screenshots of the game. Then lastly the notes. 
+I added more information about it in the frontmatter and created a custom layout to display the extra frontmatter on the page. Followed by a summary an then lastly the notes.
 
-Here's another example but for a anime instead. The layout is almost identical except I decided for anime to have the cover art on the left side.
+Here's another example but for a anime instead. The layout is identical except the frontmatter.
 
-I used Chirpy's special markdown syntaz to alig the cover art to the left or right, and some HTML for the carousle of screenshot images. Everything else is plain markdown.
+I use some HTML for the carousle of screenshot images. Everything else is plain markdown.
 
 ## Linking the New Pages to the Main Backlog Page
 
-Now all that's remaining to do is linking the new created page to it's dedicated entries in the main backlog page. 
+Now all that's remaining to do is linking the new created page to it's dedicated entries in the main backlog page.
 
 I use relative links.
 
@@ -42,8 +42,8 @@ and voila!
 
 Cliking on a entry opens is repectful page. This is the only way to reach these pages. Keeping the side nav bar tidy,
 
-## What's Next? 
+## What's Next?
 
-Like I said I'm still working on these, but I already have more things I like to add like linking the games etc to their official pages for easier shopping and adding a see also section to link articles or posts that mention it. 
+Like I said I'm still working on these, but I already have more things I like to add like linking the games, anime etc to their official pages for those of you who are curios who want to know more and adding a see also section to link articles or posts that mention it.
 
-For now I hope this was helpful if your thinking of doing something similar. If you checked my backlog page you may have noticed that I've been watching Mobile Suit Gundam GquuuuX and I've been enjoying it greatly! Currently taking notes and I plan on writing a post about next month. Stay tuned! 
+For now I hope this was helpful if your thinking of doing something similar. If you checked my backlog page you may have noticed that I've been watching Mobile Suit Gundam GquuuuX and I've been enjoying it greatly! Currently taking notes and I plan on writing a post about it next month. Stay tuned!
