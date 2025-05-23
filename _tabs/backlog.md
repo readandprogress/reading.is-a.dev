@@ -38,7 +38,7 @@ OLM ⋅ Adventure
 
 OLM/TOHO Animation Studio ⋅ Drama
 
-**Mobile Suit Gundam GQuuuuuuX**
+[Mobile Suit Gundam GQuuuuuuX]({% link _pages/backlog/mobile-suit-gundam-gquuuuuux.md %}) 
 
 Studio Khara x Sunrise ⋅ Mecha
 
@@ -486,7 +486,7 @@ Game Freak ⋅ Nintendo 3DS ⋅ RPG
 
 CAPCOM ⋅ Nintendo Switch ⋅ Hack and slash
 
-[Fire Emblem Engage](Games%2FFire%20Emblem%20Engage.md)
+[Fire Emblem Engage]([**Fi{% link _pages/backlog/fire-emblem-engage.md %})
 
 Intelligent Systems ⋅ Nintendo Switch ⋅ RPG
 
