@@ -12,339 +12,339 @@ toc: true
 
 [Fate/stay night: Heaven's Feel Collection](Anime%2FFate%20stay%20night%3A%20Heaven's%20Feel%20Collection.md)
 
-ufotable ⚺ Fantasy
+ufotable ⋅ Fantasy
 
 **Overlord**
 
-MADHOUSE ⚺ Action
+MADHOUSE ⋅ Action
 
 **SAKAMOTO DAYS**
 
-TMS Entertainment ⚺ Action
+TMS Entertainment ⋅ Action
 
 **Shangri-La Frontier** 
 
-C2C ⚺ Fantasy
+C2C ⋅ Fantasy
 
 **Summertime Rendering**
 
-OLM ⚺ Action
+OLM ⋅ Action
 
 **Pokémon Horizons: The Series**
 
-OLM ⚺ Adventure
+OLM ⋅ Adventure
 
 **Apothecary Diaries**
 
-OLM/TOHO Animation Studio ⚺ Drama
+OLM/TOHO Animation Studio ⋅ Drama
 
 **Mobile Suit Gundam GQuuuuuuX**
 
-Studio Khara x Sunrise ⚺ Mecha
+Studio Khara x Sunrise ⋅ Mecha
 
 **Cardfight!! Vanguard OverDress (2021)**
 
-Kinema Citrus ⚺ Adventure
+Kinema Citrus ⋅ Adventure
 
 ### Rewatching
 
 **Mobile Fighter G Gundam**
 
-Sunrise ⚺ Mecha
+Sunrise ⋅ Mecha
 
 ### Planning To Watch
 
 **Lazarus**
 
-MAPPA ⚺ Sci-Fi
+MAPPA ⋅ Sci-Fi
 
 **Sabiki Bisco**
 
-OZ/NAZ ⚺ Fantasy
+OZ/NAZ ⋅ Fantasy
 
 ### Intermission
 
 **KonoSuba: God's Blessing on This Wonderful World!** 
 
-Drive ⚺ Fantasy
+Drive ⋅ Fantasy
 
 **KonoSuba: An Explosion on This Wonderful World!**
 
-Drive ⚺ Fantasy
+Drive ⋅ Fantasy
 
 **The Vampire Dies in No Time**
 
-MADHOUSE ⚺ Comedy
+MADHOUSE ⋅ Comedy
 
 ### Watched
 
 **Demon Lord 2099**
 
-J.C Staff ⚺ Action
+J.C Staff ⋅ Action
 
 **Shaman King: Flowers**
 
-Studio Bridge ⚺ Action
+Studio Bridge ⋅ Action
 
 **Oshi-no-Ko**
 
-Doga Kobo ⚺ Drama
+Doga Kobo ⋅ Drama
 
 **Mobile Suit Gundam SEED Freedom**
 
-Sunrise ⚺ Mecha
+Sunrise ⋅ Mecha
 
 **Spice and Wolf: MERCHANT MEETS THE WISE WOLF**
 
-Passione ⚺ Fantasy
+Passione ⋅ Fantasy
 
 **Frieren: Beyond Journey's End**
 
-MADHOUSE ⚺ Fantasy
+MADHOUSE ⋅ Fantasy
 
 **The Elusive Samurai**
 
-CloverWorks ⚺ Adventure
+CloverWorks ⋅ Adventure
 
 **Durarara!! (2010)**
 
-Brain's Base/Shuka ⚺ Action
+Brain's Base/Shuka ⋅ Action
 
 **Psycho-Pass**
 
-Production I.G ⚺ Action
+Production I.G ⋅ Action
 
 **Death Parade**
 
-MADHOUSE ⚺ Drama
+MADHOUSE ⋅ Drama
 
 **Ouran High School Host Club**
 
-bones ⚺ Comedy
+bones ⋅ Comedy
 
 **No Game, No Life**
 
-MADHOUSE ⚺ Fantasy
+MADHOUSE ⋅ Fantasy
 
 **Selector Infected WIXOSS**
 
-J.C Staff ⚺ Drama
+J.C Staff ⋅ Drama
 
 **Steins;Gate**
 
-White Fox ⚺ Drama
+White Fox ⋅ Drama
 
 **Steins;Gate 0**
 
-White Fox ⚺ Drama
+White Fox ⋅ Drama
 
 **Shaman King (2021)**
 
-Studio Bridge ⚺ Action
+Studio Bridge ⋅ Action
 
 **Cells At Work!**
 
-David Production ⚺ Comedy
+David Production ⋅ Comedy
 
 **Cells At Work! Code Black**
 
-LIDENFILMS ⚺ Comedy
+LIDENFILMS ⋅ Comedy
 
 **Darling in the Franxx**
 
-Trigger/CloverWorks ⚺ Mecha
+Trigger/CloverWorks ⋅ Mecha
 
 **Yu-Gi-Oh! VRAINS**
 
-Studio Gallop ⚺ Action
+Studio Gallop ⋅ Action
 
 **Cardcaptor Sakura**
 
-MADHOUSE ⚺ Fantasy
+MADHOUSE ⋅ Fantasy
 
 **Fullmetal Alchemist**
 
-bones ⚺ Fantasy
+bones ⋅ Fantasy
 
 **Re:Zero**
 
-White Fox ⚺ Fantasy
+White Fox ⋅ Fantasy
 
 **Digimon Ghost Game**
 
-Toei Animation ⚺ Adventure
+Toei Animation ⋅ Adventure
 
 **Little Witch Academia**
 
-Trigger ⚺ Fantasy
+Trigger ⋅ Fantasy
 
 **Komi Can't Communicate**
 
-OLM ⚺ Comedy
+OLM ⋅ Comedy
 
 **Lord El-Melloi II's Case Files: Rail Zeppelin Grace Note**
 
-TROYCA ⚺ Fantasy
+TROYCA ⋅ Fantasy
 
 **takt op.Destiny**
 
-MADHOUSE/MAPPA ⚺ Action
+MADHOUSE/MAPPA ⋅ Action
 
 **Soul Eater**
 
-bones ⚺ Action
+bones ⋅ Action
 
 **Anohana: The Flower We Saw That Day**
 
-A-I Pictures ⚺ Drama
+A-I Pictures ⋅ Drama
 
 **Fullmetal Alchemist: Brotherhood**
 
-bones ⚺ Fantasy
+bones ⋅ Fantasy
 
 **Demon Slayer: Kimetsu no Yaiba**
 
-ufotable ⚺ Fantasy
+ufotable ⋅ Fantasy
 
 **Record of Grancrest War**
 
-A-1 Pictures ⚺ Fantasy
+A-1 Pictures ⋅ Fantasy
 
 **Dr. Stone**
 
-TMS Entertainment ⚺ Adventure
+TMS Entertainment ⋅ Adventure
 
 **Fate/Zero**
 
-ufotable ⚺ Fantasy
+ufotable ⋅ Fantasy
 
 **Fate/stay night: Unlimited Blade Works**
 
-ufotable ⚺ Fantasy
+ufotable ⋅ Fantasy
 
 **Fate/apocrypha**
 
-A-1 Pictures ⚺ Action
+A-1 Pictures ⋅ Action
 
 **Fate/strange fake: Whispers of Dawn**
 
-A-1 Pictures ⚺ Action
+A-1 Pictures ⋅ Action
 
 **Spy x Family**
 
-CloverWorks/Wit Studio ⚺ Action
+CloverWorks/Wit Studio ⋅ Action
 
 **Your Lie in April**
 
-A-1 Pictures ⚺ Drama
+A-1 Pictures ⋅ Drama
 
 **Mobile Suit Gundam (1979)**
 
-Sunrise ⚺ Mecha
+Sunrise ⋅ Mecha
 
 **Mobile Suit Zeta Gundam**
 
-Sunrise ⚺ Mecha
+Sunrise ⋅ Mecha
 
 **Mobile Suit ZZ Gundam**
 
-Sunrise ⚺ Mecha
+Sunrise ⋅ Mecha
 
 **Mobile Suit Gundam: Char's Counterattack**
 
-Sunrise ⚺ Mecha
+Sunrise ⋅ Mecha
 
 **Mobile Suit Gundam: The Origin**
 
-Sunrise ⚺ Mecha
+Sunrise ⋅ Mecha
 
 **Mobile Suit Gundam Unicorn**
 
-Sunrise ⚺ Mecha
+Sunrise ⋅ Mecha
 
 **Gundam Build Fighters**
 
-Sunrise ⚺ Mecha
+Sunrise ⋅ Mecha
 
 **Buddy Daddies**
 
-P.A. Works ⚺ Action
+P.A. Works ⋅ Action
 
 **Persona 4: The Animation**
 
-AIC A.S.T.A. ⚺ Action
+AIC A.S.T.A. ⋅ Action
 
 **Gundam Build Divers**
 
-Sunrise ⚺ Mecha
+Sunrise ⋅ Mecha
 
 **Gundam Build Metaverse**
 
-Sunrise ⚺ Mecha
+Sunrise ⋅ Mecha
 
 **Mobile Suit Gundam 00**
 
-Sunrise ⚺ Mecha
+Sunrise ⋅ Mecha
 
 **Mobile Suit Gundam: The Witch from Mercury**
 
-Sunrise ⚺ Mecha
+Sunrise ⋅ Mecha
 
 **Black Lagoon**
 
-MADHOUSE ⚺ Action
+MADHOUSE ⋅ Action
 
 **To Your Eternity**
 
-Brain's Base ⚺ Adventure
+Brain's Base ⋅ Adventure
 
 **The Devil is a Part Timer!**
 
-White Fox ⚺ Comedy
+White Fox ⋅ Comedy
 
 **The World Ends with You The Animation**
 
-Shin-EL Animation/Domerica ⚺ Action
+Shin-EL Animation/Domerica ⋅ Action
 
 **The Heroic Legend of Arslan**
 
-LIDENDILMS ⚺ Fantasy
+LIDENDILMS ⋅ Fantasy
 
 **The Case Study of Vanitas**
 
-bones ⚺ Fantasy
+bones ⋅ Fantasy
 
 **Pokémon: Paldean Winds**
 
-Wit Studio ⚺ Fantasy
+Wit Studio ⋅ Fantasy
 
 **Digimon Adventure: Last Evolution Kizuna**
 
-Toei Animation ⚺ Adventure
+Toei Animation ⋅ Adventure
 
 **Persona 5: The Animation**
 
-CloverWorks ⚺ Action
+CloverWorks ⋅ Action
 
 **Delicious in Dungeon**
 
-Trigger ⚺ Adventure
+Trigger ⋅ Adventure
 
 **Black Butler**
 
-A-I Pictures/CloverWorks ⚺ Action
+A-I Pictures/CloverWorks ⋅ Action
 
 **Mushoku Tensei: Jobless Reincarnation**
 
-Studio Bind ⚺ Fantasy
+Studio Bind ⋅ Fantasy
 
 **Hell's Paradise**
 
-MAPPA ⚺ Action
+MAPPA ⋅ Action
 
 **The Grimm Variations**
 
-Wit Studio ⚺ Fantasy
+Wit Studio ⋅ Fantasy
 
 ## Manga
 
@@ -352,43 +352,43 @@ Wit Studio ⚺ Fantasy
 
 **Moriarty the Patriot**
 
-Takeuchi Ryousuke/Miyoshi Hikaru ⚺ Mystery
+Takeuchi Ryousuke/Miyoshi Hikaru ⋅ Mystery
 
 **Moriarty the Patriot: The Remains**
 
-Saita Yosuke/Miyoshi Hikaru ⚺ Mystery
+Saita Yosuke/Miyoshi Hikaru ⋅ Mystery
 
 **Fire Emblem Engage**
 
-Kazuro Kyou ⚺ Fantasy
+Kazuro Kyou ⋅ Fantasy
 
 **Digimon Liberator**
 
-Kuniaki Totsuka ⚺ Fantasy
+Kuniaki Totsuka ⋅ Fantasy
 
 ### Rereading
 
 **Yu-Gi-Oh!**
 
-Takahashi Kazuki ∎ Adventure
+Takahashi Kazuki ⋅ Adventure
 
 ### Planning To Read
 
 **Soul Eater**
 
-Ookubo Atsushi ∎ Action
+Ookubo Atsushi ⋅ Action
 
 ### On Hold
 
 **Cardfight!! Vanguard: YouthQuake**
 
-Quily ∎ Action
+Quily ⋅ Action
 
 ### Read
 
 **Yu-Gi-Oh! GX**
 
-Kageyama Naoyuki/Takahashi Kazuki ∎ Adventure
+Kageyama Naoyuki/Takahashi Kazuki ⋅ Adventure
 
 ## Games
 
@@ -396,205 +396,205 @@ Kageyama Naoyuki/Takahashi Kazuki ∎ Adventure
 
 **Apollo Justice: Ace Attorney**
 
-CAPCOM ⚅ Nintendo 3DS ⚅ Visual Novel 
+CAPCOM ⋅ Nintendo 3DS ⋅ Visual Novel 
 
 [Yu-Gi-Oh! Master Duel](Games%2FYu-Gi-Oh!%20Master%20Duel.md)
 
-Konami ⚅ Nintendo Switch ⚅ Card Game
+Konami ⋅ Nintendo Switch ⋅ Card Game
 
 ### Replaying
 
 [Pokémon LEGENDS: Arceus](Games%2FPok%C3%A9mon%20LEGENDS%3A%20Arceus.md)
 
-Game Freak ⚅ Nintendo 3DS ⚅ RPG ⚅ 
+Game Freak ⋅ Nintendo 3DS ⋅ RPG ⋅ 
 
 **Fire Emblem Fates: Conquest**
 
-Intelligent Systems ⚅ Nintendo 3DS ⚅ RPG ⚅ 
+Intelligent Systems ⋅ Nintendo 3DS ⋅ RPG ⋅ 
 
 ### Planning To Play
 
 **Pokémon Trading Card Game GB**
 
-Hudson Soft ⚅ Nintendo 3DS ⚅ RPG ⚅ 
+Hudson Soft ⋅ Nintendo 3DS ⋅ RPG ⋅ 
 
 **Metroid**
 
-Nintendo R&D1 ⚅ Nintendo 3DS ⚅ Adventure 
+Nintendo R&D1 ⋅ Nintendo 3DS ⋅ Adventure 
 
 **Metroid II: Return of Samus**
 
-Nintendo R&D1 ⚅ Nintendo 3DS ⚅ Adventure 
+Nintendo R&D1 ⋅ Nintendo 3DS ⋅ Adventure 
 
 **Ace Attorney: Dual Destinies**
 
-CAPCOM ⚅ Nintendo 3DS ⚅ Visual Novel 
+CAPCOM ⋅ Nintendo 3DS ⋅ Visual Novel 
 
 **Ace Attorney: Spirit of Justice**
 
-CAPCOM ⚅ Nintendo 3DS ⚅ Visual Novel 
+CAPCOM ⋅ Nintendo 3DS ⋅ Visual Novel 
 
 **Pokémon Yellow Version: Special Pikachu Edition**
 
-Game Freak ⚅ Nintendo 3DS ⚅ RPG 
+Game Freak ⋅ Nintendo 3DS ⋅ RPG 
 
 ### Paused
 
 **AI: The Somnium Files**
 
-Spike Chunsoft ⚅ Nintendo Switch ⚅ Visual Novel 
+Spike Chunsoft ⋅ Nintendo Switch ⋅ Visual Novel 
 
 **Megaman Battle Network Legacy Collection**
 
-CAPCOM ⚅ Nintendo Switch ⚅ RPG
+CAPCOM ⋅ Nintendo Switch ⋅ RPG
 
 **Grand Theft Auto: Vice City Stories**
 
-Rockstar Leeds ⚅ Playstation Portable ⚅ Racing 
+Rockstar Leeds ⋅ Playstation Portable ⋅ Racing 
 
 **Crystaline**
 
-PixelFade ⚅ Android ⚅ Visual Novel 
+PixelFade ⋅ Android ⋅ Visual Novel 
 
 ### Played
 
 **Downwell**
 
-Moppin ⚅ Nintendo Switch ⚅ Shooter
+Moppin ⋅ Nintendo Switch ⋅ Shooter
 
 **Super Mario Land 2: 6 Golden Coins**
 
-Nintendo R&D 1 ⚅ Nintendo Switch Online ⚅ Platformer  
+Nintendo R&D 1 ⋅ Nintendo Switch Online ⋅ Platformer  
 
 **.hack//G.U. Last Recode**
 
-CyberConnect2 ⚅ Nintendo Switch ⚅ RPG ⚅ 110+
+CyberConnect2 ⋅ Nintendo Switch ⋅ RPG ⋅ 110+
 
 **Super Mario Land**
 
-Nintendo R&D 1 ⚅ Nintendo Switch Online ⚅ Platformer
+Nintendo R&D 1 ⋅ Nintendo Switch Online ⋅ Platformer
 
 **SuperHot**
 
-SUPERHOT Team ⚅ Nintendo Switch ⚅ Shooter 
+SUPERHOT Team ⋅ Nintendo Switch ⋅ Shooter 
 
 **Pokémon Omega Ruby**
 
-Game Freak ⚅ Nintendo 3DS ⚅ RPG 
+Game Freak ⋅ Nintendo 3DS ⋅ RPG 
 
 **Devil May Cry**
 
-CAPCOM ⚅ Nintendo Switch ⚅ Hack and slash
+CAPCOM ⋅ Nintendo Switch ⋅ Hack and slash
 
 [Fire Emblem Engage](Games%2FFire%20Emblem%20Engage.md)
 
-Intelligent Systems ⚅ Nintendo Switch ⚅ RPG
+Intelligent Systems ⋅ Nintendo Switch ⋅ RPG
 
 **Fire Emblem: Three Houses**
 
-Intelligent Systems ⚅ Nintendo Switch ⚅ RPG 
+Intelligent Systems ⋅ Nintendo Switch ⋅ RPG 
 
 **Star Ocean: The Second Story R**
 
-Gemdrops ⚅ Nintendo Switch ⚅ RPG 
+Gemdrops ⋅ Nintendo Switch ⋅ RPG 
 
 **Danganronpa: Trigger Happy Havoc - Anniversary Edition**
 
-Spike Chunsoft ⚅ Nintendo Switch ⚅ Visual Novel 
+Spike Chunsoft ⋅ Nintendo Switch ⋅ Visual Novel 
 
 **Mighty Gunvolt**
 
-Inti Creates ⚅ Nintendo 3DS ⚅ Platform 
+Inti Creates ⋅ Nintendo 3DS ⋅ Platform 
 
 **Bloodstained: Curse of The Moon**
 
-Inti Creates ⚅ Nintendo 3DS ⚅ Adventure
+Inti Creates ⋅ Nintendo 3DS ⋅ Adventure
 
 **Golden Axe**
 
-Team Shinobi ⚅ Sega Genesis/Mega Drive ⚅ Beat 'em up
+Team Shinobi ⋅ Sega Genesis/Mega Drive ⋅ Beat 'em up
 
 **Pokémon Puzzle Challenge**
 
-Intelligent Systems ⚅ Nintendo 3DS ⚅ Puzzle
+Intelligent Systems ⋅ Nintendo 3DS ⋅ Puzzle
 
 **Fire Emblem Awakening**
 
-Intelligent Systems ⚅ Nintendo 3DS ⚅ RPG 
+Intelligent Systems ⋅ Nintendo 3DS ⋅ RPG 
 
 **Fire Emblem Echoes: Shadows of Valentia**
 
-Intelligent Systems ⚅ Nintendo 3DS ⚅ RPG 
+Intelligent Systems ⋅ Nintendo 3DS ⋅ RPG 
 
 **Valkyria Chronicles Remastered**
 
-Media.Vision ⚅ Nintendo Switch ⚅ RPG 
+Media.Vision ⋅ Nintendo Switch ⋅ RPG 
 
 **Valkyria Chronicles 4**
 
-Media.Vision ⚅ Nintendo Switch ⚅ RPG
+Media.Vision ⋅ Nintendo Switch ⋅ RPG
 
 **NEO: The World Ends with You**
 
-SquareEnix ⚅ Nintendo Switch ⚅ RPG
+SquareEnix ⋅ Nintendo Switch ⋅ RPG
 
 **Pokémon Red Version**
 
-Game Freak ⚅ Nintendo 3DS ⚅ RPG
+Game Freak ⋅ Nintendo 3DS ⋅ RPG
 
 **Pokémon Silver Version**
 
-Game Freak ⚅ Nintendo 3DS ⚅ RPG 
+Game Freak ⋅ Nintendo 3DS ⋅ RPG 
 
 **Pokémon Crystal Version**
 
-Game Freak ⚅ Nintendo 3DS ⚅ RPG 
+Game Freak ⋅ Nintendo 3DS ⋅ RPG 
 
 **Pokémon Diamond Version**
 
-Game Freak ⚅ Nintendo DS ⚅ RPG 
+Game Freak ⋅ Nintendo DS ⋅ RPG 
 
 **Pokémon White Version**
 
-Game Freak ⚅ Nintendo DS ⚅ RPG 
+Game Freak ⋅ Nintendo DS ⋅ RPG 
 
 **Pokémon Y**
 
-Game Freak ⚅ Nintendo 3DS ⚅ RPG 
+Game Freak ⋅ Nintendo 3DS ⋅ RPG 
 
 **Ace Academy**
 
-PixelFade ⚅ Android Game Freak ⚅ Visual Novel 
+PixelFade ⋅ Android Game Freak ⋅ Visual Novel 
 
 **Kaori After Story**
 
-PixelFade ⚅ Android Game Freak ⚅ Visual Novel 
+PixelFade ⋅ Android Game Freak ⋅ Visual Novel 
 
 ### Completed
 
 **Pokémon Ultra Sun**
 
-Game Freak ⚅ Nintendo 3DS ⚅ RPG 
+Game Freak ⋅ Nintendo 3DS ⋅ RPG 
 
 **Thomas Was Alone**
 
-Bithell Games ⚅ Nintendo Switch ⚅ Puzzle 
+Bithell Games ⋅ Nintendo Switch ⋅ Puzzle 
 
 **Choice of Robots**
 
-Choice of Games, LLC ⚅ Android ⚅ RPG 
+Choice of Games, LLC ⋅ Android ⋅ RPG 
 
 **Fire Emblem: Shadow Dragon and the Blade of Light**
 
-Intelligent Systems ⚅ Nintendo Switch ⚅ RPG 
+Intelligent Systems ⋅ Nintendo Switch ⋅ RPG 
 
 **Phoenix Wright: Ace Attorney Trilogy**
 
-CAPCOM ⚅ Nintendo 3DS ⚅ Visual Novel 
+CAPCOM ⋅ Nintendo 3DS ⋅ Visual Novel 
 
 **Pokémon Shield**
 
-Game Freak ⚅ Nintendo 3DS ⚅ RPG 
+Game Freak ⋅ Nintendo 3DS ⋅ RPG 
 
 
 
