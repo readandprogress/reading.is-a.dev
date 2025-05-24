@@ -11,7 +11,8 @@ status: Watching
 tags: [ mecha, anime, gundam ]
 toc: true
 image: /assets/images/backlog/mobile-suit-gundam-gquuuux.webp
-permalink: /mobile-suit-gundam-gquuuuuux/
+permalink: /backlog/mobile-suit-gundam-gquuuuuux/
+published: false 
 ---
 
 ## Overview
