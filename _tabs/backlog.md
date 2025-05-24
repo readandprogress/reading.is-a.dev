@@ -10,7 +10,7 @@ toc: true
 
 ### Watching
 
-[Fate/stay night: Heaven's Feel Collection](Anime%2FFate%20stay%20night%3A%20Heaven's%20Feel%20Collection.md)
+**Fate/stay night: Heaven's Feel Collection**
 
 ufotable ⋅ Fantasy
 
@@ -38,7 +38,7 @@ OLM ⋅ Adventure
 
 OLM/TOHO Animation Studio ⋅ Drama
 
-[Mobile Suit Gundam GQuuuuuuX]({% link _pages/backlog/mobile-suit-gundam-gquuuuuux.md %}) 
+[**Mobile Suit Gundam GQuuuuuuX**](/_pages/backlog/mobile-suit-gundam-gquuuuuux.md)
 
 Studio Khara x Sunrise ⋅ Mecha
 
@@ -398,13 +398,13 @@ Kageyama Naoyuki/Takahashi Kazuki ⋅ Adventure
 
 CAPCOM ⋅ Nintendo 3DS ⋅ Visual Novel 
 
-[Yu-Gi-Oh! Master Duel](Games%2FYu-Gi-Oh!%20Master%20Duel.md)
+**Yu-Gi-Oh! Master Duel**
 
 Konami ⋅ Nintendo Switch ⋅ Card Game
 
 ### Replaying
 
-[Pokémon LEGENDS: Arceus](Games%2FPok%C3%A9mon%20LEGENDS%3A%20Arceus.md)
+**Pokémon LEGENDS: Arceus**
 
 Game Freak ⋅ Nintendo 3DS ⋅ RPG ⋅ 
 
@@ -486,7 +486,7 @@ Game Freak ⋅ Nintendo 3DS ⋅ RPG
 
 CAPCOM ⋅ Nintendo Switch ⋅ Hack and slash
 
-[Fire Emblem Engage]([**Fi{% link _pages/backlog/fire-emblem-engage.md %})
+[**Fire Emblem Engage**](/_pages/backlog/fire-emblem-engage.md)
 
 Intelligent Systems ⋅ Nintendo Switch ⋅ RPG
 
@@ -595,6 +595,3 @@ CAPCOM ⋅ Nintendo 3DS ⋅ Visual Novel
 **Pokémon Shield**
 
 Game Freak ⋅ Nintendo 3DS ⋅ RPG 
-
-
-
