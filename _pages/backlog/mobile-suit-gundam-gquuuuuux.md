@@ -1,11 +1,12 @@
 ---
 title: Mobile Suit Gundam GQuuuuuuX
 date: 2025-05-19 18:16:00 -0500
+layout: page
 author: Reading
 genre: Mecha
 studio: Studio Khara, Sunrise
 release_year: 2025 
-episodes: ??
+episodes: 12
 status: Watching
 tags: [ mecha, anime, gundam ]
 toc: true
