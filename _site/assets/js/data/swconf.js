@@ -1,8 +1,10 @@
 const swconf = {
   
-    cacheName: 'chirpy-1742774188',resources: [
+    cacheName: 'chirpy-1748210033',resources: [
       '/assets/css/jekyll-theme-chirpy.css',
       '/',
+      
+        '/media/anime/mobile-suit-gundam-gquuuux/',
       
         '/categories/',
       

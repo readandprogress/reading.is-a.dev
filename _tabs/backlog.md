@@ -38,7 +38,7 @@ OLM ⋅ Adventure
 
 OLM/TOHO Animation Studio ⋅ Drama
 
-**Mobile Suit Gundam GQuuuuuuX** 
+[**Mobile Suit Gundam GQuuuuuuX**]({{ site.baseurl }}/media/anime/mobile-suit-gundam-gquuuux/)
 
 Studio Khara x Sunrise ⋅ Mecha
 

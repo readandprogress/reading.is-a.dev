@@ -123,6 +123,20 @@ kramdown:
       line_numbers: true
       start_line: 1
 
+
+# Navigation links
+nav:
+  - title: Home
+    url: /
+  - title: Categories
+    url: /categories/
+  - title: Archives
+    url: /archives/
+  - title: Backlog
+    url: /backlog/
+  - title: About
+    url: /about/
+
 collections:
   tabs:
     output: true

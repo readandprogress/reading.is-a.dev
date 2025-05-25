@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>The Reading Dimension</title>
   <subtitle>Welcome to my own little corner of the web! Here, I muse about a variety of topics, mostly tech-related, but I also dabble in others like anime, manga, writing, and gaming as well! (•‿•)</subtitle>
-  <updated>2025-03-23T19:56:26-04:00</updated>
+  <updated>2025-05-25T17:53:53-04:00</updated>
   <author>
     <name>Reading</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Taking Inkdown for a Spin!</title>
+    <link href="http://localhost:4000/taking-inkdown-for-a-spin/" rel="alternate" type="text/html" title="Taking Inkdown for a Spin!" />
+    <published>2025-04-10T19:00:00-04:00</published>
+  
+    <updated>2025-04-15T18:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/taking-inkdown-for-a-spin/</id>
+    <content type="text/html" src="http://localhost:4000/taking-inkdown-for-a-spin/" />
+    <author>
+      <name>Reading</name>
+    </author>
+
+  
+    
+    <category term="Tech" />
+    
+  
+
+  <summary>As I said back in an earlier post, I decided to go back to Markdown for all my notes. I use VS Code as my Markdown editor of choice for writing these posts and taking notes, but I recently learned about a new Markdown notetaking app that caught my interest, so I’ve decided to take it for a spin!
+
+The app is called Inkdown and is by far the best Markdown notetaking app I have the pleasure of usi...</summary>
+
+  </entry>
 
   
   <entry>
@@ -48,7 +74,7 @@
     <link href="http://localhost:4000/what-i-learned-from-org-mode-and-why-I-returned-to-markdown/" rel="alternate" type="text/html" title="What I Learned From Org-Mode and Why I Returned to Markdown." />
     <published>2025-02-28T18:00:00-05:00</published>
   
-    <updated>2025-02-28T18:12:02-05:00</updated>
+    <updated>2025-03-25T20:31:00-04:00</updated>
   
     <id>http://localhost:4000/what-i-learned-from-org-mode-and-why-I-returned-to-markdown/</id>
     <content type="text/html" src="http://localhost:4000/what-i-learned-from-org-mode-and-why-I-returned-to-markdown/" />
@@ -72,7 +98,7 @@
     <link href="http://localhost:4000/my-device-naming-scheme/" rel="alternate" type="text/html" title="My Device Naming Scheme" />
     <published>2025-01-21T19:00:00-05:00</published>
   
-    <updated>2025-01-21T19:00:00-05:00</updated>
+    <updated>2025-03-25T20:25:00-04:00</updated>
   
     <id>http://localhost:4000/my-device-naming-scheme/</id>
     <content type="text/html" src="http://localhost:4000/my-device-naming-scheme/" />
@@ -96,7 +122,7 @@
     <link href="http://localhost:4000/moving-over-to-jekyll-chirpy/" rel="alternate" type="text/html" title="Finally Moved Over To Jekyll Chirpy!" />
     <published>2024-12-23T18:00:00-05:00</published>
   
-    <updated>2024-12-23T18:00:00-05:00</updated>
+    <updated>2025-03-25T20:21:00-04:00</updated>
   
     <id>http://localhost:4000/moving-over-to-jekyll-chirpy/</id>
     <content type="text/html" src="http://localhost:4000/moving-over-to-jekyll-chirpy/" />
@@ -111,30 +137,6 @@
   
 
   <summary>After much deliberation on my part and messing around with different themes, I finally decided to go with the Jekyll Chirpy theme!</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Writing Challenge: Final Review and Results</title>
-    <link href="http://localhost:4000/writing-challenge-final-review-and-results/" rel="alternate" type="text/html" title="Writing Challenge: Final Review and Results" />
-    <published>2024-10-14T16:00:00-04:00</published>
-  
-    <updated>2024-12-23T18:29:05-05:00</updated>
-  
-    <id>http://localhost:4000/writing-challenge-final-review-and-results/</id>
-    <content type="text/html" src="http://localhost:4000/writing-challenge-final-review-and-results/" />
-    <author>
-      <name>Reading</name>
-    </author>
-
-  
-    
-    <category term="Writing" />
-    
-  
-
-  <summary>Whelp, a week has passed but unfortunately due to unforeseen events with the weather, writing was far from being the most important thing in my mind these last couple of days...</summary>
 
   </entry>
 
