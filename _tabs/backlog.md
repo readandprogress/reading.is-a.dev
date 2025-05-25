@@ -38,7 +38,7 @@ OLM ⋅ Adventure
 
 OLM/TOHO Animation Studio ⋅ Drama
 
-[**Mobile Suit Gundam GQuuuuuuX**]({{ site.baseurl }}/backlog/mobile-suit-gundam-gquuuuuux/)
+**Mobile Suit Gundam GQuuuuuuX** 
 
 Studio Khara x Sunrise ⋅ Mecha
 
@@ -410,7 +410,11 @@ Game Freak ⋅ Nintendo 3DS ⋅ RPG ⋅
 
 **Fire Emblem Fates: Conquest**
 
-Intelligent Systems ⋅ Nintendo 3DS ⋅ RPG ⋅ 
+Intelligent Systems ⋅ Nintendo 3DS ⋅ RPG 
+
+**Fire Emblem Engage**
+
+Intelligent Systems ⋅ Nintendo Switch ⋅ RPG
 
 ### Planning To Play
 
@@ -485,10 +489,6 @@ Game Freak ⋅ Nintendo 3DS ⋅ RPG
 **Devil May Cry**
 
 CAPCOM ⋅ Nintendo Switch ⋅ Hack and slash
-
-[**Fire Emblem Engage**](/_pages/backlog/fire-emblem-engage.md)
-
-Intelligent Systems ⋅ Nintendo Switch ⋅ RPG
 
 **Fire Emblem: Three Houses**
 
@@ -595,3 +595,6 @@ CAPCOM ⋅ Nintendo 3DS ⋅ Visual Novel
 **Pokémon Shield**
 
 Game Freak ⋅ Nintendo 3DS ⋅ RPG 
+
+
+
