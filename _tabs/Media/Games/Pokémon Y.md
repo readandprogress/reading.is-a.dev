@@ -12,6 +12,6 @@ genre:
 status:
 toc: true
 image: 
-permalink:
+permalink: /media/games/
 order: false
 ---

@@ -14,5 +14,4 @@ toc: true
 image: 
 permalink: /media/anime/
 order: false
-
 ---

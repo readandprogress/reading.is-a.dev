@@ -13,6 +13,6 @@ status:
 tags: 
 toc: true
 image: 
-permalink:
+permalink: /media/books/manga
 order: false
 ---
