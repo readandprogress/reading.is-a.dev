@@ -2,18 +2,17 @@
 title: "Pokémon LEGENDS: Arceus"
 date: 2025-05-15 19:00:00 -0500
 layout: post
-description: The Pokémon Legends: Arceus game honors past Pokémon games’ core gameplay while infusing new action and RPG elements.
-You’ll need to catch, survey, and research wild Pokémon in a long-gone era of the Sinnoh region to create and complete the region’s first Pokédex.
+description: "The Pokémon Legends: Arceus game honors past Pokémon games’ core gameplay while infusing new action and RPG elements. You’ll need to catch, survey, and research wild Pokémon in a long-gone era of the Sinnoh region to create and complete the region’s first Pokédex."
 platform: Nintendo Switch
 publisher: Nintendo
 developer: Game Freak
 release_year: 2022
 playtime: 
-status: 
+status: Replaying
 toc: true
 image: 
 permalink: /media/games/
-order: false
+order: 0
 ---
 
 ## Sumarry
