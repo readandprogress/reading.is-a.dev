@@ -2,10 +2,10 @@
 title: Fire Emblem Engage
 date: 2025-05-18 18:44:00 -0500
 layout: post
-description: "Become the Divine Dragon and save the continent of Elyos! Summon valiant heroes like Marth & Celica alongside a new cast of characters and engage in turn-based, tactical combat against a great evil in this new Fire Emblem story.""
-platform: Nintendo Switch"
+description: "Become the Divine Dragon and save the continent of Elyos! Summon valiant heroes like Marth & Celica alongside a new cast of characters and engage in turn-based, tactical combat against a great evil in this new Fire Emblem story."
+platform: Nintendo Switch
 publisher: Nintendo
-developer: Inteligent Systems
+developer: Intelligent Systems
 release_year: 2023
 playtime: 475:00
 genre: RPG
