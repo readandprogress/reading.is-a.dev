@@ -11,7 +11,8 @@ module Jekyll
     end
 
     def process_links(content)
-      content.gsub!(/$$([^$$]+)\]$Media%2F([^)]*)\.md$/) do |match|
+      # Use gsub instead of gsub! to avoid modifying the frozen string
+      content = content.gsub(/$([^$]+)\]$Media%2F([^)]*)\.md$/) do |match|
         title = $1
         path = $2.gsub('%20', ' ').gsub('%2F', '/')
         "<a href='/_tabs/Media/#{path}/'>#{title}</a>"
