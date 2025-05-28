@@ -78,6 +78,10 @@ MADHOUSE ⋅ Comedy
 
 ### Watched
 
+**Mobile Suit Gundam 08th MS Team**
+
+Sunrise ⋅ Mecha
+
 **Demon Lord 2099**
 
 J.C Staff ⋅ Action
