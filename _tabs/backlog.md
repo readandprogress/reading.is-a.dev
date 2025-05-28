@@ -394,10 +394,6 @@ Kageyama Naoyuki/Takahashi Kazuki ⋅ Adventure
 
 ### Playing
 
-**Apollo Justice: Ace Attorney**
-
-CAPCOM ⋅ Nintendo 3DS ⋅ Visual Novel 
-
 **Yu-Gi-Oh! Master Duel**
 
 Konami ⋅ Nintendo Switch ⋅ Card Game
@@ -459,6 +455,10 @@ Rockstar Leeds ⋅ Playstation Portable ⋅ Racing
 **Crystaline**
 
 PixelFade ⋅ Android ⋅ Visual Novel 
+
+**Apollo Justice: Ace Attorney**
+
+CAPCOM ⋅ Nintendo 3DS ⋅ Visual Novel 
 
 ### Played
 
@@ -570,6 +570,10 @@ PixelFade ⋅ Android Game Freak ⋅ Visual Novel
 
 PixelFade ⋅ Android Game Freak ⋅ Visual Novel 
 
+**Mecha Ace**
+
+Choice of Games, LLC ⋅ Android ⋅ RPG
+
 ### Completed
 
 **Pokémon Ultra Sun**
@@ -596,5 +600,7 @@ CAPCOM ⋅ Nintendo 3DS ⋅ Visual Novel
 
 Game Freak ⋅ Nintendo 3DS ⋅ RPG 
 
+**Choice of the Deathless**
 
+Choice of Games, LLC ⋅ Android ⋅ RPG
 
