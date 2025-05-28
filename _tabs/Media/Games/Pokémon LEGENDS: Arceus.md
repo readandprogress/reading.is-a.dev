@@ -1,5 +1,5 @@
 ---
-title: Pokémon LEGENDS: Arceus
+title: "Pokémon LEGENDS: Arceus"
 date: 2025-05-15 19:00:00 -0500
 layout: post
 description: The Pokémon Legends: Arceus game honors past Pokémon games’ core gameplay while infusing new action and RPG elements.
