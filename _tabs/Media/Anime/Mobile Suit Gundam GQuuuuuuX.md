@@ -76,3 +76,10 @@ license: The images used in this page are owned by their respective copyright ow
 -  In the battlefield her friend awakens to her Newtype powers and wins the match. Thanks to being able to use the Omega Phychomu.
 
 -  At the end of episode Machu finds getting out of Gundam and is astonished.
+
+
+
+
+
+
+

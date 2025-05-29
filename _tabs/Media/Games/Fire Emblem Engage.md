@@ -11,9 +11,10 @@ playtime: 475:00
 genre: RPG
 status: Replaying
 toc: true
-image: /assets/images/backlog/fire-emblem-engage-preview.avif
-permalink: /media/games/
+image: /assets/images/backlog/fire-emblem-engage.avif
+permalink: /media/games/fire-emblem-engage/
 order: 0
+license: The images used in this page are owned by their respective copyright owners. All rights reserved.
 ---
 
 ## Sumarry
