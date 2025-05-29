@@ -412,7 +412,7 @@ Game Freak ⋅ Nintendo 3DS ⋅ RPG ⋅
 
 Intelligent Systems ⋅ Nintendo 3DS ⋅ RPG 
 
-**Fire Emblem Engage**
+[**Fire Emblem Engage**](/media/games/fire-emblem-engage/)
 
 Intelligent Systems ⋅ Nintendo Switch ⋅ RPG
 
