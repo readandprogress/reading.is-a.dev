@@ -13,7 +13,8 @@ tags: [ mecha, anime, gundam ]
 toc: true
 image: /assets/images/backlog/mobile-suit-gundam-gquuuux.webp
 permalink: /media/anime/mobile-suit-gundam-gquuuux/
-order: false
+order: 0
+license: The images used in this page are owned by their respective copyright owners. All rights reserved.
 ---
 
 ## Overview
@@ -75,10 +76,3 @@ order: false
 -  In the battlefield her friend awakens to her Newtype powers and wins the match. Thanks to being able to use the Omega Phychomu.
 
 -  At the end of episode Machu finds getting out of Gundam and is astonished.
-
-
-
-
-
-
-

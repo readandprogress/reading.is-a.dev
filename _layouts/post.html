@@ -21,6 +21,54 @@ script_includes:
       <p class="post-desc fw-light mb-4">{{ page.description }}</p>
     {% endif %}
 
+  <!-- Additional Metadata -->
+<div class="post-meta text-muted">
+  {% if page.genre %}
+    <span><strong>Genre:</strong> {{ page.genre }}</span>
+  {% endif %}
+  {% if page.studio %}
+    <span><strong>Studio:</strong> {{ page.studio }}</span>
+  {% endif %}
+  {% if page.release_year %}
+    <span><strong>Release Year:</strong> {{ page.release_year }}</span>
+  {% endif %}
+  {% if page.episodes %}
+    <span><strong>Episodes:</strong> {{ page.episodes }}</span>
+  {% endif %}
+  {% if page.status %}
+    <span><strong>Status:</strong> {{ page.status }}</span>
+  {% endif %}
+  
+  <!-- Game Metadata -->
+  {% if page.platform %}
+    <span><strong>Platform:</strong> {{ page.platform }}</span>
+  {% endif %}
+  {% if page.publisher %}
+    <span><strong>Publisher:</strong> {{ page.publisher }}</span>
+  {% endif %}
+  {% if page.developer %}
+    <span><strong>Developer:</strong> {{ page.developer }}</span>
+  {% endif %}
+  {% if page.playtime %}
+    <span><strong>Playtime:</strong> {{ page.playtime }}</span>
+  {% endif %}
+  
+  <!-- Manga Metadata -->
+  {% if page.format %}
+    <span><strong>Format:</strong> {{ page.format }}</span>
+  {% endif %}
+  {% if page.mangaka %}
+    <span><strong>Mangaka:</strong> {{ page.mangaka }}</span>
+  {% endif %}
+  {% if page.release_year %}
+    <span><strong>Release Year:</strong> {{ page.release_year }}</span>
+  {% endif %}
+  {% if page.chapters %}
+    <span><strong>Chapters:</strong> {{ page.chapters }}</span>
+  {% endif %}
+</div>
+
+
     <div class="post-meta text-muted">
       <!-- published date -->
       <span>
