@@ -1,7 +1,7 @@
 ---
 title: Fire Emblem Engage
 date: 2025-05-18 18:44:00 -0500
-last_modified_at: 2025-05-18 18:29:00 -0500
+last_modified_at: 2025-05-29 18:29:00 -0500
 layout: post
 description: "Become the Divine Dragon and save the continent of Elyos! Summon valiant heroes like Marth & Celica alongside a new cast of characters and engage in turn-based, tactical combat against a great evil in this new Fire Emblem story."
 platform: Nintendo Switch
