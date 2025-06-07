@@ -470,7 +470,7 @@ CAPCOM ⋅ Nintendo 3DS ⋅ Visual Novel
 
 Moppin ⋅ Nintendo Switch ⋅ Shooter
 
-[Super Mario Land 2: 6 Golden Coins](Media%2FGames%2FSuper%20Mario%20Land%202%3A%206%20Golden%20Coins.md)
+[Super Mario Land 2: 6 Golden Coins]()
 
 Nintendo R&D 1 ⋅ Nintendo Switch Online ⋅ Platformer  
 
