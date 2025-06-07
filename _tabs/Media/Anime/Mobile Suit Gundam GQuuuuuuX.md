@@ -23,6 +23,10 @@ license: The images used in this page are owned by their respective copyright ow
 
 ## Notes
 
+> These notes may cointain spoilers.
+
+{: .prompt-warning }
+
 ### Episode 1
 
 - One thing to note when the episode started is the stylish animation and use of vibrant colors. Gundam has never look so saturated before and I'm must say I'm loving it!
@@ -71,15 +75,21 @@ license: The images used in this page are owned by their respective copyright ow
 
 - Machu is late for her Clan Battle so her friend substitutes for her in secret.
 
--  Shuji catches a cold so he isn’t able to help much with the upcoming clan battle, leaving Machu’s friend on her own.
+-  Shuji catches a cold so he isn’t able to help much with the upcoming clan battle, leaving Nyaan on her own.
 
--  In the battlefield her friend awakens to her Newtype powers and wins the match. Thanks to being able to use the Omega Phychomu.
+-  In the battlefield Nyann awakens to her Newtype powers and wins the match. Thanks to being able to use the Omega Phychomu.
 
--  At the end of episode Machu finds getting out of Gundam and is astonished.
+-  At the end of episode Machu finds Nyaan getting out of Gundam and is astonished.
+
+### Episode 6
+
+- Chalia Bull meets with the manager of the Pomenarians.
+
+- We get the first mention of Amate's Dad.
+
+### Episode 7
 
 
 
-
-
-
+### Episode 8
 
