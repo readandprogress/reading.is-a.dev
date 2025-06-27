@@ -112,3 +112,35 @@ N/A
 - Next episode is the finale, huh? I hope they can give a satisfactory ending. I feel like it should've been around 25 episodes to really flesh out the characters and have better pacing, but as they say, the ending is paramount. Maybe they can work a miracle.
 
 ### Episode 12: That's Why I...
+
+- The RX-78 makes its appearance and is revealed that is Shuji is the one piloting it, bummer I was hoping it would be Amuro. : (
+- With the new threat of the RX-78, Nyaan becomes Machu’s Mav. Joining their powers.
+- Chalia finally finds Char, only to engage with him, after seeing visions from the Zeknova. The bromance is over .
+- As Machu and Nyaan fight the RX-78, it suddenly increases its mass. Becoming kauji size with the original colors of the RX-78. A nice touch.
+- After the dynamaxing of the RX-78,  The Gundam FreD gets wrecked by Nyaan manages to escape in her core fighter in time.
+- The GquuuuuX awakens and Machu she’s not alone in this fight, could there be something inside the Gundam a la Eri from WfM?
+- We get the best fight in this episode in my opinion with Chalia vs Char. Complete with replicating the final Char vs Amuro fight in MSG. Ending a stalemate with both their machines crippled but thankfully both of them live.
+- We soon get our answer, once Machu strikes the final blow to RX-78’s head unit. There we learn more about Shuji and his obsession with Layla.
+- More importantly Shuji hears a voice from the Gquuuux he doesn’t recognized saying he doesn’t want see the Gundam taking Lalah’s life again.
+- The voice is from Amuro?! I didn’t get it at first since I was watching the dub but in the sub Amuro’s VA voices that line.
+- Which means Amuro is in the Gquuuuux, Remember when I mentioned that the Red Gundam could have been fused with Char when the first Zeknova happened? Nope me and several other had it reversed!
+- Forgot to mention this before but as Gquuuux awakens his mouth opens just like an Eva. So the true Eva unit 01 reference was the Gquuuuz all along.
+- At the end of their newtype moment, Machu confesses her feelings to Shuji and he just reciprocated them? Okay weird choice. After all of his obsession with Lalah you’ll think he’ll reject her but uh fine I guess? Felt like they just needed to have a romance there for some reason, they could just doubled down on Chalia and Char but oh well.
+- As the battle finally ends, Lalah creates a final Zeknova taking her and Shuji back to their original timeline.
+- Chalia asks Char what’s he’s going to do now? Char sneakily replies to live a life when he doesn’t try to kill him. Good call, Char good call.
+- We get a short timeskip seeing when everyone is up to know, notably Artesia is coronated as the ruler of Zeon with Ramba Ral in toe! Glad that he’s alive and became kinda like a father figure to Artesia. Would be even cooler to see Hamon with him too.
+- We also see Char in a dessert meeting this worlds Lalah for the first time. He finally had he’s happy ending
+- Chalia still around but wears a mask a la Char (How fitting.) to hide his identity, now being a treator. I wonder what his new alias is? 
+- Finally we see Nyaan and Machu on a remote beach on earth where Machu says confidently that they’ll see Shuji again, after all the Gundam said so.
+
+## Closing Thoughts
+
+I really enjoyed this series, while the pacing goes to trough a breakneck pace after the first half and there’s still a lot questions that hadn’t been answered like who was sending Machu those text? Maybe Amuro in the Gundam?
+
+This has been the most fun I had with a Gundam series in a while. I love UC Gundam and this was clearly a love letter to fans of the UC timeline specifically MSG. While it didn’t really exceed in being its own standalone story. The references, omages and beautiful animation made it a fun and wild ride! It edges out WfM for me just a tad. It felt more like a Gundam and of course I’m obviously biased to UC shows but still overall the experience was better. 
+
+I also like that the ending was optimistic which I didn’t expect at all. This is probably the closes the UC gets to a golden ending. Everyone is  happy at the end, presumably even Garma even though we don’t see him in the end. With only less than a handful of deaths and Machu is now the first MC in Gundam history with a kill count of 0! 
+
+If kinda ironic that the timeline where Amuro doesn’t exist is the one where everyone is happiest and sad the same time.
+
+The ending being so open ended makes think there’s going to be a continuation in some way I just have a feeling.
