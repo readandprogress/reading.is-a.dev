@@ -29,4 +29,3 @@ Before I go, I want to thank you all for reading and following this website! It 
 But really, thank you all! Your support means a lot to me.
 
 See you next time!
-

@@ -10,7 +10,7 @@ toc: true
 
 ### Watching
 
-[Fate/stay night: Heaven's Feel Collection](Media%2FAnime%2FFate%20stay%20night%3A%20Heaven's%20Feel%20Collection.md)
+[Fate/stay night: Heaven's Feel Collection](<Media/Anime/Fate stay night: Heaven's Feel Collection.md>)
 
 ufotable ⋅ Fantasy
 
