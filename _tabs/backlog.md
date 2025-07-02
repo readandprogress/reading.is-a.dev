@@ -74,7 +74,7 @@ MADHOUSE ⋅ Comedy
 
 ### Watched
 
-[Mobile Suit Gundam GQuuuuuuX](/_tabs/Media/Anime/Mobile%20Suit%20Gundam%20GQuuuuuuX.md)
+[Mobile Suit Gundam GQuuuuuuX](/media/anime/mobile-suit-gundam-gquuuux/)
 
 Studio Khara x Sunrise ⋅ Mecha
 

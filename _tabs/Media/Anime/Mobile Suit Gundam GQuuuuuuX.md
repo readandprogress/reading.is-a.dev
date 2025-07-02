@@ -9,7 +9,7 @@ studio: Studio Khara, Sunrise
 release_year: 2025
 episodes: 12
 status: Watching
-tags: [ mecha, anime, gundam ]
+tags: [ Mecha, Anime, Gundam ]
 toc: true
 image: /assets/images/backlog/mobile-suit-gundam-gquuuux.webp
 permalink: /media/anime/mobile-suit-gundam-gquuuux/
