@@ -24,7 +24,6 @@ license: The images used in this page are owned by their respective copyright ow
 ## Notes
 
 > These notes may cointain spoilers.
-
 {: .prompt-warning }
 
 ### Episode 1: The Red Gundam
