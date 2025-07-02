@@ -38,10 +38,6 @@ OLM ⋅ Adventure
 
 OLM/TOHO Animation Studio ⋅ Drama
 
-[Mobile Suit Gundam GQuuuuuuX](/_tabs/Media/Anime/Mobile%20Suit%20Gundam%20GQuuuuuuX.md)
-
-Studio Khara x Sunrise ⋅ Mecha
-
 [Cardfight!! Vanguard OverDress (2021)](Media%2FAnime%2FCardfight!!%20Vanguard%20OverDress%20(2021).md)
 
 Kinema Citrus ⋅ Adventure
@@ -77,6 +73,10 @@ Drive ⋅ Fantasy
 MADHOUSE ⋅ Comedy
 
 ### Watched
+
+[Mobile Suit Gundam GQuuuuuuX](/_tabs/Media/Anime/Mobile%20Suit%20Gundam%20GQuuuuuuX.md)
+
+Studio Khara x Sunrise ⋅ Mecha
 
 [Mobile Suit Gundam 08th MS Team](Media%2FAnime%2FMobile%20Suit%20Gundam%2008th%20MS%20Team.md)
 
