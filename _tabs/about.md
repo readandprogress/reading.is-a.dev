@@ -1,6 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
+title: ABOUT
 order: 3
 ---
 ## Who am I?
@@ -15,7 +16,7 @@ I do hope to change that soon! I have a concept that I'm working on, and I'm hop
 
 What else? Ah, hobbies! Most of my hobbies are pretty common if it wasn't already obvious. Gaming is one of them, usually RPGs, but I do play other genres as well when the mood strikes. If I'm not gaming, I'm reading. Get it? Bad joke aside, I usually gravitate toward nonfiction when it comes to books, even though I write fiction. Weird, right? I do, however, avidly read manga. I watch TV like most people, usually YouTube or anime. When I'm not doing either of those, I'm either writing a post or, more reasonably, tinkering or building a Gunpla kit!
 
-## About the Site 
+## About the Site
 
 The website you're currently on! Joking aside, I created this blog/digital garden to have a place on the interwebs of my very own.
 
