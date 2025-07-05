@@ -2,7 +2,7 @@
 title: "Writing Challenge: Final Review and Results"
 date: 2024-10-14 15:00:00 -0500
 categories: Writing
-tags: [ challenge, focusing, characters, story, original-work, habits, productivity, worldbuilding, brainstorming, failure ]
+tags: [ Challenge, Focusing, Characters, Story, Original Work, Habits, Productivity, Worldbuilding, Brainstorming, Failure ]
 time: 68:32.1
 toc: true
 description: Whelp, a week has passed but unfortunately due to unforeseen events with the weather, writing was far from being the most important thing in my mind these last couple of days...

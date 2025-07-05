@@ -3,7 +3,7 @@ title: "Taking Inkdown for a Spin!"
 date: 2025-04-10 18:00:00 -0500
 last_modified_at: 2025-04-15 17:00 -0500
 categories: Tech
-tags: [ markdown, note-taking, inkdown, vs code, productivity, writing, tools, software, editors , pwa ]
+tags: [ Markdown, Notetaking, Inkdown, VSCode, Productivity, Writing, Tools, Software, Editors , PWA ]
 time: 00:94
 description:
 toc: # false | Only when you don't wan TOC.  

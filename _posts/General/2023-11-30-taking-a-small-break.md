@@ -2,7 +2,7 @@
 title: "Taking a Small Break"
 date: 2023-11-30 20:00:00 -0500
 categories: General
-tags: [ holidays, burnout, writing, agenda, break ]
+tags: [ Holidays, Burnout, Writing, Agenda, Break ]
 time: 
 description: So hey! How have you been? I'm being good these couple of months, and luckily my health has not stagnated since I got sick mid-year.
 toc: # false | Only when you don't wan TOC.  

@@ -2,7 +2,7 @@
 title: "Spice and Wolf: Merchant Meets the Wise Wolf is Fantastic so Far!"
 date: 2024-08-06 20:00:00 -0500
 categories: Anime
-tags: [ impressions, fantasy, romance, economics, trading,  supernatural, story, characters, plot ]
+tags: [ Impressions, Fantasy, Romance, Economics, Trading,  Supernatural, Story, Characters, Plot ]
 time: 47:16.7
 description: I'm not much of a seasonal anime watcher, but this last season is an exception! With the return of the fantastic Spice and Wolf! And now that the first half has finished airing, I'd like to share my thoughts on it!
 toc: # false | Only when you don't wan TOC.

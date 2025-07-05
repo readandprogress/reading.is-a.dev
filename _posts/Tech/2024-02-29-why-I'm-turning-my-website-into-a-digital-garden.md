@@ -3,7 +3,7 @@ title: "Why I’m Turning My Website Into a Digital Garden!"
 date: 2024-02-29 20:00:00 -0500\
 last_modified_at: 2025-03-25 19:05:00 -0500
 categories: Tech
-tags: [ digital-garden, web-development, jekyll, minima, minimal-mistakes, cloudflare, html, css, websites, microblogging ]
+tags: [ Digital-garden, Web Development, Jekyll, Minima, Minimal Mistakes, Cloudflare, HTML, CSS, Websites, Microblogging ]
 description: This time I want to share some plans I have for the future of my website and what that means for you!
 ---
 

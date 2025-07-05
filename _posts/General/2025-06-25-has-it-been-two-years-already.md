@@ -3,7 +3,7 @@ title: "Has It Been Two Years Already?"
 date: 2025-06-25 18:00:00 -0500
 last_modified_at:
 categories: General
-tags: [ web-development, updates, jekyll, blogging, digital-garden, writing, milestones ]
+tags: [ Web Development, Updates, Jekyll, Blogging, Digital Garden, Writing, Milestones ]
 time: 0:57
 description: Yes, apparently so! I'm still flabbergasted, but dates don't lie, do they? It has been two years since the start of this digital garden, formerly a blog, all the way back to my first post in March 2023. Wild!
 toc: # false | Only when you don't want TOC.  

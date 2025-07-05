@@ -3,7 +3,7 @@ title: "Finally Moved Over To Jekyll Chirpy!"
 date: 2024-12-23 18:00:00 -0500\
 last_modified_at: 2025-03-25 19:21:00 -0500
 categories: Tech
-tags: [ jekyll , web-development, jekyll-chirpy. holidays, theme, pwa ]
+tags: [ Jekyll , Web Development, Jekyll Chirpy, Holidays, Theme, PWA ]
 time: 0:28
 description: After much deliberation on my part and messing around with different themes, I finally decided to go with the Jekyll Chirpy theme! 
 toc: # false | Only when you don't want a TOC.  
