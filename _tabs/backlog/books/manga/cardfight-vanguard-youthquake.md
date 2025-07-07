@@ -7,12 +7,12 @@ format: Digital
 publisher: Bushiroad
 mangaka: Quily (Story & Art)
 release_year: 2022
-chapters: 27
+chapters: 27-??
 genre: Action
 status: Reading
 tags: [ Manga, Card Games, Slice of Life ]
 toc: true
 image: /assets/images/backlog/books/manga/cardfight-vanguard-youthquake.webp
-permalink: /media/books/manga/cardfight-vanguard-youthquake
+permalink: /media/books/manga/cardfight-vanguard-youthquake/
 order: false
 ---

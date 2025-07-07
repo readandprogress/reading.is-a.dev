@@ -7,12 +7,12 @@ format: Web
 publisher: Bandai
 mangaka: Kuniaki Totsuka
 release_year: 2024
-chapters: 15
+chapters: 15-??
 genre: Action
 status: Reading
 tags: [Digimon, Card Games, Manga ]
 toc: true
 image: /assets/images/backlog/books/manga/digimon-liberator.jpg
-permalink: /media/books/manga/digimon-liberator
+permalink: /media/books/manga/digimon-liberator/
 order: false
 ---

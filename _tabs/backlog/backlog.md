@@ -352,17 +352,21 @@ Moriarty the Patriot
 
 Takeuchi Ryousuke/Miyoshi Hikaru ⋅ Mystery
 
-Moriarty the Patriot: The Remains
+[Moriarty the Patriot: The Remains](media/books/manga/moriarty-the-patriot-the-remains/)
 
 Saita Yosuke/Miyoshi Hikaru ⋅ Mystery
 
-Fire Emblem Engage
+[Fire Emblem Engage](/media/books/manga/fire-emblem-engage/)
 
 Kazuro Kyou ⋅ Fantasy
 
-Digimon Liberator
+[Digimon Liberator](/media/books/manga/digimon-liberator/)
 
 Kuniaki Totsuka ⋅ Fantasy
+
+[Cardfight!! Vanguard: YouthQuake](/media/books/manga/cardfight-vanguard-youthquake/)
+
+Quily ⋅ Action
 
 ### Rereading
 
@@ -377,10 +381,6 @@ Soul Eater
 Ookubo Atsushi ⋅ Action
 
 ### On Hold
-
-Cardfight!! Vanguard: YouthQuake
-
-Quily ⋅ Action
 
 ### Read
 
