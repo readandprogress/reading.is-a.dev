@@ -352,7 +352,7 @@ Moriarty the Patriot
 
 Takeuchi Ryousuke/Miyoshi Hikaru ⋅ Mystery
 
-[Moriarty the Patriot: The Remains](media/books/manga/moriarty-the-patriot-the-remains/)
+[Moriarty the Patriot: The Remains](/media/books/manga/moriarty-the-patriot-the-remains/)
 
 Saita Yosuke/Miyoshi Hikaru ⋅ Mystery
 

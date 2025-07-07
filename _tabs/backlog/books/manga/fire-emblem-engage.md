@@ -12,7 +12,7 @@ genre: Fantasy
 status: Reading
 tags: [ Fire Emblem, Manga, Fantasy, Action, ]
 toc: true
-image: /assets/images/backlog/books/manga/fire-emblem-engage.jpg)
+image: /assets/images/backlog/books/manga/fire-emblem-engage.jpg
 permalink: /media/books/manga/fire-emblem-engage/
 order: false
 ---
