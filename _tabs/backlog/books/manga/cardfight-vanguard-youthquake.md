@@ -15,4 +15,5 @@ toc: true
 image: /assets/images/backlog/books/manga/cardfight-vanguard-youthquake.webp
 permalink: /media/books/manga/cardfight-vanguard-youthquake/
 order: false
+license: The images used in this page are owned by their respective copyright owners. All rights reserved. 
 ---

@@ -15,4 +15,5 @@ toc: true
 image: /assets/images/backlog/books/manga/fire-emblem-engage.jpg
 permalink: /media/books/manga/fire-emblem-engage/
 order: false
+license: The images used in this page are owned by their respective copyright owners. All rights reserved. 
 ---

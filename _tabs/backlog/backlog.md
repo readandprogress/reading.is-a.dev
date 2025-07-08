@@ -348,7 +348,7 @@ Wit Studio ⋅ Fantasy
 
 ### Reading
 
-Moriarty the Patriot
+[Moriarty the Patriot](/media/books/manga/moriarty-the-patriot/)
 
 Takeuchi Ryousuke/Miyoshi Hikaru ⋅ Mystery
 
@@ -376,7 +376,7 @@ Takahashi Kazuki ⋅ Adventure
 
 ### Planning To Read
 
-Soul Eater
+[Soul Eater](/media/books/manga/soul-eater/)
 
 Ookubo Atsushi ⋅ Action
 

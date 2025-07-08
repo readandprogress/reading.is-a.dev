@@ -15,4 +15,5 @@ toc: true
 image: /assets/images/backlog/books/manga/moriarty-the-patriot-the-remains.webp
 permalink: /media/books/manga/moriarty-the-patriot-the-remains/
 order: false
+license: The images used in this page are owned by their respective copyright owners. All rights reserved. 
 ---
