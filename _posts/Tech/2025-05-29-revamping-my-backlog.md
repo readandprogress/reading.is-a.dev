@@ -7,7 +7,7 @@ tags: [ Backlog, Notes, Anime, Manga, Gaming, Tracking, Devlog ]
 time: 00:51
 description: I've been quite happy with my backlog since I added it back in January, but now I'm closing in on the middle of the year. I like to rework it a little. The page itself won't change much, but in the spirit of transitioning to a digital garden, I'm adding dedicated pages to each entry in the log. Where I can have notes, summaries, and screenshots all in one place for media. Like a commonplace book but online.
 toc: true  
-pin: true
+pin: false
 license: The images used in this page are owned by their respective copyright owners. All rights reserved. 
 ---
 

@@ -7,7 +7,7 @@ tags: [ Markdown, Notetaking, Inkdown, VSCode, Productivity, Writing, Tools, Sof
 time: 00:94
 description:
 toc: # false | Only when you don't wan TOC.  
-pin: true
+pin: false
 ---
 
 As I said back in an earlier [post]({% post_url /Tech/2025-02-28-what-i-learned-from-org-mode-and-why-I-returned-to-markdown %}), I decided to go back to Markdown for all my notes. I use VS Code as my Markdown editor of choice for writing these posts and taking notes, but I recently learned about a new Markdown notetaking app that caught my interest, so I've decided to take it for a spin!

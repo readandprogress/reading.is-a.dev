@@ -10,7 +10,7 @@ release_year: 2023
 chapters: 17
 genre: Mystery
 status: Read
-tags: [ Manga, Mystery, Action, ]
+tags: [ Mystery, Action, ]
 toc: true
 image: /assets/images/backlog/books/manga/moriarty-the-patriot-the-remains.webp
 permalink: /media/books/manga/moriarty-the-patriot-the-remains/

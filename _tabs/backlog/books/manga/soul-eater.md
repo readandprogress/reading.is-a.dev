@@ -12,7 +12,7 @@ release_year: 2003
 chapters: 117
 genre: Action
 status: Planning To Read
-tags: [ Manga, Action, Comedy, Shonen]
+tags: [ Action, Comedy, Shonen ]
 toc: true
 image: /assets/images/backlog/books/manga/soul-eater.webp
 permalink: /media/books/manga/soul-eater/

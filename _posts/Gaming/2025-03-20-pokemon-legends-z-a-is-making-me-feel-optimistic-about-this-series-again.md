@@ -8,7 +8,7 @@ time: 1:10
 description: Pokémon Day came and went and left us with a new trailer for the upcoming Pokémon Legends Z-A, and I have some thoughts on it.
 toc: # false | Only when you don't wan TOC.  
 license: The images used in this post are owned by their respective copyright owners. All rights reserved. 
-pin: true 
+pin: false
 ---
 
 ![Pokémon Legends Z-A Logo.](/assets/images/2025-03-20-pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/pokemon-legends-z-a-logo.jpg){: .left }{: width="300" height="300" }

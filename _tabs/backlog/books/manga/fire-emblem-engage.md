@@ -10,7 +10,7 @@ release_year: 2023
 chapters: 27-??
 genre: Fantasy
 status: Reading
-tags: [ Fire Emblem, Manga, Fantasy, Action, ]
+tags: [ Fire Emblem, Fantasy, Action, ]
 toc: true
 image: /assets/images/backlog/books/manga/fire-emblem-engage.jpg
 permalink: /media/books/manga/fire-emblem-engage/

@@ -7,7 +7,7 @@ tags: [ Web Development, Updates, Jekyll, Blogging, Digital Garden, Writing, Mil
 time: 0:57
 description: Yes, apparently so! I'm still flabbergasted, but dates don't lie, do they? It has been two years since the start of this digital garden, formerly a blog, all the way back to my first post in March 2023. Wild!
 toc: # false | Only when you don't want TOC.  
-pin: true
+pin: false
 ---
 
 Yes, apparently so! I'm still flabbergasted, but dates don't lie, do they? It has been two years since the start of this digital garden, formerly a blog, all the way back to my first post in March 2023. Wild!
