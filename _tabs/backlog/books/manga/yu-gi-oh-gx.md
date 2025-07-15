@@ -13,6 +13,6 @@ status: Read
 tags: [ Card Games, Yu-Gi-Oh!, Slice of Life, Card Battle, Shonen, School ]
 toc: true
 image: /assets/images/backlog/books/manga/yu-gi-oh-gx.jpg
-permalink: /backlog/books/manga/yu-gi-oh-gx/
+permalink: /media/books/manga/yu-gi-oh-gx/
 order: false
 ---

@@ -13,7 +13,7 @@ genre: RPG
 status: Replaying
 toc: true
 image: /assets/images/backlog/games/fire-emblem-engage.avif
-permalink: /backlog/games/fire-emblem-engage/
+permalink: /media/games/fire-emblem-engage/
 order: 0
 license: The images used in this page are owned by their respective copyright owners. All rights reserved.
 ---

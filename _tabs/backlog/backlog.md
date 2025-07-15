@@ -348,35 +348,35 @@ Wit Studio ⋅ Fantasy
 
 ### Reading
 
-[Moriarty the Patriot](/backlog/books/manga/moriarty-the-patriot/)
+[Moriarty the Patriot](/media/books/manga/moriarty-the-patriot/)
 
 **Takeuchi Ryousuke/Miyoshi Hikaru ⋅ Mystery**
 
-[Moriarty the Patriot: The Remains](/backlog/books/manga/moriarty-the-patriot-the-remains/)
+[Moriarty the Patriot: The Remains](/media/books/manga/moriarty-the-patriot-the-remains/)
 
 **Saita Yosuke/Miyoshi Hikaru ⋅ Mystery**
 
-[Fire Emblem Engage](/backlog/books/manga/fire-emblem-engage/)
+[Fire Emblem Engage](/media/books/manga/fire-emblem-engage/)
 
 **Kazuro Kyou ⋅ Fantasy**
 
-[Digimon Liberator](/backlog/books/manga/digimon-liberator/)
+[Digimon Liberator](/media/books/manga/digimon-liberator/)
 
 **Kuniaki Totsuka ⋅ Fantasy**
 
-[Cardfight!! Vanguard: YouthQuake](/backlog/books/manga/cardfight-vanguard-youthquake/)
+[Cardfight!! Vanguard: YouthQuake](/media/books/manga/cardfight-vanguard-youthquake/)
 
 **Quily ⋅ Action**
 
 ### Rereading
 
-[Yu-Gi-Oh!](/backlog/books/manga/yu-gi-oh/)
+[Yu-Gi-Oh!](/media/books/manga/yu-gi-oh/)
 
 **Takahashi Kazuki ⋅ Adventure**
 
 ### Planning To Read
 
-[Soul Eater](/backlog/books/manga/soul-eater/)
+[Soul Eater](/media/books/manga/soul-eater/)
 
 **Ookubo Atsushi ⋅ Action**
 
@@ -384,7 +384,7 @@ Wit Studio ⋅ Fantasy
 
 ### Read
 
-[Yu-Gi-Oh! GX](/backlog/books/manga/yu-gi-oh-gx/)
+[Yu-Gi-Oh! GX](/media/books/manga/yu-gi-oh-gx/)
 
 **Kageyama Naoyuki/Takahashi Kazuki ⋅ Adventure**
 
@@ -406,7 +406,7 @@ Pokémon LEGENDS: Arceus
 
 Game Freak ⋅ Nintendo 3DS ⋅ RPG ⋅
 
-[Fire Emblem Engage](/backlog/games/fire-emblem-engage/)
+[Fire Emblem Engage](/media/games/fire-emblem-engage/)
 
 Intelligent Systems ⋅ Nintendo Switch ⋅ RPG
 

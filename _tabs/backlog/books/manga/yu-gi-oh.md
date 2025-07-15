@@ -13,6 +13,6 @@ status: Rereading
 tags: [ Card Games, Card Battle, School, Slice of Life, Supernatural ]
 toc: true
 image: /assets/images/backlog/books/manga/yu-gi-oh.jpg
-permalink: /backlog/books/manga/yu-gi-oh/
+permalink: /media/books/manga/yu-gi-oh/
 order: false
 ---
