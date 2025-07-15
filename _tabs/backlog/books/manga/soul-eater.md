@@ -16,6 +16,6 @@ tags: [ Action, Comedy, Shonen ]
 toc: true
 image: /assets/images/backlog/books/manga/soul-eater.webp
 permalink: /media/books/manga/soul-eater/
-order: false
+order: 0
 license: The images used in this page are owned by their respective copyright owners. All rights reserved. 
 ---
