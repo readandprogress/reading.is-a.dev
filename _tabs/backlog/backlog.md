@@ -8,49 +8,41 @@ toc: true
 
 ### Watching
 
-Fate/stay night: Heaven's Feel Collectionmd>
-
-ufotable ⋅ Fantasy
-
 Overlord
 
-MADHOUSE ⋅ Action
+**MADHOUSE ⋅ Action**
 
 Shangri-La Frontier 
 
-C2C ⋅ Fantasy
+**C2C ⋅ Fantasy**
 
 Summertime Rendering
 
-OLM ⋅ Action
+**OLM ⋅ Action**
 
 Pokémon Horizons: The Series
 
-OLM ⋅ Adventure
-
-Apothecary Diaries
-
-OLM/TOHO Animation Studio ⋅ Drama
+**OLM ⋅ Adventure**
 
 Cardfight!! Vanguard OverDress (2021)
 
-Kinema Citrus ⋅ Adventure
+**Kinema Citrus ⋅ Adventure**
 
 ### Rewatching
 
 Mobile Fighter G Gundam
 
-Sunrise ⋅ Mecha
+**Sunrise ⋅ Mecha**
 
 ### Planning To Watch
 
-Lazarus/Lazarus.md
+Lazarus
 
-MAPPA ⋅ Sci-Fi
+**MAPPA ⋅ Sci-Fi**
 
 Sabiki Bisco
 
-OZ/NAZ ⋅ Fantasy
+**OZ/NAZ ⋅ Fantasy**
 
 ### Intermission
 
@@ -67,6 +59,14 @@ The Vampire Dies in No Time
 MADHOUSE ⋅ Comedy
 
 ### Watched
+
+Apothecary Diaries
+
+OLM/TOHO Animation Studio ⋅ Drama
+
+Fate/stay night: Heaven's Feel Collection 
+
+ufotable ⋅ Fantasy
 
 Mobile Suit Gundam GQuuuuuuX
 
@@ -396,10 +396,6 @@ Yu-Gi-Oh! Master Duel
 
 Konami ⋅ Nintendo Switch ⋅ Card Game
 
-Mario Kart 7
-
-Nintendo ⋅ Nintendo 3DS ⋅ Racing
-
 ### Replaying
 
 Pokémon LEGENDS: Arceus
@@ -459,6 +455,10 @@ Apollo Justice: Ace Attorney
 CAPCOM ⋅ Nintendo 3DS ⋅ Visual Novel
 
 ### Played
+
+Mario Kart 7
+
+Nintendo ⋅ Nintendo 3DS ⋅ Racing
 
 Fire Emblem Fates: Conquest
 
