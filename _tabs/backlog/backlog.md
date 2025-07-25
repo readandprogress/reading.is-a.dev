@@ -22,11 +22,11 @@ Summertime Rendering
 
 Pokémon Horizons: The Series
 
-*OLM ⋅ Adventure**
+*OLM ⋅ Adventure*
 
 Cardfight!! Vanguard OverDress (2021)
 
-**lKinema Citrus ⋅ Adventure*
+*Kinema Citrus ⋅ Adventure*
 
 ### Rewatching
 
