@@ -10,39 +10,39 @@ toc: true
 
 Overlord
 
-**MADHOUSE ⋅ Action**
+*MADHOUSE ⋅ Action*
 
 Shangri-La Frontier 
 
-**C2C ⋅ Fantasy**
+*C2C ⋅ Fantasy*
 
 Summertime Rendering
 
-**OLM ⋅ Action**
+*OLM ⋅ Action*
 
 Pokémon Horizons: The Series
 
-**OLM ⋅ Adventure**
+*OLM ⋅ Adventure**
 
 Cardfight!! Vanguard OverDress (2021)
 
-**Kinema Citrus ⋅ Adventure**
+**lKinema Citrus ⋅ Adventure*
 
 ### Rewatching
 
 Mobile Fighter G Gundam
 
-**Sunrise ⋅ Mecha**
+*Sunrise ⋅ Mecha*
 
 ### Planning To Watch
 
 Lazarus
 
-**MAPPA ⋅ Sci-Fi**
+*MAPPA ⋅ Sci-Fi*
 
 Sabiki Bisco
 
-**OZ/NAZ ⋅ Fantasy**
+*OZ/NAZ ⋅ Fantasy*
 
 ### Intermission
 
