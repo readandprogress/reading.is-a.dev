@@ -398,6 +398,10 @@ Konami ⋅ Nintendo Switch ⋅ Card Game
 
 ### Replaying
 
+Valkyria Chronicles 4
+
+Media.Vision ⋅ Nintendo Switch ⋅ RPG
+
 Pokémon LEGENDS: Arceus
 
 Game Freak ⋅ Nintendo 3DS ⋅ RPG ⋅
@@ -529,10 +533,6 @@ Fire Emblem Echoes: Shadows of Valentia
 Intelligent Systems ⋅ Nintendo 3DS ⋅ RPG
 
 Valkyria Chronicles Remastered
-
-Media.Vision ⋅ Nintendo Switch ⋅ RPG
-
-Valkyria Chronicles 4
 
 Media.Vision ⋅ Nintendo Switch ⋅ RPG
 
