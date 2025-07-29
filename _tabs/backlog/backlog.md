@@ -12,10 +12,6 @@ Overlord
 
 *MADHOUSE ⋅ Action*
 
-Shangri-La Frontier 
-
-*C2C ⋅ Fantasy*
-
 Summertime Rendering
 
 *OLM ⋅ Action*
@@ -59,6 +55,10 @@ The Vampire Dies in No Time
 MADHOUSE ⋅ Comedy
 
 ### Watched
+
+Shangri-La Frontier 
+
+*C2C ⋅ Fantasy*
 
 Apothecary Diaries
 
