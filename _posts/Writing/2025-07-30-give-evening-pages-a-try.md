@@ -1,6 +1,6 @@
 ---
 title: "Give Evening Pages a Try!"
-date: 2025-07-30 20:00:00 -0500
+date: 2025-07-30 19:00:00 -0500
 last_modified_at:
 categories: Writing
 tags: [ Journaling, Freeform, Reflecting, Habits, Writing]
