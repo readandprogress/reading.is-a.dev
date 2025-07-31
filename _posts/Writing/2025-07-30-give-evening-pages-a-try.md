@@ -7,7 +7,7 @@ tags: [ Journaling, Freeform, Reflecting, Habits, Writing]
 time: 1:17
 description: "Writing can be hard and sometimes almost nigh impossible; it is something you have to be in the right mindset for.
 
-For me, I don't have trouble staying motivated once I start; I can stay in the flow state for long periods of time. My problem more so comes from *starting*."
+For me, I don't have trouble staying motivated once I start; I can stay in the flow state for long periods of time. My problem more so comes from starting."
 toc: false
 pin: true
 license: 
