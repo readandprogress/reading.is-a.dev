@@ -12,10 +12,6 @@ Overlord
 
 *MADHOUSE ⋅ Action*
 
-Summertime Rendering
-
-*OLM ⋅ Action*
-
 Pokémon Horizons: The Series
 
 *OLM ⋅ Adventure*
@@ -24,6 +20,10 @@ Cardfight!! Vanguard OverDress (2021)
 
 *Kinema Citrus ⋅ Adventure*
 
+Lazarus
+
+*MAPPA ⋅ Sci-Fi*
+
 ### Rewatching
 
 Mobile Fighter G Gundam
@@ -31,10 +31,6 @@ Mobile Fighter G Gundam
 *Sunrise ⋅ Mecha*
 
 ### Planning To Watch
-
-Lazarus
-
-*MAPPA ⋅ Sci-Fi*
 
 Sabiki Bisco
 
@@ -55,6 +51,10 @@ The Vampire Dies in No Time
 MADHOUSE ⋅ Comedy
 
 ### Watched
+
+Summertime Rendering
+
+*OLM ⋅ Action*
 
 Shangri-La Frontier 
 
