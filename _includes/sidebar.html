@@ -26,13 +26,14 @@
         </a>
       </li>
       <!-- the real tabs -->
-      {% for tab in site.tabs %}
+      {% assign sorted_tabs = site.tabs | sort: 'order' %}
+      {% for tab in sorted_tabs %}
         {% unless tab.url contains '/media/' %}  <!-- Exclude pages in the Media folder -->
           <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
             <a href="{{ tab.url | relative_url }}" class="nav-link">
               <i class="fa-fw {{ tab.icon }}"></i>
               {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
-              <span>{{ site.data.locales[include.lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
+              <span>{{ site.data.locales[include.lang].tabs[tab_name] | default: tab.title | upcase }}</span>
             </a>
           </li>
         {% endunless %}

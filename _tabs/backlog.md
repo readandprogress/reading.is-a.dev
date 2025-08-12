@@ -1,6 +1,7 @@
 ---
-order: 3
+layout: page
 icon: fa-solid fa-check
+order: 4
 toc: true
 ---
 
@@ -288,7 +289,7 @@ Mobile Suit Gundam: The Witch from Mercury
 
 Sunrise ⋅ Mecha
 
-Black Lagoon/
+Black Lagoon
 
 MADHOUSE ⋅ Action
 

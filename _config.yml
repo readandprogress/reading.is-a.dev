@@ -14,7 +14,7 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: The Reading Dimension # the main title
+title: "Reading's Dimension" # the main title
 
 tagline: A dimension like no other. # it will display as the subtitle
 
@@ -123,19 +123,23 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-
 # Navigation links
 nav:
-  - title: Home
-    url: /
-  - title: Categories
-    url: /categories/
-  - title: Archives
-    url: /archives/
-  - title: Backlog
-    url: /backlog/
-  - title: About
-    url: /about/
+- title: Home
+  url: /
+  order: 1
+- title: Categories
+  url: /categories/
+  order: 2
+- title: Archives
+  url: /archives/
+  order: 3
+- title: Backlog
+  url: /backlog/
+  order: 4
+- title: About
+  url: /about/
+  order: 5
 
 collections:
   tabs:
