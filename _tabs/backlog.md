@@ -11,25 +11,25 @@ toc: true
 
 Overlord
 
-MADHOUSE ⋅ Action
+*MADHOUSE ⋅ Action*
 
 Pokémon Horizons: The Series
 
-OLM ⋅ Adventure
+*OLM ⋅ Adventure*
 
 Cardfight!! Vanguard OverDress (2021)
 
-Kinema Citrus ⋅ Adventure
+*Kinema Citrus ⋅ Adventure*
 
 Lazarus
 
-MAPPA ⋅ Sci-Fi 
+*MAPPA ⋅ Sci-Fi*
 
 ### Rewatching
 
 Mobile Fighter G Gundam
 
-Sunrise ⋅ Mecha
+*Sunrise ⋅ Mecha*
 
 ### Planning To Watch
 
@@ -395,21 +395,21 @@ Wit Studio ⋅ Fantasy
 
 Yu-Gi-Oh! Master Duel
 
-Konami ⋅ Nintendo Switch ⋅ Card Game
+*Konami ⋅ Nintendo Switch ⋅ Card Game*
 
 ### Replaying
 
 Valkyria Chronicles 4
 
-Media.Vision ⋅ Nintendo Switch ⋅ RPG
+*Media.Vision ⋅ Nintendo Switch ⋅ RPG*
 
 Pokémon LEGENDS: Arceus
 
-Game Freak ⋅ Nintendo 3DS ⋅ RPG ⋅
+*Game Freak ⋅ Nintendo 3DS ⋅ RPG*
 
 [Fire Emblem Engage](/media/games/fire-emblem-engage/)
 
-Intelligent Systems ⋅ Nintendo Switch ⋅ RPG
+*Intelligent Systems ⋅ Nintendo Switch ⋅ RPG*
 
 ### Planning To Play
 
@@ -460,6 +460,10 @@ Apollo Justice: Ace Attorney
 CAPCOM ⋅ Nintendo 3DS ⋅ Visual Novel
 
 ### Played
+
+Retro City Rampage DX
+
+Vblank Entertainment ⋅ Nintendo 3DS ⋅Racing 
 
 Mario Kart 7
 
