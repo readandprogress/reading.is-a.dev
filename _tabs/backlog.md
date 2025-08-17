@@ -403,10 +403,6 @@ Valkyria Chronicles 4
 
 *Media.Vision ⋅ Nintendo Switch ⋅ RPG*
 
-Pokémon LEGENDS: Arceus
-
-*Game Freak ⋅ Nintendo 3DS ⋅ RPG*
-
 [Fire Emblem Engage](/media/games/fire-emblem-engage/)
 
 *Intelligent Systems ⋅ Nintendo Switch ⋅ RPG*
@@ -460,6 +456,10 @@ Apollo Justice: Ace Attorney
 CAPCOM ⋅ Nintendo 3DS ⋅ Visual Novel
 
 ### Played
+
+Pokémon LEGENDS: Arceus
+
+*Game Freak ⋅ Nintendo Switch ⋅ RPG*
 
 Retro City Rampage DX
 
