@@ -35,7 +35,7 @@ Mobile Fighter G Gundam
 
 Sabiki Bisco
 
-*OZ/NAZ ⋅ Fantasy*
+OZ/NAZ ⋅ Fantasy 
 
 ### Intermission
 
@@ -55,11 +55,11 @@ MADHOUSE ⋅ Comedy
 
 Summertime Rendering
 
-*OLM ⋅ Action*
+OLM ⋅ Action
 
 Shangri-La Frontier 
 
-*C2C ⋅ Fantasy*
+C2C ⋅ Fantasy 
 
 Apothecary Diaries
 
@@ -351,35 +351,35 @@ Wit Studio ⋅ Fantasy
 
 [Moriarty the Patriot](/media/books/manga/moriarty-the-patriot/)
 
-**Takeuchi Ryousuke/Miyoshi Hikaru ⋅ Mystery**
+*Takeuchi Ryousuke/Miyoshi Hikaru ⋅ Mystery*
 
 [Moriarty the Patriot: The Remains](/media/books/manga/moriarty-the-patriot-the-remains/)
 
-**Saita Yosuke/Miyoshi Hikaru ⋅ Mystery**
+*Saita Yosuke/Miyoshi Hikaru ⋅ Mystery*
 
 [Fire Emblem Engage](/media/books/manga/fire-emblem-engage/)
 
-**Kazuro Kyou ⋅ Fantasy**
+*Kazuro Kyou ⋅ Fantasy*
 
 [Digimon Liberator](/media/books/manga/digimon-liberator/)
 
-**Kuniaki Totsuka ⋅ Fantasy**
+*Kuniaki Totsuka ⋅ Fantasy* 
 
 [Cardfight!! Vanguard: YouthQuake](/media/books/manga/cardfight-vanguard-youthquake/)
 
-**Quily ⋅ Action**
+*Quily ⋅ Action*
 
 ### Rereading
 
 [Yu-Gi-Oh!](/media/books/manga/yu-gi-oh/)
 
-**Takahashi Kazuki ⋅ Adventure**
+*Takahashi Kazuki ⋅ Adventure*
 
 ### Planning To Read
 
 [Soul Eater](/media/books/manga/soul-eater/)
 
-**Ookubo Atsushi ⋅ Action**
+*Ookubo Atsushi ⋅ Action*
 
 ### On Hold
 
@@ -387,7 +387,7 @@ Wit Studio ⋅ Fantasy
 
 [Yu-Gi-Oh! GX](/media/books/manga/yu-gi-oh-gx/)
 
-**Kageyama Naoyuki/Takahashi Kazuki ⋅ Adventure**
+*Kageyama Naoyuki/Takahashi Kazuki ⋅ Adventure*
 
 ## Games
 
@@ -395,21 +395,17 @@ Wit Studio ⋅ Fantasy
 
 Yu-Gi-Oh! Master Duel
 
-Konami ⋅ Nintendo Switch ⋅ Card Game
+*Konami ⋅ Nintendo Switch ⋅ Card Game*
 
 ### Replaying
 
 Valkyria Chronicles 4
 
-Media.Vision ⋅ Nintendo Switch ⋅ RPG
-
-Pokémon LEGENDS: Arceus
-
-Game Freak ⋅ Nintendo 3DS ⋅ RPG ⋅
+*Media.Vision ⋅ Nintendo Switch ⋅ RPG*
 
 [Fire Emblem Engage](/media/games/fire-emblem-engage/)
 
-Intelligent Systems ⋅ Nintendo Switch ⋅ RPG
+*Intelligent Systems ⋅ Nintendo Switch ⋅ RPG*
 
 ### Planning To Play
 
@@ -460,6 +456,14 @@ Apollo Justice: Ace Attorney
 CAPCOM ⋅ Nintendo 3DS ⋅ Visual Novel
 
 ### Played
+
+Pokémon LEGENDS: Arceus
+
+*Game Freak ⋅ Nintendo Switch ⋅ RPG*
+
+Retro City Rampage DX
+
+Vblank Entertainment ⋅ Nintendo 3DS ⋅Racing 
 
 Mario Kart 7
 
