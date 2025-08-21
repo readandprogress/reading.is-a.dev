@@ -21,10 +21,6 @@ Cardfight!! Vanguard OverDress (2021)
 
 *Kinema Citrus ⋅ Adventure*
 
-Lazarus
-
-*MAPPA ⋅ Sci-Fi*
-
 ### Rewatching
 
 Mobile Fighter G Gundam
@@ -52,6 +48,10 @@ The Vampire Dies in No Time
 MADHOUSE ⋅ Comedy
 
 ### Watched
+
+Lazarus
+
+*MAPPA ⋅ Sci-Fi*
 
 Summertime Rendering
 
