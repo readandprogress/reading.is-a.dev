@@ -3,7 +3,7 @@ title: "Compartmentalizing my Digital Life"
 date: 2025-08-25 13:00:00 -0500
 last_modified_at:
 categories: Tech, General 
-tags: [ Digital Wellbeing, Compartmentalizing, Habits, Chromebook, Tablet, iPhone, Mi Band, Nintendo Switch Lite, Nintedo New 2DS XL, Google TV with Chromecast ]
+tags: [ Digital Wellbeing, Compartmentalizing, Habits, Chromebook, Tablet, iPhone, Nintendo Switch Lite, Nintedo New 2DS XL, Google TV with Chromecast ]
 time: 
 description: "I realized that if I want to stick to healthier habits, I should remove any barriers that prevent me from executing them. So I have divided certain tasks and activities between all of my devices, starting with..."
 toc: true
