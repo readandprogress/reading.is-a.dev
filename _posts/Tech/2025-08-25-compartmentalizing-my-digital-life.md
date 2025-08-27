@@ -1,10 +1,10 @@
 ---
 title: "Compartmentalizing my Digital Life"
 date: 2025-08-25 13:00:00 -0500
-last_modified_at:
+last_modified_at: 2025-08-27 19:25:00 -0500
 categories: Tech, General 
-tags: [ Digital Wellbeing, Compartmentalizing, Habits, Chromebook, Tablet, iPhone, Nintendo Switch Lite, Nintedo New 2DS XL, Google TV with Chromecast ]
-time: 
+tags: [ Digital Wellbeing, Compartmentalizing, Habits, Chromebook, Lenovo Tab M8, iPhone6s, Nintendo Switch Lite, New Nintendo 2DS XL, Google TV with Chromecast ]
+time: 01:27
 description: "I realized that if I want to stick to healthier habits, I should remove any barriers that prevent me from executing them. So I have divided certain tasks and activities between all of my devices, starting with..."
 toc: true
 pin: true
@@ -44,7 +44,7 @@ Even so, I still think it still does *too* much. Eventually, I'd like to get a s
 
 As my display name implies, I love reading a good book, mostly non-fiction and technical documentation, but I do read fiction when the mood strikes.
 
-Every time I wake up, usually in the morning, I pick up my tablet (a Lenovo Tab M8 Android tablet that I got a pretty good deal on.) and jump right into [ReadYou](https://github.com/ReadYouApp/ReadYou), my RSS app of choice. If there isn't anything new or interesting, I open [LXReader](https://gitlab.com/coolreader-ng/lxreader) or [MJPDF](https://gitlab.com/mudlej_android/mj_pdf_reader) straight away and continue where I left off on a book. I usually do this for half an hour, sometimes more; it all depends on my mood, if I'm particularly hungry, busy, etc.
+Every time I wake up, usually in the morning, I pick up my tablet (a Lenovo Tab M8 Android tablet that I got a pretty good deal on.) and jump right into [ReadYou](https://github.com/ReadYouApp/ReadYou), my RSS app of choice. If there isn't anything new or interesting, I open [Cantook](https://play.google.com/store/apps/details?id=com.aldiko.android&hl=en-US&pli=1) up straight away and continue where I left off on a book. I usually do this for half an hour, sometimes more; it all depends on my mood, if I'm particularly hungry, busy, etc.
 
 I've been habitually doing this for more than a year now, and it really got me to read more and read better. Can't recommend it enough if you struggle with reading; setting a dedicated time every day to read really does help!
 
@@ -62,7 +62,7 @@ On a later date, I'll talk more about my Jellyfin instance and my new homelab th
 
 ## My Gaming *Handhelds*, What Else Did You Expect?
 
-I'm the happy owner of both a Nintendo Switch Lite and a Nintendo New 2DS XL. These two, and especially my Switch, are my primary way of playing games. Why? Well, it's because I love handhelds!
+I'm the happy owner of both a Nintendo Switch Lite and a New Nintendo 2DS XL. These two, and especially my Switch, are my primary way of playing games. Why? Well, it's because I love handhelds!
 
 They're convenient, portable, and hassle-free! I just pick it up, and I can jump in where I left off.
 
@@ -91,6 +91,8 @@ I'm currently writing this post with it, and the site wouldn't be possible witho
 This is my productivity machine first and foremost, but I also use it for anything else I need as well, be it watching videos or even playing some lightweight games on it. It's my catchall device, but even so, I don't actually use it for anything other than productivity. Having other dedicated devices for those tasks and activities means I'm less inclined to do them here.
 
 I'm building habits around them, and habits are hard to break. Plus, my other devices are better suited for these other use cases anyway.
+
+## Closing Thoughts
 
 I don't know when the majority decided to have everything on one device, after the introduction of the iPhone most likely. Regardless, we've managed to trap ourselves on this one device; it's like being trapped in one of the rooms of your home, where you do everything. While we can survive like that, it isn't ideal or optimal.
 
