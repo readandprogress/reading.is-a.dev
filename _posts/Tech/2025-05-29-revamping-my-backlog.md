@@ -3,7 +3,7 @@ title: "Revamping my Backlog"
 date: 2025-05-29 17:00:00 -0500
 last_modified_at: 
 categories: Tech
-tags: [ Backlog, Notes, Anime, Manga, Gaming, Tracking, Devlog ]
+tags: [ Backlog, Notes, Anime, Manga, Gaming, Tracking, Developer Log ]
 time: 00:51
 description: I've been quite happy with my backlog since I added it back in January, but now I'm closing in on the middle of the year. I like to rework it a little. The page itself won't change much, but in the spirit of transitioning to a digital garden, I'm adding dedicated pages to each entry in the log. Where I can have notes, summaries, and screenshots all in one place for media. Like a commonplace book but online.
 toc: true  

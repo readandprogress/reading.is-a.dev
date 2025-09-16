@@ -3,7 +3,7 @@ title: "Goodbye my First Homelab ; _ ;"
 date: 2023-06-10 18:00:00 -0500
 last_modified_at: 2025-03-25 18:29:00 -0500
 categories: Tech
-tags: [ Homelab, Jellyfin, Linux, Raspberry Pi, SMB, File Sharing, Laptop, Samsung. Hardware, Failure ]
+tags: [ Homelab, Jellyfin, Linux, Raspberry Pi, Samba, File Sharing, Laptop, Hardware ]
 time: 
 description: I was going to post about my neat home lab, but unfortunately, it didn't work out. I was hosting a SMB file share and Jellyfin media server on a ten-year-old Samsung laptop. I had it lying around, and I thought it would be a good way to give new life to old hardware.
 toc: # false | Only when you don't wan TOC.  

@@ -2,7 +2,7 @@
 title: "Learning The Arch Way!"
 date: 2023-12-10 18:00:00 -0500
 last_modified_at: 2025-03-25 18:42:00 -0500
-tags: [ChromeOS, Chromebook, Linux, Arch, Debian, Server, Command-line, EndeavorOS ]
+tags: [ChromeOS, Chromebook, Linux, Arch Linux, Debian, Server, Command-line, EndeavorOS ]
 categories: Tech 
 description: I'm not familiar with Arch at all, coming from Debian and Debian-based systems, so there is a fair bit to get used to!
 ---

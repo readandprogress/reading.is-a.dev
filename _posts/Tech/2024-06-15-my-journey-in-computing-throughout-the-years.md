@@ -3,7 +3,7 @@ title: "My Journey in Computing Throughout the Years!"
 date: 2024-06-15 20:00:00 -0500
 last_modified_at: 2025-03-25 19:13:00 -0500
 categories: Tech 
-tags: [ Computing, Hardware, Software, Operating Systems, Linux, Windows, ChromeOS, Crostini, Nostalgia, Desktop, Laptop, Follow Up ]
+tags: [ Computing, Hardware, Software, Operating Systems, Linux, Windows, ChromeOS, Crostini, Nostalgia, Desktop, Laptop, Follow-up ]
 description: "I recently read a post by Kev Quirk about his computing history, and it seemed like a fun topic, so I'm going to put my own twist on it! I've been into computing for two decades now—yes, I'm old. (◔‿◔) In that time, I have gone through four computers; one laptop and three desktops, experimenting with several operating systems and applications!"
 ---
 
