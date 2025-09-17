@@ -2,18 +2,18 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
-  <title>Chirpy</title>
-  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-09-17T21:43:37+00:00</updated>
+  <title>Re: Discover</title>
+  <subtitle>My own little corner of the web, where I discover new and old interests alike!</subtitle>
+  <updated>2025-09-17T18:26:45-04:00</updated>
   <author>
-    <name>your_full_name</name>
+    <name>Reading</name>
     <uri>http://localhost:4000/</uri>
   </author>
   <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
-  <rights> © 2025 your_full_name </rights>
+  <rights> © 2025 Reading </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
@@ -22,19 +22,17 @@
   <entry>
     <title>Compartmentalizing my Digital Life</title>
     <link href="http://localhost:4000/posts/compartmentalizing-my-digital-life/" rel="alternate" type="text/html" title="Compartmentalizing my Digital Life" />
-    <published>2025-08-25T18:00:00+00:00</published>
+    <published>2025-08-25T14:00:00-04:00</published>
   
-    <updated>2025-08-28T00:25:00+00:00</updated>
+    <updated>2025-08-27T20:25:00-04:00</updated>
   
     <id>http://localhost:4000/posts/compartmentalizing-my-digital-life/</id>
     <content type="text/html" src="http://localhost:4000/posts/compartmentalizing-my-digital-life/" />
     <author>
-      <name>your_full_name</name>
+      <name>Reading</name>
     </author>
 
   
-    
-    <category term="Tech" />
     
   
 
@@ -46,19 +44,17 @@
   <entry>
     <title>Give Evening Pages a Try!</title>
     <link href="http://localhost:4000/posts/give-evening-pages-a-try/" rel="alternate" type="text/html" title="Give Evening Pages a Try!" />
-    <published>2025-07-31T00:00:00+00:00</published>
+    <published>2025-07-30T20:00:00-04:00</published>
   
-    <updated>2025-09-17T21:42:28+00:00</updated>
+    <updated>2025-09-17T17:42:28-04:00</updated>
   
     <id>http://localhost:4000/posts/give-evening-pages-a-try/</id>
     <content type="text/html" src="http://localhost:4000/posts/give-evening-pages-a-try/" />
     <author>
-      <name>your_full_name</name>
+      <name>Reading</name>
     </author>
 
   
-    
-    <category term="Writing" />
     
   
 
@@ -71,14 +67,14 @@ For me, I don't have trouble staying motivated once I start; I can stay in the f
   <entry>
     <title>Has It Been Two Years Already?</title>
     <link href="http://localhost:4000/posts/has-it-been-two-years-already/" rel="alternate" type="text/html" title="Has It Been Two Years Already?" />
-    <published>2025-06-25T23:00:00+00:00</published>
+    <published>2025-06-25T19:00:00-04:00</published>
   
-    <updated>2025-09-17T21:42:28+00:00</updated>
+    <updated>2025-06-25T19:00:00-04:00</updated>
   
     <id>http://localhost:4000/posts/has-it-been-two-years-already/</id>
     <content type="text/html" src="http://localhost:4000/posts/has-it-been-two-years-already/" />
     <author>
-      <name>your_full_name</name>
+      <name>Reading</name>
     </author>
 
   
@@ -93,19 +89,17 @@ For me, I don't have trouble staying motivated once I start; I can stay in the f
   <entry>
     <title>Revamping my Backlog</title>
     <link href="http://localhost:4000/posts/revamping-my-backlog/" rel="alternate" type="text/html" title="Revamping my Backlog" />
-    <published>2025-05-29T22:00:00+00:00</published>
+    <published>2025-05-29T18:00:00-04:00</published>
   
-    <updated>2025-09-17T21:42:28+00:00</updated>
+    <updated>2025-09-17T17:42:28-04:00</updated>
   
     <id>http://localhost:4000/posts/revamping-my-backlog/</id>
     <content type="text/html" src="http://localhost:4000/posts/revamping-my-backlog/" />
     <author>
-      <name>your_full_name</name>
+      <name>Reading</name>
     </author>
 
   
-    
-    <category term="Tech" />
     
   
 
@@ -117,19 +111,17 @@ For me, I don't have trouble staying motivated once I start; I can stay in the f
   <entry>
     <title>Taking Inkdown for a Spin!</title>
     <link href="http://localhost:4000/posts/taking-inkdown-for-a-spin/" rel="alternate" type="text/html" title="Taking Inkdown for a Spin!" />
-    <published>2025-04-10T23:00:00+00:00</published>
+    <published>2025-04-10T19:00:00-04:00</published>
   
-    <updated>2025-04-15T22:00:00+00:00</updated>
+    <updated>2025-04-15T18:00:00-04:00</updated>
   
     <id>http://localhost:4000/posts/taking-inkdown-for-a-spin/</id>
     <content type="text/html" src="http://localhost:4000/posts/taking-inkdown-for-a-spin/" />
     <author>
-      <name>your_full_name</name>
+      <name>Reading</name>
     </author>
 
   
-    
-    <category term="Tech" />
     
   
 

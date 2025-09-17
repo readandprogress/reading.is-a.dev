@@ -2,8 +2,7 @@
 title: "What I Learned From Org-Mode and Why I Returned to Markdown."
 date: 2025-02-28 18:00:00 -0500
 last_modified_at: 2025-03-25 19:31:00 -0500
-categories: Tech
-tags: [ Org mode, Markdown, Todo.txt, Habits.txt, Plain-text, Productivity, Task Management, Tools, GitHub, GitLab, Git, Jekyll, Emacs, VSCode, Command-line, Micro, Exporting, Frontmatter, Zetelkasten ]
+tags: [ Tech, Org mode, Markdown, Todo.txt, Habits.txt, Plain-text, Productivity, Task Management, Tools, GitHub, GitLab, Git, Jekyll, Emacs, VSCode, Command-line, Micro, Exporting, Frontmatter, Zetelkasten ]
 time: 1:37
 description: I've been tinkering with Org-Mode for a while now; my search for more productivity tools led me to it, and I instantly fell in love with how it handles task management!
 toc: false
