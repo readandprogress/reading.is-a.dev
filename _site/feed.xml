@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-09-17T21:36:51+00:00</updated>
+  <updated>2025-09-17T21:43:37+00:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,125 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Compartmentalizing my Digital Life</title>
+    <link href="http://localhost:4000/posts/compartmentalizing-my-digital-life/" rel="alternate" type="text/html" title="Compartmentalizing my Digital Life" />
+    <published>2025-08-25T18:00:00+00:00</published>
+  
+    <updated>2025-08-28T00:25:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/compartmentalizing-my-digital-life/</id>
+    <content type="text/html" src="http://localhost:4000/posts/compartmentalizing-my-digital-life/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="Tech" />
+    
+  
+
+  <summary>I realized that if I want to stick to healthier habits, I should remove any barriers that prevent me from executing them. So I have divided certain tasks and activities between all of my devices, starting with...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Give Evening Pages a Try!</title>
+    <link href="http://localhost:4000/posts/give-evening-pages-a-try/" rel="alternate" type="text/html" title="Give Evening Pages a Try!" />
+    <published>2025-07-31T00:00:00+00:00</published>
+  
+    <updated>2025-09-17T21:42:28+00:00</updated>
+  
+    <id>http://localhost:4000/posts/give-evening-pages-a-try/</id>
+    <content type="text/html" src="http://localhost:4000/posts/give-evening-pages-a-try/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="Writing" />
+    
+  
+
+  <summary>Writing can be hard and sometimes almost nigh impossible; it is something you have to be in the right mindset for.
+For me, I don't have trouble staying motivated once I start; I can stay in the flow state for long periods of time. My problem more so comes from starting.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Has It Been Two Years Already?</title>
+    <link href="http://localhost:4000/posts/has-it-been-two-years-already/" rel="alternate" type="text/html" title="Has It Been Two Years Already?" />
+    <published>2025-06-25T23:00:00+00:00</published>
+  
+    <updated>2025-09-17T21:42:28+00:00</updated>
+  
+    <id>http://localhost:4000/posts/has-it-been-two-years-already/</id>
+    <content type="text/html" src="http://localhost:4000/posts/has-it-been-two-years-already/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+  
+
+  <summary>Yes, apparently so! I'm still flabbergasted, but dates don't lie, do they? It has been two years since the start of this digital garden, formerly a blog, all the way back to my first post in March 2023. Wild!</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Revamping my Backlog</title>
+    <link href="http://localhost:4000/posts/revamping-my-backlog/" rel="alternate" type="text/html" title="Revamping my Backlog" />
+    <published>2025-05-29T22:00:00+00:00</published>
+  
+    <updated>2025-09-17T21:42:28+00:00</updated>
+  
+    <id>http://localhost:4000/posts/revamping-my-backlog/</id>
+    <content type="text/html" src="http://localhost:4000/posts/revamping-my-backlog/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="Tech" />
+    
+  
+
+  <summary>I've been quite happy with my backlog since I added it back in January, but now I'm closing in on the middle of the year. I like to rework it a little. The page itself won't change much, but in the spirit of transitioning to a digital garden, I'm adding dedicated pages to each entry in the log. Where I can have notes, summaries, and screenshots all in one place for media. Like a commonplace boo...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Taking Inkdown for a Spin!</title>
+    <link href="http://localhost:4000/posts/taking-inkdown-for-a-spin/" rel="alternate" type="text/html" title="Taking Inkdown for a Spin!" />
+    <published>2025-04-10T23:00:00+00:00</published>
+  
+    <updated>2025-04-15T22:00:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/taking-inkdown-for-a-spin/</id>
+    <content type="text/html" src="http://localhost:4000/posts/taking-inkdown-for-a-spin/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="Tech" />
+    
+  
+
+  <summary>As I said back in an earlier post, I decided to go back to Markdown for all my notes. I use VS Code as my Markdown editor of choice for writing these posts and taking notes, but I recently learned about a new Markdown notetaking app that caught my interest, so I’ve decided to take it for a spin!  The app is called Inkdown and is by far the best Markdown notetaking app I have the pleasure of usi...</summary>
+
+  </entry>
 
 </feed>
 
