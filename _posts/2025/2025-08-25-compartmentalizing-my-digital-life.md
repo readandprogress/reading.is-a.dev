@@ -9,7 +9,7 @@ toc: true
 pin: true
 ---
 
-I previously mentioned some of my devices in a [post]({% post_url /Tech/2025-01-21-my-device-naming-scheme %}) where I share their names. Yes, I'm one of those weird people that do in fact name their electronics for fun and for practicality!
+I previously mentioned some of my devices in a [post]({% post_url /2025/2025-01-21-my-device-naming-scheme %}) where I share their names. Yes, I'm one of those weird people that do in fact name their electronics for fun and for practicality!
 
 Nevertheless, I have recently been thinking of compartmentalizing my usage of them more after taking a brief digital detox from my phone.
 

@@ -6,6 +6,7 @@ time: 68:32.1
 toc: true
 description: Whelp, a week has passed but unfortunately due to unforeseen events with the weather, writing was far from being the most important thing in my mind these last couple of days...
 ---
+
 Whelp, a week has passed but unfortunately due to unforeseen events with the weather, writing was far from being the most important thing in my mind these last couple of days...
 
 But it's not all doom and gloom. There's always a silver lining, as they say. The biggest nugget of knowledge that I got from this experience is that a week is not at all enough time to brainstorm ideas, regardless of the situation. One of my downfalls is that I tend to think things take less time than they actually do. Heh-heh.

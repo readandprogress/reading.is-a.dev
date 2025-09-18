@@ -23,7 +23,7 @@ Now before we delve on that, let me tell you how I synced my notes and all my fi
 
 Like I said before, I used to have a small homelab setup in which I had a Samba server, so in this case I didn't sync my files at all and just had a centralized place for them. This was the best thing I had ever done in terms of file management. No need to worry about syncing conflicts and losing data over it, which happened more than once for me, RIP.
 
-After my home lab suffered an early death due to a bad power supply which, by the way, you can read about [here]({% post_url /Tech/2023-06-10-goodbye-my-first-homelab %})!
+After my home lab suffered an early death due to a bad power supply which, by the way, you can read about [here]({% post_url /2023/2023-06-10-goodbye-my-first-homelab %})!
 
 It was back to good old syncing for me. This time I just manually synced some files. I keep everything on a flash drive connected to my Chromebook and some files like my movies, shows and books on my tablet, since that's where I consume most of that media.
 

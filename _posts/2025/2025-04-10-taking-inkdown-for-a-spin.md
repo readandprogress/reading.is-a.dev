@@ -1,15 +1,15 @@
 ---
 title: "Taking Inkdown for a Spin!"
 date: 2025-04-10 18:00:00 -0500
-last_modified_at: 2025-04-15 17:00 -0500
+last_modified_at: 2025-09-18 17:53:00 -0500
 tags: [ Tech, Markdown, Notetaking, Inkdown, VSCode, Productivity, Writing, Tools, Software, Editors, Progressive Web App ]
 time: 00:94
-description:
-toc: # false | Only when you don't wan TOC.  
+description: I decided to go back to Markdown for all my notes. I use VS Code as my Markdown editor of choice for writing these posts and taking notes, but I recently learned about a new Markdown notetaking app that caught my interest, so I've decided to take it for a spin!
+toc: true # false | Only when you don't wan TOC.  
 pin: false
 ---
 
-As I said back in an earlier [post]({% post_url /Tech/2025-02-28-what-i-learned-from-org-mode-and-why-I-returned-to-markdown %}), I decided to go back to Markdown for all my notes. I use VS Code as my Markdown editor of choice for writing these posts and taking notes, but I recently learned about a new Markdown notetaking app that caught my interest, so I've decided to take it for a spin!
+As I said back in an earlier [post]({% post_url /2025/2025-02-28-what-i-learned-from-org-mode-and-why-I-returned-to-markdown %}), I decided to go back to Markdown for all my notes. I use VS Code as my Markdown editor of choice for writing these posts and taking notes, but I recently learned about a new Markdown notetaking app that caught my interest, so I've decided to take it for a spin!
 
 The app is called [Inkdown](https://www.inkdown.me/) and is by far the best Markdown notetaking app I have the pleasure of using. I have tried several others, but none of them are as simple and intuitive as Inkdown is, in my opinion. Apps like Logseq[^1] and Obsidian[^2] are simple and minimal at first, but they try to accomplish too much, in my opinion. At their base, they're just Markdown editors with unnecessary fluff on top, so much so that the final Markdown file is barely unrecognizable and loses out on its portability, something that these apps proudly highlight on their websites, ironically.
 

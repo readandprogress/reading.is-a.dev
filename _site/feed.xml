@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Re: Discover</title>
   <subtitle>My own little corner of the web, where I discover new and old interests alike!</subtitle>
-  <updated>2025-09-17T18:26:45-04:00</updated>
+  <updated>2025-09-18T18:06:56-04:00</updated>
   <author>
     <name>Reading</name>
     <uri>http://localhost:4000/</uri>
@@ -46,7 +46,7 @@
     <link href="http://localhost:4000/posts/give-evening-pages-a-try/" rel="alternate" type="text/html" title="Give Evening Pages a Try!" />
     <published>2025-07-30T20:00:00-04:00</published>
   
-    <updated>2025-09-17T17:42:28-04:00</updated>
+    <updated>2025-07-30T20:00:00-04:00</updated>
   
     <id>http://localhost:4000/posts/give-evening-pages-a-try/</id>
     <content type="text/html" src="http://localhost:4000/posts/give-evening-pages-a-try/" />
@@ -91,7 +91,7 @@ For me, I don't have trouble staying motivated once I start; I can stay in the f
     <link href="http://localhost:4000/posts/revamping-my-backlog/" rel="alternate" type="text/html" title="Revamping my Backlog" />
     <published>2025-05-29T18:00:00-04:00</published>
   
-    <updated>2025-09-17T17:42:28-04:00</updated>
+    <updated>2025-05-29T18:00:00-04:00</updated>
   
     <id>http://localhost:4000/posts/revamping-my-backlog/</id>
     <content type="text/html" src="http://localhost:4000/posts/revamping-my-backlog/" />
@@ -113,7 +113,7 @@ For me, I don't have trouble staying motivated once I start; I can stay in the f
     <link href="http://localhost:4000/posts/taking-inkdown-for-a-spin/" rel="alternate" type="text/html" title="Taking Inkdown for a Spin!" />
     <published>2025-04-10T19:00:00-04:00</published>
   
-    <updated>2025-04-15T18:00:00-04:00</updated>
+    <updated>2025-09-18T18:53:00-04:00</updated>
   
     <id>http://localhost:4000/posts/taking-inkdown-for-a-spin/</id>
     <content type="text/html" src="http://localhost:4000/posts/taking-inkdown-for-a-spin/" />
@@ -125,7 +125,7 @@ For me, I don't have trouble staying motivated once I start; I can stay in the f
     
   
 
-  <summary>As I said back in an earlier post, I decided to go back to Markdown for all my notes. I use VS Code as my Markdown editor of choice for writing these posts and taking notes, but I recently learned about a new Markdown notetaking app that caught my interest, so I’ve decided to take it for a spin!  The app is called Inkdown and is by far the best Markdown notetaking app I have the pleasure of usi...</summary>
+  <summary>I decided to go back to Markdown for all my notes. I use VS Code as my Markdown editor of choice for writing these posts and taking notes, but I recently learned about a new Markdown notetaking app that caught my interest, so I've decided to take it for a spin!</summary>
 
   </entry>
 

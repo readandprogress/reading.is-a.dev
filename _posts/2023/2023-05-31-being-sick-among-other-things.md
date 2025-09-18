@@ -2,8 +2,9 @@
 title: "Being Sick Among Other Things"
 date: 2023-05-31 20:00:00 -0500
 tags: [ Thoughts, Agenda, Writing ]
+time: 50:00
 description: I planned for this blog to be for long-form posts, but I guess I can make an exception for today, and microblogs and microblogging are pretty cool! But I digress.
-toc: # false | Only when you don't wan TOC.  
+toc: false # false | Only when you don't wan TOC.  
 ---
 I planned for this blog to be for long-form posts, but I guess I can make an exception for today, and microblogs and microblogging are pretty cool! But I digress.
 
