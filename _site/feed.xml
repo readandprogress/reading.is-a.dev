@@ -3,8 +3,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
   <title>Re: Discover</title>
-  <subtitle>My own little corner of the web, where I discover new and old interests alike!</subtitle>
-  <updated>2025-09-18T19:09:48-04:00</updated>
+  <subtitle>In this little corner of the web I share thoughts, logs, notes, and projects, rediscovering my love for tech, writing, games, anime, manga, and tinkering in the process!</subtitle>
+  <updated>2025-09-19T19:56:17-04:00</updated>
   <author>
     <name>Reading</name>
     <uri>http://localhost:4000/</uri>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Compartmentalizing my Digital Life</title>
-    <link href="http://localhost:4000/posts/compartmentalizing-my-digital-life/" rel="alternate" type="text/html" title="Compartmentalizing my Digital Life" />
+    <link href="http://localhost:4000/compartmentalizing-my-digital-life/" rel="alternate" type="text/html" title="Compartmentalizing my Digital Life" />
     <published>2025-08-25T14:00:00-04:00</published>
   
     <updated>2025-08-27T20:25:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/compartmentalizing-my-digital-life/</id>
-    <content type="text/html" src="http://localhost:4000/posts/compartmentalizing-my-digital-life/" />
+    <id>http://localhost:4000/compartmentalizing-my-digital-life/</id>
+    <content type="text/html" src="http://localhost:4000/compartmentalizing-my-digital-life/" />
     <author>
       <name>Reading</name>
     </author>
@@ -43,13 +43,13 @@
   
   <entry>
     <title>Give Evening Pages a Try!</title>
-    <link href="http://localhost:4000/posts/give-evening-pages-a-try/" rel="alternate" type="text/html" title="Give Evening Pages a Try!" />
+    <link href="http://localhost:4000/give-evening-pages-a-try/" rel="alternate" type="text/html" title="Give Evening Pages a Try!" />
     <published>2025-07-30T20:00:00-04:00</published>
   
     <updated>2025-07-30T20:00:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/give-evening-pages-a-try/</id>
-    <content type="text/html" src="http://localhost:4000/posts/give-evening-pages-a-try/" />
+    <id>http://localhost:4000/give-evening-pages-a-try/</id>
+    <content type="text/html" src="http://localhost:4000/give-evening-pages-a-try/" />
     <author>
       <name>Reading</name>
     </author>
@@ -66,13 +66,13 @@ For me, I don't have trouble staying motivated once I start; I can stay in the f
   
   <entry>
     <title>Has It Been Two Years Already?</title>
-    <link href="http://localhost:4000/posts/has-it-been-two-years-already/" rel="alternate" type="text/html" title="Has It Been Two Years Already?" />
+    <link href="http://localhost:4000/has-it-been-two-years-already/" rel="alternate" type="text/html" title="Has It Been Two Years Already?" />
     <published>2025-06-25T19:00:00-04:00</published>
   
     <updated>2025-06-25T19:00:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/has-it-been-two-years-already/</id>
-    <content type="text/html" src="http://localhost:4000/posts/has-it-been-two-years-already/" />
+    <id>http://localhost:4000/has-it-been-two-years-already/</id>
+    <content type="text/html" src="http://localhost:4000/has-it-been-two-years-already/" />
     <author>
       <name>Reading</name>
     </author>
@@ -88,13 +88,13 @@ For me, I don't have trouble staying motivated once I start; I can stay in the f
   
   <entry>
     <title>Revamping my Backlog</title>
-    <link href="http://localhost:4000/posts/revamping-my-backlog/" rel="alternate" type="text/html" title="Revamping my Backlog" />
+    <link href="http://localhost:4000/revamping-my-backlog/" rel="alternate" type="text/html" title="Revamping my Backlog" />
     <published>2025-05-29T18:00:00-04:00</published>
   
     <updated>2025-05-29T18:00:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/revamping-my-backlog/</id>
-    <content type="text/html" src="http://localhost:4000/posts/revamping-my-backlog/" />
+    <id>http://localhost:4000/revamping-my-backlog/</id>
+    <content type="text/html" src="http://localhost:4000/revamping-my-backlog/" />
     <author>
       <name>Reading</name>
     </author>
@@ -110,13 +110,13 @@ For me, I don't have trouble staying motivated once I start; I can stay in the f
   
   <entry>
     <title>Taking Inkdown for a Spin!</title>
-    <link href="http://localhost:4000/posts/taking-inkdown-for-a-spin/" rel="alternate" type="text/html" title="Taking Inkdown for a Spin!" />
+    <link href="http://localhost:4000/taking-inkdown-for-a-spin/" rel="alternate" type="text/html" title="Taking Inkdown for a Spin!" />
     <published>2025-04-10T19:00:00-04:00</published>
   
     <updated>2025-09-18T18:53:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/taking-inkdown-for-a-spin/</id>
-    <content type="text/html" src="http://localhost:4000/posts/taking-inkdown-for-a-spin/" />
+    <id>http://localhost:4000/taking-inkdown-for-a-spin/</id>
+    <content type="text/html" src="http://localhost:4000/taking-inkdown-for-a-spin/" />
     <author>
       <name>Reading</name>
     </author>
@@ -130,5 +130,4 @@ For me, I don't have trouble staying motivated once I start; I can stay in the f
   </entry>
 
 </feed>
-
 
