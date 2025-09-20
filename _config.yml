@@ -14,16 +14,15 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "Reading's Dimension" # the main title
-
-tagline: A dimension like no other. # it will display as the subtitle
+title: "Re: Discover" # the main title
+tagline: A running space for my thoughts, logs, and notes # the tagline
 
 description: >- # used by seo meta and the atom feed
-  Welcome to my own little corner of the web! Here, I muse about a variety of topics, mostly tech-related, but I also dabble in others like anime, manga, writing, and gaming as well! (•‿•)
+  In this little corner of the web I share thoughts, logs, notes, and projects, rediscovering my love for tech, writing, games, anime, manga, and tinkering in the process!
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://reading.is-a.dev"
+url: ""
 
 github:
   username: readandprogress # change to your GitHub username
@@ -40,14 +39,36 @@ social:
 
   # Site Verification Settings
 webmaster_verifications:
+  google: # fill in your Google verification code
+  bing: # fill in your Bing verification code
+  alexa: # fill in your Alexa verification code
+  yandex: # fill in your Yandex verification code
+  baidu: # fill in your Baidu verification code
+  facebook:
+    # fill in your Facebook verification code
 
-# ↑ --------------------------
-# The end of `jekyll-seo-tag` settings
+    # ↑ --------------------------
+    # The end of `jekyll-seo-tag` settings
 
-# Web Analytics Settings
+    # Web Analytics Settings
 analytics:
+  google:
+    id: # fill in your Google Analytics ID
+  goatcounter:
+    id: # fill in your GoatCounter ID
+  umami:
+    id: # fill in your Umami ID
+    domain: # fill in your Umami domain
+  matomo:
+    id: # fill in your Matomo ID
+    domain: # fill in your Matomo domain
+  cloudflare:
+    id: # fill in your Cloudflare Web Analytics token
+  fathom:
+    id:
+      # fill in your Fathom Site ID
 
-# Page views settings
+      # Page views settings
 pageviews:
   provider:
     # now only supports 'goatcounter'
@@ -77,12 +98,39 @@ avatar: https://avatars.githubusercontent.com/u/126733238?v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: https://avatars.githubusercontent.com/u/126733238?v=4
+social_preview_image: https://avatars.githubusercontent.com/u/126733238?v=4 # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
 
-# Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
+comments:
+  # Global switch for the post-comment system. Keeping it empty means disabled.
+  provider:
+    # [disqus | utterances | giscus]
+    # The provider options are as follows:
+
+  disqus:
+    shortname:
+      # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+      # utterances settings › https://utteranc.es/
+  utterances:
+    repo: # <gh-username>/<repo>
+    issue_term:
+      # < url | pathname | title | ...>
+      # Giscus options › https://giscus.app
+  giscus:
+    repo: # <gh-username>/<repo>
+    repo_id:
+    category:
+    category_id:
+    mapping: # optional, default to 'pathname'
+    strict: # optional, default to '0'
+    input_position: # optional, default to 'bottom'
+    lang: # optional, default to the value of `site.lang`
+    reactions_enabled:
+      # optional, default to the value of `1`
+
+      # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
     enabled:
@@ -122,24 +170,6 @@ kramdown:
     block:
       line_numbers: true
       start_line: 1
-
-# Navigation links
-nav:
-- title: Home
-  url: /
-  order: 1
-- title: Categories
-  url: /categories/
-  order: 2
-- title: Archives
-  url: /archives/
-  order: 3
-- title: Backlog
-  url: /backlog/
-  order: 4
-- title: About
-  url: /about/
-  order: 5
 
 collections:
   tabs:
@@ -188,7 +218,7 @@ exclude:
 - README.md
 - LICENSE
 - purgecss.js
-- rollup.config.js
+- "*.config.js"
 - "package*.json"
 
 jekyll-archives:
@@ -199,6 +229,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-plugins:
-- "jekyll-github-metadata"

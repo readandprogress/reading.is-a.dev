@@ -51,7 +51,7 @@ MADHOUSE ⋅ Comedy
 
 Lazarus
 
-*MAPPA ⋅ Sci-Fi*
+MAPPA ⋅ Sci-Fi
 
 Summertime Rendering
 
@@ -345,50 +345,6 @@ The Grimm Variations
 
 Wit Studio ⋅ Fantasy
 
-## Manga
-
-### Reading
-
-[Moriarty the Patriot](/media/books/manga/moriarty-the-patriot/)
-
-*Takeuchi Ryousuke/Miyoshi Hikaru ⋅ Mystery*
-
-[Moriarty the Patriot: The Remains](/media/books/manga/moriarty-the-patriot-the-remains/)
-
-*Saita Yosuke/Miyoshi Hikaru ⋅ Mystery*
-
-[Fire Emblem Engage](/media/books/manga/fire-emblem-engage/)
-
-*Kazuro Kyou ⋅ Fantasy*
-
-[Digimon Liberator](/media/books/manga/digimon-liberator/)
-
-*Kuniaki Totsuka ⋅ Fantasy* 
-
-[Cardfight!! Vanguard: YouthQuake](/media/books/manga/cardfight-vanguard-youthquake/)
-
-*Quily ⋅ Action*
-
-### Rereading
-
-[Yu-Gi-Oh!](/media/books/manga/yu-gi-oh/)
-
-*Takahashi Kazuki ⋅ Adventure*
-
-### Planning To Read
-
-[Soul Eater](/media/books/manga/soul-eater/)
-
-*Ookubo Atsushi ⋅ Action*
-
-### On Hold
-
-### Read
-
-[Yu-Gi-Oh! GX](/media/books/manga/yu-gi-oh-gx/)
-
-*Kageyama Naoyuki/Takahashi Kazuki ⋅ Adventure*
-
 ## Games
 
 ### Playing
@@ -401,11 +357,11 @@ Yu-Gi-Oh! Master Duel
 
 Valkyria Chronicles 4
 
-*Media.Vision ⋅ Nintendo Switch ⋅ RPG*
+Media.Vision ⋅ Nintendo Switch ⋅ RPG
 
-[Fire Emblem Engage](/media/games/fire-emblem-engage/)
+Fire Emblem Engage
 
-*Intelligent Systems ⋅ Nintendo Switch ⋅ RPG*
+Intelligent Systems ⋅ Nintendo Switch ⋅ RPG
 
 ### Planning To Play
 
