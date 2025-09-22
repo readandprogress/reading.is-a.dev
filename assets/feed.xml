@@ -4,51 +4,69 @@ permalink: /feed.xml
 # Atom Feed, reference: https://validator.w3.org/feed/docs/atom.html
 ---
 
-{% capture source %}
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <id>{{ "/" | absolute_url }}</id>
-  <title>{{ site.title }}</title>
-  <subtitle>{{ site.description }}</subtitle>
-  <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <author>
-    <name>{{ site.social.name }}</name>
-    <uri>{{ "/" | absolute_url }}</uri>
-  </author>
-  <link rel="self" type="application/atom+xml" href="{{ page.url | absolute_url }}"/>
-  <link rel="alternate" type="text/html" hreflang="{{ site.alt_lang | default: site.lang }}"
-    href="{{ '/' | absolute_url }}"/>
-  <generator uri="https://jekyllrb.com/" version="{{ jekyll.version }}">Jekyll</generator>
-  <rights> © {{ 'now' | date: '%Y' }} {{ site.social.name }} </rights>
-  <icon>{{ site.baseurl }}/assets/img/favicons/favicon.ico</icon>
-  <logo>{{ site.baseurl }}/assets/img/favicons/favicon-96x96.png</logo>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+  <channel>
+    <title>{{ site.title | default: site.name | default: site.url | xml_escape }}</title>
+    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
+    <sy:updatePeriod>{{ site.feed_update_period | default: "daily" | xml_escape }}</sy:updatePeriod>
+    <sy:updateFrequency>{{ site.feed_update_frequency | default: 1 | xml_escape }}</sy:updateFrequency>
 
-{% for post in site.posts limit: 5 %}
-  {% assign post_absolute_url = post.url | absolute_url %}
-  <entry>
-    <title>{{ post.title }}</title>
-    <link href="{{ post_absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
-    <published>{{ post.date | date_to_xmlschema }}</published>
-  {% if post.last_modified_at %}
-    <updated>{{ post.last_modified_at | date_to_xmlschema }}</updated>
-  {% else %}
-    <updated>{{ post.date | date_to_xmlschema }}</updated>
-  {% endif %}
-    <id>{{ post_absolute_url }}</id>
-    <content type="text/html" src="{{ post_absolute_url }}" />
-    <author>
-      <name>{{ post.author | default: site.social.name }}</name>
-    </author>
+    <link>{{ site.url | append: site.baseurl | xml_escape }}</link>
+    <atom:link href="{{ site.url | append: site.baseurl | append: '/feed.xml' | xml_escape }}" rel="self" type="application/rss+xml" />
 
-  {% if post.categories %}
-    {% for category in post.categories %}
-    <category term="{{ category }}" />
+    {% assign latest = site.posts | first %}
+    {% if latest %}
+      <lastBuildDate>{{ latest.date | date_to_rfc822 }}</lastBuildDate>
+    {% endif %}
+
+    {% assign feed_items = site.feed_items | default: 10 %}
+    {% for post in site.posts limit:feed_items %}
+      <item>
+        <title>{{ post.title | xml_escape }}</title>
+        {% if post.author and post.author.name %}
+          <dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
+        {% endif %}
+
+        {%- comment -%}
+          Build absolute host and post URL values (rendered now so replacements use actual strings).
+        {%- endcomment -%}
+        {% assign host = site.url | append: site.baseurl %}
+        {% assign post_abs = host | append: post.url %}
+
+        {%- comment -%}
+          Capture post HTML, then perform literal replacements that insert the expanded host/post_abs values.
+          We use capture to build replacement strings so Liquid expands host/post_abs before use.
+        {%- endcomment -%}
+        {% capture raw_content %}{{ post.content | strip }}{% endcapture %}
+        {% capture href_rep %} href="{{ host }}/{% endcapture %}
+        {% capture src_rep %} src="{{ host }}/{% endcapture %}
+        {% capture proto_href %} href="https://{% endcapture %}
+        {% capture proto_src %} src="https://{% endcapture %}
+        {% capture frag_rep %} href="{{ post_abs }}# {% endcapture %}
+
+        {% assign c = raw_content
+           | replace: ' href="/', href_rep
+           | replace: ' src="/', src_rep
+           | replace: ' href="//', proto_href
+           | replace: ' src="//', proto_src
+        %}
+
+        {%- comment -%}
+          Replace fragment-only links like href="#foo" -> href="POSTABS#foo".
+          Because Liquid replace is literal, replace the sequence ' href="#' with the prepared frag_rep string.
+        {%- endcomment -%}
+        {% assign c = c | replace: ' href="#', frag_rep %}
+
+        <description><![CDATA[{{ c | strip_newlines }}]]></description>
+
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <link>{{ post_abs | xml_escape }}</link>
+        <guid isPermaLink="true">{{ post_abs | xml_escape }}</guid>
+      </item>
     {% endfor %}
-  {% endif %}
-
-  <summary>{% include post-description.html max_length=400 %}</summary>
-
-  </entry>
-{% endfor %}
-</feed>
-{% endcapture %}
-{{ source | replace: '&', '&amp;' }}
+  </channel>
+</rss>

@@ -1,133 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+  <channel>
+    <title>Re: Discover</title>
+    <description>In this little corner of the web I share thoughts, logs, notes, and projects, rediscovering my love for tech, writing, games, anime, manga, and tinkering in the process!</description>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
 
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
-  <title>Re: Discover</title>
-  <subtitle>In this little corner of the web I share thoughts, logs, notes, and projects, rediscovering my love for tech, writing, games, anime, manga, and tinkering in the process!</subtitle>
-  <updated>2025-09-19T19:56:17-04:00</updated>
-  <author>
-    <name>Reading</name>
-    <uri>http://localhost:4000/</uri>
-  </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
-  <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/"/>
-  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
-  <rights> © 2025 Reading </rights>
-  <icon>/assets/img/favicons/favicon.ico</icon>
-  <logo>/assets/img/favicons/favicon-96x96.png</logo>
-
-
-  
-  <entry>
-    <title>Compartmentalizing my Digital Life</title>
-    <link href="http://localhost:4000/compartmentalizing-my-digital-life/" rel="alternate" type="text/html" title="Compartmentalizing my Digital Life" />
-    <published>2025-08-25T14:00:00-04:00</published>
-  
-    <updated>2025-08-27T20:25:00-04:00</updated>
-  
-    <id>http://localhost:4000/compartmentalizing-my-digital-life/</id>
-    <content type="text/html" src="http://localhost:4000/compartmentalizing-my-digital-life/" />
-    <author>
-      <name>Reading</name>
-    </author>
-
-  
     
-  
-
-  <summary>I realized that if I want to stick to healthier habits, I should remove any barriers that prevent me from executing them. So I have divided certain tasks and activities between all of my devices, starting with...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Give Evening Pages a Try!</title>
-    <link href="http://localhost:4000/give-evening-pages-a-try/" rel="alternate" type="text/html" title="Give Evening Pages a Try!" />
-    <published>2025-07-30T20:00:00-04:00</published>
-  
-    <updated>2025-07-30T20:00:00-04:00</updated>
-  
-    <id>http://localhost:4000/give-evening-pages-a-try/</id>
-    <content type="text/html" src="http://localhost:4000/give-evening-pages-a-try/" />
-    <author>
-      <name>Reading</name>
-    </author>
-
-  
     
-  
-
-  <summary>Writing can be hard and sometimes almost nigh impossible; it is something you have to be in the right mindset for.
-For me, I don't have trouble staying motivated once I start; I can stay in the flow state for long periods of time. My problem more so comes from starting.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Has It Been Two Years Already?</title>
-    <link href="http://localhost:4000/has-it-been-two-years-already/" rel="alternate" type="text/html" title="Has It Been Two Years Already?" />
-    <published>2025-06-25T19:00:00-04:00</published>
-  
-    <updated>2025-06-25T19:00:00-04:00</updated>
-  
-    <id>http://localhost:4000/has-it-been-two-years-already/</id>
-    <content type="text/html" src="http://localhost:4000/has-it-been-two-years-already/" />
-    <author>
-      <name>Reading</name>
-    </author>
-
-  
+      <lastBuildDate>Mon, 25 Aug 2025 14:00:00 -0400</lastBuildDate>
     
-  
 
-  <summary>Yes, apparently so! I'm still flabbergasted, but dates don't lie, do they? It has been two years since the start of this digital garden, formerly a blog, all the way back to my first post in March 2023. Wild!</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Revamping my Backlog</title>
-    <link href="http://localhost:4000/revamping-my-backlog/" rel="alternate" type="text/html" title="Revamping my Backlog" />
-    <published>2025-05-29T18:00:00-04:00</published>
-  
-    <updated>2025-05-29T18:00:00-04:00</updated>
-  
-    <id>http://localhost:4000/revamping-my-backlog/</id>
-    <content type="text/html" src="http://localhost:4000/revamping-my-backlog/" />
-    <author>
-      <name>Reading</name>
-    </author>
-
-  
     
-  
-
-  <summary>I've been quite happy with my backlog since I added it back in January, but now I'm closing in on the middle of the year. I like to rework it a little. The page itself won't change much, but in the spirit of transitioning to a digital garden, I'm adding dedicated pages to each entry in the log. Where I can have notes, summaries, and screenshots all in one place for media. Like a commonplace boo...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Taking Inkdown for a Spin!</title>
-    <link href="http://localhost:4000/taking-inkdown-for-a-spin/" rel="alternate" type="text/html" title="Taking Inkdown for a Spin!" />
-    <published>2025-04-10T19:00:00-04:00</published>
-  
-    <updated>2025-09-18T18:53:00-04:00</updated>
-  
-    <id>http://localhost:4000/taking-inkdown-for-a-spin/</id>
-    <content type="text/html" src="http://localhost:4000/taking-inkdown-for-a-spin/" />
-    <author>
-      <name>Reading</name>
-    </author>
-
-  
     
-  
+      <item>
+        <title>Compartmentalizing my Digital Life</title>
+        
+        
+        
+        
+        
+        
+        
 
-  <summary>I decided to go back to Markdown for all my notes. I use VS Code as my Markdown editor of choice for writing these posts and taking notes, but I recently learned about a new Markdown notetaking app that caught my interest, so I've decided to take it for a spin!</summary>
+        
 
-  </entry>
+        <description><![CDATA[<p>I previously mentioned some of my devices in a <a href="http://localhost:4000/my-device-naming-scheme/">post</a> where I share their names. Yes, I’m one of those weird people that do in fact name their electronics for fun and for practicality!</p><p>Nevertheless, I have recently been thinking of compartmentalizing my usage of them more after taking a brief digital detox from my phone.</p><p>I realized that if I want to stick to healthier habits, I should remove any barriers that prevent me from executing them.</p><p>So I have divided certain tasks and activities between all of my devices, starting with…</p><h2 id="my-phone-used-for-communication-listening-web-browsing-photos-and-other-handy-tools">My <em>Phone</em>, Used for Communication, Listening, Web Browsing, Photos, and Other Handy Tools</h2><p>My screen time on my phone (an iPhone 6s for those wondering, yes it’s <em>ancient</em> but it still does what I need, no less, no more) has grown exponentially a few weeks ago, topping an average of four hours!</p><p>Thankfully, I managed to cut back on it a lot, and the main culprit, to no surprise to anyone, nevertheless myself, was <strong>Discord</strong>.</p><p>I then, with a heavy heart, decided that I can’t trust myself to keep Discord on my phone anymore, as much as I would love to!</p><p>I just spend way too much time there given the option, and no setting app limits don’t work for me. Plus, one of the major reasons I have it on my phone is for notifications anyway, and if I run out of time, I won’t receive any…</p><p>Until I find a better solution to that problem, I’ll just have to live without Discord notifications on my phone, which is fine, I guess. If you know of something that can do this for me, please let me know!</p><p>For now, I can still send occasional messages with webhooks, so that’s nice at least.</p><p>But overall, the pros of not having it on my phone outweigh the cons, in my opinion.</p><p>Now my screen time on my phone sits around thirty minutes on average, maybe an hour plus when on the go. Now I mostly use it for communication (calls, messages, and email), navigation, audio (music and podcasts), light web browsing, reading RSS feeds on the go, taking photos, server management, and other handy tools to have in my pocket.</p><p>The goal is that every time I pick it up, it is for an intentional use case, no more just aimlessly wandering about.</p><p>Even so, I still think it still does <em>too</em> much. Eventually, I’d like to get a separate DAP (Digital Audio Player) and a small inexpensive camera. I’m not much of a shutterbug, but on special occasions, I do like taking a photo or two.</p><h2 id="my-tablet-used-for-reading-and-media-consumption">My <em>Tablet</em>, Used for Reading and Media Consumption</h2><p>As my display name implies, I love reading a good book, mostly non-fiction and technical documentation, but I do read fiction when the mood strikes.</p><p>Every time I wake up, usually in the morning, I pick up my tablet (a Lenovo Tab M8 Android tablet that I got a pretty good deal on.) and jump right into <a href="https://github.com/ReadYouApp/ReadYou">ReadYou</a>, my RSS app of choice. If there isn’t anything new or interesting, I open <a href="https://play.google.com/store/apps/details?id=com.aldiko.android&amp;hl=en-US&amp;pli=1">Cantook</a> up straight away and continue where I left off on a book. I usually do this for half an hour, sometimes more; it all depends on my mood, if I’m particularly hungry, busy, etc.</p><p>I’ve been habitually doing this for more than a year now, and it really got me to read more and read better. Can’t recommend it enough if you struggle with reading; setting a dedicated time every day to read really does help!</p><p>Later on, I’d like to get a dedicated eReader, but right now, reading is half of what I mostly use my tablet for; the other half is entertainment.</p><p>After I finish with my day, I like to wind down with a video or two or episodes of a show I’m watching.</p><p>My tablet is the best device for this task with its HiDPI IPS 8-inch screen; it is just large enough to comfortably hold and watch for hours.</p><p>Albeit its resolution is only 1280x720, but its HiDPI screen makes up for it.</p><p>I primarily use <a href="https://github.com/jarnedemeulemeester/findroid">Findroid</a> (my Jellyfin Android client of choice) and <a href="https://github.com/NoName-exe/revanced-extended">YouTube Revanced Extended</a> to get rid of those pesky ads.</p><p>On a later date, I’ll talk more about my Jellyfin instance and my new homelab that I set up a month or so ago, but for now, let’s continue to my last few devices!</p><h2 id="my-gaming-handhelds-what-else-did-you-expect">My Gaming <em>Handhelds</em>, What Else Did You Expect?</h2><p>I’m the happy owner of both a Nintendo Switch Lite and a New Nintendo 2DS XL. These two, and especially my Switch, are my primary way of playing games. Why? Well, it’s because I love handhelds!</p><p>They’re convenient, portable, and hassle-free! I just pick it up, and I can jump in where I left off.</p><p>Plus, they’re relatively inexpensive, which is paramount for a frugal person like me.</p><p>I am planning on adding a Steam Deck to my collection when funds allow, that is, but for now, I’m quite happy with what I have. I’m in no rush to upgrade to the Switch 2 either, as there aren’t any games for it that I’m interested in, nevertheless the price tag…</p><p><em>Yikes.</em></p><h2 id="my-chromecast-used-for-media-consumption-and-emulating-games">My <em>Chromecast</em>, Used for Media Consumption and Emulating Games</h2><p>This one is pretty much the same, but along with watching my media using <a href="https://kodi.tv/">Kodi</a> (used as a Jellyfin client), YouTube, and other streaming services, I also recently set up <a href="https://www.retroarch.com/">RetroArch</a> for emulating some games!</p><p>I’m still tinkering with it, but this device has a four-core CPU, so it’s probably beefy enough for more intensive systems like PS1, N64, PSP, and maybe even the PS2?</p><p>Currently, I’m playing Fire Emblem: Genealogy of The Holy War here, and it’s a great experience!</p><p>Facilitated with a USB-C hub and a USB controller I have lying around, I wonder why I didn’t do this sooner!</p><h2 id="my-chromebook-used-for-web-browsing-coding-writing-communication-and-anything-else-i-may-need">My <em>Chromebook</em>, Used for Web Browsing, Coding, Writing, Communication, and Anything Else I May Need</h2><p>Lastly, but definitely not least, is my Chromebook, currently my daily driver. I use this device the most, to be quite honest, and for good reason!</p><p>I’m currently writing this post with it, and the site wouldn’t be possible without it either.</p><p>This is my productivity machine first and foremost, but I also use it for anything else I need as well, be it watching videos or even playing some lightweight games on it. It’s my catchall device, but even so, I don’t actually use it for anything other than productivity. Having other dedicated devices for those tasks and activities means I’m less inclined to do them here.</p><p>I’m building habits around them, and habits are hard to break. Plus, my other devices are better suited for these other use cases anyway.</p><h2 id="closing-thoughts">Closing Thoughts</h2><p>I don’t know when the majority decided to have everything on one device, after the introduction of the iPhone most likely. Regardless, we’ve managed to trap ourselves on this one device; it’s like being trapped in one of the rooms of your home, where you do everything. While we can survive like that, it isn’t ideal or optimal.</p><p>I’ve only been decoupling for a while now, but even so, I can’t look back! I feel so much happier and focused, plus I found other activities away from screens like building gunpla, sewing etc that my screen time has been reduced overall.</p><p>I highly recommend trying it out if it sounds like something that will help you create healthier habits and boundaries away from attention-seeking apps, and if you do, I would love to hear about it!</p>]]></description>
 
-</feed>
+        <pubDate>Mon, 25 Aug 2025 14:00:00 -0400</pubDate>
+        <link>http://localhost:4000/compartmentalizing-my-digital-life/</link>
+        <guid isPermaLink="true">http://localhost:4000/compartmentalizing-my-digital-life/</guid>
+      </item>
+    
+      <item>
+        <title>Give Evening Pages a Try!</title>
+        
+        
+        
+        
+        
+        
+        
+
+        
+
+        <description><![CDATA[<p>Writing can be hard and sometimes almost nigh impossible; it is something you have to be in the right mindset for.</p><p>For me, I don’t have trouble staying motivated once I start; I can stay in the flow state for long periods of time. My problem more so comes from <em>starting</em>.</p><p>That dreaded feeling when you want to get some writing done but you don’t know how to begin, and you stay there sitting at your desk or study, blinking at an empty page in your word processor or anywhere else you write. You don’t want to just give up, but it is not doing you any good just wasting time like this.</p><p>If you know what I’m talking about, or heck, even experiencing right now, and you decided to take a breather and check your RSS feeds, or you found this post when searching for writing tips online, first off, thank you so much for joining me today! And second, I know your pain well…</p><p>Frankly, it’s the most demotivating thing to me as a writer. You put effort and take time from your busy schedule, and for what? It can be scarring and keep you from writing for a while, or heavens forbid, from writing at all!</p><p>So how do we combat this dreaded enemy we all have called <strong>Writers Block</strong>?</p><p><em>Shudders</em>—just typing out those two words is enough to give me the jives! But regardless, there are multiple tools and tips writers and artists create and use to stave off that horrid beast, and you may already be acquainted with one method.</p><p>Called Morning Pages, a tool detailed in Julia Cameron’s <em>The Artist’s Way</em>. This method is quite simple, and you can quickly start doing it as early as tomorrow.</p><p>All you need is a pen and notebook. You could use your phone or computer and take them digitally, but it is highly recommended you write on <em>paper</em>. But since this is to help yourself, you should use whatever tool works for you, honestly.</p><p>Once you have that settled, be sure to keep it near your bed so when you wake up the next day, you can reach for it right away.</p><p>The main idea is that every morning, hence <em>morning</em> pages, you write three pages or more of freeform writing—anything or everything that comes to mind. For example, you may have a busy day ahead, so you may take this time to plan that out. You can reflect on yesterday, write your goals for today, or just write what you have on your mind at that moment. It can be utter gibberish; it doesn’t matter. The point is to shelve those thoughts right away so you can start your day with a clean slate and make writing habitual.</p><p>Similar to a journal but reversed, with a caveat: it is recommended that you don’t reread these pages at least for the first few months. This method is not about the contents, as it is a tool to free your mind and get you into the mindset of writing.</p><p>Sounds great, right? Well, hold on! Before you get a notebook and pen ready, let’s turn this method on its head, shall we?</p><p>Let me introduce you to Evening Pages!</p><p>As the name suggests, it is a method very similar to the former but with a major change: you do the writing at night!</p><p>That’s it! The only requirement is that you write these before going to bed or later in the evening. Other than that, go for broke! Unlike morning pages, there isn’t a rule of thumb for how you should practice it. Heck, you don’t even need to write three full pages! I personally don’t, and even if I did, it would be hard to tell how I write these pages.</p><p>Yep, I don’t even use a notebook or any paper medium! I just write these on my phone. This will be utter blasphemy for morning pages, but like a chiller older brother, evening pages don’t care; they’re cool with whatever! All you have to keep in mind is that you do these daily and in the evenings. Easy, right?</p><p>So easy it becomes an utter joy to write these every night—no more waking up and trying to write with groggy eyes and an empty stomach.</p><p>No, now your mornings are free and yours. Personally, I do most of my reading in the morning when I wake up, so morning pages never worked for me. I would be replacing my reading habit with another bothersome habit. I never could do it consistently. Not even two days in a row.</p><p>Now I can start my day like normal, and when the day is wrapping up, I can lay back and relax on my bed and quickly jot something down on my notes app. I write about my day, goals, reflections, and ideas that I had during my day. It’s great to shelve these thoughts right after the day is done; I feel less overwhelmed the next day, and even my sleep has improved!</p><p>And more importantly, it is helping me habitualize writing, so that slowly every day I’m in a mindset when I can start writing with vigor and focus. This post, for example, was supposed to be rather short, but it already exceeded that expectation twice now. Thanks to being more focused and entering a flow state easier. It is a wonderful feeling, albeit with the caveat that it makes it harder to keep things brief. Oh well.</p><p>So that’s the ways of morning and evening pages; which method you should choose is entirely up to you. But! I do encourage you to try both methods out, see what works for you, and let me know how it goes! Until next time, sayonara!</p>]]></description>
+
+        <pubDate>Wed, 30 Jul 2025 20:00:00 -0400</pubDate>
+        <link>http://localhost:4000/give-evening-pages-a-try/</link>
+        <guid isPermaLink="true">http://localhost:4000/give-evening-pages-a-try/</guid>
+      </item>
+    
+      <item>
+        <title>Has It Been Two Years Already?</title>
+        
+        
+        
+        
+        
+        
+        
+
+        
+
+        <description><![CDATA[<p>Yes, apparently so! I’m still flabbergasted, but dates don’t lie, do they? It has been two years since the start of this digital garden, formerly a blog, all the way back to my first post in March 2023. Wild!</p><p>This website changed a lot during those years, so much so it is unrecognizable from its first design back when I was very inexperienced and didn’t know what the heck I was doing most of the time.</p><p>But even so, I wouldn’t trade my time spent messing around with my _config.yml or any of the many configuration files that make this site possible. This whole experience has been a huge boon in learning the ropes, but also being hands-on has helped me learn things I would’ve never learned from reading docs, guides, and such.</p><p>Not only was this site a gateway to learning web development, it also helped me start writing in general again. After all, those posts won’t write themselves. Now it is an ingrained habit; after all, I need to keep up with my monthly quota.</p><p>I’m also slowly getting back to writing fiction again! That wouldn’t have been possible at all if I hadn’t exercised those muscles again.</p><p>All in all, this site has been instrumental for me. I had three major reasons why I started this site. As mentioned earlier, two of them were learning web development and improving my writing. My last reason was to have a place on the web of my very own—not dependent on any platform, a place where I know my content will stay up as much as I want it to.</p><p>Needless to say, I love my little corner of the web. It is a piece of myself I hold dearly and probably one of the best ongoing projects I ever started!</p><p>Before I go, I want to thank you all for reading and following this website! It means a lot to me. I started this mostly for myself, but seeing other people read my stuff has been eye-opening! I never expected for this site to get much of any following at all, but the analytics don’t lie, do they? (Unless they’re bots. Don’t think I don’t see you guys there lurking around scraping data.)</p><p>But really, thank you all! Your support means a lot to me.</p><p>See you next time!</p>]]></description>
+
+        <pubDate>Wed, 25 Jun 2025 19:00:00 -0400</pubDate>
+        <link>http://localhost:4000/has-it-been-two-years-already/</link>
+        <guid isPermaLink="true">http://localhost:4000/has-it-been-two-years-already/</guid>
+      </item>
+    
+      <item>
+        <title>Revamping my Backlog</title>
+        
+        
+        
+        
+        
+        
+        
+
+        
+
+        <description><![CDATA[<p>I’ve been quite happy with my backlog since I added it back in January, but now I’m closing in on the middle of the year. I like to rework it a little. The page itself won’t change much, but in the spirit of transitioning to a digital garden, I’m adding dedicated pages to each entry in the log. Where I can have notes, summaries, and screenshots all in one place for media. Like a commonplace book but online.</p><p>To do this, I’ve been painstakingly creating each and every page for each entry. I already have a template in mind, and while I was doing this, I thought it would be neat to guide you all through the progress, a developer log if you will!</p><h2 id="creating-entry-pages">Creating Entry Pages</h2><p>Since the backlog itself is done, all I’m doing is creating a page for each entry and linking them to the main backlog page.</p><p><img src="http://localhost:4000/assets/images/2025-05-29-revamping-my-backlog/fire-emblem-engage-entry-page.png" alt="My Fire Emblem Engage Entry Page" class="shadow" /></p><p>As you can see in this page, I have the name of the game as the title, and I use key art from the game as a preview image..</p><p>I added more information about it on the frontmatter and created a custom layout to display the extra frontmatter on the page, followed by an overview, and then lastly the notes.</p><p>Here’s another example, but for an anime instead. The layout is identical, except the frontmatter.</p><p><img src="http://localhost:4000/assets/images/2025-05-29-revamping-my-backlog/mobile-suit-gundam-gquuuuuux-entry-page.png" alt="My entry page for the anime: Mobile Suit Gundam GQuuuuuuX" class="shadow" /></p><h2 id="linking-the-new-pages-to-the-main-backlog-page">Linking the New Pages to the Main Backlog Page</h2><p>Now all that’s remaining to do is linking the newly created pages to their dedicated entries in the main backlog page.</p><p>I use relative links using their permalinks:</p><div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1</pre></td><td class="rouge-code"><pre><span class="p">[</span><span class="nv">**Mobile Suit Gundam GQuuuuuuX**</span><span class="p">](</span><span class="sx">/media/anime/mobile-suit-gundam-gquuuuuux/</span><span class="p">)</span></pre></td></tr></tbody></table></code></pre></div></div><p>and voila!</p><p>Clicking on an entry opens its respective page. This is the only way to reach these pages, as they’re hidden from the navigation bar to keep it tidy!</p><h2 id="whats-next">What’s Next?</h2><p>Like I said, I’m still working on these, but I already have more things I’d like to add, like linking the games, anime, etc. to their official pages for those of you who are curious and want to know more, and adding a <em>“See also”</em> section to link articles or posts that mention it.</p><p>For now, I hope this was helpful if you’re thinking of doing something similar. If you checked my backlog page, you may have noticed that I’ve been watching Mobile Suit Gundam GQuuuuuuX, and I’ve been enjoying it greatly! Currently taking notes, and I plan on writing a mid-season review for it next month. Stay tuned!</p>]]></description>
+
+        <pubDate>Thu, 29 May 2025 18:00:00 -0400</pubDate>
+        <link>http://localhost:4000/revamping-my-backlog/</link>
+        <guid isPermaLink="true">http://localhost:4000/revamping-my-backlog/</guid>
+      </item>
+    
+      <item>
+        <title>Taking Inkdown for a Spin!</title>
+        
+        
+        
+        
+        
+        
+        
+
+        
+
+        <description><![CDATA[<p>As I said back in an earlier <a href="http://localhost:4000/what-i-learned-from-org-mode-and-why-I-returned-to-markdown/">post</a>, I decided to go back to Markdown for all my notes. I use VS Code as my Markdown editor of choice for writing these posts and taking notes, but I recently learned about a new Markdown notetaking app that caught my interest, so I’ve decided to take it for a spin!</p><p>The app is called <a href="https://www.inkdown.me/">Inkdown</a> and is by far the best Markdown notetaking app I have the pleasure of using. I have tried several others, but none of them are as simple and intuitive as Inkdown is, in my opinion. Apps like Logseq<sup id="fnref:1"><a href="http://localhost:4000/taking-inkdown-for-a-spin/# fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup> and Obsidian<sup id="fnref:2"><a href="http://localhost:4000/taking-inkdown-for-a-spin/# fn:2" class="footnote" rel="footnote" role="doc-noteref">2</a></sup> are simple and minimal at first, but they try to accomplish too much, in my opinion. At their base, they’re just Markdown editors with unnecessary fluff on top, so much so that the final Markdown file is barely unrecognizable and loses out on its portability, something that these apps proudly highlight on their websites, ironically.</p><p>On the other hand, Inkdown keeps it simple: no plugins, no database, just plain Markdown. Using GitHub’s Flavored Markdown to be specific, so you can get extended Markdown syntax like checkboxes, tables, etc. And if that’s not enough for you, Inkdown has built-in support for Mermaid and LaTeX as well, and if that still isn’t enough, Inkdown uses HTML to add even more features like iframes, highlighting, etc. You have all the capability you need without affecting the portability of the final Markdown file. After all, it’s just plain Markdown, Mermaid, LaTeX, and HTML.</p><p>Inkdown is currently available for macOS and Windows, but it also has a PWA (Progressive Web App), which is the version I’m using. All versions have the same feature set. There’s also a VS Code extension<sup id="fnref:3"><a href="http://localhost:4000/taking-inkdown-for-a-spin/# fn:3" class="footnote" rel="footnote" role="doc-noteref">3</a></sup> if you just don’t want to leave VS Code but like Inkdown’s WYSIWYG editor. It has all the same features as well.</p><p>I haven’t messed much with the extension yet; I’m quite happy using the app, and I like having a dedicated app for my notes. What can I say? I like the compartmentalization!</p><p>Inkdown works locally, and you can sync your notes to a folder and or push your notes onto a GitHub repository. Although the caveat is that you can’t fetch from one, so it is not recommended to edit your notes with anything else other than Inkdown. Hopefully, they add this feature in the future.</p><p>Inkdown works with workspaces similar to Obsidian and others. You can create up to two of them with the free tier and up to thirty on the paid tier.</p><p>Here’s how my workspace looks:</p><p><img src="http://localhost:4000/assets/images/2025-04-10-taking-inkdown-for-a-spin/inkdown-workspace-light-theme.png" alt="My Inkdown Workspace" class="light shadow" /><img src="http://localhost:4000/assets/images/2025-04-10-taking-inkdown-for-a-spin/inkdown-workspace-dark-theme.png" alt="My Inkdown Workspace" class="dark shadow" /></p><p>I really like how Inkdown displays rendered Markdown; the nicer-looking code blocks and how it displays front matter are huge pluses for me. I would like it if it supported tags too, but being as is keeping it simple, I don’t really mind.</p><p>The UI is really nice and polished too, with everything you expect from an app like this. I’m also very happy that it includes file versioning; I’ve gotten very used to this with Git versioning on VS Code, so I’m glad it’s here as well. Overall, the app works fabulously well, and I only have some minor grievances at the moment.</p><p>Like I can’t do some special formatting without using the slash menu; creating checkboxes comes to mind, but these are really small and nothing that I can’t get used to. So far, I’m really happy with it!</p><p>I haven’t mentioned it since I don’t use it, but Inkdown allows you to publish your notes, handy when you need to share a note with somebody quickly or if you’re into digital gardening. Keep in mind that you are limited in how many notes you can publish with the free tier, though.</p><p>So what do you think about Inkdown? Why not give it a try and let me know how it went? For me, I’m going to be sticking with it in the meantime. I would also love to hear what you use for notetaking! (•‿•)</p><h2 id="footnotes">Footnotes</h2><div class="footnotes" role="doc-endnotes">  <ol>    <li id="fn:1">      <p><a href="https://logseq.com/">Logseq</a>, I haven’t tried it before but I heard good things if you don’t mind losing on portability. <a href="http://localhost:4000/taking-inkdown-for-a-spin/# fnref:1" class="reversefootnote" role="doc-backlink">&#8617;&#xfe0e;</a></p>    </li>    <li id="fn:2">      <p><a href="https://obsidian.md/">Obsidian</a>, I forgot to mention that I have used Obsidian before, unfortunately the lack of PWA support sour me on it among other gripes I had with it. <a href="http://localhost:4000/taking-inkdown-for-a-spin/# fnref:2" class="reversefootnote" role="doc-backlink">&#8617;&#xfe0e;</a></p>    </li>    <li id="fn:3">      <p><a href="https://marketplace.visualstudio.com/items?itemName=1943time.inkdown">Inkdown Editor Extension</a>, I only tried it for ashort while but it looks pretty promising! <a href="http://localhost:4000/taking-inkdown-for-a-spin/# fnref:3" class="reversefootnote" role="doc-backlink">&#8617;&#xfe0e;</a></p>    </li>  </ol></div>]]></description>
+
+        <pubDate>Thu, 10 Apr 2025 19:00:00 -0400</pubDate>
+        <link>http://localhost:4000/taking-inkdown-for-a-spin/</link>
+        <guid isPermaLink="true">http://localhost:4000/taking-inkdown-for-a-spin/</guid>
+      </item>
+    
+      <item>
+        <title>Pokémon Legends Z-A Is Making Me Feel Optimistic About This Series Again!</title>
+        
+        
+        
+        
+        
+        
+        
+
+        
+
+        <description><![CDATA[<p class="left"><img src="http://localhost:4000/assets/images/2025-03-20-pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/pokemon-legends-z-a-logo.jpg" alt="Pokémon Legends Z-A Logo." class="left" width="300" height="300" /><em>Pokémon Legends Z-A Logo.</em></p><p>Pokémon Day came and went and left us with a new trailer for the upcoming <a href="https://legends.pokemon.com/en-us/">Pokémon Legends Z-A</a>, and I have some thoughts on it.</p><p>Now, since I kept my expectations in check, I wasn’t overtly hyped for news. So I didn’t even try to catch the Pokémon Presents at the crack of dawn. Pun intended.</p><p>After getting some brunch, I clicked on the Pokémon Presents and, after waiting through a bunch of mobile game updates (yuck) and watching the teaser for <a href="https://champions.pokemon.com/en-us/">Champions</a>, a new battle simulator-type game that looks vaguely interesting, I finally got to the new trailer, and I must say I was pleasantly surprised!</p><p>To my pleasant surprise, the visuals are indeed cel-shaded, although they use <a href="https://scarletviolet.pokemon.com/en-us/">Pokémon Scarlet &amp; Violet</a>’s style and not a similar style to the former game, <a href="https://legends.arceus.pokemon.com/en-us/">Pokémon Legends Arceus</a>. I really love the art style for the latter, and it’s a shame they didn’t do something similar but with a more French look. Luckily, it still looks surprisingly good and clean! A huge upgrade from the visuals of Scarlet &amp; Violet, in my opinion, and what’s more, they went back to more stylized textures for the Pokémon, and they seem to have new models with more saturated colors! I, for one, am extremely happy for this change. I was not at all a fan of the realistic textures in Scarlet and Violet.</p><p>Furthermore, I’m glad that my previous worries were unfounded, as I mentioned back in an older <a href="http://localhost:4000/pok%C3%A9mon-legends-z-a-looks-promising-but-I-can't-help-feeling-lukewarm-about-it/">post</a>. I was worried that the teams over at Game Freak were going in a new direction visually, a direction I didn’t like as a veteran Pokémon fan. So far, this new game looks to be going in the right direction, in my humble opinion.</p><p class="left"><img src="http://localhost:4000/assets/images/2025-03-20-pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/pokemon-legends-z-a-player-characters.jpg" alt="Your Player Character." class="left" width="300" height="300" /><em>Your Player Character.</em></p><p>First, we have the new player characters. I like their designs quite a lot, and unlike Scarlet and Violet’s, these have returned to having their signature oval eyes that make player characters unique from other NPCs in this series. A welcomed return to form there.</p><p>Their neon green jackets are fitting, being that we are helping with the redevelopment of the city, and their hats are a nice touch. I also found it interesting that they’re using fanny packs instead of the usual backpack, similar to how in Pokémon Legends Arceus they use satchels. Calem and Serena, the player characters for <a href="https://www.pokemon.com/us/pokemon-video-games/pokemon-x-and-pokemon-y">Pokémon X and Y</a>, for example, used a messenger bag and purse, respectively.</p><p class="right"><img src="http://localhost:4000/assets/images/2025-03-20-pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/pokemon-legends-z-a-rivals-urbain-and-taunie.jpg" alt="Urbain and Taunie, your rivals." class="right" width="300" height="300" /><em>Urbain and Taunie, your rivals.</em></p><p>As for the new rivals, we have, for the first time in the series, a rival that will change their gender to be opposite of the gender you chose for your player character. These are Urbain and Taunie, respectively. I also really like their designs! Just like with the player characters, they both wear the same piece of clothing; a brown jacket in this case.</p><p>Being that you get a rival of the opposite gender makes me think there may be some dating elements involved? We had something similar with Curtis and Yancy in <a href="https://www.pokemon.com/us/pokemon-video-games/pokemon-black-version-2-and-pokemon-white-version-2">Pokémon Black and White 2</a>, after all. These player characters look to be quite older than the norm; the XY player characters are also on the older side, and being that Kalos is based on France, the country of love, it makes a lot of sense to introduce a dating mechanic here. Plus, we have confirmation that these games are to be rated E 10+ (Everyone 10+). So maybe that plays into that?</p><p class="left"><img src="http://localhost:4000/assets/images/2025-03-20-pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/pokemon-legends-z-a-az.jpg" alt="AZ." class="left" width="300" height="300" /><em>AZ.</em></p><p>And lastly, we have the return of the immortal AZ, as well as Jett and Vinnie from Quasartico Inc. We don’t know much about them at the moment, but a lot of fans have already singled out Quasartico Inc. as the potential villains. I’m indifferent currently; there isn’t enough information at this point, but they will definitely play a major role in the story. AZ also plays a major role, as you stay in Hotel Z as your home base while playing the game. AZ seems much happier now with Floatte by his side, so that’s great to see! I see him playing a supporting role here, although some had said that he could be the real villain, but I doubt it.</p><p>Alright, before I go, we got to see how battles play out in this title, and some new mechanics have been added. Firstly, you can catch and battle Pokémon in different Wild Zones, similar to the Wild Areas of <a href="https://swordshield.pokemon.com/en-us/">Pokémon Sword and Shield</a>. These seem to act like routes and apparently are diverse enough for a variety of Pokémon species to live within them. Here, we see that there’s a variable that can make Pokémon easier or harder to catch, depending on different factors. Although we haven’t seen any indicator of the latter, so it may not be both ways.</p><p>Next, you have a chance to catch a Pokémon if you knock it out, as they get stunned. I’m not sure how long they stay stunned for, but it’s probably enough that you can catch them. Similar to Pokémon Legends Arceus, you could stun Pokémon if you throw a Poké Ball with a Pokémon in it at their backsides.</p><p>This is a nice Quality of Life improvement and would save me from accidentally losing a catch because of an accidental critical hit. I also like to note that the visibility icon on the UI is back, so we can expect Pokémon to notice you and run away or attack you, although probably not as savagely as in the last Legends title, being as these Pokémon are used to humans somewhat.</p><p><img src="http://localhost:4000/assets/images/2025-03-20-pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/pokemon-legends-z-a-lumisose-city-map.jpg" alt="Lumiose City Map." /><em>Lumiose City Map.</em></p><p>The battles are the best part of this trailer, in my opinion. Finally, we have real-time battles! You can dodge moves or counter with your own. The first Legends game toyed with this idea, making it more action-based, but now we are in the full precipice of this idea. I’m excited to try these out! I’m sure some moves will play differently, as it is not turn-based anymore, and I’ll bet there will be some cool combinations we could do. Also, your Pokémon now follow you both outside and inside of battle, so the ability to move your player character has functionality, as you can move to dodge attacks and your Pokémon will be right behind you!</p><p>Phew! I think I covered all that I wanted to talk about. Color me surprised! I’m now pretty hyped for this new release. Just a few weeks ago, if you told me I’d be excited about a new Pokémon game, I wouldn’t have believed you. For a while, I thought that this may be it for me, and that newer games wouldn’t catch my interest anymore. But I’m glad that I am wrong! The future of this series looks brighter now, and I hope it continues to be that way.</p><p>With a new era around the corner with the Nintendo Switch 2, I hope Game Freak moves from its experimentation phase to just keeping a consistent style from here on out and delivering polished games, no matter how long they take.</p><p>While I’m more optimistic, I’ll need more proof from Game Freak and The Pokémon Company that they’re actually listening to us and that they won’t repeat their mistakes again, and this is a good start!</p>]]></description>
+
+        <pubDate>Thu, 20 Mar 2025 20:00:00 -0400</pubDate>
+        <link>http://localhost:4000/pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/</link>
+        <guid isPermaLink="true">http://localhost:4000/pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/</guid>
+      </item>
+    
+      <item>
+        <title>What I Learned From Org-Mode and Why I Returned to Markdown.</title>
+        
+        
+        
+        
+        
+        
+        
+
+        
+
+        <description><![CDATA[<p>I’ve been tinkering with <a href="https://orgmode.org/">Org-Mode</a> for a while now; my search for more productivity tools led me to it, and I instantly fell in love with how it handles task management!</p><p>It has everything you ever need for making to-do lists. You can easily keep track of tasks with the <code class="language-plaintext highlighter-rouge">TODO</code> and <code class="language-plaintext highlighter-rouge">DONE</code> keywords, as well as make your own if you like. It even includes a built-in timestamp feature to time tasks. After using tools like <a href="http://todotxt.org/">todo.txt</a>, I found it to be the superior way of handling tasks in a plain text file.</p><p>It even has support for habits using the habits style property. I was so impressed that I immediately switched over to using Org Mode for habit tracking and to-do lists from <a href="https://github.com/estebanthi/habits.txt">habits.txt</a> and todo.txt, respectively.</p><p>After using it in this capacity for a month or so and learning more about it, I decided to make the switch to it for all my notes!</p><p>At first, it was a breath of fresh air to use, and I began to see why it was highly venerated within the community. It was simple yet very extensible; it really showed how much can be accomplished with just a plain text file.</p><p>Yet not everything was roses and rainbows; there are a few caveats, and one of them is unfortunately the reason I returned to using Markdown for my notes.</p><p>The first one coming from Markdown is that Org Mode doesn’t have much support on online platforms. <a href="https://github.com/">GitHub</a> can display <code class="language-plaintext highlighter-rouge">.org</code> files, but as it uses org-ruby, the preview is pretty outdated and only supports the basic syntax.</p><p>Same story with <a href="https://gitlab.com/">GitLab</a> and other Git providers, if they support Org Mode at all. So you’re going to be dependent on exporting, and that brings its own problems.</p><p>Being that practically anywhere you can use formatted text supports Markdown makes it very portable.</p><p>This blog, for instance, uses <a href="https://jekyllrb.com/">Jekyll</a> and it supports Markdown natively. There is a way to use Org Mode as well with a <a href="https://github.com/eggcaker/jekyll-org">plugin</a> if you’re so inclined, but that’s the issue with a <em>plugin</em>. It seems everyone has settled with Markdown as a de facto standard for better or worse.</p><p>As I strive to lower friction as much as possible when writing and taking notes, I don’t want to deal with exporting. The format I use needs to be versatile and portable so that I don’t have to think about it; it’s just seamless.</p><p>But even more egregious is the last and major caveat I’ll be mentioning today.</p><p>Org Mode, like its name implies, is a mode for the Emacs editor. While I heard great things about Emacs, I’m not in the market for a new editor. I’ve been using VS Code for my notes and writing these posts for years now and am quite used to its idiosyncrasies, and I’ve become dependent on its features like committing directly into remote repositories, GitHub integration, and its suite of terrific extensions.</p><p>I really couldn’t see myself living without it. For minor edits or messing around with config files, I use Micro instead, a fantastically small CLI (Command-line Interface) editor.</p><p>Now, all the time I’ve spent with Org Mode was with the VS Code extension, and while it added essential features making working with these files easier, it isn’t whatsoever feature complete with Org Mode on Emacs. It seems to get the most out of Org Mode you need to move to a new editor, and while I’m sure it’s worth it for some, that’s a hefty price to pay for most of us.</p><p>In the end, Org Mode isn’t a format like Markdown. It is a productivity mode for an editor foremost. While it uses plain text files, unlike them, it isn’t very portable; you can’t just drop a <code class="language-plaintext highlighter-rouge">.org</code> file into any computer and expect it to read it most of the time.</p><p>While it earns its high praise and I genuinely enjoyed my time using it, I can see why it hasn’t gained wide adoption like Markdown. Org Mode isn’t universal; it is a great productivity tool locked behind a great editor.</p><p>For now, at least, it’s back to Markdown for me. Luckily, it’s not a huge deal to export my notes, and I never switched to writing posts with Org Mode even though I was thinking about it.</p><p>This time around, I’m using Markdown for all my notes, and I’m going to be implementing front matter in all of them for tags and extra metadata.</p><p>I’m interesting in trying the Zetelkasten <a href="https://www.microsoft.com/en-us/microsoft-365-life-hacks/organization/how-to-use-the-zettelkasten-method">method</a> as well.</p><p>Anyways, what do you use for taking notes? Do you use Markdown, Org Mode, or just plain text, or are you more of a pen-and-paper person? I would love to hear from you! ( ╹‿╹ )</p>]]></description>
+
+        <pubDate>Fri, 28 Feb 2025 18:00:00 -0500</pubDate>
+        <link>http://localhost:4000/what-i-learned-from-org-mode-and-why-I-returned-to-markdown/</link>
+        <guid isPermaLink="true">http://localhost:4000/what-i-learned-from-org-mode-and-why-I-returned-to-markdown/</guid>
+      </item>
+    
+      <item>
+        <title>My Device Naming Scheme</title>
+        
+        
+        
+        
+        
+        
+        
+
+        
+
+        <description><![CDATA[<p>I have always found it fascinating what others name their computers and devices. Just like finding funny and unique Wi-Fi names, it is a small window into someone’s interests and personality.</p><p>So allow me to share my own!</p><p>As a big fan of the <a href="https://en.gundam.info/what-is-gundam/">Gundam</a> universe, I’ve stuck with a naming scheme around their characters and technology.</p><ul>  <li><strong>Chromebook</strong>: My daily driver is fittingly named after one of my favorite characters from all of Gundam! <a href="https://gundam.fandom.com/wiki/Sayla_Mass">Sayla</a>.</li>  <li><strong>Debian Container</strong>: Artesia. I also run a Debian container for coding and such, and naming it after the birth name of the aforementioned Sayla sounds appropriate.</li>  <li><strong>Tablet</strong>: Named after <a href="https://gundam.fandom.com/wiki/Chan_Agi">Chan</a> from the movie <em>Mobile Suit Gundam: Char’s Counterattack</em>.</li>  <li><strong>Nintendo Switch Lite</strong>: I have a turquoise one, so I thought <a href="https://gundam.fandom.com/wiki/Emma_Sheen">Emma</a> from <em>Mobile Suit ZETA Gundam</em> would be a good choice.</li>  <li><strong>iPhone</strong>: Similarly to my Switch Lite, I picked <a href="https://gundam.fandom.com/wiki/Beltorchika_Irma">Beltorchika</a> due to the color of the device.</li>  <li><strong>Mi Band</strong>: I wear this fitness tracker almost 24/7. Since it is mostly in contact with me, I named it: <a href="https://antifandom.com/gundam/wiki/Gundam_Wiki:Technology#Contact_Link">Contact Link</a>. Clever, eh? (•‿•)</li>  <li><strong>Sony Headphones</strong>: My main pair of headphones is named <a href="https://en.wikipedia.org/wiki/Gundam_Universal_Century_technology#Minovsky_particle">Minosky Particles</a>, ironically after a particle that disrupts radio communications in the series.</li></ul><p>I have been using this naming scheme for years now, and I’ve been very happy with it! No telling what the future holds, but here’s hoping I stick with this naming scheme for the long haul!</p>]]></description>
+
+        <pubDate>Tue, 21 Jan 2025 19:00:00 -0500</pubDate>
+        <link>http://localhost:4000/my-device-naming-scheme/</link>
+        <guid isPermaLink="true">http://localhost:4000/my-device-naming-scheme/</guid>
+      </item>
+    
+      <item>
+        <title>Finally Moved Over To Jekyll Chirpy!</title>
+        
+        
+        
+        
+        
+        
+        
+
+        
+
+        <description><![CDATA[<p>After much deliberation on my part and messing around with different themes, I finally decided to go with the Jekyll <a href="https://github.com/cotes2020/jekyll-theme-chirpy">Chirpy</a> theme! I’ve been planning to move to a new theme for a while now, as I mentioned a <a href="http://localhost:4000/why-I'm-turning-my-website-into-a-digital-garden/">while</a> back.</p><p>But I finally found something that ticks most of my checkboxes! There’s still a <em>lot</em> more to do, but Chirpy by default supplies most of what I need and a few extra bonuses like PWA support right out of the box!</p><p>Expect more additions later down the line, like a Uses page and a backlog page to keep track of what I watch, listen to, read, and play. But for now, I’m happy with just finally moving over!</p><p>Anyways, I hope you all have a great holiday season! .｡❅⋆⍋∞<em>｡∞⍋⋆</em>❅｡.</p>]]></description>
+
+        <pubDate>Mon, 23 Dec 2024 18:00:00 -0500</pubDate>
+        <link>http://localhost:4000/moving-over-to-jekyll-chirpy/</link>
+        <guid isPermaLink="true">http://localhost:4000/moving-over-to-jekyll-chirpy/</guid>
+      </item>
+    
+      <item>
+        <title>Writing Challenge: Final Review and Results</title>
+        
+        
+        
+        
+        
+        
+        
+
+        
+
+        <description><![CDATA[<p>Whelp, a week has passed but unfortunately due to unforeseen events with the weather, writing was far from being the most important thing in my mind these last couple of days…</p><p>But it’s not all doom and gloom. There’s always a silver lining, as they say. The biggest nugget of knowledge that I got from this experience is that a week is not at all enough time to brainstorm ideas, regardless of the situation. One of my downfalls is that I tend to think things take less time than they actually do. Heh-heh.</p><p>Nonetheless, you need to be in a certain mood to brainstorm. Turns out that my mood changed after I wrote and published that last post. Who would have dunked it?</p><h2 id="the-results">The Results</h2><p>To make this easier to parse, I’m formatting the following entries as their own headings!</p><h3 id="day-1---monday">Day 1 - Monday</h3><p>I was pretty optimistic starting out; I started a new draft for the blog as a warm-up, per se. Which was great, but I started to lose steam when it came to actually diving in on my original project, so I never got started. Not a great start, but I’ll take what I can get.</p><h3 id="day-2---tuesday">Day 2 - Tuesday</h3><p>This was a nothing burger, plain and simple; nothing got done this day for a very good reason. This was the day I was informed about the then new storm coming to our part of town, and all I was thinking was that I needed to get prepared for the worst since you never know with these storms and that it has to be <em>now</em>.</p><h3 id="day-3---wednesday">Day 3 - Wednesday</h3><p>The day was much the same as the last, except I was really in preparation mode, so most of my day was assigned to that task. This is also the day when the storm hit us late in the night. Luckily, we were unscathed by the brunt of the damage the storm wrecked upon our state. Others weren’t so lucky…</p><h3 id="day-4---thursday">Day 4 - Thursday</h3><p>We lost power for a few hours since Wednesday, and luckily just as I woke up, the power returned! Now, everyone was not so lucky, unfortunately, and some still to this day have no power. Since things were starting to become normal again, I took it easy and went back into my usual routine.</p><h3 id="day-5---friday">Day 5 - Friday</h3><p>Another nothing burger; not much progress other than I was able to get back in the flow of other things going on in my life. It started to feel like any other day.</p><h3 id="day-6---saturday">Day 6 - Saturday</h3><p>I finally have something to report! I was able to work on a draft that became this post and another one that you’ll be seeing soon! Other than blogging, I kind of gave up on the challenge since then. I wasn’t in the right headspace yet, and I didn’t want to force myself either. Sigh, it is what it is, I guess.</p><h3 id="final-day---sunday">Final Day - Sunday</h3><p>Much the same as the last one; I made more progress on a rather interesting draft (well, in my view at least!) from earlier, and that was rather enjoyable. I also started to gather my thoughts on the week and couldn’t help but feel a sense of dread for not following through with my own imposed challenge, but what can you do when life throws you lemons?</p><h2 id="wrapping-up">Wrapping up</h2><p>Like I said, not the best start to a week that I set myself out to work on my writing project, but even so, I’m not giving up on the overall goal of making any progress on this beloved work of mine before the end of the year.</p><p>With that said, I have reorganized my schedule to have a few hours dedicated to writing on Wednesdays! I feel like having a few hours in a day of the week is a better way for me to focus. Since my hobbies are pretty varied, focusing on too many things every day seems like an easy way to get overwhelmed and burned out in the end. Anyways! Here’s hoping for better writing sessions in my future.</p>]]></description>
+
+        <pubDate>Mon, 14 Oct 2024 16:00:00 -0400</pubDate>
+        <link>http://localhost:4000/writing-challenge-final-review-and-results/</link>
+        <guid isPermaLink="true">http://localhost:4000/writing-challenge-final-review-and-results/</guid>
+      </item>
+    
+  </channel>
+</rss>
 
