@@ -175,6 +175,18 @@ collections:
   tabs:
     output: true
     sort_by: order
+  books:
+    output: true
+  anime:
+    output: true
+  manga:
+    output: true
+  games:
+    output: true
+  shows:
+    output: true
+  movies:
+    output: true
 
 defaults:
 - scope:
