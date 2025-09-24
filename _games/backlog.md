@@ -1,9 +1,4 @@
----
-layout: page
-icon: fa-solid fa-check
-order: 4
-toc: true
----
+
 
 ## Anime
 

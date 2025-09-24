@@ -1,0 +1,2 @@
+commit_sha: "{{ ENV['PAGES_COMMIT_SHA'] | default: '' }}"
+commit_ref: "{{ ENV['PAGES_COMMIT_REF'] | default: '' }}"

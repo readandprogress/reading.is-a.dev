@@ -17,6 +17,9 @@ timezone: America/New_York
 title: "Re: Discover" # the main title
 tagline: A running space for my thoughts, logs, and notes # the tagline
 
+# Your site's repository using Github's format [owner/repo]
+repository: readandprogress/reading.is-a.dev
+
 description: >- # used by seo meta and the atom feed
   In this little corner of the web I share thoughts, logs, notes, and projects, rediscovering my love for tech, writing, games, anime, manga, and tinkering in the process!
 
@@ -175,6 +178,18 @@ collections:
   tabs:
     output: true
     sort_by: order
+  books:
+    output: true
+  anime:
+    output: true
+  manga:
+    output: true
+  games:
+    output: true
+  shows:
+    output: true
+  movies:
+    output: true
 
 defaults:
 - scope:
