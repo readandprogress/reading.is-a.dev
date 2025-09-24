@@ -27,8 +27,8 @@ permalink: /feed.xml
     {% for post in site.posts limit:feed_items %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        {% if post.author and post.author.name %}
-          <dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
+        {% if site.social and site.social.name %}
+        <dc:creator>{{ site.social.name | xml_escape }}</dc:creator>
         {% endif %}
 
         {%- comment -%}

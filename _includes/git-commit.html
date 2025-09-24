@@ -1,0 +1,20 @@
+{%- assign sha = site.data.build.commit_sha | default: '' -%}
+{%- if sha != '' -%}
+  {%- assign short = sha | slice: 0,7 -%}
+  {%- assign repo = site.github.repository_nwo | default: site.repository | default: '' -%}
+  {%- if repo != '' -%}
+    {%- assign commit_url = "https://github.com/" | append: repo | append: "/commit/" | append: sha -%}
+  {%- else -%}
+    {%- assign commit_url = "" -%}
+  {%- endif -%}
+  <a
+    data-bs-toggle="tooltip"
+    data-bs-placement="top"
+    title="Commit {{ sha }}{% if commit_url != '' %} — view on GitHub{% endif %}"
+    {% if commit_url != '' %} href="{{ commit_url }}" target="_blank" rel="noopener"{% endif %}
+  >
+    Built
+  </a>
+{%- else -%}
+  built
+{%- endif -%}

@@ -36,9 +36,9 @@ copyright:
   # Displayed in the footer
   brief: Some rights reserved.
   verbose: >-
-    Except where otherwise noted, the blog posts on this site are licensed under the Creative Commons Attribution 4.0 International (CC BY-NC-SA 4.0) License by the author.
+    Except where otherwise noted, the posts on this site are licensed under the Creative Commons Attribution 4.0 International (CC BY-NC-SA 4.0) License by the author.
 
-meta: Using the :THEME theme for :PLATFORM.
+meta: :BUILT using :PLATFORM and the :THEME theme.
 
 not_found:
   statement: Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
@@ -58,7 +58,7 @@ post:
   read_time:
     unit: min
     prompt: read
-  relate_posts: Further Reading
+  relate_posts: See Also
   share: Share
   button:
     next: Newer
