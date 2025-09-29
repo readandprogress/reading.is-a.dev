@@ -186,10 +186,6 @@ collections:
     output: true
   games:
     output: true
-  shows:
-    output: true
-  movies:
-    output: true
 
 defaults:
 - scope:
