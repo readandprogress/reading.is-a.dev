@@ -10,7 +10,6 @@ release_year: 2024
 chapters: 15-??
 genre: Action
 status: Reading
-tags: [Digimon, Card Games ]
 toc: true
 image: /assets/images/manga/digimon-liberator.jpg
 permalink: /manga/digimon-liberator/

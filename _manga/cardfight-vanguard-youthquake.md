@@ -10,7 +10,6 @@ release_year: 2022
 chapters: 27-??
 genre: Action
 status: Reading
-tags: [ Card Games, Slice of Life ]
 toc: true
 image: /assets/images/manga/cardfight-vanguard-youthquake.webp
 permalink: /manga/cardfight-vanguard-youthquake/

@@ -10,7 +10,6 @@ release_year: 2005
 chapters: 65
 genre: Adventure
 status: Read
-tags: [ Card Games, Yu-Gi-Oh!, Slice of Life, Card Battle, Shonen, School ]
 toc: true
 image: /assets/images/manga/yu-gi-oh-gx.jpg
 permalink: /manga/yu-gi-oh-gx/

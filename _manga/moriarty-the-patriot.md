@@ -10,7 +10,6 @@ release_year: 2016
 chapters: 80-??
 genre: Mystery
 status: Reading
-tags: [ Mystery, Action, Historical]
 toc: true
 image: /assets/images/manga/moriarty-the-patriot.jpg
 permalink: /manga/moriarty-the-patriot/

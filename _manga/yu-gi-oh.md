@@ -10,7 +10,6 @@ release_year: 1996
 chapters: 343
 genre: Action
 status: Rereading
-tags: [ Card Games, Card Battle, School, Slice of Life, Supernatural ]
 toc: true
 image: /assets/images/manga/yu-gi-oh.jpg
 permalink: /manga/yu-gi-oh/

@@ -9,14 +9,15 @@ Valkyria Chronicles 4 takes place in the same timeframe as the original Valkyria
 platform: Nintendo Switch
 publisher: SEGA
 developer: SEGA
-release_year:
-playtime: 170:00
+release_year: 2018
+playtime: "166:00"
 genre: RPG
 status: Replaying
 toc: true
 image: /assets/images/games/valkyria-chronicles-4.avif
 permalink: /games/valkyria-chronicles-4
 order: 0
+license: The images used in this page are owned by their respective copyright owners. All rights reserved.
 ---
 
 ## Notes
