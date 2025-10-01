@@ -1,37 +1,27 @@
 ---
-# the default layout is 'page'
+layout: page
 icon: fas fa-info-circle
-order: 8
+order: 6
 ---
+<p>
+  Hey there! I go by <a class="p-name" href="https://reading.is-a.dev/">Reading</a>. I'm a aspiring technical writer who is deeply passionate about Linux, Cybersecurity, Web Development and Homelabing. Aside of my various tech projects, like this very site. I also enjoy writing fiction and would love to be a published author one day. 
+  <br>
+  <br>
+  To unwind I enjoy playing games, watching anime, reading manga and tinkering with hardware. if you like to get in contact with me just drop me a <a href="mailto:readandprogress@duck.com">email</a>!
+ Is the best form of contacting someone online since everyone has one. :D
+ 
+</p>
 
-## Who am I?
+## Tech Stack
 
-I suppose you would like to know more about me, right? Well, allow me to introduce myself! As you may have guessed, I go by Reading, and it has been my handle for a while now. You may ask why I don't share my real name. Well, I believe in anonymity and privacy online first and foremost. Since this is a personal blog, I don't think there's a need. Although, if you would like to know my real name, get in contact, and I will happily let you know!
+This site is a passion project of mine that I started early in 2023, Is built using [Jekyll](https://jekyllrb.com/) and has went through a variety of revisions, which I haven't done a good job of documenting...
 
-So, where were we? Ah, yes, I'm currently getting certified in Technical Writing and would love to make it my career, hopefully. I currently reside in the States, specifically Florida, which is nice for now, but I don't have much interest in it other than some family. I don't travel much as of now, but I would like to change that and visit Japan! One of my biggest dreams is rummaging through Akihabara for tech and video game goodies!
+But currently I'm using a modified version of the Jekyll [Chirpy](https://chirpy.cotes.page/) theme and I deploy to [Cloudflare Pages](https://pages.cloudflare.com/), although I should start thinking of migrating to Workers instead but thats a problem for another day!
 
-As you can see, I have a huge passion for tech and, well... writing! I kind of have to, having a blog and all, but other than this project, I like to dabble in fiction and have so many ideas floating through my head. Unfortunately, none of them have landed on paper yet! (＾▽＾;)
+As for CI/Git, I'm still using [GitHub](https://github.com/) and personally don't feel a need to move to anything else for the time being. 
 
-I do hope to change that soon! I have a concept that I'm working on, and I'm hoping to get the first chapter out soon.
+As for my subdomain I use a generous free subdomain registrar: [is-a.dev](https://is-a.dev/). 
 
-What else? Ah, hobbies! Most of my hobbies are pretty common if it wasn't already obvious. Gaming is one of them, usually RPGs, but I do play other genres as well when the mood strikes. If I'm not gaming, I'm reading. Get it? Bad joke aside, I usually gravitate toward nonfiction when it comes to books, even though I write fiction. Weird, right? I do, however, avidly read manga. I watch TV like most people, usually YouTube or anime. When I'm not doing either of those, I'm either writing a post or, more reasonably, tinkering or building a Gunpla kit!
+All the pages on this site are written using [Markdown](https://en.wikipedia.org/wiki/Markdown), specifically the GitHub Flavored Markdown (GFM) [standard](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). Although some pages may have some HTML, for certain features that Markdown lacks.
 
-## About the Site
-
-The website you're currently on! Joking aside, I created this blog/digital garden to have a place on the interwebs of my very own.
-
-Having my own place online that I decide every aspect of is incredibly valuable to me, and I implore you to spin off your own! We can always use more blogs! But I digress!
-
-I wanted for a long time to try blogging; I just never got around to it until recently. I love writing, and writing about my interests and hobbies is incredibly cathartic. I have come to enjoy the act of it by itself! But I find it incredibly rewarding that others enjoy reading it as well!
-
-This was and still is a fun web dev project for me. I recently learned the fundamentals and wanted a way to apply them, so this worked perfectly! I will keep constantly updating and revamping this site as I slowly get better at web development. I can't wait to see how much has changed in a few years!
-
-With that said, this blog focuses on a variety of topics instead of just one, hence the name; The Reading Dimension. I think it fits quite well! Everything you need to know is on the tin like it should.
-
-So what can you expect on your feed? I mostly write about tech and post hopefully helpful guides. Well, not as much as I would like. I do write about my favorite video games and do reviews. I plan to talk about anime and manga as well, and I would like to try doing some Gunpla reviews or show some of my builds. Occasionally, you may see one of my more general posts slip by too.
-
-So if you like what you see, head over to my RSS feed! I try to post monthly but may sometimes post more if the mood strikes.
-
-## Get in Touch!
-
-The best way to get in touch with me is via [email](mailto:readandprogress@duck.com). I would highly appreciate it if you do! (•‿•)
+For the sake of transparency, this site doesn't cost me anything to maintain, every tool and service I use are generously offered for free! The only cost is my time, which I feel is very well spent working on this project. :)
