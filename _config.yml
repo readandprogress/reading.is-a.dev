@@ -186,6 +186,9 @@ collections:
     output: true
   games:
     output: true
+  memos:
+    output: true
+    permalink: /memos/:name/
 
 defaults:
 - scope:

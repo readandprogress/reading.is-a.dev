@@ -12,48 +12,44 @@
     <time>{{ 'now' | date: '%Y' }}</time>
 
     {% if site.social.links %}
-  <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
-{% else %}
-  <em class="fst-normal">{{ site.social.name }}</em>.
-{% endif %}
+      <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
+    {% else %}
+      <em class="fst-normal">{{ site.social.name }}</em>.
+    {% endif %}
 
-{% if site.data.locales[include.lang].copyright.brief %}
-  <span
-    data-bs-toggle="tooltip"
-    data-bs-placement="top"
-    title="{{ site.data.locales[include.lang].copyright.verbose }}"
-  >
-    {{- site.data.locales[include.lang].copyright.brief -}}
-  </span>
-{% endif %}
+    {% if site.data.locales[include.lang].copyright.brief %}
+      <span
+        data-bs-toggle="tooltip"
+        data-bs-placement="top"
+        title="{{ site.data.locales[include.lang].copyright.verbose }}"
+      >
+        {{- site.data.locales[include.lang].copyright.brief -}}
+      </span>
+    {% endif %}
   </p>
- 
+
   <p>
     {%- capture _platform -%}
       <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a>
     {%- endcapture -%}
 
     {%- capture _theme -%}
-  <a
-    data-bs-toggle="tooltip"
-    data-bs-placement="top"
-    title="v{{ theme.version }}"
-    href="https://github.com/cotes2020/jekyll-theme-chirpy"
-    target="_blank"
-    rel="noopener"
-  >Chirpy</a>
-{%- endcapture -%}
+      <a
+        data-bs-toggle="tooltip"
+        data-bs-placement="top"
+        title="v{{ theme.version }}"
+        href="https://github.com/cotes2020/jekyll-theme-chirpy"
+        target="_blank"
+        rel="noopener"
+      >Chirpy</a>
+    {%- endcapture -%}
 
-{%- capture _built -%}{% include git-commit.html %}{%- endcapture -%}
-
-{{ site.data.locales[include.lang].meta
-   | replace: ':PLATFORM', _platform
-   | replace: ':THEME', _theme
-   | replace: ':BUILT', _built }}
+    {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}
+  </p>
    <a href="/webring/next" class="tinylytics_webring" aria-label="Visit next site in the webring">
    <img src="/assets/images/fire-emblem-engage-sommie-run-animated-sprite.gif" alt="Sommie Run" class="inline-image"/>
    </a>
-</p>
+</footer>
   
   <!-- Tinylytics -->
   <script defer src="https://tinylytics.app/embed/DK_YxVC6G4sW6wGE9F7_/min.js?kudos&hits&webring"></script>

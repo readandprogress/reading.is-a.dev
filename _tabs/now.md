@@ -1,14 +1,17 @@
 ---
-# the default layout is 'page'
+layout: page
 icon: fa-solid fa-clock
-order: 2
+lastmod: 2025-09-30
+order: 5
 ---
 
-> Can't believe we're already in October! But on the bright side, Pokémon Legends ZA will be out soon! Currently, replaying Pokémon Yellow while I wait. :)<br>
-<br>*Wednesday, October 1st 2025*
-{: .prompt-info }
+I'm been pretty busy this last few months job hunting and working on projects, hoping to find a job soon to get out this job hunting hell...
 
-## Current Focus
+Wish me luck!
+
+*Last modified on:* {{ page.lastmod | date: "%Y-%m-%d" }}
+
+## Currently Focusing On
 
 - Working on my personal site 
 - Looking for work
@@ -20,5 +23,11 @@ order: 2
 
 - [Valkyria Chronicles 4](/games/valkyria-chronicles-4)
 - [Fire Emblem Engage](/games/fire-emblem-engage/)
+
+## Currently Watching
+
+- 
+
+
 
 

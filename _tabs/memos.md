@@ -1,5 +1,5 @@
 ---
-# the default layout is 'page'
+layout: memos
 icon: fa-solid fa-file-pen
-order: 5
+order: 2
 ---

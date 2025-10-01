@@ -1,0 +1,42 @@
+---
+layout: default
+---
+{% include lang.html %}
+
+<style>
+  .memo-item {
+    border: 2px solid #e1f5fe; /* Light blue border */
+    background-color: #e1f5fe;  /* Light blue background */
+    padding: 10px;              /* Padding inside the memo */
+    margin: 10px 0;            /* Margin between memos */
+    border-radius: 5px;        /* Optional: rounded corners */
+  }
+</style>
+
+<h1>Memos</h1>
+<br>
+
+<div class="memos-list">
+  {% assign sorted = site.memos | sort: "date" | reverse %}
+  {% for memo in sorted %}
+    <div class="memo-item" id="{{ memo.url | slugify }}">
+      <div class="memo-body">
+        {{ memo.content | markdownify }}
+      </div>
+
+      <div class="memo-meta">
+        <time datetime="{{ memo.date | date_to_xmlschema }}">
+          {{ memo.date | date: "%Y-%m-%d" }}
+        </time>
+
+        {% if memo.tags %}
+          <span class="memo-tags">
+            {% for tag in memo.tags %}
+              <a href="/tags/{{ tag | slugify }}/">#{{ tag }}</a>{% unless forloop.last %} {% endunless %}
+            {% endfor %}
+          </span>
+        {% endif %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
