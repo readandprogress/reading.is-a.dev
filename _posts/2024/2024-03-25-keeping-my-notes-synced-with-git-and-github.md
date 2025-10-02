@@ -2,7 +2,7 @@
 title: "Keeping My Notes Synced With Git and GitHub!"
 date: 2024-03-25 19:00:00 -0500
 last_modified_at: 2024-03-24 19:17:00 -0500
-tags: [ Tech, Guides, Notes, Git, GitHub, Synching, Markdown, Markor, VSCode, Acode, Termux, Syncthing, SFTP, SSH, Command-line, Crostini, ChromeOS, Android ]
+tags: [ Tech, Notetaking, Git, GitHub, Synchthing, Markdown, Markor, Visual Studio Code, Termux, Syncthing, SFTP, SSH, Command-line, Crostini, ChromeOS, Android ]
 time: 
 description: Why don't I use Git and GitHub to sync my notes? After all, my blog repo houses .md files, the same files I use for my notes. Why don't I do the same? Now before we delve upon that let me tell you how I synced my notes and all my files before.
 toc: # false | Only when you don't wan TOC.  

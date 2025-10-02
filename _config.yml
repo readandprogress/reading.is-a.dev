@@ -15,7 +15,7 @@ timezone: America/New_York
 # ↓ --------------------------
 
 title: "Re: Discover" # the main title
-tagline: A running space for my thoughts, logs, and notes # the tagline
+tagline: Rediscovering my interests, one step at a time! # the tagline
 
 # Your site's repository using Github's format [owner/repo]
 repository: readandprogress/reading.is-a.dev
@@ -186,10 +186,9 @@ collections:
     output: true
   games:
     output: true
-  shows:
+  memos:
     output: true
-  movies:
-    output: true
+    permalink: /memos/:name/
 
 defaults:
 - scope:
