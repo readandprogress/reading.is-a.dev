@@ -9,7 +9,7 @@ mangaka: Quily (Story & Art)
 release_year: 2022
 chapters: 27-??
 genre: Action
-status: Reading
+status: On Hold
 toc: true
 image: /assets/images/manga/cardfight-vanguard-youthquake.webp
 permalink: /manga/cardfight-vanguard-youthquake/

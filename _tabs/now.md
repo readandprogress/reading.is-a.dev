@@ -11,7 +11,7 @@ Wish me luck!
 
 *Last modified on:* {{ page.lastmod | date: "%Y-%m-%d" }}
 
-## Currently Focusing On
+## Currently 
 
 - Working on my personal site 
 - Looking for work
@@ -26,8 +26,8 @@ Wish me luck!
 
 ## Currently Watching
 
-- 
+- [selector spread WIXOSS](/anime/selector-spread-wixoss)
 
+## Currently Reading
 
-
-
+- [Mobile Suit Gundam: The Origin](/manga/mobile-suit-gundam-the-origin)

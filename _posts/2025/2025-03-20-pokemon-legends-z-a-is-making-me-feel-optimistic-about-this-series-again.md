@@ -2,7 +2,7 @@
 title: "Pokémon Legends Z-A Is Making Me Feel Optimistic About This Series Again!"
 date: 2025-03-20 19:00:00 -0500
 last_modified_at: 2025-03-22 19:27:00 -0500
-tags: [ Gaming, Pokemon, Thoughts, RPG, Visuals, Art styles, Nintendo, Game Freak, The Pokemon Company, Follow-up, Impressions]
+tags: [ Gaming, Pokémon, Thoughts, RPG, Visuals, Nintendo, Game Freak, The Pokémon Company, Follow-up, Impressions]
 time: 1:10
 description: Pokémon Day came and went and left us with a new trailer for the upcoming Pokémon Legends Z-A, and I have some thoughts on it.
 toc: # false | Only when you don't wan TOC.  
@@ -22,7 +22,7 @@ After getting some brunch, I clicked on the Pokémon Presents and, after waiting
 
 To my pleasant surprise, the visuals are indeed cel-shaded, although they use [Pokémon Scarlet & Violet](https://scarletviolet.pokemon.com/en-us/)'s style and not a similar style to the former game, [Pokémon Legends Arceus](https://legends.arceus.pokemon.com/en-us/). I really love the art style for the latter, and it's a shame they didn't do something similar but with a more French look. Luckily, it still looks surprisingly good and clean! A huge upgrade from the visuals of Scarlet & Violet, in my opinion, and what's more, they went back to more stylized textures for the Pokémon, and they seem to have new models with more saturated colors! I, for one, am extremely happy for this change. I was not at all a fan of the realistic textures in Scarlet and Violet.
 
-Furthermore, I'm glad that my previous worries were unfounded, as I mentioned back in an older [post]({% post_url /2024/2024-04-30-pokémon-legends-z-a-looks-promising-but-I-can't-help-feeling-lukewarm-about-it %}). I was worried that the teams over at Game Freak were going in a new direction visually, a direction I didn't like as a veteran Pokémon fan. So far, this new game looks to be going in the right direction, in my humble opinion.
+Furthermore, I'm glad that my previous worries were unfounded, as I mentioned back in an older [post]({% post_url /2024/2024-04-30-pokemon-legends-z-a-looks-promising-but-I-cant-help-feeling-lukewarm-about-it %}). I was worried that the teams over at Game Freak were going in a new direction visually, a direction I didn't like as a veteran Pokémon fan. So far, this new game looks to be going in the right direction, in my humble opinion.
 
 ![Your Player Character.](/assets/images/2025-03-20-pokemon-legends-z-a-is-making-me-feel-optimistic-about-this-series-again/pokemon-legends-z-a-player-characters.jpg){: .left }{: width="300" height="300" }
 _Your Player Character._

@@ -2,7 +2,7 @@
 title: "My Habit Tracking System Using todo.txt!"
 date: 2024-05-31 19:00:00 -0500
 last_modified_at: 2024-07-18 20:00:00 -0500
-tags: [ Tech, Guides, Habits, Plain-text, Todo.txt, Linux, Command-line, Scripts, Tasks ]
+tags: [ Tech, Habits, Plain-text, Todo.txt, Linux, Command-line, Scripts, Task Management ]
 time: 50:00
 description: Todo.txt has everything you need for tracking tasks. But its syntax is quite expansive and easy to grasp. So, I made my own habit tracking system using its specifications and I call it Habits.txt.
 toc: true 

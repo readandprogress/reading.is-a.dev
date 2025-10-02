@@ -9,10 +9,10 @@ mangaka: Atsushi Ookubo
 release_year: 2003
 chapters: 117
 genre: Action
-status: Planning To Read
+status: Planning
 toc: true
-image: /assets/images/backlog/books/manga/soul-eater.webp
-permalink: /media/books/manga/soul-eater/
+image: /assets/images/manga/soul-eater.webp
+permalink: //manga/soul-eater/
 order: false
 license: The images used in this page are owned by their respective copyright owners. All rights reserved. 
 ---

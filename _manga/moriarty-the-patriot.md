@@ -9,7 +9,7 @@ mangaka: Takeuchi Ryousuke
 release_year: 2016
 chapters: 80-??
 genre: Mystery
-status: Reading
+status: On Hold
 toc: true
 image: /assets/images/manga/moriarty-the-patriot.jpg
 permalink: /manga/moriarty-the-patriot/
