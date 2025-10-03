@@ -2,7 +2,7 @@
 title: "Finally Moved Over To Jekyll Chirpy!"
 date: 2024-12-23 18:00:00 -0500\
 last_modified_at: 2025-03-25 19:21:00 -0500
-tags: [ Tech, Jekyll, Web Development, Themes, Holidays ]
+tags: [ Tech, Jekyll, Web Development, Holidays ]
 time: 59:00
 description: After much deliberation on my part and messing around with different themes, I finally decided to go with the Jekyll Chirpy theme! 
 toc: false # false | Only when you don't want a TOC.  

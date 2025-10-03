@@ -2,7 +2,7 @@
 title: "My Device Naming Scheme"
 date: 2025-01-21 19:00:00 -0500
 last_modified_at: 2025-09-18 17:49:00 -0500
-tags: [ Tech, Mobile Suit Gundam, Characters, Chromebook, Nintendo Switch, iPhone 6s, Lenovo Tab M8, Mi Band 5, Sony WH-CH720N  ]
+tags: [ Tech, Mobile Suit Gundam, Hardware, Devices ]
 time: 2:12
 description: I have always found it fascinating what others name their computers and devices. Just like finding funny and unique Wi-Fi names, it is a small window into someone's interests and personality. So allow me to share my own!
 toc: false
