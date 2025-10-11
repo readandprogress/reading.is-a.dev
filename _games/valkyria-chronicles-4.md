@@ -27,8 +27,10 @@ license: The images used in this page are owned by their respective copyright ow
 - [x] Unlock all Squad Stories
 - [ ] Clear all Skirmishes
 - [ ] A-rank all missions
-- [ ] A-rank all Squad Stories
-- [ ] A-rank all of Skirmishes
+- [x] A-rank all Squad Stories
+- [x] A-rank all Skirmishes
+- [ ] A-rank all Expert Skirmishes
+- [ ] A-rank all Challenge Skirmishes 
 - [ ] Clear Devotion (Chapter 18) on Hard difficulty
 - [ ] Complete the Epilogue
 - [ ] Unlock all Weapons and Parts
