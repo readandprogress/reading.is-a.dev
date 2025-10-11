@@ -24,10 +24,12 @@ license: The images used in this page are owned by their respective copyright ow
 
 ### Completing the Game
 
-- [ ] Unlock all Squad Stories
+- [x] Unlock all Squad Stories
 - [ ] Clear all Skirmishes
 - [ ] A-rank all missions
 - [ ] A-rank all Squad Stories
 - [ ] A-rank all of Skirmishes
 - [ ] Clear Devotion (Chapter 18) on Hard difficulty
-- [ ] Complete the Epilogue. 
+- [ ] Complete the Epilogue
+- [ ] Unlock all Weapons and Parts
+- [ ] Unlock all Medals
