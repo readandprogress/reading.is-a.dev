@@ -1,7 +1,7 @@
 ---
 title: Valkyria Chronicles 4
 date: 2025-05-28 18:30:00 -0500
-last_modified_at: 2025-09-29 18:00:00 -0500
+last_modified_at: 2025-10-10
 layout: post
 description: "A Continent Engulfed in the Bitter Flames of War!
 
