@@ -8,10 +8,15 @@ genre: Action
 studio: J.C.STAFF
 release_year: 2014
 episodes: 12
-status: Watching
+status: Watched
 toc: true
 image: /assets/images/anime/selector-spread-wixoss.webp
 permalink: /anime/selector-spread-wixoss
 license: The images used in this page are owned by their respective copyright owners. All rights reserved.
 ---
+
+## Notes
+
+### Closing Thoughts
+
 
