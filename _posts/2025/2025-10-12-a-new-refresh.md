@@ -48,7 +48,7 @@ I also removed the Archives page and Categories page, along with categories for 
 
 Categories worked fine at the beginning, but I just find it really restrictive now, Most of my posts are tech related, but I also like to sort them by the tech used. Like Jekyll, for example.
 
-While you can create subcategories, Tags just feel way more intuitive in that regard, so I added completely replace them with a shiny new [Tags]() page! The only problem with tags is tag bloat, which I have fallen into after adding tags to my posts a few months back… 
+While you can create subcategories, Tags just feel way more intuitive in that regard, so I added completely replace them with a shiny new [Tags](/tags) page! The only problem with tags is tag bloat, which I have fallen into after adding tags to my posts a few months back… 
 
 But! It only took some housekeeping and being more intentional with tags to keep them nice and minimal.
 
