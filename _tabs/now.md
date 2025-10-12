@@ -3,6 +3,7 @@ layout: page
 icon: fa-solid fa-clock
 lastmod: 2025-09-30
 order: 5
+permalink: /now
 ---
 
 I'm been pretty busy this last few months job hunting and working on projects, hoping to find a job soon to get out this job hunting hell...

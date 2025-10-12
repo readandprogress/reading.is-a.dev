@@ -34,4 +34,5 @@ license: The images used in this page are owned by their respective copyright ow
 - [ ] Clear Devotion (Chapter 18) on Hard difficulty
 - [ ] Complete the Epilogue
 - [ ] Unlock all Weapons and Parts
+- [ ] Unlock all Bonus Features
 - [ ] Unlock all Medals

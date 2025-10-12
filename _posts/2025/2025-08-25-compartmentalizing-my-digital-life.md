@@ -6,7 +6,7 @@ tags: [ Tech, Digital Wellbeing, Compartmentalizing, Habits, Hardware, Devices ]
 time: 01:27
 description: "I realized that if I want to stick to healthier habits, I should remove any barriers that prevent me from executing them. So I have divided certain tasks and activities between all of my devices, starting with..."
 toc: true
-pin: true
+pin: false
 ---
 
 I previously mentioned some of my devices in a [post]({% post_url /2025/2025-01-21-my-device-naming-scheme %}) where I share their names. Yes, I'm one of those weird people that do in fact name their electronics for fun and for practicality!

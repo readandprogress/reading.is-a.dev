@@ -8,8 +8,7 @@ description: "Writing can be hard and sometimes almost nigh impossible; it is so
 
 For me, I don't have trouble staying motivated once I start; I can stay in the flow state for long periods of time. My problem more so comes from starting."
 toc: false
-pin: true
-license: 
+pin: false
 ---
 
 Writing can be hard and sometimes almost nigh impossible; it is something you have to be in the right mindset for.
