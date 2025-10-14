@@ -20,7 +20,7 @@ license: The images used in this page are owned by their respective copyright ow
 
 ### Episode 01: The Beat of Emotion
 
-Really enjoyed the first episode, I’m really impressed so far! I had the feeling this series was going to be darker than the norm, and I wasn't wrong! The first episode is focused on our main character Tenma, and his weird ePulse; which is seemingly a kind of energy source for Sapotamas, which looks like this series’ Digivice. Reminds me of Digimon Savers/Data Squad’s Digisoul/DNA Charge.
+Really enjoyed the first episode, I’m really impressed so far! I had the feeling this series was going to be darker than the norm, and I wasn't wrong! The first episode is focused on our main character Tomoru, and his weird ePulse; which is seemingly a kind of energy source for Sapotamas, which looks like this series’ Digivice. Reminds me of Digimon Savers/Data Squad’s Digisoul/DNA Charge.
 
 “Digivice” may not be the most apt description, they seem to be able to do everything, kinda like a supercharged smartphone. Regardless, love the egg motif. Very fitting.
 

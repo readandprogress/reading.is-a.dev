@@ -15,6 +15,10 @@
   icon: "fas fa-rss"
   noblank: false
 
+- type: nso
+  icon: "fa-solid fa-gamepad"
+  url: https://lounge.nintendo.com/friendcode/6850-5397-6697/DVtxxSxJ6p
+
 # Uncomment and complete the url below to enable more contact options
 #- type: twitter
 #  icon: "fa-brands fa-x-twitter"
