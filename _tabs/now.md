@@ -1,7 +1,7 @@
 ---
 layout: page
 icon: fa-solid fa-clock
-lastmod: 2025-09-30
+lastmod: 2025-10-14
 order: 5
 permalink: /now
 ---
@@ -27,7 +27,7 @@ Wish me luck!
 
 ## Currently Watching
 
-- [selector spread WIXOSS](/anime/selector-spread-wixoss)
+- [Digimon Beatbreak](/anime/digimon-beatbreak)
 
 ## Currently Reading
 
