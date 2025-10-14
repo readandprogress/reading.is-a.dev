@@ -24,6 +24,7 @@ Wish me luck!
 
 - [Valkyria Chronicles 4](/games/valkyria-chronicles-4)
 - [Fire Emblem Engage](/games/fire-emblem-engage/)
+- [Pokémon Yellow Version: Special Pikachu Edition](/games/pokemon-yellow)
 
 ## Currently Watching
 
