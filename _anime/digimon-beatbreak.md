@@ -33,3 +33,8 @@ Digimon never shies away from darker subjects, and deaths have been depicted bef
 
 ### Episode 02: Glowing Dawn
 
+Another great episode! We get properly introduced to Glowing Dawn, and I must say I really like what they did here. Is nice to have a group not be all school kids, plus it adds to the whole misfits vibe they're going for. 
+
+Asuka, Tomoro's older brother who I thought was killed the last episode, is in a comatose state, and there's a chance to save him. Giving Tomoru a clear goal.
+
+Huh, the more I watch, the more I see similarities with Data Squad/ Savers and that can only be a good thing!
