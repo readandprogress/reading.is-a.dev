@@ -21,7 +21,7 @@ tagline: Rediscovering my interests, one step at a time! # the tagline
 repository: readandprogress/reading.is-a.dev
 
 description: >- # used by seo meta and the atom feed
-  In this little corner of the web I share thoughts, logs, notes, and projects, rediscovering my love for tech, writing, games, anime, manga, and tinkering in the process!
+  In this little corner of the web I share thought, memos and projects, rediscovering my love for tech, writing, games, anime, manga, and tinkering in the process!
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -55,6 +55,8 @@ webmaster_verifications:
 
     # Web Analytics Settings
 analytics:
+  tinylytics:
+    id: DK_YxVC6G4sW6wGE9F7_
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
@@ -178,14 +180,6 @@ collections:
   tabs:
     output: true
     sort_by: order
-  books:
-    output: true
-  anime:
-    output: true
-  manga:
-    output: true
-  games:
-    output: true
   memos:
     output: true
     permalink: /memos/:name/

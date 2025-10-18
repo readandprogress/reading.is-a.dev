@@ -22,14 +22,16 @@ Wish me luck!
 
 ## Currently Playing
 
-- [Valkyria Chronicles 4](/games/valkyria-chronicles-4)
-- [Fire Emblem Engage](/games/fire-emblem-engage/)
-- [Pokémon Yellow Version: Special Pikachu Edition](/games/pokemon-yellow)
+- [Valkyria Chronicles 4](https://www.igdb.com/games/valkyria-chronicles-4)
+- [Fire Emblem Engage](https://www.igdb.com/games/fire-emblem-engage)
+- [Pokémon Yellow Version: Special Pikachu Edition](https://www.igdb.com/games/pokemon-yellow-version-special-pikachu-edition)
 
 ## Currently Watching
 
-- [Digimon Beatbreak](/anime/digimon-beatbreak)
+- [Digimon Beatbreak](https://www.themoviedb.org/tv/286791-digimon-beatbreak)
+- [To Your Eternity Season 3](https://www.themoviedb.org/tv/97525)
 
 ## Currently Reading
 
-- [Mobile Suit Gundam: The Origin](/manga/mobile-suit-gundam-the-origin)
+- [Mobile Suit Gundam: The Origin](https://anilist.co/manga/30214/Kidou-Senshi-Gundam-The-Origin/)
+- [The Thirty-ish Office Worker Haman-sama](https://anilist.co/manga/126624/Arasa-OL-Hamansama/)
