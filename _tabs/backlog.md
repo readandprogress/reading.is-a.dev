@@ -9,141 +9,175 @@ enable_toc: true
 ## Anime
 
 - [ ] Mobile Fighter G Gundam
-- [ ] Sabiki Bisco
-- [ ] Selector Infected WIXOSS
-- [ ] Selector Spread WIXOSS
+- [X] Sabiki Bisco
+- [X] Selector Infected WIXOSS
+- [X] Selector Spread WIXOSS
 - [ ] Overlord
+   - [X] Season 1
+   - [X] Season 2
+   - [X] Season 3  
 - [ ] Pokémon Horizons: The Series
 - [ ] KonoSuba: God's Blessing on This Wonderful World!
+   - [X] Season 1
+   - [X] Season 2
+   - [X] Season 3 
 - [ ] KonoSuba: An Explosion on This Wonderful World!
-- [ ] Lazarus
-- [ ] Summertime Rendering
-- [ ] Shangri-La Frontier
-- [ ] Apothecary Diaries
-- [ ] Fate/stay night: Heaven's Feel Collection
-- [ ] Mobile Suit Gundam GQuuuuuuX
-- [ ] Mobile Suit Gundam 08th MS Team
-- [ ] Demon Lord 2099
-- [ ] Shaman King: Flowers
-- [ ] Oshi-no-Ko
-   - [ ] Season 1
-   - [ ] Season 2
-- [ ] Mobile Suit Gundam SEED Freedom
-- [ ] Spice and Wolf: MERCHANT MEETS THE WISE WOLF
-- [ ] Frieren: Beyond Journey's End
-- [ ] The Elusive Samurai
-- [ ] Durarara!! (2010)
-- [ ] Psycho-Pass
-- [ ] Death Parade
-- [ ] Ouran High School Host Club
-- [ ] No Game, No Life
-- [ ] Selector Infected WIXOSS
-- [ ] Steins;Gate
-- [ ] Steins;Gate 0
-- [ ] Shaman King (2021)
-- [ ] Cells At Work!
-- [ ] Cells At Work! Code Black
-- [ ] Darling in the Franxx
-- [ ] Yu-Gi-Oh! VRAINS
-- [ ] Cardcaptor Sakura
-- [ ] Fullmetal Alchemist
+- [X] Lazarus
+   - [X] Season 1
+- [X] Summertime Rendering
+- [X] Shangri-La Frontier 
+- [X] Apothecary Diaries
+- [X] Fate/stay night: Heaven's Feel Collection
+- [X] Mobile Suit Gundam GQuuuuuuX
+- [X] Mobile Suit Gundam 08th MS Team
+- [X] Demon Lord 2099
+- [X] Shaman King: Flowers
+- [X] Oshi-no-Ko
+   - [X] Season 1
+   - [X] Season 2
+- [X] Mobile Suit Gundam SEED Freedom
+- [X] Spice and Wolf: MERCHANT MEETS THE WISE WOLF
+- [X] Frieren: Beyond Journey's End
+- [X] The Elusive Samurai
+- [X] Durarara!! (2010)
+- [X] Psycho-Pass
+- [X] Death Parade
+- [X] Ouran High School Host Club
+- [X] No Game, No Life
+- [X] Selector Infected WIXOSS
+- [X] Steins;Gate
+- [X] Steins;Gate 0
+- [X] Shaman King (2021)
+- [X] Cells At Work!
+- [X] Cells At Work! Code Black
+- [X] Darling in the Franxx
+- [X] Yu-Gi-Oh! VRAINS
+- [X] Cardcaptor Sakura
+- [X] Fullmetal Alchemist
 - [ ] Re:Zero
-- [ ] Digimon Ghost Game
-- [ ] Little Witch Academia
-- [ ] Komi Can't Communicate
-- [ ] Lord El-Melloi II's Case Files: Rail Zeppelin Grace Note
-- [ ] takt op.Destiny
-- [ ] Soul Eater
-- [ ] Anohana: The Flower We Saw That Day
-- [ ] Fullmetal Alchemist: Brotherhood
+   - [X] Season 1
+   - [X] Season 2 
+- [X] Digimon Ghost Game
+- [X] Little Witch Academia
+- [X] Komi Can't Communicate
+- [X] Lord El-Melloi II's Case Files: Rail Zeppelin Grace Note
+- [X] takt op.Destiny
+- [X] Soul Eater
+- [X] Anohana: The Flower We Saw That Day
+- [X] Fullmetal Alchemist: Brotherhood
 - [ ] Demon Slayer: Kimetsu no Yaiba
-- [ ] Record of Grancrest War
-- [ ] Dr. Stone
-- [ ] Fate/Zero
-- [ ] Fate/stay night: Unlimited Blade Works
-- [ ] Fate/apocrypha
-- [ ] Fate/strange fake: Whispers of Dawn
+   - [X] Season 01
+   - [X] Season 02
+   - [X] Season 03
+   - [X] Season 04
+   - [X] Season 05 
+- [X] Record of Grancrest War
+- [X] Dr. Stone
+   - [X] Season 1
+   - [X] Season 2
+   - [X] Season 3
+   - [X] Season 4 
+- [X] Fate/Zero
+- [X] Fate/stay night: Unlimited Blade Works
+- [X] Fate/apocrypha
+- [X] Fate/strange fake: Whispers of Dawn
 - [ ] Spy x Family
-- [ ] Your Lie in April
-- [ ] Mobile Suit Gundam (1979)
-- [ ] Mobile Suit Zeta Gundam
-- [ ] Mobile Suit ZZ Gundam
-- [ ] Mobile Suit Gundam: Char's Counterattack
-- [ ] Mobile Suit Gundam: The Origin
-- [ ] Mobile Suit Gundam Unicorn
-- [ ] Gundam Build Fighters
-- [ ] Buddy Daddies
-- [ ] Persona 4: The Animation
-- [ ] Gundam Build Divers
-- [ ] Gundam Build Metaverse
-- [ ] Mobile Suit Gundam 00
-- [ ] Mobile Suit Gundam: The Witch from Mercury
-- [ ] Black Lagoon
-- [ ] To Your Eternity
-- [ ] The Devil is a Part Timer!
-- [ ] The World Ends with You The Animation
-- [ ] The Heroic Legend of Arslan
-- [ ] The Case Study of Vanitas
-- [ ] Pokémon: Paldean Winds
-- [ ] Digimon Adventure: Last Evolution Kizuna
-- [ ] Persona 5: The Animation
-- [ ] Delicious in Dungeon
-- [ ] Black Butler
-- [ ] Mushoku Tensei: Jobless Reincarnation
-- [ ] Hell's Paradise
-- [ ] The Grimm Variations
+   - [X] Season 1
+   - [X] Season 2
+   - [ ] Season 3
+- [X] Your Lie in April
+- [X] Mobile Suit Gundam (1979)
+- [X] Mobile Suit Zeta Gundam
+- [X] Mobile Suit ZZ Gundam
+- [X] Mobile Suit Gundam: Char's Counterattack
+- [X] Mobile Suit Gundam: The Origin 
+- [X] Mobile Suit Gundam Unicorn
+- [X] Mobile Suit Gundam 00
+- [X] Gundam Build Fighters
+- [X] Buddy Daddies
+- [X] Persona 4: The Animation
+- [X] Gundam Build Divers
+- [X] Gundam Build Metaverse
+- [X] Mobile Suit Gundam: The Witch from Mercury
+- [X] Black Lagoon
+- [X] To Your Eternity
+   - [X] Season 1
+   - [X] Season 2
+   - [ ] Season 3
+- [X] The Devil is a Part Timer!
+- [X] The World Ends with You The Animation
+- [X] The Heroic Legend of Arslan
+   - [X] Season 1
+   - [X] Season 2
+- [X] The Case Study of Vanitas
+- [X] Pokémon: Paldean Winds
+- [X] Digimon Adventure: Last Evolution Kizuna
+- [X] Persona 5: The Animation
+- [X] Delicious in Dungeon
+- [X] Black Butler
+- [X] Mushoku Tensei: Jobless Reincarnation
+- [X] Hell's Paradise
+- [X] The Grimm Variations
 - [ ] Cardfight!! Vanguard OverDress (2021)
+   - [X] Season 1
+   - [X] Season 2
+   - [X] Season 3
+   - [X] Season 4
+   - [X] Season 5
+   - [X] Season 6
+   - [X] Season 7
+   - [X] Season 8
 
 ## Games
 
-- [ ] Yu-Gi-Oh! Master Duel
-- [ ] Valkyria Chronicles 4
-- [ ] Fire Emblem Engage
-- [ ] Pokémon Trading Card Game
+- [X] Yu-Gi-Oh! Master Duel
+- [X] Valkyria Chronicles 4
+- [X] Fire Emblem Engage
+- [X] Pokémon Trading Card Game GB
 - [ ] Metroid
 - [ ] Metroid II: Return of Samus
 - [ ] Ace Attorney: Dual Destinies
 - [ ] Ace Attorney: Spirit of Justice
-- [ ] Pokémon Yellow Version: Special Pikachu
+- [X] Pokémon Yellow Version: Special Pikachu
 - [ ] AI: The Somnium Files
 - [ ] Megaman Battle Network Legacy Collection
 - [ ] Grand Theft Auto: Vice City Stories
-- [ ] Crystaline
 - [ ] Apollo Justice: Ace Attorney
-- [ ] Pokémon LEGENDS: Arceus
-- [ ] Retro City Rampage DX
-- [ ] Mario Kart 7
-- [ ] Fire Emblem Fates: Conquest
-- [ ] Downwell
-- [ ] Super Mario Land 2: 6 Golden Coins
-- [ ] .hack//G.U. Last Recode
-- [ ] Super Mario Land
-- [ ] SUPERHOT
-- [ ] Pokémon Omega Ruby
-- [ ] Devil May Cry
-- [ ] Fire Emblem: Three Houses
-- [ ] Star Ocean: The Second Story R
-- [ ] Danganronpa: Trigger Happy Havoc - Anniversary
-- [ ] Mighty Gunvolt
-- [ ] Bloodstained: Curse of The Moon
-- [ ] Golden Axe
-- [ ] Pokémon Puzzle Challenge
-- [ ] Fire Emblem Awakening
-- [ ] Fire Emblem Echoes: Shadows of Valentia
-- [ ] Valkyria Chronicles Remastered
-- [ ] NEO: The World Ends with You
-- [ ] Pokémon Red Version
-- [ ] Pokémon Silver Version
-- [ ] Pokémon Crystal Version
-- [ ] Pokémon Diamond Version
-- [ ] Pokémon White Version
-- [ ] Pokémon Y
-- [ ] Kaori After Story
-- [ ] Mecha Ace
-- [ ] Pokémon Ultra Sun
-- [ ] Thomas Was Alone
-- [ ] Choice of Robots
-- [ ] Fire Emblem: Shadow Dragon and the Blade of Light
-- [ ] Phoenix Wright: Ace Attorney Trilogy
-- [ ] Pokémon Shield
-- [ ] Choice of the Deathless
+- [X] Pokémon LEGENDS: Arceus
+- [X] Retro City Rampage DX
+- [X] Mario Kart 7
+- [X] Fire Emblem Fates: Conquest
+- [X] Downwell
+- [X] Super Mario Land 2: 6 Golden Coins
+- [X] .hack//G.U. Last Recode
+- [X] Super Mario Land
+- [X] SUPERHOT
+- [X] Pokémon Omega Ruby
+- [X] Devil May Cry
+- [X] Fire Emblem: Three Houses
+- [X] Star Ocean: The Second Story R
+- [X] Danganronpa: Trigger Happy Havoc - Anniversary
+- [X] Mighty Gunvolt
+- [X] Bloodstained: Curse of The Moon
+- [X] Golden Axe
+- [X] Pokémon Puzzle Challenge
+- [X] Fire Emblem Awakening
+- [X] Fire Emblem Echoes: Shadows of Valentia
+- [X] Valkyria Chronicles Remastered
+- [X] NEO: The World Ends with You
+- [X] Pokémon Red Version
+- [X] Pokémon Silver Version
+- [X] Pokémon Crystal Version
+- [X] Pokémon Diamond Version
+- [X] Pokémon White Version
+- [X] Pokémon Y
+- [X] Ace Academy
+- [X] Kaori After Story
+- [X] Mecha Ace
+- [X] Pokémon Ultra Sun
+- [X] Thomas Was Alone
+- [X] Choice of Robots
+- [X] Fire Emblem: Shadow Dragon and the Blade of Light
+- [X] Phoenix Wright: Ace Attorney Trilogy
+- [X] Pokémon Shield
+- [X] Choice of the Deathless

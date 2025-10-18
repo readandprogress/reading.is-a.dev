@@ -29,6 +29,7 @@ Wish me luck!
 ## Currently Watching
 
 - [Digimon Beatbreak](https://www.themoviedb.org/tv/286791-digimon-beatbreak)
+- [To Your Eternity Season 3](https://www.themoviedb.org/tv/97525)
 
 ## Currently Reading
 
