@@ -1,7 +1,7 @@
 ---  
 title: "Challenging Myself to Write More, Hopefully!"
 date: 2024-09-30 18:00:00 -0500
-tags: [ Writing, Challenges, Characters, Story, Original Works, Habits, Productivity, Worldbuilding, Brainstorming ]
+tags: [ Writing, Productivity, Brainstorming ]
 time: 50:00
 description: I've been having trouble writing fiction as of late. I have this original work that I have been mulling over for a while now and really like to get the first chapter out this year, but all I managed to write was some of the worldbuilding, CVs, and some notes.
 ---

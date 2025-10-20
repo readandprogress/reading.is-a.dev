@@ -2,7 +2,7 @@
 title: "Transitioning to Cloudflare Pages!"
 date: 2023-10-31 20:00:00 -0500
 last_modified_at: 2025-03-25 18:36:00 -0500
-tags: [ Tech, Cloudflare Pages, GitHub, Jekyll, Web Development, Hosting, Git, Visual Studio Code, ]
+tags: [ Tech, Jekyll, Web Development ]
 time: 50:00
 description: Well, hey there! It's been a while, hasn't it? I have been busy revamping this website and moving over to Cloudflare Pages, so before I go back to my regular posting, let me explain the process and what's new this time around!
 toc: # false | Only when you don't wan TOC.  
