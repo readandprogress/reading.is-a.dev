@@ -16,6 +16,7 @@ enable_toc: true
    - [X] Season 1
    - [X] Season 2
    - [X] Season 3  
+   - [ ] Season 4
 - [ ] Pokémon Horizons: The Series
 - [ ] KonoSuba: God's Blessing on This Wonderful World!
    - [X] Season 1
@@ -130,54 +131,54 @@ enable_toc: true
 
 ## Games
 
-- [X] Yu-Gi-Oh! Master Duel
-- [X] Valkyria Chronicles 4
-- [X] Fire Emblem Engage
-- [X] Pokémon Trading Card Game GB
-- [ ] Metroid
-- [ ] Metroid II: Return of Samus
 - [ ] Ace Attorney: Dual Destinies
 - [ ] Ace Attorney: Spirit of Justice
-- [X] Pokémon Yellow Version: Special Pikachu
 - [ ] AI: The Somnium Files
-- [ ] Megaman Battle Network Legacy Collection
-- [ ] Grand Theft Auto: Vice City Stories
 - [ ] Apollo Justice: Ace Attorney
-- [X] Pokémon LEGENDS: Arceus
-- [X] Retro City Rampage DX
-- [X] Mario Kart 7
-- [X] Fire Emblem Fates: Conquest
-- [X] Downwell
-- [X] Super Mario Land 2: 6 Golden Coins
+- [ ] Grand Theft Auto: Vice City Stories
+- [ ] Megaman Battle Network Legacy Collection
+- [ ] Metroid
+- [ ] Metroid II: Return of Samus
 - [X] .hack//G.U. Last Recode
-- [X] Super Mario Land
-- [X] SUPERHOT
-- [X] Pokémon Omega Ruby
-- [X] Devil May Cry
-- [X] Fire Emblem: Three Houses
-- [X] Star Ocean: The Second Story R
-- [X] Danganronpa: Trigger Happy Havoc - Anniversary
-- [X] Mighty Gunvolt
+- [X] Ace Academy
 - [X] Bloodstained: Curse of The Moon
-- [X] Golden Axe
-- [X] Pokémon Puzzle Challenge
+- [X] Choice of Robots
+- [X] Choice of the Deathless
+- [X] Danganronpa: Trigger Happy Havoc - Anniversary
+- [X] Devil May Cry
+- [X] Downwell
 - [X] Fire Emblem Awakening
 - [X] Fire Emblem Echoes: Shadows of Valentia
-- [X] Valkyria Chronicles Remastered
+- [X] Fire Emblem Engage
+- [X] Fire Emblem Fates: Conquest
+- [X] Fire Emblem: Shadow Dragon and the Blade of Light
+- [X] Fire Emblem: Three Houses
+- [X] Golden Axe
+- [X] Kaori After Story
+- [X] Mario Kart 7
+- [X] Mecha Ace
+- [X] Mighty Gunvolt
 - [X] NEO: The World Ends with You
-- [X] Pokémon Red Version
-- [X] Pokémon Silver Version
+- [X] Phoenix Wright: Ace Attorney Trilogy
 - [X] Pokémon Crystal Version
 - [X] Pokémon Diamond Version
+- [X] Pokémon LEGENDS: Arceus
+- [X] Pokémon Omega Ruby
+- [X] Pokémon Puzzle Challenge
+- [X] Pokémon Red Version
+- [X] Pokémon Shield
+- [X] Pokémon Silver Version
+- [X] Pokémon Trading Card Game GB
+- [X] Pokémon Ultra Sun
 - [X] Pokémon White Version
 - [X] Pokémon Y
-- [X] Ace Academy
-- [X] Kaori After Story
-- [X] Mecha Ace
-- [X] Pokémon Ultra Sun
+- [X] Pokémon Yellow Version: Special Pikachu
+- [X] Retro City Rampage DX
+- [X] Star Ocean: The Second Story R
+- [X] Super Mario Land
+- [X] Super Mario Land 2: 6 Golden Coins
+- [X] SUPERHOT
 - [X] Thomas Was Alone
-- [X] Choice of Robots
-- [X] Fire Emblem: Shadow Dragon and the Blade of Light
-- [X] Phoenix Wright: Ace Attorney Trilogy
-- [X] Pokémon Shield
-- [X] Choice of the Deathless
+- [X] Valkyria Chronicles 4
+- [X] Valkyria Chronicles Remastered
+- [X] Yu-Gi-Oh! Master Duel

@@ -1,14 +1,14 @@
 ---
 layout: page
 icon: fa-solid fa-clock
-lastmod: 2025-10-14
-order: 5
+lastmod: 2025-10-27
+order: 6
 permalink: /now
 ---
 
-I'm been pretty busy this last few months job hunting and working on projects, hoping to find a job soon to get out this job hunting hell...
+I've been mulling on doing some more renovations to my site...
 
-Wish me luck!
+Nothing to radical but don't be surprised if the landing page looks different in the next couple of weeks. :)
 
 *Last modified on:* {{ page.lastmod | date: "%Y-%m-%d" }}
 
@@ -22,7 +22,7 @@ Wish me luck!
 
 ## Currently Playing
 
-- [Valkyria Chronicles 4](https://www.igdb.com/games/valkyria-chronicles-4)
+- [AI: The Somnium Files](https://www.igdb.com/games/ai-the-somnium-files)
 - [Fire Emblem Engage](https://www.igdb.com/games/fire-emblem-engage)
 - [Pokémon Yellow Version: Special Pikachu Edition](https://www.igdb.com/games/pokemon-yellow-version-special-pikachu-edition)
 
