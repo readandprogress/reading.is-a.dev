@@ -1,5 +1,5 @@
----
-# the default layout is 'page'
+#---
+layout: changelog
 icon: 
 order: 0
 ---
