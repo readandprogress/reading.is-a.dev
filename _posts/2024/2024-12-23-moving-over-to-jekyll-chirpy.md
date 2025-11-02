@@ -2,10 +2,8 @@
 title: "Finally Moved Over To Jekyll Chirpy!"
 date: 2024-12-23 18:00:00 -0500\
 last_modified_at: 2025-03-25 19:21:00 -0500
-tags: [ Tech, Jekyll, Web Development, Holidays ]
-time: 59:00
+tags: [ Jekyll, Web Development ]
 description: After much deliberation on my part and messing around with different themes, I finally decided to go with the Jekyll Chirpy theme! 
-toc: false # false | Only when you don't want a TOC.  
 ---
 
 After much deliberation on my part and messing around with different themes, I finally decided to go with the Jekyll [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme! I've been planning to move to a new theme for a while now, as I mentioned a [while]({% post_url /2024/2024-02-29-why-im-turning-my-website-into-a-digital-garden %}) back.

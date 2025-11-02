@@ -2,7 +2,7 @@
 title: "Give Evening Pages a Try!"
 date: 2025-07-30 19:00:00 -0500
 last_modified_at:
-tags: [ Writing ]
+tags: [ Writing, Journaling ]
 time: 1:17
 description: "Writing can be hard and sometimes almost nigh impossible; it is something you have to be in the right mindset for.
 

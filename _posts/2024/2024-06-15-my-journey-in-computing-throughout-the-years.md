@@ -2,8 +2,7 @@
 title: "My Journey in Computing Throughout the Years!"
 date: 2024-06-15 20:00:00 -0500
 last_modified_at: 2025-03-25 19:13:00 -0500
-tags: [ Tech, Hardware, Software, Linux, Windows, ChromeOS ]
-time: 50:00
+tags: [ Hardware, Software, Linux, Windows, ChromeOS ]
 description: "I recently read a post by Kev Quirk about his computing history, and it seemed like a fun topic, so I'm going to put my own twist on it! I've been into computing for two decades now—yes, I'm old. (◔‿◔) In that time, I have gone through four computers; one laptop and three desktops, experimenting with several operating systems and applications!"
 ---
 

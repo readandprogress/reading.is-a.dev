@@ -1,11 +1,9 @@
 ---
 title: "A Fun and Easy Guide to Using Markdown on Discord!"
 date: 2023-08-15 20:00:00 -0500
-last_modified_at: 2024-03-24 19:17:00 -0500
-tags: [ Tech, Guides, Markdown, Discord ]
-time: 50:00
+last_modified_at: 2025-03-24 23:51:00 -0500
+tags: [ Guides, Markdown, Discord ]
 description: I frequent Discord quite often and I don't see many members using Markdown syntax to flair out their messages, which is a shame. So after some deliberation on my part and some fellow server members showing interest, I decided to write one! This guide 's goal is to hopefully be easier to understand and follow than the already existing Discord Markdown 101 support page. This is, however, my first time writing a guide, so please bear with me! But with that said, let's get to it!
-toc: true 
 ---
 
 ## Introduction
@@ -132,11 +130,11 @@ Now for the really cool stuff you probably don't know about! Like making bullete
 
 With Discord adding forum-like features, it's really handy to use a header for detailed articles or posts you want to share on Discord!
 
-Just add the hash character to make a header; be sure to leave a space before typing the header's content. There are three header types!
+Just add the pound character to make a header; be sure to leave a space before typing the header's content. There are three header types!
 
 - ( # ) For a large header, just what you need for a tittle!
-- ( ## ) For a medium header, useful for sections on an article.
-- ( ### ) For a small header.
+- ( ## ) For a subheader, useful for sections on an article.
+- ( ### ) For a even smaller subheader, useful for subsections.
 
 **ex:**
 
@@ -198,16 +196,16 @@ Finally, sometimes you need to quote a piece of text; maybe you're doing a book 
 
 Just add the greater-than character for a one-line block quote or three for a multiline one.
 
-> I can't believe this guide is almost done!
+> Great, for a short quote!
 
-> It took me some days to finish this, but I'm quite relieved that it's done. It was a fun side project, and I hope you can get some use out of it!
+> Have a long passage or quoting a wall of text? Yes, Then this is for you!
 
 **ex:**
 
 ``` markdown
-> I can't believe this guide is almost done!
+> Great, for a short quote!
 
->>> It took me some days to finish this, but I'm quite relieved that it's done. It was a fun side project, and I hope you can get some use out of it! 
+>>> Have a long passage or quoting a wall of text? Yes, Then this is for you!
 ```
 
 ## Wrapping up

@@ -2,8 +2,7 @@
 title: "Transferring Files: The Better Way!"
 date: 2024-07-20 21:00:00 -0500
 last_modified_at: 2025-03-25 19:20:00 -0500
-tags: [ Tech, Command-line, Linux, Windows, macOS, Android, Tools ]
-time: 50:00
+tags: [ CLI, Linux, Android, Tools ]
 description: Recently, I've been dealing with transferring large files, and while there are plenty of tools available to do the job, most of them are slow, have a size limit, or are cumbersome to set up. Luckily, I learned about a powerful and simple-to-use tool called croc while looking for alternatives, and it's exactly what I've been looking for in a file transfer tool!
 ---
 

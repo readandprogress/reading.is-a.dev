@@ -2,10 +2,10 @@
 title: "Learning The Arch Way!"
 date: 2023-12-10 18:00:00 -0500
 last_modified_at: 2025-03-25 18:42:00 -0500
-tags: [ Tech, Linux, Command-line ]
-time: 50:00
+tags: [ Arch Linux, Command-line ]
 description: I'm not familiar with Arch at all, coming from Debian and Debian-based systems, so there is a fair bit to get used to!
 ---
+
 So I have been working on setting up an old Chromebook as a server—not using ChromeOS, mind you! I have installed custom firmware on the device, allowing me to install Endeavor OS on bare metal.
 
 Why Endeavor OS? It was the only distro to support all of the hardware on this device. Thanks to being just Arch preconfigured to be ready to use and Arch being a rolling distro, it has the latest drivers available, and thankfully, it has all the drivers for this old Chromebook!
