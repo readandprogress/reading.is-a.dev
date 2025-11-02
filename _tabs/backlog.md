@@ -147,6 +147,7 @@ enable_toc: true
 - [X] Danganronpa: Trigger Happy Havoc - Anniversary
 - [X] Devil May Cry
 - [X] Downwell
+- [ ] Fire Emblem: Geneology of The Holy War
 - [X] Fire Emblem Awakening
 - [X] Fire Emblem Echoes: Shadows of Valentia
 - [X] Fire Emblem Engage
