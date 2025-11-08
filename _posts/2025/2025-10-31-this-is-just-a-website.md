@@ -1,5 +1,5 @@
 ---
-title: "This Is Just A Website"
+title: "This is Just a Website"
 date: 2025-11-01 20:00:00 -0500
 last_modified_at:
 tags: [ Developer Log, Web Development, Jekyll, Thoughts ]
@@ -18,4 +18,4 @@ While I still like and want to incorporate some of the features digital gardens 
 
 KISS (Keep It Simple Stupid) is a philosophy I always go back to. It's easy to feel allured by the new and shiny. It's a trap I often find myself in. But in the end I always go back to basics.
 
-This is [*just*](https://actualwebsite.org/) a website, which so happens to contain posts, memos, and, in the near future, articles. In a way, it's like going back to the web's roots, where blogs weren't really a thing. There were sites with something akin to them. But it wasn't the sole focus. To be honest, I quite liked that; it really made them personable and unique. :)
+This is [*just*](https://actualwebsite.org/) a website, which so happens to contain posts, memos, and, in the near future, articles. In a way, it's like going back to the web's roots, where blogs weren't really a thing. We just had sites, that sometimes had sometime akin to them. But it wasn't the sole focus. To be honest, I quite liked that; it really made them personable and unique. :)
