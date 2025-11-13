@@ -2,12 +2,10 @@
 title: "My Habit Tracking System Using todo.txt!"
 date: 2024-05-31 19:00:00 -0500
 last_modified_at: 2025-11-01 21:20:00 -0500
-tags: [ Productivity, CLI, todo.txt ]
+tags: [ CLI, todo.txt ]
 description: Todo.txt has everything you need for tracking tasks. But its syntax is quite expansive and easy to grasp. So, I made my own habit tracking system using its specifications and I call it Habits.txt.
 ---
-> **Quick Update 2024-07-18**
->
->I recently discovered another system by the name of [Habits.txt](https://github.com/estebanthi/habits.txt). This tool is created by fellow GitHub user [@estebanthi](https://github.com/estebanthi) and is much more comprehensive and just better than the system I hastily put together. There's no need for a bash script, and he even developed a nice CLI tool as well! I highly recommend using his system instead if you're looking for a plain-text alternative for tracking habits. It's what I personally use now and absolutely love it!
+> I recently discovered another system by the name of [Habits.txt](https://github.com/estebanthi/habits.txt). This tool is created by fellow GitHub user [@estebanthi](https://github.com/estebanthi) and is much more comprehensive and just better than the system I hastily put together. There's no need for a bash script, and he even developed a nice CLI tool as well! I highly recommend using his system instead if you're looking for a plain-text alternative for tracking habits. It's what I personally use now and absolutely love it!
 {: .prompt-info }
 
 

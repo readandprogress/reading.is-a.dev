@@ -2,7 +2,7 @@
 title: "Keeping My Notes Synced With Git and GitHub!"
 date: 2024-03-25 19:00:00 -0500
 last_modified_at: 2024-03-24 19:17:00 -0500
-tags: [ Notetaking, Git, Markdown, CLI ]
+tags: [ Git, Markdown, CLI ]
 description: Why don't I use Git and GitHub to sync my notes? After all, my blog repo houses .md files, the same files I use for my notes. Why don't I do the same? Now before we delve upon that let me tell you how I synced my notes and all my files before.
 ---
 Since I now take notes and write posts on my tablet and Chromebook. Actually, the last few posts I have written are from my tablet using [Markor](https://github.com/gsantner/markor)!

@@ -2,7 +2,7 @@
 title: "Compartmentalizing my Digital Life"
 date: 2025-08-25 13:00:00 -0500
 last_modified_at: 2025-08-27 19:25:00 -0500
-tags: [ Digital Wellbeing, Hardware ]
+tags: [ Digital Wellbeing, Productivity ]
 time: 01:27
 description: "I realized that if I want to stick to healthier habits, I should remove any barriers that prevent me from executing them. So I have divided certain tasks and activities between all of my devices, starting with..."
 toc: true

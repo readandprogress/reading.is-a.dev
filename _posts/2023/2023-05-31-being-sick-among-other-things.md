@@ -1,4 +1,4 @@
----
+#---
 title: "Being Sick Among Other Things"
 date: 2023-05-31 20:00:00 -0500
 tags: [ Thoughts ]

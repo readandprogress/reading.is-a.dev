@@ -2,7 +2,7 @@
 title: "A Fun and Easy Guide to Using Markdown on Discord!"
 date: 2023-08-15 20:00:00 -0500
 last_modified_at: 2025-03-24 23:51:00 -0500
-tags: [ Guides, Markdown, Discord ]
+tags: [ Markdown, Discord ]
 description: I frequent Discord quite often and I don't see many members using Markdown syntax to flair out their messages, which is a shame. So after some deliberation on my part and some fellow server members showing interest, I decided to write one! This guide 's goal is to hopefully be easier to understand and follow than the already existing Discord Markdown 101 support page. This is, however, my first time writing a guide, so please bear with me! But with that said, let's get to it!
 ---
 
@@ -203,9 +203,9 @@ Just add the greater-than character for a one-line block quote or three for a mu
 **ex:**
 
 ``` markdown
-> Great, for a short quote!
+> Great for a short quote!
 
->>> Have a long passage or quoting a wall of text? Yes, Then this is for you!
+>>> Have a long passage or quoting a wall of text? Then yep, Then this is for you!
 ```
 
 ## Wrapping up

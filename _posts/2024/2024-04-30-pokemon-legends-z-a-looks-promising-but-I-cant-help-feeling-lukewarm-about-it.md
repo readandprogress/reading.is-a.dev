@@ -1,4 +1,4 @@
----
+#---
 title: "Pokémon Legends: Z-A Looks Promising but I Can't Help Feeling Lukewarm About It"
 date: 2024-04-30 20:00:00 -0500
 last_modified_at: 2025-03-17 19:00:00 -0500

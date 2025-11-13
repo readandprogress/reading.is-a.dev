@@ -1,4 +1,4 @@
----
+#---
 title: "Pokémon Horizons: First Impressions"
 date: 2023-04-30 20:00:00 -0500
 last_modified_at: 2025-11-01 21:00:00 -0500

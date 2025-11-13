@@ -2,7 +2,7 @@
 title: "What I Learned From Org-Mode and Why I Returned to Markdown."
 date: 2025-02-28 18:00:00 -0500
 last_modified_at: 2025-03-25 19:31:00 -0500
-tags: [ Org-mode, Markdown, Productivity, Tools, Command-line ]
+tags: [ Org-mode, Markdown, Productivity, CLI]
 time: 1:37
 description: I've been tinkering with Org-Mode for a while now; my search for more productivity tools led me to it, and I instantly fell in love with how it handles task management!
 toc: false
