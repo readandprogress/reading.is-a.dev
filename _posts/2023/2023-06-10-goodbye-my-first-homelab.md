@@ -2,7 +2,7 @@
 title: "Saying Goodbye to my First Homelab..."
 date: 2023-06-10 18:00:00 -0500
 last_modified_at: 2025-03-25 18:29:00 -0500
-tags: [ Homelabbing, Jellyfin ]
+tags: [ Jellyfin, Samba ]
 description: I was going to post about my neat home lab, but unfortunately, it didn't work out. I was hosting a SMB file share and Jellyfin media server on a ten-year-old Samsung laptop. I had it lying around, and I thought it would be a good way to give new life to old hardware.
 ---
 I was going to post about my neat home lab, but unfortunately, it didn't work out. I was hosting a SMB file share and Jellyfin media server on a ten-year-old Samsung laptop. I had it lying around, and I thought it would be a good way to give new life to old hardware.

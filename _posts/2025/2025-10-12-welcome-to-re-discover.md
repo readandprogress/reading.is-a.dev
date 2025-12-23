@@ -2,7 +2,7 @@
 title: "Welcome to Re:Discover"
 date: 2025-10-12 18:00:00 -0500
 last_modified_at:
-tags: [ Developer Log, Web Development, Jekyll ]
+tags: [ Developer Log, Jekyll ]
 time: 1:15:17
 description: "As you can see, I've been revamping the site a *teeny* bit...
 Okay, maybe not teeny but at least I've havent switched themes again, but for a moment I did thought about it"

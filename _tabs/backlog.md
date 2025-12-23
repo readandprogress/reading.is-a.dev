@@ -8,7 +8,6 @@ enable_toc: true
 
 ## Anime
 
-- [ ] Mobile Fighter G Gundam
 - [X] Sabiki Bisco
 - [X] Selector Infected WIXOSS
 - [X] Selector Spread WIXOSS
@@ -59,6 +58,7 @@ enable_toc: true
    - [X] Season 1
    - [X] Season 2 
 - [X] Digimon Ghost Game
+- [ ] Digimon Beatbreak
 - [X] Little Witch Academia
 - [X] Komi Can't Communicate
 - [X] Lord El-Melloi II's Case Files: Rail Zeppelin Grace Note
@@ -95,6 +95,7 @@ enable_toc: true
 - [X] Mobile Suit Gundam Unicorn
 - [X] Mobile Suit Gundam 00
 - [X] Gundam Build Fighters
+- [X] Mobile Fighter G Gundam
 - [X] Buddy Daddies
 - [X] Persona 4: The Animation
 - [X] Gundam Build Divers

@@ -2,7 +2,7 @@
 title: "This is Just a Website"
 date: 2025-11-01 20:00:00 -0500
 last_modified_at:
-tags: [ Developer Log, Web Development, Jekyll, Thoughts ]
+tags: [ Developer Log, Jekyll ]
 description: "I've been mulling it over for the last couple of weeks, months even. About how I want to go about my site. I was very interested and looking forward to making it into something similar to a digital garden, but as I continue to develop it going forward. I'm starting to realize that I'm overcomplicating it with unnecessary additions that, in my opinion, don't really add much value."
 ---
 

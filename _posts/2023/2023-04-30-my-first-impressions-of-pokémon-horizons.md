@@ -1,8 +1,8 @@
-#---
+---
 title: "Pokémon Horizons: First Impressions"
 date: 2023-04-30 20:00:00 -0500
 last_modified_at: 2025-11-01 21:00:00 -0500
-tags: [ Pokémon, Thoughts ]
+tags: [ Pokémon ]
 description: The new Pokémon anime series has dropped in Japan! and I have some mostly positive thoughts about it. Bear in mind that this post contains spoilers for the first three episodes. give our take.  
 image: /assets/images/2023-04-30-my-first-impressions-of-pokemon-horizons/liko-and-roy-with-the-starters.jpg
 license: The images used in this post are owned by their respective copyright owners. All rights reserved.  

@@ -2,7 +2,7 @@
 title: "Taking Inkdown for a Spin!"
 date: 2025-04-10 18:00:00 -0500
 last_modified_at: 2025-09-18 17:53:00 -0500
-tags: [ Markdown, Productivity, Tools ]
+tags: [ Markdown ]
 time: 00:94
 description: I decided to go back to Markdown for all my notes. I use VS Code as my Markdown editor of choice for writing these posts and taking notes, but I recently learned about a new Markdown notetaking app that caught my interest, so I've decided to take it for a spin!
 toc: true # false | Only when you don't wan TOC.  

@@ -1,4 +1,4 @@
-#---  
+---  
 title: "Challenging Myself to Write More, Hopefully!"
 date: 2024-09-30 18:00:00 -0500
 tags: [ Productivity, Brainstorming ]
