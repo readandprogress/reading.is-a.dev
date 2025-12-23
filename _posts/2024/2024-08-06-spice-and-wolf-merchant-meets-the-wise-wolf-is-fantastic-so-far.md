@@ -1,7 +1,7 @@
 ---
 title: "Spice and Wolf: Merchant Meets the Wise Wolf is Fantastic so Far!"
 date: 2024-08-06 20:00:00 -0500
-tags: [ Reviews, Thoughts ]
+tags: [ Reviews ]
 description: I'm not much of a seasonal anime watcher, but this last season is an exception! With the return of the fantastic Spice and Wolf! And now that the first half has finished airing, I'd like to share my thoughts on it!
 image: /assets/images/2024-08-06-spice-and-wolf-merchant-meets-the-wise-wolf-is-fantastic-so-far!/the-great-holo-holding-a-potato.jpg
 license: The images used in this page are owned by their respective copyright owners. All rights reserved.  

@@ -1,7 +1,7 @@
 ---  
 title: "Writing Challenge: Final Review and Results"
 date: 2024-10-14 15:00:00 -0500
-tags: [ Productivity, Brainstorming ]
+tags: [ Brainstorming ]
 description: Whelp, a week has passed but unfortunately due to unforeseen events with the weather, writing was far from being the most important thing in my mind these last couple of days...
 ---
 
