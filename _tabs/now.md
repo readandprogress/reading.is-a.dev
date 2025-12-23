@@ -2,7 +2,7 @@
 layout: page
 icon: fa-solid fa-clock
 lastmod: 2025-12-23
-order: 6
+order: 5
 permalink: /now
 ---
 
@@ -19,7 +19,7 @@ Happy Holidays everyone!
 
 ## Currently Playing
 
-- [Fire Emblem Echoes: Shadows of Valentia]()
+- [Fire Emblem Echoes: Shadows of Valentia](https://www.igdb.com/games/fire-emblem-echoes-shadows-of-valentia)
 
 ## Currently Watching
 

@@ -1,6 +1,6 @@
 ---
 layout: tags
 icon: fas fa-tags
-order: 4
+order: 3
 permalink: /tags
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 icon: fa-solid fa-square-check
-order: 3
+order: 2
 permalink: /backlog
 enable_toc: true
 ---
