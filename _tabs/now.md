@@ -16,12 +16,15 @@ Happy Holidays everyone!
 
 - Writing a one-shot fanfic series; Their Journey
 - Writing a new about page
+- Looking into getting writing certs
 
 ## Currently Playing
 
+- [Pokémon LEGENDS: Z-A](https://www.igdb.com/games/pokemon-legends-z-a)
 - [Fire Emblem Echoes: Shadows of Valentia](https://www.igdb.com/games/fire-emblem-echoes-shadows-of-valentia)
 
 ## Currently Watching
 
 - [Digimon Beatbreak](https://www.themoviedb.org/tv/286791-digimon-beatbreak)
 - [To Your Eternity Season 3](https://www.themoviedb.org/tv/97525)
+- [GNOSIA](https://www.themoviedb.org/tv/278604)
