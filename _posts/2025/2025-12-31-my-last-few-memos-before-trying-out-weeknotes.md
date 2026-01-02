@@ -1,6 +1,6 @@
 ---
 title: "My Last Few Memos, Before Trying out Weeknotes!"
-date: 2025-12-31 11:45:00 -0500
+date: 2025-12-01 20:45:00 -0500
 last_modified_at:
 tags: [ Developer Log, Jekyll ]
 description: ""
