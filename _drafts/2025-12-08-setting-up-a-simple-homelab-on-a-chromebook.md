@@ -9,4 +9,3 @@ But after a few months tinkering with Alpine Linux, and Docker containers. I fin
 I've decided to wipe it clean and set-up good 'ol reliable Debian. Which just recently had a new release; Trixie.
 
 So far, I'm really engoying it. I miss OpenRC the most, but since I'm only hosting [Jellyfin]() for now is not much of a downgrade.
-
