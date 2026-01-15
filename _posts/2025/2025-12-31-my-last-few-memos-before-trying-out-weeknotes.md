@@ -3,7 +3,7 @@ title: "My Last Few Memos, Before Trying out Weeknotes!"
 date: 2025-12-01 20:45:00 -0500
 last_modified_at: 2026-01-15 17:14:00
 tags: [ Developer Log, Jekyll ]
-description: "Happy New Year Folks! I've been pretty busy, so I haven't had the time that I hoped I did to write these posts, my _drafts directory, just keeps on growing lol! But, I didn't want to not have anything out for this month, so here's a collection of my memos that I've publlished so far. Next week or so, I'll be trying out the weeknotes format, hoping it sticks!"
+description: "Happy New Year Folks! I've been pretty busy, so I haven't had the time that I hoped I did to write these posts, my _drafts directory just keeps on growing lol. But, I didn't want to not have anything out for this month, so here's a collection of my memos that I've publlished so far. Next week or so, I'll be trying out the weeknotes format, hoping it sticks!"
 ---
 
 > I finally finished revamping my site just in time for the start of spooky month! There's still a lot I want to work on but I feel relatively happy on how it is now. I usually like to publish a post per month but now that I have a `/memos` page, I don't feel the need to post as frequently but I am going to publishing a new short post tomorrow detailing the updates I made to the site, I also have a much bigger post plan for November as well, so keep your eyes open for that one!  
