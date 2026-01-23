@@ -1,6 +1,3 @@
----
-date: 2025-12-08
---- 
 
 I was going to write a post about my adventures with homelabing, on a old Chromebook that I've repurposed for it. What can I say? I really do enjoy repurposing old tech!
 
