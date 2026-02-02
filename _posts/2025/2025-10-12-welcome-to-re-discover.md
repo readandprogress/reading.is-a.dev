@@ -7,7 +7,7 @@ time: 1:15:17
 description: "As you can see, I've been revamping the site a *teeny* bit...
 Okay, maybe not teeny but at least I've havent switched themes again, but for a moment I did thought about it"
 toc: false
-pin: true
+pin: false
 ---
 
 As you can see, I've been revamping the site a *teeny* bit…

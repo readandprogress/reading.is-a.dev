@@ -1,30 +1,27 @@
 ---
 layout: page
 icon: fa-solid fa-clock
-lastmod: 2025-12-23
+lastmod: 2026-02-01
 order: 5
 permalink: /now
 ---
 
-I've been enjoying my holidays, and took some time to recharge. But now that I'm motivated again. I've been drafting out a storm of new posts, you may seem one around Christmas Day. ;) 
-
-Happy Holidays everyone! 
+Been trying to get back into writing as of late. I wasn't able to do any progress on my writing projects last year, and that really pains me so I will be focusing most my spare time on that, and I'm excited to share more of these projects when I can! 
 
 *Last modified on:* {{ page.lastmod | date: "%Y-%m-%d" }}
 
 ## Currently 
 
-- Writing a one-shot fanfic series; Their Journey
+- Writing a one-shot fanfic series: Their Journey
 - Writing a new about page
-- Looking into getting writing certs
+- Writing a new Uses page
+
 
 ## Currently Playing
 
-- [Pokémon LEGENDS: Z-A](https://www.igdb.com/games/pokemon-legends-z-a)
+- [Pokémon Legends: Z-A](https://www.igdb.com/games/pokemon-legends-z-a)
 - [Fire Emblem Echoes: Shadows of Valentia](https://www.igdb.com/games/fire-emblem-echoes-shadows-of-valentia)
 
 ## Currently Watching
 
 - [Digimon Beatbreak](https://www.themoviedb.org/tv/286791-digimon-beatbreak)
-- [To Your Eternity Season 3](https://www.themoviedb.org/tv/97525)
-- [GNOSIA](https://www.themoviedb.org/tv/278604)
