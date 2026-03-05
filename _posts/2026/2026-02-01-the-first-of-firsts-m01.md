@@ -2,7 +2,7 @@
 title: "The First of Firsts - M01"
 date: 2026-02-01 21:45:00 -0500
 last_modified_at: 
-tags: Monthnotes, Pokémon, Mobile Suit Gundam, Digimon, Fire Emblem, Developer Log
+tags: [ Monthnotes, Pokémon, Mobile Suit Gundam, Digimon, Fire Emblem, Developer Log ]
 description: "I'm back for my first installment of monthnotes! I was going to give weeknotes a try, but it doesn't really mesh well with my busy schedule right now. Not gonna lie these last couple of weeks have been pretty rough, but I think that makes this exercise even more worthwhile to me. Something really cathartic about writing these. Is nice a respite for the stresses of the world we live in."
 ---
 
@@ -16,7 +16,7 @@ Not gonna lie these last couple of weeks have been pretty rough, but I think tha
 
 As you may or not noticed, I removed [Tinylytics](https://tinylytics.app/) analytics from my site, including all of its nifty features such as kudos, hits and my favorite one: its webring! While I really enjoyed all its features and love the work that they do, I figured I might as well delete my account after they announced they're phasing out their free plan. It just isn't the cards for my small sapling of a site, and I like keeping this site as zero cost as possible, partly for my own wallet's sake, and mostly as a way to show others than maintaining a site doesn't have to cost anything other than your time, which isn't that much either once you get a little know-how on your belt. :)
 
-While I could move to another free analytics provider, I kinda like the idea of not having analytics for now. I never really paid much attention to it, and a lot of the hits could be just bots anyways. I think I'll just focus on more organic ways of user interaction. Like webrings, likes/kudos etc. Oh, and if anyone knows or hosts a techie webring that my site could be a good addition to, please let me know! Afterall us small/indie sites should stick together. 
+While I could move to another free analytics provider, I kinda like the idea of not having analytics for now. I never really paid much attention to it, and a lot of the hits could be just bots anyways. I think I'll just focus on more organic ways of user interaction. Like webrings, likes/kudos etc. Oh, and if anyone knows or hosts a techie webring that my site could be a good addition to, please let me know! Afterall us small/indie sites should stick together!
 
 ### Planned Rewrites
 

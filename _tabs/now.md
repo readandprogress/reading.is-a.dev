@@ -6,7 +6,7 @@ order: 5
 permalink: /now
 ---
 
-Been trying to get back into writing as of late. I wasn't able to do any progress on my writing projects last year, and that really pains me so I will be focusing most my spare time on that, and I'm excited to share more of these projects when I can! 
+Been trying to get back into writing as of late. I wasn't able to do any progress on my writing projects last year, and that really pains me. so I will be focusing most of my spare time on that, and I'm excited to share more of these projects when I can! 
 
 *Last modified on:* {{ page.lastmod | date: "%Y-%m-%d" }}
 

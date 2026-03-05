@@ -56,7 +56,7 @@ webmaster_verifications:
     # Web Analytics Settings
 analytics:
   tinylytics:
-    id: DK_YxVC6G4sW6wGE9F7_
+    id: 
   google:
     id: # fill in your Google Analytics ID
   goatcounter:

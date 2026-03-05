@@ -5,9 +5,10 @@ order: 2
 permalink: /backlog
 enable_toc: true
 ---
-
+-
 ## Anime
 
+- [ ] GNOSIA
 - [X] Sabiki Bisco
 - [X] Selector Infected WIXOSS
 - [X] Selector Spread WIXOSS
@@ -165,6 +166,7 @@ enable_toc: true
 - [X] Pokémon Crystal Version
 - [X] Pokémon Diamond Version
 - [X] Pokémon LEGENDS: Arceus
+- [X] Pokémon LEGENDS: Z-A
 - [X] Pokémon Omega Ruby
 - [X] Pokémon Puzzle Challenge
 - [X] Pokémon Red Version
