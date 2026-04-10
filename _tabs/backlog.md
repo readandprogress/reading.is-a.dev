@@ -5,7 +5,6 @@ order: 2
 permalink: /backlog
 enable_toc: true
 ---
--
 ## Anime
 
 - [ ] GNOSIA
